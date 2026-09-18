@@ -43,3 +43,6 @@ next-env.d.ts
 
 # registro de la ingesta RSS semanal
 data/rss/ingest.log
+
+.vercel
+.env*
