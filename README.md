@@ -77,6 +77,18 @@ Cómo encaja:
   que Neon mantiene sola, no de datos que mande el navegador. Prueba local sin enviar nada:
   `curl -H "Authorization: Bearer $CRON_SECRET" "http://localhost:3000/api/recordatorios?dry=1"`
 
+## Producción
+
+- Sitio: https://apliko-omega.vercel.app (Vercel, proyecto `apliko`).
+- Código: repositorio privado `yefry08/apliko`. Cada push a `main` despliega solo.
+- Variables de entorno: cargadas en Vercel (Production). Las secretas están marcadas como sensibles.
+- Neon Auth: el dominio de producción está en la lista de dominios de confianza. Si cambias de dominio,
+  agrégalo en Neon > Auth o el acceso con Google/GitHub fallará al volver.
+- Recordatorios: el cron de `vercel.json` llama a `/api/recordatorios` cada día a las 8:00 a. m. de RD.
+- Becas nuevas: la tarea programada de Windows "Apliko - becas RSS" corre `scripts/rss-semanal.cmd`
+  los lunes a las 8:00 a. m. Si el catálogo cambia, hace commit de esos dos archivos y push, y Vercel
+  publica. Para desactivar el push automático, borra ese bloque del `.cmd`.
+
 ## Pendiente antes de producción
 
 - Reemplazar el video del hero por uno propio con licencia (hoy apunta a un archivo de CloudFront de terceros).
