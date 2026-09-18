@@ -40,8 +40,8 @@ export function SiteFooter() {
             las fechas pueden estar en la hora del país organizador.
           </p>
           <p>
-            Datos iniciales: <a className="underline hover:text-foreground" href="https://invivolab.org/oportunidades">Oportunidadesinvivo</a>{" "}
-            de Nicole Caballero-Canchanya (@nicoinsilico) y un listado de programas internacionales actualizado en mayo de 2026.
+            Datos: un listado de programas internacionales actualizado en mayo de 2026 y convocatorias nuevas de feeds públicos
+            revisadas cada semana.
           </p>
         </div>
         <p className="font-mono text-xs md:text-right">Hecho para estudiantes dominicanos y latinos</p>

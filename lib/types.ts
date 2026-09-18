@@ -42,7 +42,7 @@ export interface Opportunity {
   slug: string;
   name: string;
   sponsor?: string;
-  source: "invivo" | "internacional" | "rss";
+  source: "internacional" | "rss";
   /** Feed the item came from, when source === "rss". */
   sourceName?: string;
   types: string[];

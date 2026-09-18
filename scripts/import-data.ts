@@ -2,7 +2,6 @@
  * Normaliza las fuentes de data/raw en data/opportunities.json.
  *   npm run data:import
  */
-import ExcelJS from "exceljs";
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import type { CitizenshipRule, Deadline, Funding, Level, Opportunity } from "../lib/types";
@@ -76,6 +75,34 @@ const COUNTRY_ES: Record<string, string> = {
   Caribbean: "Latinoamérica y el Caribe",
   "Pacific Islands": "Pacífico",
 };
+const TYPE_ES: Record<string, string> = {
+  "Academic Exchange": "Intercambio académico", "Career Development Program": "Desarrollo profesional",
+  "Competition / Prize": "Premio", "Cultural Exchange": "Intercambio cultural", "Degree Program": "Programa de grado",
+  "Gap Year / Service Program": "Año de servicio", "Graduate Scholarship": "Beca de posgrado", Internship: "Internship",
+  "Language Immersion": "Inmersión en idiomas", "Leadership Fellowship": "Fellowship de liderazgo",
+  "Leadership Program": "Programa de liderazgo", "Mentorship Program": "Mentoría", Other: "Otro",
+  "Policy Fellowship": "Fellowship en políticas", "Professional Fellowship": "Fellowship profesional",
+  "Project Grant": "Fondos para proyectos", "Research Fellowship": "Fellowship de investigación",
+  "Research Grant": "Fondos de investigación", "Study Abroad": "Estudios en el extranjero",
+  "Summer Institute": "Instituto de verano", "Summer Program": "Programa de verano", "Teaching Program": "Enseñanza",
+  "Travel Grant": "Beca de viaje", "Undergraduate Scholarship": "Beca de pregrado", "Virtual Program": "Programa virtual",
+  "Volunteer Service": "Voluntariado", "Youth Exchange": "Intercambio juvenil",
+};
+
+const AREA_ES: Record<string, string> = {
+  "AI / Data Science": "IA y ciencia de datos", "Area Studies": "Estudios regionales", "Arts / Culture": "Artes y cultura",
+  Business: "Negocios", "Climate / Environment": "Clima y medio ambiente", "Critical Languages": "Idiomas críticos",
+  Development: "Desarrollo", Economics: "Economía", Education: "Educación", Entrepreneurship: "Emprendimiento",
+  "Human Rights": "Derechos humanos", "International Relations": "Relaciones internacionales",
+  "Journalism / Media": "Periodismo y medios", "Law / Policy": "Derecho y políticas", Leadership: "Liderazgo",
+  Other: "Otras", "Peace / Conflict": "Paz y conflicto", "Public Diplomacy": "Diplomacia pública",
+  "Public Health": "Salud pública", "Public Policy": "Políticas públicas", "Regional Studies": "Estudios regionales",
+  STEM: "STEM", "Security / National Security": "Seguridad", "Social Impact": "Impacto social",
+  Sustainability: "Sostenibilidad", Technology: "Tecnología",
+};
+
+const translate = (map: Record<string, string>, values: string[]) => [...new Set(values.map((v) => map[v] ?? v))];
+
 const GENERIC_DEST = new Set(["Multiple Locations", "Host Country Varies", "Varies by Program", "Country-Specific"]);
 
 /* ---------------- International list (PSV) ---------------- */
@@ -142,8 +169,8 @@ function readInternational(): Opportunity[] {
         name: r.name,
         sponsor: r.sponsor || undefined,
         source: "internacional",
-        types: split(r.programType),
-        areas: split(r.subjects),
+        types: translate(TYPE_ES, split(r.programType)),
+        areas: translate(AREA_ES, split(r.subjects)),
         levels: levelsFromEn(r.levels),
         destinations: destinations.length ? destinations : ["Varios países"],
         funding: /fee/i.test(r.notes) && /\$\d/.test(r.notes) ? "con-costo" : fundingFromEn(r.funding),
@@ -165,87 +192,7 @@ function readInternational(): Opportunity[] {
     });
 }
 
-/* ---------------- Oportunidadesinvivo (XLSX) ---------------- */
-
-const excelDate = (serial: number) =>
-  new Date(Date.UTC(1899, 11, 30) + serial * 86400000).toISOString().slice(0, 10);
-
-function cellText(v: ExcelJS.CellValue): string {
-  if (v == null) return "";
-  if (v instanceof Date) return v.toISOString().slice(0, 10);
-  if (typeof v === "object") {
-    if ("text" in v && v.text != null) return String(v.text);
-    if ("richText" in v) return v.richText.map((t) => t.text).join("");
-    if ("hyperlink" in v) return String(v.hyperlink);
-    if ("result" in v) return String(v.result ?? "");
-  }
-  return String(v).trim();
-}
-
-function levelsFromEs(s: string): Level[] {
-  const t = s.toLowerCase();
-  const out = new Set<Level>();
-  if (/secundaria|colegio|escolar|bachiller/.test(t)) out.add("secundaria");
-  if (/pregrado|pregado|licenciatura|universitari|grado\b|bachelor/.test(t)) out.add("pregrado");
-  if (/maestr|master|posgrado|postgrado/.test(t)) out.add("maestria");
-  if (/doctor|phd|posgrado|postgrado|postdoc/.test(t)) out.add("doctorado");
-  if (/egresad|recien|recién|graduad/.test(t)) out.add("recien-graduado");
-  if (/profesional|investigador|jóvenes|jovenes|todos/.test(t)) out.add("profesional");
-  if (/docente|profesor/.test(t)) out.add("docente");
-  return [...out];
-}
-
-function deadlineFromEs(v: ExcelJS.CellValue): Deadline {
-  if (typeof v === "number") return { kind: "exacta", date: excelDate(v) };
-  if (v instanceof Date) return { kind: "exacta", date: v.toISOString().slice(0, 10) };
-  const t = cellText(v);
-  if (!t) return { kind: "por-confirmar" };
-  if (/rolling|continu|abierta|sin deadline/i.test(t)) return { kind: "continua", label: t };
-  return { kind: "por-confirmar", label: t };
-}
-
-async function readInvivo(): Promise<Opportunity[]> {
-  const wb = new ExcelJS.Workbook();
-  await wb.xlsx.readFile(path.join(RAW, "invivo.xlsx"));
-  const ws = wb.getWorksheet("Becas")!;
-  const out: Opportunity[] = [];
-  ws.eachRow((row, n) => {
-    if (n <= 2) return; // "Nos mudamos" banner + header
-    const c = (i: number) => row.getCell(i).value;
-    const name = cellText(c(4));
-    if (!name) return;
-    const note = cellText(c(10));
-    const audience = cellText(c(9));
-    const text = `${note} ${audience}`;
-    if (name === "Nombre") return; // repeated header row
-    const destinations = cellText(c(7))
-      .split(/[\/,]/)
-      .map((d) => d.trim())
-      .filter((d) => d && d !== "País")
-      .map((d) => COUNTRY_ES[d] ?? d);
-    out.push({
-      id: `inv-${slugify(name)}`,
-      slug: slugify(name),
-      name,
-      source: "invivo",
-      types: split(cellText(c(1))),
-      areas: split(cellText(c(2))),
-      levels: levelsFromEs(audience),
-      destinations: destinations.length ? destinations : ["Varios países"],
-      funding: /cost|pago|tarifa|fee/i.test(note) ? "con-costo" : "varia",
-      citizenship: /latam|latino|am[eé]rica latina|iberoam/i.test(text) ? "latam" : note ? "ver-notas" : "global",
-      audience: audience || undefined,
-      deadline: deadlineFromEs(c(6)),
-      notes: note || undefined,
-      applyUrl: cellText(c(8)) || undefined,
-      url: cellText(c(8)) || undefined,
-      updatedAt: "2026-07-29",
-    });
-  });
-  return out;
-}
-
-async function main() {
+function main() {
   // De los feeds RSS (scripts/ingest_rss.py) solo entran las candidatas aprobadas.
   const rssFile = path.join(process.cwd(), "data", "rss", "candidates.json");
   const approved = existsSync(rssFile)
@@ -253,7 +200,7 @@ async function main() {
         .filter((c) => c.estado === "aprobada")
         .map((c) => c.oportunidad)
     : [];
-  const all = [...readInternational(), ...(await readInvivo()), ...approved];
+  const all = [...readInternational(), ...approved];
   const seen = new Set<string>();
   const unique = all.filter((o) => {
     let slug = o.slug;

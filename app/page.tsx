@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { PrismaHero } from "@/components/ui/prisma-hero";
 import { DeadlineMarquee } from "@/components/deadline-marquee";
+import { HeroScene } from "@/components/three/hero-scene";
 import { LazyFloating, LazyGlobe } from "@/components/three/lazy-scenes";
 import { SiteFooter } from "@/components/site-chrome";
 import { COORDS } from "@/lib/geo";
@@ -38,7 +39,7 @@ export default function Home() {
 
   return (
     <>
-      <PrismaHero />
+      <PrismaHero background={<HeroScene />} />
 
       <main className="flex flex-col">
         {/* Figures */}

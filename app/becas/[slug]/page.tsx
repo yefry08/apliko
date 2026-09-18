@@ -119,9 +119,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
             {(o.audience || o.notes) && (
               <section className="flex flex-col gap-4">
                 <h2 className="font-display text-2xl font-medium">Requisitos y notas</h2>
-                {o.source !== "invivo" && (
-                  <p className="eyebrow">Texto original de la fuente, en inglés</p>
-                )}
+                <p className="eyebrow">Texto original de la fuente, en inglés</p>
                 {o.audience && (
                   <div className="flex flex-col gap-1">
                     <h3 className="eyebrow">Dirigido a</h3>
@@ -175,7 +173,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
             </dl>
             <p className="text-xs text-muted-foreground">
               Fuente:{" "}
-              {o.source === "invivo" ? "Oportunidadesinvivo" : o.source === "rss" ? (o.sourceName ?? "feed RSS") : "listado de programas internacionales"}
+              {o.source === "rss" ? (o.sourceName ?? "feed RSS") : "listado de programas internacionales"}
               , actualizado el{" "}
               {dateFmt.format(new Date(o.updatedAt))}. Confirma en el sitio oficial.
             </p>

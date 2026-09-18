@@ -96,9 +96,8 @@ export interface PrismaHeroProps {
   description?: string;
   cta?: NavItem;
   navItems?: NavItem[];
-  /** Background video. Use a self-hosted, licensed file in production. */
-  videoSrc?: string;
-  posterSrc?: string;
+  /** Full-bleed background layer, e.g. a 3D scene. */
+  background?: React.ReactNode;
   /** Rendered under the headline column on large screens, e.g. a live stat. */
   aside?: React.ReactNode;
 }
@@ -114,8 +113,7 @@ const PrismaHero = ({
   description = "Becas, fellowships e internships verificados para estudiantes dominicanos y latinos. Filtra por tu ciudadanía y descubre a cuáles sí puedes postular.",
   cta = { label: "Encuentra tu beca", href: "/becas" },
   navItems = DEFAULT_NAV,
-  videoSrc = "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_170732_8a9ccda6-5cff-4628-b164-059c500a2b41.mp4",
-  posterSrc,
+  background,
   aside,
 }: PrismaHeroProps) => {
   const reduce = useReducedMotion();
@@ -131,17 +129,7 @@ const PrismaHero = ({
   return (
     <section className="h-[100svh] min-h-[560px] w-full p-2 md:p-3">
       <div className="relative h-full w-full overflow-hidden rounded-2xl bg-card md:rounded-[2rem]">
-        {/* Background video */}
-        <video
-          autoPlay={!reduce}
-          loop
-          muted
-          playsInline
-          aria-hidden="true"
-          poster={posterSrc}
-          className="absolute inset-0 h-full w-full object-cover"
-          src={videoSrc}
-        />
+        {background}
 
         {/* Noise overlay */}
         <div className="noise-overlay pointer-events-none absolute inset-0 opacity-[0.7] mix-blend-overlay" />

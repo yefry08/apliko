@@ -20,8 +20,8 @@ export default function MisBecasPage() {
           <p className="eyebrow">Seguimiento</p>
           <h1 className="font-display text-5xl font-medium tracking-tight md:text-6xl">Mis becas</h1>
           <p className="text-muted-foreground">
-            Mueve cada beca según avanzas y anota lo que te falta. Si entras con tu email, te avisamos 7 días y 1 día antes de
-            que cierren las que aún no envías.
+            Mueve cada beca según avanzas y anota lo que te falta. Añade las fechas a tu calendario para que te avise antes
+            de que cierren.
           </p>
           <SyncNote />
         </div>
