@@ -3,7 +3,7 @@
 import type { Application } from "@splinetool/runtime";
 import { useReducedMotion } from "framer-motion";
 import dynamic from "next/dynamic";
-import { useEffect, useRef, useState, useSyncExternalStore } from "react";
+import { useEffect, useState, useSyncExternalStore } from "react";
 import { cn } from "@/lib/utils";
 
 /** Spline scene (Export > Code > React). NEXT_PUBLIC_SPLINE_SCENE overrides it; set it empty to use only the site's scene. */
@@ -46,19 +46,9 @@ export function HeroScene() {
   const [app, setApp] = useState<Application | null>(null);
   const loaded = app !== null;
   const spline = desktop && !!SPLINE_SCENE;
-  const box = useRef<HTMLDivElement>(null);
-
-  // The scene ships with a fixed canvas size and its own light background: fit it to the hero
-  // and let the site's night-blue show through.
+  // The scene ships with its own light background; let the site's night-blue show through.
   useEffect(() => {
-    const el = box.current;
-    if (!app || !el) return;
-    app.setBackgroundColor("transparent");
-    const fit = () => app.setSize(el.clientWidth, el.clientHeight);
-    fit();
-    const ro = new ResizeObserver(fit);
-    ro.observe(el);
-    return () => ro.disconnect();
+    app?.setBackgroundColor("transparent");
   }, [app]);
 
   return (
@@ -75,7 +65,15 @@ export function HeroScene() {
         </div>
       )}
       {spline && (
-        <div ref={box} className={cn("absolute inset-0 transition-opacity duration-1000", loaded ? "opacity-100" : "opacity-0")}>
+        // The scene has a fixed-size frame, so it sits centered in the right-hand column (as in
+        // the original embed) instead of stretching across the headline.
+        <div
+          className={cn(
+            "absolute inset-y-0 left-[42%] right-0 transition-opacity duration-1000",
+            "[&_canvas]:absolute [&_canvas]:left-1/2 [&_canvas]:top-1/2 [&_canvas]:-translate-x-1/2 [&_canvas]:-translate-y-1/2",
+            loaded ? "opacity-100" : "opacity-0",
+          )}
+        >
           <Spline scene={SPLINE_SCENE} renderOnDemand={!!reduce} onLoad={setApp} />
         </div>
       )}
