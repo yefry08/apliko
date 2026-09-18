@@ -70,7 +70,7 @@ export function HeroScene() {
         <div
           className={cn(
             "absolute inset-y-0 left-[42%] right-0 transition-opacity duration-1000",
-            "[&_canvas]:absolute [&_canvas]:left-1/2 [&_canvas]:top-1/2 [&_canvas]:-translate-x-1/2 [&_canvas]:-translate-y-1/2",
+            "[&_canvas]:absolute [&_canvas]:left-1/2 [&_canvas]:top-[38%] [&_canvas]:-translate-x-1/2 [&_canvas]:-translate-y-1/2",
             loaded ? "opacity-100" : "opacity-0",
           )}
         >
