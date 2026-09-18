@@ -107,8 +107,10 @@ export function OpportunityCard({ o, profile }: { o: Opportunity; profile?: Prof
             <dd className="line-clamp-1">{o.destinations.join(", ")}</dd>
           </div>
           <div>
-            <dt className="eyebrow">Fondos</dt>
-            <dd>{FUNDING_LABEL[o.funding]}</dd>
+            <dt className="eyebrow">{o.amount ? "Monto" : "Fondos"}</dt>
+            <dd className="line-clamp-1" title={o.amount}>
+              {o.amount ?? FUNDING_LABEL[o.funding]}
+            </dd>
           </div>
           <div>
             <dt className="eyebrow">Tipo</dt>

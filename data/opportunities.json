@@ -6002,6 +6002,2928 @@
   "updatedAt": "2026-05-28"
  },
  {
+  "id": "fin-wellcome-prize-for-mental-health-science",
+  "slug": "wellcome-prize-for-mental-health-science",
+  "name": "Wellcome Prize for Mental Health Science",
+  "sponsor": "Wellcome",
+  "source": "financiamiento",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Salud mental",
+   "Ciencia"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 250,000 a 1,000,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-18"
+  },
+  "url": "https://go.nature.com/wellcomeprizementalhealth",
+  "applyUrl": "https://go.nature.com/wellcomeprizementalhealth",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-vii-international-zendal-awards",
+  "slug": "vii-international-zendal-awards",
+  "name": "VII International Zendal Awards",
+  "sponsor": "Zendal",
+  "source": "financiamiento",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Salud humana y animal",
+   "Biotecnología",
+   "Vacunas",
+   "One Health",
+   "Innovación científica"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Salud humana: EUR 40,000. Salud animal: EUR 25,000 (donación a la institución ganadora)",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-20"
+  },
+  "url": "https://www.zendal.com/premios-zendal",
+  "applyUrl": "https://www.zendal.com/premios-zendal",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-wellcome-discovery-awards",
+  "slug": "wellcome-discovery-awards",
+  "name": "Wellcome Discovery Awards",
+  "sponsor": "Wellcome Trust",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Salud",
+   "Investigación"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Promedio de GBP 3.5 millones",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (incluye LATAM)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-22"
+  },
+  "url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards",
+  "applyUrl": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-software-defined-vehicle-coordination-initiative",
+  "slug": "software-defined-vehicle-coordination-initiative",
+  "name": "Software-Defined Vehicle Coordination Initiative",
+  "sponsor": "European Commission (Chips JU)",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria"
+  ],
+  "areas": [
+   "Vehículos definidos por software",
+   "Movilidad autónoma",
+   "Inteligencia artificial",
+   "Semiconductores",
+   "Open source"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "EUR 1,000,000 a 2,000,000; presupuesto total EUR 2,000,000",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "LATAM con restricciones bajo condiciones Horizon Europe / Chips JU",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-22"
+  },
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-chips-2026-sdv-csa",
+  "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-chips-2026-sdv-csa",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-2027-tech-policy-press-fellowship-program",
+  "slug": "2027-tech-policy-press-fellowship-program",
+  "name": "2027 Tech Policy Press Fellowship Program",
+  "sponsor": "Tech Policy Press",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Tecnología",
+   "Democracia",
+   "Periodismo",
+   "Políticas públicas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "estipendio",
+  "amount": "USD 10,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-24"
+  },
+  "url": "https://www.techpolicy.press/call-for-applications-2027-tech-policy-press-fellowship-program/",
+  "applyUrl": "https://www.techpolicy.press/call-for-applications-2027-tech-policy-press-fellowship-program/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-cullman-center-fellowship-program",
+  "slug": "cullman-center-fellowship-program",
+  "name": "Cullman Center Fellowship Program",
+  "sponsor": "New York Public Library",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Investigación",
+   "Literatura",
+   "Periodismo",
+   "Humanidades"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "amount": "USD 90,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-25"
+  },
+  "url": "https://www.nypl.org/about/fellowships-institutes/cullman-center-scholars-writers/fellowships",
+  "applyUrl": "https://www.nypl.org/about/fellowships-institutes/cullman-center-scholars-writers/fellowships",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-house-of-ai-startup-challenge",
+  "slug": "house-of-ai-startup-challenge",
+  "name": "House of AI Startup Challenge",
+  "sponsor": "VivaTech",
+  "source": "financiamiento",
+  "types": [
+   "Reto para startups"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Startups",
+   "Innovación corporativa",
+   "Finanzas",
+   "Seguros"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "varia",
+  "amount": "Sin monto; 6 meses de membresía gratuita en House of AI, París La Défense",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-28"
+  },
+  "url": "https://challenges-awards.vivatech.com/challenges/groupama-immobilier-2026",
+  "applyUrl": "https://challenges-awards.vivatech.com/challenges/groupama-immobilier-2026",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-child-friendly-spaces-and-gender-based-violence-prevention",
+  "slug": "child-friendly-spaces-and-gender-based-violence-prevention",
+  "name": "Child-Friendly Spaces and Gender-Based Violence Prevention",
+  "sponsor": "UNICEF",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria para organizaciones"
+  ],
+  "areas": [
+   "Protección infantil",
+   "Violencia de género",
+   "Ayuda humanitaria",
+   "Salud mental"
+  ],
+  "levels": [],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "USD 150,000",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "República Dominicana",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-28"
+  },
+  "url": "https://www.unpartnerportal.org/",
+  "applyUrl": "https://www.unpartnerportal.org/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-billion-acts-fellowship-for-young-peacebuilders",
+  "slug": "billion-acts-fellowship-for-young-peacebuilders",
+  "name": "Billion Acts Fellowship for Young Peacebuilders",
+  "sponsor": "PeaceJam Foundation / Billion Acts",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Construcción de paz",
+   "Justicia social",
+   "Juventud",
+   "Liderazgo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 5,000 para el proyecto + mentoría",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-28"
+  },
+  "url": "https://www.billionacts.org/fellowship",
+  "applyUrl": "https://www.billionacts.org/fellowship",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-sense-foundation-brussels-grants-for-health-and-sustainability",
+  "slug": "sense-foundation-brussels-grants-for-health-and-sustainability",
+  "name": "SENSE Foundation Brussels Grants for Health and Sustainability",
+  "sponsor": "SENSE Foundation Brussels",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Salud",
+   "Sostenibilidad",
+   "Educación"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 25,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://www.sensefoundationbrussels.org/submit-your-project",
+  "applyUrl": "https://www.sensefoundationbrussels.org/submit-your-project",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-tefaf-museum-restoration-fund",
+  "slug": "tefaf-museum-restoration-fund",
+  "name": "TEFAF Museum Restoration Fund",
+  "sponsor": "The European Fine Art Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para instituciones"
+  ],
+  "areas": [
+   "Museos",
+   "Restauración de arte",
+   "Conservación patrimonial",
+   "Patrimonio cultural"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 50,000 anuales; usualmente EUR 25,000 por proyecto",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.tefaf.com/foundation/museum-restoration-fund",
+  "applyUrl": "https://www.tefaf.com/foundation/museum-restoration-fund",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-young-inventors-prize-2027",
+  "slug": "young-inventors-prize-2027",
+  "name": "Young Inventors Prize 2027",
+  "sponsor": "European Patent Office",
+  "source": "financiamiento",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Innovación",
+   "Tecnología",
+   "Sostenibilidad",
+   "Cambio climático",
+   "ODS"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "EUR 5,000 por finalista; EUR 15,000 adicionales para las tres categorías especiales",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://www.epo.org/en/news-events/young-inventors-prize",
+  "applyUrl": "https://www.epo.org/en/news-events/young-inventors-prize",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-ecf-fellowship-programme-historical-archives-of-the-european-cultural-foundation",
+  "slug": "ecf-fellowship-programme-historical-archives-of-the-european-cultural-foundation",
+  "name": "ECF Fellowship Programme: Historical Archives of the European Cultural Foundation",
+  "sponsor": "European Cultural Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Cultura",
+   "Investigación histórica",
+   "Archivos",
+   "Humanidades",
+   "Artes"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "varia",
+  "amount": "Académica: EUR 5,000. Artística: EUR 10,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://culturalfoundation.eu/open-calls/new-fellowship-programme-to-research-the-ecf-historical-archives/",
+  "applyUrl": "https://culturalfoundation.eu/open-calls/new-fellowship-programme-to-research-the-ecf-historical-archives/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-2026-surveycto-primary-data-collection-research-grant",
+  "slug": "2026-surveycto-primary-data-collection-research-grant",
+  "name": "2026 SurveyCTO Primary Data Collection Research Grant",
+  "sponsor": "SurveyCTO / Dobility",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Investigación",
+   "Recolección de datos",
+   "Trabajo de campo",
+   "Desarrollo social"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 3,000 + un año de SurveyCTO y soporte técnico",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://www.surveycto.com/data-collection-research-grant/",
+  "applyUrl": "https://www.surveycto.com/data-collection-research-grant/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-global-prize-for-innovation-in-water-gpiw-2026",
+  "slug": "global-prize-for-innovation-in-water-gpiw-2026",
+  "name": "Global Prize for Innovation in Water (GPIW) 2026",
+  "sponsor": "Saudi Water Authority",
+  "source": "financiamiento",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Agua",
+   "Innovación",
+   "Desalinización",
+   "Economía circular"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 50,000 a 100,000 por ganador; USD 800,000 en total",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://www.innocentive.com/challenges/global-prize-for-innovation-in-water-gpiw-2026/",
+  "applyUrl": "https://www.innocentive.com/challenges/global-prize-for-innovation-in-water-gpiw-2026/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-aauw-international-project-grants",
+  "slug": "aauw-international-project-grants",
+  "name": "AAUW International Project Grants",
+  "sponsor": "American Association of University Women (AAUW)",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Igualdad de género",
+   "Mujeres y niñas",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 10,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Global (solo exbecarias de AAUW International Fellowships)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://www.aauw.org/resources/programs/funding-opportunities/international-project-grants/",
+  "applyUrl": "https://www.aauw.org/resources/programs/funding-opportunities/international-project-grants/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-inqua-fellowship-program-for-international-mobility-2026",
+  "slug": "inqua-fellowship-program-for-international-mobility-2026",
+  "name": "INQUA Fellowship Program for International Mobility 2026",
+  "sponsor": "International Union for Quaternary Research (INQUA)",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Ciencias de la Tierra",
+   "Geología",
+   "Paleoclima",
+   "Arqueología",
+   "Movilidad científica"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 15,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://inqua.org/projects-fellowships/fellowships",
+  "applyUrl": "https://inqua.org/projects-fellowships/fellowships",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-daad-doctoral-programmes-in-germany-2027-2028",
+  "slug": "daad-doctoral-programmes-in-germany-2027-2028",
+  "name": "DAAD Doctoral Programmes in Germany 2027–2028",
+  "sponsor": "DAAD / German Federal Foreign Office",
+  "source": "financiamiento",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Educación",
+   "Doctorado",
+   "Investigación",
+   "Movilidad académica"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "completa",
+  "amount": "EUR 1,400 mensuales + EUR 460 anuales para investigación + seguro y viaje",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (la fecha varía por país)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135739",
+  "applyUrl": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135739",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-29th-cfps-thriving-farmers-resilient-ecosystems-and-empowered-communities",
+  "slug": "29th-cfps-thriving-farmers-resilient-ecosystems-and-empowered-communities",
+  "name": "29th CFPs: Thriving Farmers, Resilient Ecosystems and Empowered Communities",
+  "sponsor": "Common Fund for Commodities",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria para organizaciones"
+  ],
+  "areas": [
+   "Agricultura",
+   "Clima",
+   "Desarrollo rural"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 2 millones",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Países miembros del CFC, incluidos de LATAM",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.common-fund.org/call-for-proposals",
+  "applyUrl": "https://www.common-fund.org/call-for-proposals",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-canada-gairdner-international-award",
+  "slug": "canada-gairdner-international-award",
+  "name": "Canada Gairdner International Award",
+  "sponsor": "The Gairdner Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Salud",
+   "Biomedicina",
+   "Investigación científica"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "CAD 250,000 por ganador",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.gairdner.org/award/canada-gairdner-international-award",
+  "applyUrl": "https://www.gairdner.org/award/canada-gairdner-international-award",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-john-dirks-canada-gairdner-global-health-award",
+  "slug": "john-dirks-canada-gairdner-global-health-award",
+  "name": "John Dirks Canada Gairdner Global Health Award",
+  "sponsor": "The Gairdner Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Salud global",
+   "Investigación médica",
+   "Equidad en salud"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "CAD 100,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.gairdner.org/award/john-dirks-canada-gairdner-global-health-award",
+  "applyUrl": "https://www.gairdner.org/award/john-dirks-canada-gairdner-global-health-award",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-eldp-major-documentation-project-grants",
+  "slug": "eldp-major-documentation-project-grants",
+  "name": "ELDP Major Documentation Project Grants",
+  "sponsor": "Endangered Languages Documentation Programme",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Lenguas en peligro",
+   "Documentación lingüística",
+   "Patrimonio cultural",
+   "Comunidades indígenas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "De más de EUR 10,000 hasta EUR 300,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.eldp.net/en/our+grants/",
+  "applyUrl": "https://www.eldp.net/en/our+grants/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-eldp-legacy-materials-grant",
+  "slug": "eldp-legacy-materials-grant",
+  "name": "ELDP Legacy Materials Grant",
+  "sponsor": "Endangered Languages Documentation Programme",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Lenguas en peligro",
+   "Archivo lingüístico",
+   "Digitalización",
+   "Comunidades indígenas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 10,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.eldp.net/en/our+grants/",
+  "applyUrl": "https://www.eldp.net/en/our+grants/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-eldp-individual-postdoctoral-fellowship-programme",
+  "slug": "eldp-individual-postdoctoral-fellowship-programme",
+  "name": "ELDP Individual Postdoctoral Fellowship Programme",
+  "sponsor": "Endangered Languages Documentation Programme",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Lenguas en peligro",
+   "Lingüística",
+   "Investigación posdoctoral"
+  ],
+  "levels": [
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 250,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.eldp.net/en/our+grants/",
+  "applyUrl": "https://www.eldp.net/en/our+grants/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-eldp-rapid-grants-for-initial-language-documentation-fieldwork",
+  "slug": "eldp-rapid-grants-for-initial-language-documentation-fieldwork",
+  "name": "ELDP Rapid Grants for Initial Language Documentation Fieldwork",
+  "sponsor": "Endangered Languages Documentation Programme",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Lenguas en peligro",
+   "Trabajo de campo",
+   "Comunidades indígenas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 5,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.eldp.net/en/our+grants/",
+  "applyUrl": "https://www.eldp.net/en/our+grants/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-eldp-small-grant-program",
+  "slug": "eldp-small-grant-program",
+  "name": "ELDP Small Grant Program",
+  "sponsor": "Endangered Languages Documentation Programme",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Lenguas en peligro",
+   "Documentación lingüística",
+   "Trabajo de campo"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 10,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.eldp.net/en/our+grants/",
+  "applyUrl": "https://www.eldp.net/en/our+grants/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-camargo-fellowship-for-artists-scholars-and-thinkers",
+  "slug": "camargo-fellowship-for-artists-scholars-and-thinkers",
+  "name": "Camargo Fellowship for Artists, Scholars, and Thinkers",
+  "sponsor": "Camargo Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Residencia"
+  ],
+  "areas": [
+   "Artes",
+   "Humanidades",
+   "Residencias artísticas",
+   "Investigación",
+   "Estudios franceses y mediterráneos"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "estipendio",
+  "amount": "EUR 3,500 (EUR 350 por semana, 10 semanas) + alojamiento y transporte básico",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
+  "applyUrl": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-51-pegasi-b-fellowship-program",
+  "slug": "51-pegasi-b-fellowship-program",
+  "name": "51 Pegasi b Fellowship Program",
+  "sponsor": "Heising-Simons Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship posdoctoral"
+  ],
+  "areas": [
+   "Astronomía planetaria",
+   "Astrofísica",
+   "Exoplanetas",
+   "Ciencias planetarias"
+  ],
+  "levels": [
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Hasta USD 492,000 en tres años",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.hsfoundation.org/programs/science/51-pegasi-b-fellowship/",
+  "applyUrl": "https://www.hsfoundation.org/programs/science/51-pegasi-b-fellowship/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-kellogg-institute-postdoctoral-visiting-fellowships-2027-2028",
+  "slug": "kellogg-institute-postdoctoral-visiting-fellowships-2027-2028",
+  "name": "Kellogg Institute Postdoctoral Visiting Fellowships 2027–2028",
+  "sponsor": "Kellogg Institute for International Studies, University of Notre Dame",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship posdoctoral"
+  ],
+  "areas": [
+   "Democracia",
+   "Ciencias sociales",
+   "Ciencia política",
+   "Estudios internacionales"
+  ],
+  "levels": [
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "USD 75,000 anuales + reubicación, investigación y seguro médico",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://kellogg.nd.edu/opportunities/visiting-researchers/about-our-postdoctoral-visiting-fellowships",
+  "applyUrl": "https://kellogg.nd.edu/opportunities/visiting-researchers/about-our-postdoctoral-visiting-fellowships",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-stephenson-exploration-advancement-sea-program-2027-field-season",
+  "slug": "stephenson-exploration-advancement-sea-program-2027-field-season",
+  "name": "Stephenson Exploration Advancement (SEA) Program – 2027 Field Season",
+  "sponsor": "The Explorers Club / Philip Stephenson Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para trabajo de campo"
+  ],
+  "areas": [
+   "Océanos",
+   "Conservación marina",
+   "Biodiversidad",
+   "Exploración"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 10,000 por proyecto",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-02"
+  },
+  "url": "https://www.explorers.org/grants/the-stephenson-explorers-advancement-program/",
+  "applyUrl": "https://www.explorers.org/grants/the-stephenson-explorers-advancement-program/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-wege-prize-2027-circular-economy-challenge",
+  "slug": "wege-prize-2027-circular-economy-challenge",
+  "name": "Wege Prize 2027 – Circular Economy Challenge",
+  "sponsor": "Wege Foundation / Kendall College of Art and Design",
+  "source": "financiamiento",
+  "types": [
+   "Concurso estudiantil"
+  ],
+  "areas": [
+   "Economía circular",
+   "Diseño",
+   "Sostenibilidad",
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 65,000 en premios: 30,000 primer lugar, 20,000 segundo, 10,000 tercero",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-04"
+  },
+  "url": "https://www.wegeprize.org/",
+  "applyUrl": "https://www.wegeprize.org/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-edi-and-outreach-grants",
+  "slug": "edi-and-outreach-grants",
+  "name": "EDI and Outreach Grants",
+  "sponsor": "Biochemical Society",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Biociencias moleculares",
+   "Inclusión y diversidad",
+   "Divulgación científica"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta GBP 1,000 por proyecto",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-05"
+  },
+  "url": "https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/edi-and-outreach-grants/",
+  "applyUrl": "https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/edi-and-outreach-grants/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-catalyst-grant-2026-agentic-workflows-you-can-trust",
+  "slug": "catalyst-grant-2026-agentic-workflows-you-can-trust",
+  "name": "Catalyst Grant 2026 – Agentic Workflows You Can Trust",
+  "sponsor": "Digital Science",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Investigación",
+   "Tecnología"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta GBP 25,000, sin participación accionaria",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-05"
+  },
+  "url": "https://www.digital-science.com/press-releases/digital-science-2026-catalyst-grant-agentic-ai-workflows-you-can-trust/",
+  "applyUrl": "https://www.digital-science.com/press-releases/digital-science-2026-catalyst-grant-agentic-ai-workflows-you-can-trust/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-chevening-scholarships-2027-2028-argentina",
+  "slug": "chevening-scholarships-2027-2028-argentina",
+  "name": "Chevening Scholarships 2027–2028 – Argentina",
+  "sponsor": "Gobierno del Reino Unido – Chevening / FCDO",
+  "source": "financiamiento",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Educación",
+   "Maestría",
+   "Liderazgo"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "completa",
+  "amount": "Beca completa: matrícula, estipendio mensual, viaje, visa y asignaciones",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Argentina",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-06"
+  },
+  "url": "https://www.chevening.org/scholarship/argentina/",
+  "applyUrl": "https://www.chevening.org/scholarship/argentina/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-chevening-scholarships-2027-2028-colombia",
+  "slug": "chevening-scholarships-2027-2028-colombia",
+  "name": "Chevening Scholarships 2027–2028 – Colombia",
+  "sponsor": "Gobierno del Reino Unido – Chevening / FCDO",
+  "source": "financiamiento",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Educación",
+   "Maestría",
+   "Liderazgo"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "completa",
+  "amount": "Beca completa: matrícula, estipendio mensual, viaje, visa y asignaciones",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Colombia",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-06"
+  },
+  "url": "https://www.chevening.org/scholarship/colombia/",
+  "applyUrl": "https://www.chevening.org/scholarship/colombia/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-fourth-global-innovation-challenge-preparing-youth-for-an-ai-driven-workplace",
+  "slug": "fourth-global-innovation-challenge-preparing-youth-for-an-ai-driven-workplace",
+  "name": "Fourth Global Innovation Challenge – Preparing Youth for an AI-Driven Workplace",
+  "sponsor": "Citi Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria para organizaciones"
+  ],
+  "areas": [
+   "Juventud",
+   "Empleabilidad",
+   "Inteligencia artificial",
+   "Inclusión digital"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 500,000 por organización",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-06"
+  },
+  "url": "https://www.citigroup.com/global/foundation/programs/global-innovation-challenge",
+  "applyUrl": "https://www.citigroup.com/global/foundation/programs/global-innovation-challenge",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-earth-partner-prize-2026",
+  "slug": "earth-partner-prize-2026",
+  "name": "Earth Partner Prize 2026",
+  "sponsor": "Earth Partner, con Global Environment Facility y Re:wild",
+  "source": "financiamiento",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Arte",
+   "Crisis ecológica",
+   "Cambio climático",
+   "Biodiversidad",
+   "Juventud"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 10,000, 5,000 y 2,000 para finalistas",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (14 a 30 años)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-07"
+  },
+  "url": "https://earthpartner.com/earth-partner-prize/",
+  "applyUrl": "https://earthpartner.com/earth-partner-prize/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-institut-francais-x-cite-internationale-des-arts-residency-program",
+  "slug": "institut-francais-x-cite-internationale-des-arts-residency-program",
+  "name": "Institut français x Cité internationale des arts Residency Program",
+  "sponsor": "Institut français / Cité internationale des arts",
+  "source": "financiamiento",
+  "types": [
+   "Residencia"
+  ],
+  "areas": [
+   "Artes",
+   "Residencias artísticas",
+   "Creación contemporánea",
+   "Industrias creativas"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "estipendio",
+  "amount": "Mínimo EUR 1,100 mensuales + viaje, seguro y visa",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (artistas que viven fuera de Francia)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-08"
+  },
+  "url": "https://www.institutfrancais.com/en/programme/residence-and-professional-mobility/residencies-institut-francais-x-cite-internationale",
+  "applyUrl": "https://www.institutfrancais.com/en/programme/residence-and-professional-mobility/residencies-institut-francais-x-cite-internationale",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-ai-toxicology-model-for-drug-safety-studies",
+  "slug": "ai-toxicology-model-for-drug-safety-studies",
+  "name": "AI Toxicology Model for Drug Safety Studies",
+  "sponsor": "European Commission / Innovative Health Initiative",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria para consorcios"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Toxicología",
+   "Seguridad de medicamentos",
+   "Investigación biomédica"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Presupuesto total de la convocatoria EUR 53.2 millones",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Global (condiciones Horizon Europe)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-08"
+  },
+  "url": "https://www.ihi.europa.eu/apply-funding/ihi-call-13",
+  "applyUrl": "https://www.ihi.europa.eu/apply-funding/ihi-call-13",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-decode-the-immunoscience-of-age-related-diseases",
+  "slug": "decode-the-immunoscience-of-age-related-diseases",
+  "name": "Decode the Immunoscience of Age-Related Diseases",
+  "sponsor": "European Commission / Innovative Health Initiative",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria para consorcios"
+  ],
+  "areas": [
+   "Inmunología",
+   "Envejecimiento",
+   "Investigación biomédica",
+   "Medicina personalizada"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Presupuesto total de la convocatoria EUR 53.2 millones",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Global (condiciones Horizon Europe)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-08"
+  },
+  "url": "https://www.ihi.europa.eu/apply-funding/ihi-call-13",
+  "applyUrl": "https://www.ihi.europa.eu/apply-funding/ihi-call-13",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-richard-olney-next-generation-clinician-scientist-grant-in-als",
+  "slug": "richard-olney-next-generation-clinician-scientist-grant-in-als",
+  "name": "Richard Olney Next Generation Clinician Scientist Grant in ALS",
+  "sponsor": "American Brain Foundation / The ALS Association",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Salud",
+   "Neurociencia",
+   "ELA",
+   "Investigación clínica"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 240,000 en tres años",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-08"
+  },
+  "url": "https://www.americanbrainfoundation.org/for-researchers/",
+  "applyUrl": "https://www.americanbrainfoundation.org/for-researchers/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-frameline-completion-fund-2027",
+  "slug": "frameline-completion-fund-2027",
+  "name": "Frameline Completion Fund 2027",
+  "sponsor": "Frameline",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Cine",
+   "Audiovisual",
+   "LGBTQ+",
+   "Cultura"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 5,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-09"
+  },
+  "url": "https://www.frameline.org/artist-development/completion-fund",
+  "applyUrl": "https://www.frameline.org/artist-development/completion-fund",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-mcgraw-fellowship-for-business-journalism",
+  "slug": "mcgraw-fellowship-for-business-journalism",
+  "name": "McGraw Fellowship for Business Journalism",
+  "sponsor": "McGraw Center for Business Journalism, CUNY",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Periodismo",
+   "Investigación",
+   "Economía",
+   "Finanzas"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 15,000 por proyecto",
+  "citizenship": "eeuu-residente",
+  "citizenshipRaw": "Estados Unidos; periodistas de LATAM solo con residencia y número fiscal en EE. UU.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-12"
+  },
+  "url": "https://www.mcgrawcenter.org/the-harold-w-mcgraw-jr-business-journalism-fellowships/",
+  "applyUrl": "https://www.mcgrawcenter.org/the-harold-w-mcgraw-jr-business-journalism-fellowships/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-dan-david-prize-2027",
+  "slug": "dan-david-prize-2027",
+  "name": "Dan David Prize 2027",
+  "sponsor": "Dan David Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Historia",
+   "Arqueología",
+   "Humanidades",
+   "Patrimonio cultural"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 300,000 por ganador",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-13"
+  },
+  "url": "https://dandavidprize.org/nominate/",
+  "applyUrl": "https://dandavidprize.org/nominate/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-adina-talve-goodman-fellowship-for-early-career-fiction-writers",
+  "slug": "adina-talve-goodman-fellowship-for-early-career-fiction-writers",
+  "name": "Adina Talve-Goodman Fellowship for Early-Career Fiction Writers",
+  "sponsor": "One Story",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Escritura",
+   "Literatura",
+   "Cultura"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 2,000 + mentoría de un año y conferencia",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-13"
+  },
+  "url": "https://one-story.com/learn/fellowship/",
+  "applyUrl": "https://one-story.com/learn/fellowship/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-holohil-grant-program",
+  "slug": "holohil-grant-program",
+  "name": "Holohil Grant Program",
+  "sponsor": "Holohil Systems Ltd.",
+  "source": "financiamiento",
+  "types": [
+   "Apoyo en especie"
+  ],
+  "areas": [
+   "Conservación de especies",
+   "Vida silvestre",
+   "Biodiversidad",
+   "Monitoreo animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Transmisores de rastreo por hasta CAD 2,500 por trimestre",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-15"
+  },
+  "url": "https://www.holohil.com/grant-program/",
+  "applyUrl": "https://www.holohil.com/grant-program/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-gtf-olympiad-grants-open-call-2026-3",
+  "slug": "gtf-olympiad-grants-open-call-2026-3",
+  "name": "GTF Olympiad Grants – Open Call 2026.3",
+  "sponsor": "Global Talent Fund (GTF)",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para organizaciones"
+  ],
+  "areas": [
+   "Educación STEM",
+   "Matemáticas",
+   "Informática",
+   "Talento juvenil"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Normalmente USD 10,000 anuales",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-15"
+  },
+  "url": "https://www.globtalent.org/gtf-olympiad-grants",
+  "applyUrl": "https://www.globtalent.org/gtf-olympiad-grants",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-financial-inclusion-lab-2026-silver-economy",
+  "slug": "financial-inclusion-lab-2026-silver-economy",
+  "name": "Financial Inclusion Lab 2026 – Silver Economy",
+  "sponsor": "CAF – Banco de Desarrollo de América Latina y el Caribe",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Fintech",
+   "Inclusión financiera",
+   "Economía plateada"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "No especificado; aceleración y preparación para inversión",
+  "citizenship": "latam",
+  "citizenshipRaw": "LATAM (empresas con operación en países miembros de CAF)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-18"
+  },
+  "url": "https://www.caf.com/es/trabaja-con-nosotros/convocatorias/laboratorio-caf-de-inclusion-financiera-2026",
+  "applyUrl": "https://www.caf.com/es/trabaja-con-nosotros/convocatorias/laboratorio-caf-de-inclusion-financiera-2026",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-the-image-centre-fellowship-program-for-research-in-photography",
+  "slug": "the-image-centre-fellowship-program-for-research-in-photography",
+  "name": "The Image Centre Fellowship Program for Research in Photography",
+  "sponsor": "The Image Centre",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Fotografía",
+   "Arte",
+   "Investigación"
+  ],
+  "levels": [],
+  "destinations": [
+   "Canadá"
+  ],
+  "funding": "varia",
+  "amount": "Hasta CAD 10,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-18"
+  },
+  "url": "https://theimagecentre.ca/fellowship/",
+  "applyUrl": "https://theimagecentre.ca/fellowship/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-coral-accelerator-program-cap-2026",
+  "slug": "coral-accelerator-program-cap-2026",
+  "name": "Coral Accelerator Program (CAP) 2026",
+  "sponsor": "CORDAP – G20 Coral Research & Development Accelerator Platform",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria para consorcios"
+  ],
+  "areas": [
+   "Océanos",
+   "Conservación marina",
+   "Arrecifes de coral"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 1 millón por proyecto",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-19"
+  },
+  "url": "https://cordap.org/cordaps-cap-2026-is-now-open/",
+  "applyUrl": "https://cordap.org/cordaps-cap-2026-is-now-open/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-traditional-small-grants-program",
+  "slug": "traditional-small-grants-program",
+  "name": "Traditional Small Grants Program",
+  "sponsor": "Mesoamerican Reef Fund (MAR Fund)",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Conservación marina",
+   "Comunidades costeras",
+   "Emprendimiento sostenible"
+  ],
+  "levels": [],
+  "destinations": [
+   "Guatemala",
+   "Honduras",
+   "México"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 50,000",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Belice, Guatemala, Honduras y México",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-20"
+  },
+  "url": "https://marfund.org/en/request-for-proposals-2026/",
+  "applyUrl": "https://marfund.org/en/request-for-proposals-2026/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-ignacio-h-de-larramendi-research-grants",
+  "slug": "ignacio-h-de-larramendi-research-grants",
+  "name": "Ignacio H. de Larramendi Research Grants",
+  "sponsor": "Fundación MAPFRE",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Salud pública",
+   "Promoción de la salud",
+   "Seguros",
+   "Protección social"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 30,000 (salud); hasta EUR 15,000 (seguros y protección social)",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-22"
+  },
+  "url": "https://www.fundacionmapfre.org/en/awards-aids/ignacio-larramendi-research-grants/",
+  "applyUrl": "https://www.fundacionmapfre.org/en/awards-aids/ignacio-larramendi-research-grants/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-eifl-public-library-innovation-award-20",
+  "slug": "eifl-public-library-innovation-award-20",
+  "name": "EIFL Public Library Innovation Award 20",
+  "sponsor": "EIFL",
+  "source": "financiamiento",
+  "types": [
+   "Premio para bibliotecas"
+  ],
+  "areas": [
+   "Bibliotecas",
+   "Inteligencia artificial",
+   "Alfabetización digital"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 1,500",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (países en desarrollo y transición)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "url": "https://www.eifl.net/programme/public-library-innovation-programme/eifl-public-library-innovation-award-20",
+  "applyUrl": "https://www.eifl.net/programme/public-library-innovation-programme/eifl-public-library-innovation-award-20",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-rfp-5413-comparison-of-pfas-contributions-to-agricultural-systems",
+  "slug": "rfp-5413-comparison-of-pfas-contributions-to-agricultural-systems",
+  "name": "RFP 5413 – Comparison of PFAS Contributions to Agricultural Systems",
+  "sponsor": "The Water Research Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Agua",
+   "Agricultura",
+   "Contaminación ambiental"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 400,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "url": "https://www.waterrf.org/proposals",
+  "applyUrl": "https://www.waterrf.org/proposals",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-rfp-5425-manganese-behavior-in-drinking-water-distribution-and-premise-plumbing",
+  "slug": "rfp-5425-manganese-behavior-in-drinking-water-distribution-and-premise-plumbing",
+  "name": "RFP 5425 – Manganese Behavior in Drinking Water Distribution and Premise Plumbing",
+  "sponsor": "The Water Research Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Agua potable",
+   "Salud ambiental",
+   "Contaminación"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 400,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "url": "https://www.waterrf.org/proposals",
+  "applyUrl": "https://www.waterrf.org/proposals",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-rfp-5428-standardized-guidelines-for-o-m-considerations-in-design",
+  "slug": "rfp-5428-standardized-guidelines-for-o-m-considerations-in-design",
+  "name": "RFP 5428 – Standardized Guidelines for O&M Considerations in Design",
+  "sponsor": "The Water Research Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Agua",
+   "Saneamiento",
+   "Infraestructura"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 250,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "url": "https://www.waterrf.org/proposals",
+  "applyUrl": "https://www.waterrf.org/proposals",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-2027-whitley-awards",
+  "slug": "2027-whitley-awards",
+  "name": "2027 Whitley Awards",
+  "sponsor": "Whitley Fund for Nature",
+  "source": "financiamiento",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Biodiversidad",
+   "Conservación",
+   "Ecosistemas",
+   "Comunidades indígenas"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "GBP 50,000 por un año",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Países elegibles del Sur Global, incluidos de América Latina",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-30"
+  },
+  "url": "https://whitleyaward.org/apply-for-conservation-funding/apply-for-a-whitley-award/",
+  "applyUrl": "https://whitleyaward.org/apply-for-conservation-funding/apply-for-a-whitley-award/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-tu-youyou-award",
+  "slug": "tu-youyou-award",
+  "name": "Tu Youyou Award",
+  "sponsor": "MDPI Sustainability Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Química de productos naturales",
+   "Química medicinal",
+   "Investigación biomédica"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "CHF 100,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-31"
+  },
+  "url": "https://mdpi-foundation.org/awards",
+  "applyUrl": "https://mdpi-foundation.org/awards",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-georg-forster-research-award",
+  "slug": "georg-forster-research-award",
+  "name": "Georg Forster Research Award",
+  "sponsor": "Alexander von Humboldt Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Investigación",
+   "Desarrollo sostenible"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "varia",
+  "amount": "EUR 60,000 + gastos elegibles y hasta EUR 10,000 adicionales",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-31"
+  },
+  "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/georg-forster-research-award",
+  "applyUrl": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/georg-forster-research-award",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-scalable-and-climate-resilient-sustainable-cooling-under-epic-deploy",
+  "slug": "scalable-and-climate-resilient-sustainable-cooling-under-epic-deploy",
+  "name": "Scalable and Climate-Resilient Sustainable Cooling under EPIC Deploy",
+  "sponsor": "EPIC Deploy (Ministerio de Ambiente de Italia y PNUMA)",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria para consorcios"
+  ],
+  "areas": [
+   "Refrigeración sostenible",
+   "Eficiencia energética",
+   "Resiliencia climática"
+  ],
+  "levels": [],
+  "destinations": [
+   "Brasil"
+  ],
+  "funding": "varia",
+  "amount": "Mínimo USD 200,000; proyecto de hasta USD 1.2 millones con 20% de cofinanciamiento",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Brasil",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-31"
+  },
+  "url": "https://coolcoalition.org/news/epic-deploy-launches-first-call-proposals",
+  "applyUrl": "https://coolcoalition.org/news/epic-deploy-launches-first-call-proposals",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-teeem-foundation-community-impact-grant-program",
+  "slug": "teeem-foundation-community-impact-grant-program",
+  "name": "TEEEM Foundation Community Impact Grant Program",
+  "sponsor": "TEEEM Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para organizaciones"
+  ],
+  "areas": [
+   "Desarrollo comunitario",
+   "Educación",
+   "Salud",
+   "Innovación social"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 5,000 a 30,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-01"
+  },
+  "url": "https://www.teeem.org/foundation",
+  "applyUrl": "https://www.teeem.org/foundation",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-georg-arnhold-senior-fellowship-2028-education-for-sustainable-peace",
+  "slug": "georg-arnhold-senior-fellowship-2028-education-for-sustainable-peace",
+  "name": "Georg Arnhold Senior Fellowship 2028 – Education for Sustainable Peace",
+  "sponsor": "Leibniz Institute for Educational Media | Georg Eckert Institute",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Educación",
+   "Construcción de paz",
+   "Medios educativos"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "estipendio",
+  "amount": "EUR 3,300 mensuales por 6 meses + vuelo",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-02"
+  },
+  "url": "https://www.gei.de/en/institute/career/georg-arnhold-program",
+  "applyUrl": "https://www.gei.de/en/institute/career/georg-arnhold-program",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-grants-for-nokia-visiting-professors",
+  "slug": "grants-for-nokia-visiting-professors",
+  "name": "Grants for Nokia Visiting Professors",
+  "sponsor": "Nokia Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Movilidad académica"
+  ],
+  "areas": [
+   "TIC",
+   "Investigación",
+   "Academia"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Finlandia"
+  ],
+  "funding": "varia",
+  "amount": "Viaje y alojamiento (no cubre salario)",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-05"
+  },
+  "url": "https://www.nokiafoundation.com/visiting-professor",
+  "applyUrl": "https://www.nokiafoundation.com/visiting-professor",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-endangered-archives-programme-eap-2026-27-grants",
+  "slug": "endangered-archives-programme-eap-2026-27-grants",
+  "name": "Endangered Archives Programme (EAP) – 2026/27 Grants",
+  "sponsor": "British Library",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Patrimonio cultural",
+   "Archivos",
+   "Digitalización",
+   "Memoria histórica"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Piloto: hasta GBP 15,000. Proyecto mayor: hasta GBP 60,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (archivos fuera de Europa Occidental y Norteamérica)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-06"
+  },
+  "url": "https://eap.bl.uk/grants",
+  "applyUrl": "https://eap.bl.uk/grants",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-creatives-for-our-future-programme-2026",
+  "slug": "creatives-for-our-future-programme-2026",
+  "name": "Creatives For Our Future Programme 2026",
+  "sponsor": "Swarovski Foundation, con la Oficina de Alianzas de la ONU",
+  "source": "financiamiento",
+  "types": [
+   "Fondos + mentoría"
+  ],
+  "areas": [
+   "Creatividad",
+   "Diseño",
+   "Desarrollo sostenible",
+   "Innovación"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "EUR 20,000 por persona + mentoría y formación",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (21 a 30 años)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-09"
+  },
+  "url": "https://creatives.swarovskifoundation.org/",
+  "applyUrl": "https://creatives.swarovskifoundation.org/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-biodivfuture-novel-ecosystems",
+  "slug": "biodivfuture-novel-ecosystems",
+  "name": "BiodivFuture – Novel Ecosystems",
+  "sponsor": "Biodiversa+ / Comisión Europea",
+  "source": "financiamiento",
+  "types": [
+   "Convocatoria para consorcios"
+  ],
+  "areas": [
+   "Biodiversidad",
+   "Ecosistemas",
+   "Cambio climático",
+   "Investigación"
+  ],
+  "levels": [],
+  "destinations": [
+   "Brasil"
+  ],
+  "funding": "varia",
+  "amount": "Típicamente EUR 1.2 a 1.5 millones por proyecto",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Brasil",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-10"
+  },
+  "url": "https://www.biodiversa.eu/2026/09/09/biodivfuture-call-now-open-exx-million-for-research-on-biodiversity-and-novel-ecosystems/",
+  "applyUrl": "https://www.biodiversa.eu/2026/09/09/biodivfuture-call-now-open-exx-million-for-research-on-biodiversity-and-novel-ecosystems/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-urban-research-grant-program",
+  "slug": "urban-research-grant-program",
+  "name": "Urban Research Grant Program",
+  "sponsor": "ETH Zurich",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Desarrollo urbano",
+   "Infraestructura",
+   "Innovación",
+   "Políticas públicas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Perú"
+  ],
+  "funding": "varia",
+  "amount": "CHF 30,000 a 350,000",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Perú",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "url": "https://ethz.ch/staffnet/en/news-and-events/internal-news/archive/2026/08/programme-innovative-cities-infrastructure-call-for-proposals-now-open.html",
+  "applyUrl": "https://ethz.ch/staffnet/en/news-and-events/internal-news/archive/2026/08/programme-innovative-cities-infrastructure-call-for-proposals-now-open.html",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-live-your-dream-awards-2026-2027",
+  "slug": "live-your-dream-awards-2026-2027",
+  "name": "Live Your Dream Awards 2026–2027",
+  "sponsor": "Soroptimist International of the Americas",
+  "source": "financiamiento",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Educación",
+   "Formación profesional",
+   "Empoderamiento económico de mujeres"
+  ],
+  "levels": [
+   "pregrado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "parcial",
+  "amount": "USD 1,000 a 16,000 acumulados según el nivel del premio",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Argentina, Bolivia, Brasil, Colombia, Ecuador, México, Panamá, Paraguay, Perú y Venezuela",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "url": "https://www.soroptimist.org/our-work/live-your-dream-awards/apply-for-the-live-your-dream-awards.html",
+  "applyUrl": "https://www.soroptimist.org/our-work/live-your-dream-awards/apply-for-the-live-your-dream-awards.html",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-fellowship-in-the-digital-humanities",
+  "slug": "fellowship-in-the-digital-humanities",
+  "name": "Fellowship in the Digital Humanities",
+  "sponsor": "Harvard University Center for Italian Renaissance Studies (I Tatti)",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Humanidades digitales",
+   "Investigación",
+   "Cultura",
+   "Tecnología"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "estipendio",
+  "amount": "USD 5,200 mensuales + hasta USD 1,800 de reubicación",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-16"
+  },
+  "url": "https://itatti.harvard.edu/fellowship-digital-humanities",
+  "applyUrl": "https://itatti.harvard.edu/fellowship-digital-humanities",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-general-research-grants-projects",
+  "slug": "general-research-grants-projects",
+  "name": "General Research Grants: Projects",
+  "sponsor": "Gerda Henkel Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Humanidades",
+   "Ciencias históricas",
+   "Doctorado",
+   "Posdoctorado"
+  ],
+  "levels": [
+   "doctorado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Becas doctorales desde EUR 1,920 al mes; posdoctorales desde EUR 2,760 al mes",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-20"
+  },
+  "url": "https://www.gerda-henkel-stiftung.de/en/grants_projects",
+  "applyUrl": "https://www.gerda-henkel-stiftung.de/en/grants_projects",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-clinical-cancer-research-funding-programme",
+  "slug": "clinical-cancer-research-funding-programme",
+  "name": "Clinical Cancer Research Funding Programme",
+  "sponsor": "Rising Tide Foundation for Clinical Cancer Research",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Investigación clínica",
+   "Cáncer",
+   "Ensayos clínicos"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 100,000 por año de ensayo",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-23"
+  },
+  "url": "https://www.risingtide-foundation.org/clinical-cancer-research-how-to-apply/",
+  "applyUrl": "https://www.risingtide-foundation.org/clinical-cancer-research-how-to-apply/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-sony-world-photography-awards-student-competition",
+  "slug": "sony-world-photography-awards-student-competition",
+  "name": "Sony World Photography Awards – Student Competition",
+  "sponsor": "World Photography Organisation",
+  "source": "financiamiento",
+  "types": [
+   "Concurso estudiantil"
+  ],
+  "areas": [
+   "Fotografía",
+   "Arte visual",
+   "Educación creativa"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Equipamiento Sony + viaje a Londres",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Global (universidades aliadas)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-27"
+  },
+  "url": "https://www.worldphoto.org/sony-world-photography-awards/student",
+  "applyUrl": "https://www.worldphoto.org/sony-world-photography-awards/student",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-unesco-al-fozan-international-prize-for-young-scientists-in-stem",
+  "slug": "unesco-al-fozan-international-prize-for-young-scientists-in-stem",
+  "name": "UNESCO-Al Fozan International Prize for Young Scientists in STEM",
+  "sponsor": "UNESCO",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Ciencia",
+   "Tecnología",
+   "Ingeniería",
+   "Matemáticas"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 50,000 por ganador",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (menores de 40 años)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "url": "https://www.unesco.org/en/prizes/al-fozan",
+  "applyUrl": "https://www.unesco.org/en/prizes/al-fozan",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-world-sustainability-award",
+  "slug": "world-sustainability-award",
+  "name": "World Sustainability Award",
+  "sponsor": "MDPI Sustainability Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Sostenibilidad",
+   "ODS",
+   "Medio ambiente",
+   "Liderazgo científico"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 100,000 + viaje al World Sustainability Forum 2027",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "url": "https://mdpi-foundation.org/award",
+  "applyUrl": "https://mdpi-foundation.org/award",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-emerging-sustainability-leader-award",
+  "slug": "emerging-sustainability-leader-award",
+  "name": "Emerging Sustainability Leader Award",
+  "sponsor": "MDPI Sustainability Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Sostenibilidad",
+   "ODS",
+   "Jóvenes investigadores"
+  ],
+  "levels": [
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 20,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "url": "https://mdpi-foundation.org/awards",
+  "applyUrl": "https://mdpi-foundation.org/awards",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-opec-award-for-research-2027",
+  "slug": "opec-award-for-research-2027",
+  "name": "OPEC Award for Research 2027",
+  "sponsor": "Organization of the Petroleum Exporting Countries (OPEC)",
+  "source": "financiamiento",
+  "types": [
+   "Premio (por nominación)"
+  ],
+  "areas": [
+   "Energía",
+   "Petróleo",
+   "Investigación",
+   "Mercados energéticos"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "EUR 10,000 + reconocimiento",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-turtle-conservation-fund-program",
+  "slug": "turtle-conservation-fund-program",
+  "name": "Turtle Conservation Fund Program",
+  "sponsor": "Turtle Conservation Fund",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Conservación",
+   "Tortugas terrestres y de agua dulce",
+   "Especies amenazadas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Aproximadamente USD 1,000 a 5,000 por proyecto",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-01"
+  },
+  "url": "https://turtleconservationfund.org/grant-application-guidelines/",
+  "applyUrl": "https://turtleconservationfund.org/grant-application-guidelines/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-horowitz-foundation-for-social-policy-grant-program-2026-2027",
+  "slug": "horowitz-foundation-for-social-policy-grant-program-2026-2027",
+  "name": "Horowitz Foundation for Social Policy Grant Program 2026–2027",
+  "sponsor": "Horowitz Foundation for Social Policy",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para tesis doctoral"
+  ],
+  "areas": [
+   "Ciencias sociales",
+   "Políticas públicas",
+   "Investigación doctoral"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 10,000 por proyecto + premios adicionales de USD 3,000 y 5,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-01"
+  },
+  "url": "https://www.horowitz-foundation.org/apply",
+  "applyUrl": "https://www.horowitz-foundation.org/apply",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-2027-runx1-early-career-investigator-grant-program",
+  "slug": "2027-runx1-early-career-investigator-grant-program",
+  "name": "2027 RUNX1 Early Career Investigator Grant Program",
+  "sponsor": "RUNX1 Research Program / Alex's Lemonade Stand Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Cáncer",
+   "Hematología",
+   "Investigación biomédica"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 180,000 en tres años (máximo USD 60,000 por año)",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-17"
+  },
+  "url": "https://www.alexslemonade.org/grant-programs/early-career-research-programs",
+  "applyUrl": "https://www.alexslemonade.org/grant-programs/early-career-research-programs",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-seed-grant-program",
+  "slug": "seed-grant-program",
+  "name": "SEED Grant Program",
+  "sponsor": "Oneness Revival Team",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para organizaciones"
+  ],
+  "areas": [
+   "ONG",
+   "Desarrollo sostenible",
+   "Fortalecimiento institucional",
+   "Impacto social"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 25,000 a 50,000 por año",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-20"
+  },
+  "url": "https://onenessrevivalteam.info/grant-application/",
+  "applyUrl": "https://onenessrevivalteam.info/grant-application/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-microbiota-women-s-health-international-call-for-projects-2027",
+  "slug": "microbiota-women-s-health-international-call-for-projects-2027",
+  "name": "Microbiota & Women's Health International Call for Projects 2027",
+  "sponsor": "Biocodex Microbiota Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Salud de la mujer",
+   "Microbiota",
+   "Ginecología",
+   "Investigación clínica y básica"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "EUR 200,000 anuales; proyectos de hasta 3 años",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-15"
+  },
+  "url": "https://www.biocodexmicrobiotafoundation.com/women-health-award/microbiota-womens-health-international-call-projects",
+  "applyUrl": "https://www.biocodexmicrobiotafoundation.com/women-health-award/microbiota-womens-health-international-call-projects",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-kleinhans-fellowship-for-community-forestry-research",
+  "slug": "kleinhans-fellowship-for-community-forestry-research",
+  "name": "Kleinhans Fellowship for Community Forestry Research",
+  "sponsor": "Rainforest Alliance",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Bosques",
+   "Biodiversidad",
+   "Gobernanza",
+   "Desarrollo rural"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "estipendio",
+  "amount": "USD 40,000 en total (USD 20,000 por año durante 2 años)",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (la investigación se hace en América Latina)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-28"
+  },
+  "url": "https://www.rainforest-alliance.org/business/projects/kleinhans-fellowship/",
+  "applyUrl": "https://www.rainforest-alliance.org/business/projects/kleinhans-fellowship/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-nikon-small-world-photomicrography-competition",
+  "slug": "nikon-small-world-photomicrography-competition",
+  "name": "Nikon Small World Photomicrography Competition",
+  "sponsor": "Nikon Small World / Nikon Instruments Inc.",
+  "source": "financiamiento",
+  "types": [
+   "Concurso"
+  ],
+  "areas": [
+   "Ciencia",
+   "Fotografía",
+   "Microscopía"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 3,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-04-30"
+  },
+  "url": "https://enter.nikonsmallworld.com/small-world",
+  "applyUrl": "https://enter.nikonsmallworld.com/small-world",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-nikon-small-world-in-motion-competition",
+  "slug": "nikon-small-world-in-motion-competition",
+  "name": "Nikon Small World in Motion Competition",
+  "sponsor": "Nikon Small World / Nikon Instruments Inc.",
+  "source": "financiamiento",
+  "types": [
+   "Concurso"
+  ],
+  "areas": [
+   "Ciencia",
+   "Video",
+   "Microscopía"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 3,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-04-30"
+  },
+  "url": "https://enter.nikonsmallworld.com/small-world-in-motion/",
+  "applyUrl": "https://enter.nikonsmallworld.com/small-world-in-motion/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-flagship-accelerator-program",
+  "slug": "flagship-accelerator-program",
+  "name": "Flagship Accelerator Program",
+  "sponsor": "Startup Wise Guys",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups B2B",
+   "Inteligencia artificial",
+   "SaaS",
+   "Tecnología"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "EUR 100,000 + posible follow-on hasta EUR 250,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://startupwiseguys.com/growing/flagship-accelerator/",
+  "applyUrl": "https://startupwiseguys.com/growing/flagship-accelerator/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-shadowing-programme-for-young-theatre-professionals-from-abroad",
+  "slug": "shadowing-programme-for-young-theatre-professionals-from-abroad",
+  "name": "Shadowing Programme for Young Theatre Professionals from Abroad",
+  "sponsor": "Goethe-Institut",
+  "source": "financiamiento",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Artes escénicas",
+   "Teatro",
+   "Dramaturgia",
+   "Diseño escénico"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "estipendio",
+  "amount": "EUR 1,200 mensuales + viaje, seguro y hasta EUR 300 para actividades culturales",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (menores de 40 años, residentes fuera de Alemania)",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.goethe.de/en/kul/foe/hos.html",
+  "applyUrl": "https://www.goethe.de/en/kul/foe/hos.html",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-thiel-fellowship-for-young-innovators-and-entrepreneurs",
+  "slug": "thiel-fellowship-for-young-innovators-and-entrepreneurs",
+  "name": "Thiel Fellowship for Young Innovators and Entrepreneurs",
+  "sponsor": "Thiel Fellowship",
+  "source": "financiamiento",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología",
+   "Innovación"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 250,000 en dos años",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (22 años o menos, sin título universitario)",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://thielfellowship.org/apply",
+  "applyUrl": "https://thielfellowship.org/apply",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-gender-equality-grant-program",
+  "slug": "gender-equality-grant-program",
+  "name": "Gender Equality Grant Program",
+  "sponsor": "Pulitzer Center",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para periodismo"
+  ],
+  "areas": [
+   "Periodismo",
+   "Igualdad de género",
+   "Periodismo de investigación",
+   "Periodismo de datos"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Promedio de USD 5,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/gender-equality-grant",
+  "applyUrl": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/gender-equality-grant",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-rainforest-reporting-grant",
+  "slug": "rainforest-reporting-grant",
+  "name": "Rainforest Reporting Grant",
+  "sponsor": "Pulitzer Center",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para periodismo"
+  ],
+  "areas": [
+   "Periodismo ambiental",
+   "Bosques tropicales",
+   "Cambio climático",
+   "Periodismo de investigación"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Mayormente USD 8,000 a 15,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/rainforest-reporting-grant",
+  "applyUrl": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/rainforest-reporting-grant",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-daily-grant-program-for-grassroots-initiatives",
+  "slug": "daily-grant-program-for-grassroots-initiatives",
+  "name": "Daily Grant Program for Grassroots Initiatives",
+  "sponsor": "The Pollination Project Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Microfondos"
+  ],
+  "areas": [
+   "Desarrollo comunitario",
+   "Voluntariado",
+   "Impacto social"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 500",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://thepollinationproject.org/apply/",
+  "applyUrl": "https://thepollinationproject.org/apply/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-iwrs-small-meeting-support-grants",
+  "slug": "iwrs-small-meeting-support-grants",
+  "name": "IWRS Small Meeting Support Grants",
+  "sponsor": "Insect Welfare Research Society (IWRS)",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para eventos"
+  ],
+  "areas": [
+   "Bienestar animal",
+   "Insectos",
+   "Invertebrados",
+   "Conferencias"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 2,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.insectwelfare.com/small-meeting-support",
+  "applyUrl": "https://www.insectwelfare.com/small-meeting-support",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-recipe-compact-research-grants",
+  "slug": "recipe-compact-research-grants",
+  "name": "ReCIPE Compact Research Grants",
+  "sponsor": "Growth Research Platform (CEPR)",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Investigación",
+   "Desarrollo económico",
+   "Conflicto",
+   "Políticas públicas"
+  ],
+  "levels": [
+   "doctorado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "GBP 10,000 a 25,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Global (investigación en países de ingreso bajo y medio)",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://grp.cepr.org/recipe/funding/compact-research-grants",
+  "applyUrl": "https://grp.cepr.org/recipe/funding/compact-research-grants",
+  "updatedAt": "2026-09-18"
+ },
+ {
   "id": "rss-the-open-notebook-early-career-fellowship-2027",
   "slug": "the-open-notebook-early-career-fellowship-2027",
   "name": "The Open Notebook Early-Career Fellowship 2027",

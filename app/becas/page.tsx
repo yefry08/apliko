@@ -22,6 +22,7 @@ export default async function BecasPage(props: PageProps<"/becas">) {
     nivel: one(sp.nivel),
     fondos: one(sp.fondos),
     destino: one(sp.destino),
+    categoria: ["becas", "fondos"].includes(one(sp.categoria)) ? one(sp.categoria) : "",
     vista: one(sp.vista) === "tabla" ? "tabla" : "tarjetas",
   };
 

@@ -192,6 +192,52 @@ function readInternational(): Opportunity[] {
     });
 }
 
+interface FinanciamientoRow {
+  name: string;
+  sponsor: string;
+  type: string;
+  areas: string;
+  region: string;
+  citizenship?: CitizenshipRule;
+  deadline: string;
+  amount: string;
+  url: string | null;
+  levels?: Level[];
+  destinations?: string[];
+  funding?: Funding;
+}
+
+/** Fondos, premios y convocatorias curados a mano (data/raw/financiamiento.json). */
+function readFinanciamiento(): Opportunity[] {
+  const file = path.join(RAW, "financiamiento.json");
+  if (!existsSync(file)) return [];
+  const rows = JSON.parse(readFileSync(file, "utf8")) as FinanciamientoRow[];
+  return rows.map((r) => {
+    const slug = slugify(r.name);
+    const deadline: Deadline =
+      r.deadline === "continua" ? { kind: "continua" } : { kind: "exacta", date: r.deadline };
+    return {
+      id: `fin-${slug}`,
+      slug,
+      name: r.name,
+      sponsor: r.sponsor,
+      source: "financiamiento",
+      types: [r.type],
+      areas: r.areas.split("/").map((a) => a.trim()).filter(Boolean),
+      levels: r.levels ?? [],
+      destinations: r.destinations ?? ["Mundial"],
+      funding: r.funding ?? "varia",
+      amount: r.amount,
+      citizenship: r.citizenship ?? "global",
+      citizenshipRaw: r.region,
+      deadline,
+      url: r.url ?? undefined,
+      applyUrl: r.url ?? undefined,
+      updatedAt: "2026-09-18",
+    } satisfies Opportunity;
+  });
+}
+
 function main() {
   // De los feeds RSS (scripts/ingest_rss.py) solo entran las candidatas aprobadas.
   const rssFile = path.join(process.cwd(), "data", "rss", "candidates.json");
@@ -200,7 +246,7 @@ function main() {
         .filter((c) => c.estado === "aprobada")
         .map((c) => c.oportunidad)
     : [];
-  const all = [...readInternational(), ...approved];
+  const all = [...readInternational(), ...readFinanciamiento(), ...approved];
   const seen = new Set<string>();
   const unique = all.filter((o) => {
     let slug = o.slug;

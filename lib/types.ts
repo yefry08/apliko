@@ -42,7 +42,7 @@ export interface Opportunity {
   slug: string;
   name: string;
   sponsor?: string;
-  source: "internacional" | "rss";
+  source: "internacional" | "rss" | "financiamiento";
   /** Feed the item came from, when source === "rss". */
   sourceName?: string;
   types: string[];
@@ -50,6 +50,8 @@ export interface Opportunity {
   levels: Level[];
   destinations: string[];
   funding: Funding;
+  /** Amount as the source states it, e.g. "Hasta USD 10,000". */
+  amount?: string;
   citizenship: CitizenshipRule;
   citizenshipRaw?: string;
   audience?: string;

@@ -46,7 +46,9 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
   const facts: [string, string | undefined][] = [
     ["Cierre", deadlineText(o)],
     ["Destino", o.destinations.join(", ")],
-    ["Financiamiento", FUNDING_LABEL[o.funding]],
+    ["Monto", o.amount],
+    ["Financiamiento", o.amount ? undefined : FUNDING_LABEL[o.funding]],
+    ["Quién puede postular", o.source === "financiamiento" ? o.citizenshipRaw : undefined],
     ["Nivel", o.levels.map((l) => LEVEL_LABEL[l]).join(", ") || undefined],
     ["Tipo", o.types.join(", ")],
     ["Área", o.areas.join(", ") || undefined],
@@ -173,7 +175,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
             </dl>
             <p className="text-xs text-muted-foreground">
               Fuente:{" "}
-              {o.source === "rss" ? (o.sourceName ?? "feed RSS") : "listado de programas internacionales"}
+              {o.source === "rss" ? (o.sourceName ?? "feed RSS") : o.source === "financiamiento" ? "convocatorias de financiamiento revisadas a mano" : "listado de programas internacionales"}
               , actualizado el{" "}
               {dateFmt.format(new Date(o.updatedAt))}. Confirma en el sitio oficial.
             </p>

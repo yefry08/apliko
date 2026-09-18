@@ -23,6 +23,7 @@ export interface CatalogFilters {
   nivel: string;
   fondos: string;
   destino: string;
+  categoria: string;
   vista: "tarjetas" | "tabla";
 }
 
@@ -119,6 +120,8 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
       if (f.nivel && !o.levels.includes(f.nivel as Level)) return false;
       if (f.fondos && o.funding !== f.fondos) return false;
       if (f.destino && !o.destinations.includes(f.destino)) return false;
+      if (f.categoria === "becas" && o.source === "financiamiento") return false;
+      if (f.categoria === "fondos" && o.source !== "financiamiento") return false;
       if (profile && eligibilityFor(o, profile) === "no-elegible") return false;
       if (q) {
         const hay = normalize([o.name, o.sponsor, o.audience, o.notes, ...o.areas, ...o.types, ...o.destinations].join(" "));
@@ -133,7 +136,7 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
     [items, profile],
   );
 
-  const activeFilters = [f.q, f.perfil, f.nivel, f.fondos, f.destino].filter(Boolean).length + (f.estado !== "vigentes" ? 1 : 0);
+  const activeFilters = [f.q, f.perfil, f.nivel, f.fondos, f.destino, f.categoria].filter(Boolean).length + (f.estado !== "vigentes" ? 1 : 0);
   const shown = filtered.slice(0, limit);
 
   return (
@@ -159,7 +162,7 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
         </div>
       </fieldset>
 
-      <div className="grid grid-cols-1 gap-3 rounded-2xl border bg-card/50 p-4 sm:grid-cols-2 lg:grid-cols-[2fr_repeat(4,1fr)]">
+      <div className="grid grid-cols-1 gap-3 rounded-2xl border bg-card/50 p-4 sm:grid-cols-2 lg:grid-cols-[2fr_repeat(5,1fr)]">
         <div className="flex min-w-0 flex-col gap-1.5">
           <label htmlFor="q" className="eyebrow">
             Buscar
@@ -208,6 +211,17 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
           options={(Object.entries(FUNDING_LABEL) as [Funding, string][]).filter(([k]) => k !== "varia")}
         />
         <FilterSelect id="destino" label="Destino" value={f.destino} onChange={(v) => set({ destino: v })} placeholder="Cualquier país" options={destinations} />
+        <FilterSelect
+          id="categoria"
+          label="Categoría"
+          value={f.categoria}
+          onChange={(v) => set({ categoria: v })}
+          placeholder="Todo"
+          options={[
+            ["becas", "Becas y programas"],
+            ["fondos", "Fondos y premios"],
+          ]}
+        />
       </div>
 
       <div className="flex flex-wrap items-center justify-between gap-3">
@@ -217,7 +231,7 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
           {activeFilters > 0 && (
             <button
               type="button"
-              onClick={() => set({ q: "", perfil: "", estado: "vigentes", nivel: "", fondos: "", destino: "" })}
+              onClick={() => set({ q: "", perfil: "", estado: "vigentes", nivel: "", fondos: "", destino: "", categoria: "" })}
               className="ml-3 inline-flex items-center gap-1 text-larimar hover:underline"
             >
               <X className="size-3.5" aria-hidden="true" /> Quitar filtros
