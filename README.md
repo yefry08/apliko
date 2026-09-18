@@ -43,8 +43,11 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
 
 - `lib/logic.ts`: estado, etiquetas y reglas de elegibilidad (sin datos, se puede usar en el cliente).
 - `lib/opportunities.ts`: datos y consultas (solo servidor).
-- `components/ui/prisma-hero.tsx`: hero. Su fondo es `components/three/hero-scene.tsx`: la escena de Spline de
-  `NEXT_PUBLIC_SPLINE_SCENE` si está definida, o la escena 3D propia del sitio si no.
+- `components/ui/prisma-hero.tsx`: hero. Su fondo es `components/three/hero-scene.tsx`:
+  - en pantallas de 1024 px o más, la escena de Spline (cubos azules), con fondo transparente y en la columna
+    derecha. Se carga con `components/three/spline-canvas.tsx`, que fuerza WebGL: el WebGPU que Spline elige
+    por defecto llena la consola de errores. Otra escena: `NEXT_PUBLIC_SPLINE_SCENE`.
+  - en móvil, o con movimiento reducido, la escena 3D propia (birrete y sobre), mucho más liviana.
 - `components/three/`: globo con rutas y escena flotante (React Three Fiber, carga diferida).
 - `components/deadline-marquee.tsx`: carrusel continuo con las 5 oportunidades que cierran antes.
 - `lib/store.ts`: becas guardadas, etapa de cada postulación y perfil, en `localStorage` (clave `apliko:v1`).
