@@ -1,8 +1,9 @@
 "use client";
 
+import type { Application } from "@splinetool/runtime";
 import { useReducedMotion } from "framer-motion";
 import dynamic from "next/dynamic";
-import { useState, useSyncExternalStore } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { cn } from "@/lib/utils";
 
 /** Spline scene (Export > Code > React). NEXT_PUBLIC_SPLINE_SCENE overrides it; set it empty to use only the site's scene. */
@@ -42,8 +43,23 @@ function Backdrop() {
 export function HeroScene() {
   const reduce = useReducedMotion();
   const desktop = useIsDesktop();
-  const [loaded, setLoaded] = useState(false);
+  const [app, setApp] = useState<Application | null>(null);
+  const loaded = app !== null;
   const spline = desktop && !!SPLINE_SCENE;
+  const box = useRef<HTMLDivElement>(null);
+
+  // The scene ships with a fixed canvas size and its own light background: fit it to the hero
+  // and let the site's night-blue show through.
+  useEffect(() => {
+    const el = box.current;
+    if (!app || !el) return;
+    app.setBackgroundColor("transparent");
+    const fit = () => app.setSize(el.clientWidth, el.clientHeight);
+    fit();
+    const ro = new ResizeObserver(fit);
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, [app]);
 
   return (
     <div className="absolute inset-0" aria-hidden="true">
@@ -59,12 +75,9 @@ export function HeroScene() {
         </div>
       )}
       {spline && (
-        <Spline
-          scene={SPLINE_SCENE}
-          renderOnDemand={!!reduce}
-          onLoad={() => setLoaded(true)}
-          className={cn("absolute inset-0 transition-opacity duration-1000", loaded ? "opacity-100" : "opacity-0")}
-        />
+        <div ref={box} className={cn("absolute inset-0 transition-opacity duration-1000", loaded ? "opacity-100" : "opacity-0")}>
+          <Spline scene={SPLINE_SCENE} renderOnDemand={!!reduce} onLoad={setApp} />
+        </div>
       )}
     </div>
   );
