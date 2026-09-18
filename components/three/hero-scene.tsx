@@ -39,8 +39,8 @@ export function HeroScene() {
           className={cn("absolute inset-0 transition-opacity duration-1000", loaded ? "opacity-100" : "opacity-0")}
         />
       ) : (
-        <div className="absolute inset-0 md:left-[35%]">
-          <FloatingScene animate={!reduce} />
+        <div className="absolute inset-x-0 top-[6%] bottom-[38%] md:bottom-[8%] md:left-[40%] md:right-[3%]">
+          <FloatingScene animate={!reduce} layout="cluster" />
         </div>
       )}
     </div>

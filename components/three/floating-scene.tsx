@@ -48,34 +48,39 @@ function Envelope({ color = BONE }: { color?: string }) {
   );
 }
 
-export default function FloatingScene({ animate = true }: { animate?: boolean }) {
+type Piece = { kind: "cap" | "envelope"; color?: string; tassel?: string; position: [number, number, number]; rotation: [number, number, number]; scale: number; speed: number; rot: number; float: number };
+
+// Around the CTA copy: pieces sit at the edges of a wide box.
+const EDGES: Piece[] = [
+  { kind: "cap", position: [-3.1, 1.1, 0], rotation: [0.5, 0.3, -0.2], scale: 0.9, speed: 1, rot: 1.2, float: 1.4 },
+  { kind: "envelope", position: [3.2, -0.9, -0.5], rotation: [0.2, -0.6, 0.3], scale: 0.8, speed: 0.8, rot: 1, float: 1.8 },
+  { kind: "cap", color: LARIMAR, tassel: BONE, position: [2.6, 1.6, -1.5], rotation: [0.7, -0.4, 0.4], scale: 0.6, speed: 1.1, rot: 1.4, float: 1.2 },
+  { kind: "envelope", color: CORAL, position: [-2.7, -1.5, -1], rotation: [-0.3, 0.5, -0.2], scale: 0.55, speed: 0.9, rot: 0.8, float: 1.5 },
+];
+
+// Hero: one cluster in the middle of its own canvas, bigger, so it reads at any aspect ratio.
+const CLUSTER: Piece[] = [
+  { kind: "cap", position: [0.1, 0.55, 0], rotation: [0.55, 0.35, -0.15], scale: 1.35, speed: 0.9, rot: 0.9, float: 1.1 },
+  { kind: "envelope", position: [-1.15, -1.05, 0.4], rotation: [0.25, 0.5, -0.25], scale: 0.95, speed: 0.75, rot: 0.8, float: 1.3 },
+  { kind: "cap", color: LARIMAR, tassel: BONE, position: [1.35, -0.55, -0.9], rotation: [0.7, -0.5, 0.35], scale: 0.7, speed: 1.1, rot: 1.2, float: 1.2 },
+  { kind: "envelope", color: CORAL, position: [1.1, 1.65, -1.4], rotation: [-0.3, -0.4, 0.2], scale: 0.55, speed: 0.95, rot: 0.9, float: 1.4 },
+];
+
+export default function FloatingScene({ animate = true, layout = "edges" }: { animate?: boolean; layout?: "edges" | "cluster" }) {
   const speed = animate ? 1.4 : 0;
+  const pieces = layout === "cluster" ? CLUSTER : EDGES;
   return (
     <Canvas dpr={[1, 1.5]} camera={{ position: [0, 0, 6], fov: 45 }} frameloop={animate ? "always" : "demand"} gl={{ alpha: true }}>
       <ambientLight intensity={0.7} />
       <directionalLight position={[4, 5, 5]} intensity={1.6} />
       <pointLight position={[-4, -2, 3]} intensity={12} color={LARIMAR} />
-
-      <Float speed={speed} rotationIntensity={1.2} floatIntensity={1.4}>
-        <group position={[-3.1, 1.1, 0]} rotation={[0.5, 0.3, -0.2]} scale={0.9}>
-          <Mortarboard />
-        </group>
-      </Float>
-      <Float speed={speed * 0.8} rotationIntensity={1} floatIntensity={1.8}>
-        <group position={[3.2, -0.9, -0.5]} rotation={[0.2, -0.6, 0.3]} scale={0.8}>
-          <Envelope />
-        </group>
-      </Float>
-      <Float speed={speed * 1.1} rotationIntensity={1.4} floatIntensity={1.2}>
-        <group position={[2.6, 1.6, -1.5]} rotation={[0.7, -0.4, 0.4]} scale={0.6}>
-          <Mortarboard color={LARIMAR} tassel={BONE} />
-        </group>
-      </Float>
-      <Float speed={speed * 0.9} rotationIntensity={0.8} floatIntensity={1.5}>
-        <group position={[-2.7, -1.5, -1]} rotation={[-0.3, 0.5, -0.2]} scale={0.55}>
-          <Envelope color={CORAL} />
-        </group>
-      </Float>
+      {pieces.map((p, i) => (
+        <Float key={i} speed={speed * p.speed} rotationIntensity={p.rot} floatIntensity={p.float}>
+          <group position={p.position} rotation={p.rotation} scale={p.scale}>
+            {p.kind === "cap" ? <Mortarboard color={p.color} tassel={p.tassel} /> : <Envelope color={p.color} />}
+          </group>
+        </Float>
+      ))}
     </Canvas>
   );
 }
