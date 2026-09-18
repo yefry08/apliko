@@ -2,14 +2,29 @@
 
 import { useReducedMotion } from "framer-motion";
 import dynamic from "next/dynamic";
-import { useState } from "react";
+import { useState, useSyncExternalStore } from "react";
 import { cn } from "@/lib/utils";
 
-/** Spline scene URL (Export > Code > React). Empty means: use the site's own 3D scene. */
-const SPLINE_SCENE = process.env.NEXT_PUBLIC_SPLINE_SCENE ?? "";
+/** Spline scene (Export > Code > React). NEXT_PUBLIC_SPLINE_SCENE overrides it; set it empty to use only the site's scene. */
+const SPLINE_SCENE = process.env.NEXT_PUBLIC_SPLINE_SCENE ?? "https://prod.spline.design/5UBTi7908RRL5Wdp/scene.splinecode";
 
 const Spline = dynamic(() => import("@splinetool/react-spline"), { ssr: false });
 const FloatingScene = dynamic(() => import("./floating-scene"), { ssr: false });
+
+const DESKTOP = "(min-width: 1024px)";
+
+/** Spline's runtime is heavy for phones, so it only loads on large screens. */
+function useIsDesktop() {
+  return useSyncExternalStore(
+    (onChange) => {
+      const mq = window.matchMedia(DESKTOP);
+      mq.addEventListener("change", onChange);
+      return () => mq.removeEventListener("change", onChange);
+    },
+    () => window.matchMedia(DESKTOP).matches,
+    () => false,
+  );
+}
 
 function Backdrop() {
   return (
@@ -21,27 +36,35 @@ function Backdrop() {
 }
 
 /**
- * 3D background for the hero. Loads the Spline scene when one is configured and falls back
- * to the site's own scene, so the hero never depends on a file we don't control.
+ * 3D background for the hero: the Spline scene on large screens, the site's own lighter
+ * scene everywhere else (and while Spline loads).
  */
 export function HeroScene() {
   const reduce = useReducedMotion();
+  const desktop = useIsDesktop();
   const [loaded, setLoaded] = useState(false);
+  const spline = desktop && !!SPLINE_SCENE;
 
   return (
     <div className="absolute inset-0" aria-hidden="true">
       <Backdrop />
-      {SPLINE_SCENE ? (
+      {(!spline || !loaded) && (
+        <div
+          className={cn(
+            "absolute inset-x-0 top-[6%] bottom-[38%] md:bottom-[8%] md:left-[40%] md:right-[3%] transition-opacity duration-700",
+            spline && "opacity-40",
+          )}
+        >
+          <FloatingScene animate={!reduce} layout="cluster" />
+        </div>
+      )}
+      {spline && (
         <Spline
           scene={SPLINE_SCENE}
           renderOnDemand={!!reduce}
           onLoad={() => setLoaded(true)}
           className={cn("absolute inset-0 transition-opacity duration-1000", loaded ? "opacity-100" : "opacity-0")}
         />
-      ) : (
-        <div className="absolute inset-x-0 top-[6%] bottom-[38%] md:bottom-[8%] md:left-[40%] md:right-[3%]">
-          <FloatingScene animate={!reduce} layout="cluster" />
-        </div>
       )}
     </div>
   );
