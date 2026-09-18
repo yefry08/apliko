@@ -6,10 +6,10 @@ import dynamic from "next/dynamic";
 import { useEffect, useState, useSyncExternalStore } from "react";
 import { cn } from "@/lib/utils";
 
-/** Spline scene (Export > Code > React). NEXT_PUBLIC_SPLINE_SCENE overrides it; set it empty to use only the site's scene. */
+/** Spline scene (.splinecode URL). NEXT_PUBLIC_SPLINE_SCENE overrides it; set it empty to use only the site's scene. */
 const SPLINE_SCENE = process.env.NEXT_PUBLIC_SPLINE_SCENE ?? "https://prod.spline.design/5UBTi7908RRL5Wdp/scene.splinecode";
 
-const Spline = dynamic(() => import("@splinetool/react-spline"), { ssr: false });
+const SplineCanvas = dynamic(() => import("./spline-canvas"), { ssr: false });
 const FloatingScene = dynamic(() => import("./floating-scene"), { ssr: false });
 
 const DESKTOP = "(min-width: 1024px)";
@@ -45,7 +45,8 @@ export function HeroScene() {
   const desktop = useIsDesktop();
   const [app, setApp] = useState<Application | null>(null);
   const loaded = app !== null;
-  const spline = desktop && !!SPLINE_SCENE;
+  // Reduced motion keeps the site's own scene, which can hold still.
+  const spline = desktop && !reduce && !!SPLINE_SCENE;
   // The scene ships with its own light background; let the site's night-blue show through.
   useEffect(() => {
     app?.setBackgroundColor("transparent");
@@ -74,7 +75,7 @@ export function HeroScene() {
             loaded ? "opacity-100" : "opacity-0",
           )}
         >
-          <Spline scene={SPLINE_SCENE} renderOnDemand={!!reduce} onLoad={setApp} />
+          <SplineCanvas scene={SPLINE_SCENE} onLoad={setApp} />
         </div>
       )}
     </div>
