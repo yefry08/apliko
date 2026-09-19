@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { SiteFooter, SiteHeader } from "@/components/site-chrome";
 import { opportunities, sortForDisplay } from "@/lib/opportunities";
+import { AREA_BY_ID } from "@/lib/areas";
 import { Catalog, type CatalogFilters } from "./catalog";
 
 export const revalidate = 3600;
@@ -23,6 +24,7 @@ export default async function BecasPage(props: PageProps<"/becas">) {
     fondos: one(sp.fondos),
     destino: one(sp.destino),
     categoria: ["becas", "fondos"].includes(one(sp.categoria)) ? one(sp.categoria) : "",
+    area: AREA_BY_ID.has(one(sp.area)) ? one(sp.area) : "",
     vista: one(sp.vista) === "tabla" ? "tabla" : "tarjetas",
   };
 

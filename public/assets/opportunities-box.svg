@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!--
+    Open archive box, right-facing, on a square 800×800 canvas. Corner positions match the
+    original "MY WORKS" artwork so the clip-path masks in app/portada.css stay calibrated:
+    front panel (35,345)–(572,462)–(572,770)–(35,622); back rim (313,68)–(747,110);
+    right side down to (748,494).
+  -->
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="7" result="noise" />
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.09  0 0 0 0 0.25  0 0 0 0.55 -0.12" result="specks" />
+      <feComposite in="specks" in2="SourceGraphic" operator="in" />
+    </filter>
+    <filter id="stipple" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.4" numOctaves="2" seed="3" result="n" />
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.07  0 0 0 0 0.2  0 0 0 1.6 -0.55" result="dots" />
+      <feComposite in="dots" in2="SourceGraphic" operator="in" />
+    </filter>
+    <linearGradient id="backWall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2451D8" />
+      <stop offset="1" stop-color="#1D44C4" />
+    </linearGradient>
+    <linearGradient id="front" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2F66EC" />
+      <stop offset="1" stop-color="#2657DF" />
+    </linearGradient>
+    <linearGradient id="side" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2A5EE6" />
+      <stop offset="1" stop-color="#2D63EA" />
+    </linearGradient>
+  </defs>
+
+  <!-- ground shadow (part of the artwork, like the original) -->
+  <polygon points="748,470 796,505 628,790 578,772" fill="#101a3d" opacity="0.55" filter="url(#stipple)" />
+
+  <!-- interior: left inner wall, back inner wall -->
+  <polygon points="35,345 313,68 313,390 120,362" fill="#1A3DB5" />
+  <polygon points="313,68 747,110 572,462 313,390" fill="url(#backWall)" />
+  <polygon points="35,345 313,68 313,390 120,362" fill="#000" filter="url(#grain)" opacity="0.5" />
+  <polygon points="313,68 747,110 572,462 313,390" fill="#000" filter="url(#grain)" opacity="0.5" />
+  <line x1="313" y1="70" x2="313" y2="388" stroke="#0E1A3A" stroke-width="4" stroke-linecap="round" opacity="0.85" />
+
+  <!-- right side panel -->
+  <polygon points="572,462 747,110 748,494 573,770" fill="url(#side)" />
+  <polygon points="572,462 747,110 748,494 573,770" fill="#000" filter="url(#grain)" opacity="0.6" />
+
+  <!-- front panel -->
+  <polygon points="35,345 572,462 572,770 35,622" fill="url(#front)" />
+  <polygon points="35,345 572,462 572,770 35,622" fill="#000" filter="url(#grain)" opacity="0.6" />
+
+  <!-- rim highlights -->
+  <polyline points="38,344 313,70 745,112" fill="none" stroke="#7FA2FF" stroke-width="3" stroke-linecap="round" opacity="0.9" />
+  <line x1="40" y1="350" x2="568" y2="465" stroke="#6F95FF" stroke-width="3" stroke-linecap="round" opacity="0.9" />
+  <line x1="578" y1="458" x2="742" y2="118" stroke="#8FB0FF" stroke-width="3" stroke-linecap="round" opacity="0.9" />
+
+  <!-- outlines -->
+  <g fill="none" stroke="#0E1A3A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <polygon points="35,345 572,462 572,770 35,622" />
+    <polygon points="572,462 747,110 748,494 573,770" />
+    <polyline points="35,345 313,68 747,110" />
+  </g>
+
+  <!-- hand hole, drawn on the front panel's slope (≈12.3°) -->
+  <g transform="translate(286 490) skewY(12.3)">
+    <rect x="-79" y="-26" width="158" height="52" rx="18" fill="#0E1A3A" />
+    <path d="M -70 14 Q -70 22 -60 22 L 60 22 Q 70 22 70 14 L 70 20 Q 70 26 62 26 L -62 26 Q -70 26 -70 20 Z" fill="#D98A45" />
+    <rect x="-79" y="-26" width="158" height="52" rx="18" fill="none" stroke="#0E1A3A" stroke-width="5" />
+  </g>
+
+  <!-- label, painted on the same slope -->
+  <g transform="translate(290 598) skewY(12.3)">
+    <rect x="-132" y="-34" width="264" height="68" rx="6" fill="#FBF3DD" stroke="#0E1A3A" stroke-width="4" />
+    <text x="0" y="12" text-anchor="middle" font-family="'Arial Narrow', 'Roboto Condensed', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="32" letter-spacing="0.5" fill="#1B2745" textLength="228" lengthAdjust="spacingAndGlyphs">OPPORTUNITIES</text>
+  </g>
+</svg>

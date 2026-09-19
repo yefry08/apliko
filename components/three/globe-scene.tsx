@@ -18,9 +18,11 @@ interface GlobeSceneProps {
 }
 
 const R = 1;
-const BONE = "#E1E0CC";
-const LARIMAR = "#7CC6E4";
+// Day palette for the white portada: navy lattice, cobalt routes, coral origin.
+const NAVY = "#18203A";
+const COBALT = "#3054DE";
 const CORAL = "#E8566A";
+const SURFACE = "#EDF3FF";
 
 function toVec3(lat: number, lng: number, r = R) {
   const phi = ((90 - lat) * Math.PI) / 180;
@@ -47,7 +49,7 @@ function DotSphere() {
 
   return (
     <points geometry={geometry}>
-      <pointsMaterial color={BONE} size={0.012} transparent opacity={0.35} sizeAttenuation />
+      <pointsMaterial color={NAVY} size={0.012} transparent opacity={0.28} sizeAttenuation />
     </points>
   );
 }
@@ -74,7 +76,7 @@ function Arc({ to, weight, index, animate }: { to: THREE.Vector3; weight: number
       // drei's Line ref exposes the Line2 object; only the material offset is touched here
       ref={lineRef as never}
       points={points}
-      color={LARIMAR}
+      color={COBALT}
       lineWidth={Math.min(1 + weight * 0.25, 3)}
       transparent
       opacity={0.85}
@@ -115,11 +117,11 @@ function Marker({
         }}
       >
         <sphereGeometry args={[hover ? 0.032 : 0.022, 16, 16]} />
-        <meshBasicMaterial color={hover ? BONE : LARIMAR} />
+        <meshBasicMaterial color={hover ? NAVY : COBALT} />
       </mesh>
       {hover && (
         <Html center style={{ pointerEvents: "none" }} zIndexRange={[10, 0]}>
-          <div className="translate-y-[-18px] whitespace-nowrap rounded-full bg-black/80 px-2 py-0.5 font-mono text-[10px] text-[#E1E0CC]">
+          <div className="translate-y-[-18px] whitespace-nowrap rounded-full bg-[#18203A] px-2 py-0.5 font-mono text-[10px] text-white">
             {label} · {count}
           </div>
         </Html>
@@ -183,7 +185,7 @@ function Globe({ destinations, onSelect, animate }: Required<Omit<GlobeSceneProp
     <group ref={group} rotation={[0.28, BASE, 0]}>
       <mesh>
         <sphereGeometry args={[R, 64, 64]} />
-        <meshStandardMaterial color="#0c1a2c" roughness={0.9} metalness={0.1} />
+        <meshStandardMaterial color={SURFACE} roughness={0.9} metalness={0.05} />
       </mesh>
       <DotSphere />
       <Origin />
@@ -206,7 +208,7 @@ export default function GlobeScene({ destinations, onSelect, animate = true }: G
       gl={{ antialias: true, alpha: true }}
     >
       <ambientLight intensity={0.6} />
-      <directionalLight position={[3, 2, 4]} intensity={1.2} color={LARIMAR} />
+      <directionalLight position={[3, 2, 4]} intensity={0.9} color="#ffffff" />
       <Globe destinations={destinations} onSelect={onSelect} animate={animate} />
     </Canvas>
   );

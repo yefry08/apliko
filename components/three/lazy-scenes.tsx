@@ -15,7 +15,7 @@ const FloatingScene = dynamic(() => import("./floating-scene"), { ssr: false });
 function GlobePlaceholder() {
   return (
     <div className="flex h-full w-full items-center justify-center" aria-hidden="true">
-      <div className="aspect-square w-[62%] rounded-full bg-[radial-gradient(circle_at_35%_35%,#12243a,#07111f_70%)] shadow-[0_0_80px_-20px_#7CC6E4]" />
+      <div className="aspect-square w-[62%] rounded-full bg-[radial-gradient(circle_at_35%_35%,#ffffff,#EDF3FF_70%)] shadow-[0_0_80px_-30px_#3054DE]" />
     </div>
   );
 }

@@ -13,6 +13,7 @@ import {
   type Profile,
 } from "@/lib/logic";
 import type { Funding, Level, Opportunity } from "@/lib/types";
+import { AREA_BY_ID, AREAS } from "@/lib/areas";
 import { useApliko } from "@/lib/store";
 import { cn } from "@/lib/utils";
 
@@ -24,6 +25,7 @@ export interface CatalogFilters {
   fondos: string;
   destino: string;
   categoria: string;
+  area: string;
   vista: "tarjetas" | "tabla";
 }
 
@@ -122,6 +124,7 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
       if (f.destino && !o.destinations.includes(f.destino)) return false;
       if (f.categoria === "becas" && o.source === "financiamiento") return false;
       if (f.categoria === "fondos" && o.source !== "financiamiento") return false;
+      if (f.area && !AREA_BY_ID.get(f.area)?.matches(o)) return false;
       if (profile && eligibilityFor(o, profile) === "no-elegible") return false;
       if (q) {
         const hay = normalize([o.name, o.sponsor, o.audience, o.notes, ...o.areas, ...o.types, ...o.destinations].join(" "));
@@ -136,7 +139,7 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
     [items, profile],
   );
 
-  const activeFilters = [f.q, f.perfil, f.nivel, f.fondos, f.destino, f.categoria].filter(Boolean).length + (f.estado !== "vigentes" ? 1 : 0);
+  const activeFilters = [f.q, f.perfil, f.nivel, f.fondos, f.destino, f.categoria, f.area].filter(Boolean).length + (f.estado !== "vigentes" ? 1 : 0);
   const shown = filtered.slice(0, limit);
 
   return (
@@ -162,7 +165,7 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
         </div>
       </fieldset>
 
-      <div className="grid grid-cols-1 gap-3 rounded-2xl border bg-card/50 p-4 sm:grid-cols-2 lg:grid-cols-[2fr_repeat(5,1fr)]">
+      <div className="grid grid-cols-1 gap-3 rounded-2xl border bg-card/50 p-4 sm:grid-cols-2 lg:grid-cols-[2fr_repeat(6,1fr)]">
         <div className="flex min-w-0 flex-col gap-1.5">
           <label htmlFor="q" className="eyebrow">
             Buscar
@@ -222,6 +225,14 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
             ["fondos", "Fondos y premios"],
           ]}
         />
+        <FilterSelect
+          id="area"
+          label="Área"
+          value={f.area}
+          onChange={(v) => set({ area: v })}
+          placeholder="Todas"
+          options={AREAS.map((a) => [a.id, a.title] as [string, string])}
+        />
       </div>
 
       <div className="flex flex-wrap items-center justify-between gap-3">
@@ -231,7 +242,7 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
           {activeFilters > 0 && (
             <button
               type="button"
-              onClick={() => set({ q: "", perfil: "", estado: "vigentes", nivel: "", fondos: "", destino: "", categoria: "" })}
+              onClick={() => set({ q: "", perfil: "", estado: "vigentes", nivel: "", fondos: "", destino: "", categoria: "", area: "" })}
               className="ml-3 inline-flex items-center gap-1 text-larimar hover:underline"
             >
               <X className="size-3.5" aria-hidden="true" /> Quitar filtros
