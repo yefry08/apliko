@@ -106,12 +106,10 @@ export default function Home() {
             <li>
               <Link href="/mis-becas">Mis becas</Link>
             </li>
-            <li>
-              <a className="nav-cta" href="#contact">
-                Encuentra tu beca ↗
-              </a>
-            </li>
           </ul>
+          <a className="nav-cta" href="#contact">
+            Encuentra tu beca ↗
+          </a>
         </nav>
 
         <header className="hero" id="top">
