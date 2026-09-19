@@ -43,11 +43,15 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
 
 - `lib/logic.ts`: estado, etiquetas y reglas de elegibilidad (sin datos, se puede usar en el cliente).
 - `lib/opportunities.ts`: datos y consultas (solo servidor).
-- `components/ui/prisma-hero.tsx`: hero. Su fondo es `components/three/hero-scene.tsx`:
-  - en pantallas de 1024 px o más, la escena de Spline (cubos azules), con fondo transparente y en la columna
-    derecha. Se carga con `components/three/spline-canvas.tsx`, que fuerza WebGL: el WebGPU que Spline elige
-    por defecto llena la consola de errores. Otra escena: `NEXT_PUBLIC_SPLINE_SCENE`.
-  - en móvil, o con movimiento reducido, la escena 3D propia (birrete y sobre), mucho más liviana.
+- `app/page.tsx` + `app/portada.css`: la portada blanca. Toda su hoja de estilos está en `portada.css`;
+  redefine los tokens del sitio dentro de `.portfolio`, así las piezas compartidas (tarjetas, footer) se ven claras.
+- `lib/areas.ts`: las 8 áreas (colores de carpeta y tarjeta, y la regla que decide qué oportunidad entra en cada una).
+  Las usan la portada y el filtro "Área" del catálogo (`/becas?area=clima`).
+- `components/portada/area-explorer.tsx`: la lista de áreas, la caja con las 8 carpetas y el diálogo nativo.
+  La caja es `public/assets/opportunities-box.svg`, usada dos veces: detrás de las carpetas y, recortada, delante.
+  Las máscaras `clip-path` de `portada.css` dependen de la geometría de ese SVG (lienzo cuadrado de 800 px).
+- `components/three/hero-scene.tsx`: el arte del hero. En pantallas de 1024 px o más, la escena de Spline con fondo
+  transparente (`spline-canvas.tsx` fuerza WebGL); en móvil o con movimiento reducido, la escena 3D propia.
 - `components/three/`: globo con rutas y escena flotante (React Three Fiber, carga diferida).
 - `components/deadline-marquee.tsx`: carrusel continuo con las 5 oportunidades que cierran antes.
 - `lib/store.ts`: becas guardadas, etapa de cada postulación y perfil, en `localStorage` (clave `apliko:v1`).
