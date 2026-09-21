@@ -9,8 +9,8 @@ const mono = JetBrains_Mono({ variable: "--font-mono-face", subsets: ["latin"] }
 
 export const metadata: Metadata = {
   title: {
-    default: "Apliko · Becas para dominicanos y latinos",
-    template: "%s · Apliko",
+    default: "ApliKo · Becas para dominicanos y latinos",
+    template: "%s · ApliKo",
   },
   description:
     "Becas, fellowships e internships verificados para estudiantes dominicanos y latinos. Filtra por tu ciudadanía y descubre a cuáles sí puedes postular.",

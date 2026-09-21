@@ -1,4 +1,4 @@
-# Apliko
+# ApliKo
 
 Becas, fellowships e internships para estudiantes dominicanos y latinos, con filtro de elegibilidad por ciudadanía.
 
@@ -47,6 +47,8 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
   redefine los tokens del sitio dentro de `.portfolio`, así las piezas compartidas (tarjetas, footer) se ven claras.
 - `lib/areas.ts`: las 8 áreas (colores de carpeta y tarjeta, y la regla que decide qué oportunidad entra en cada una).
   Las usan la portada y el filtro "Área" del catálogo (`/becas?area=clima`).
+- `components/portada/keycaps.tsx`: el logotipo ApliKo en teclas. Cada tecla es un área (las dos últimas toman
+  la forma de la tecla enter y la tecla lateral) y lleva al catálogo filtrado.
 - `components/portada/area-explorer.tsx`: la lista de áreas, la caja con las 8 carpetas y el diálogo nativo.
   La caja es `public/assets/opportunities-box.svg`, usada dos veces: detrás de las carpetas y, recortada, delante.
   Las máscaras `clip-path` de `portada.css` dependen de la geometría de ese SVG (lienzo cuadrado de 800 px).

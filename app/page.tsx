@@ -3,6 +3,7 @@ import Link from "next/link";
 import { DeadlineMarquee } from "@/components/deadline-marquee";
 import { deadlineText } from "@/components/opportunity-bits";
 import { AreaExplorer, type AreaSummary } from "@/components/portada/area-explorer";
+import { Keycaps } from "@/components/portada/keycaps";
 import { SiteFooter } from "@/components/site-chrome";
 import { HeroScene } from "@/components/three/hero-scene";
 import { LazyGlobe } from "@/components/three/lazy-scenes";
@@ -94,7 +95,7 @@ export default function Home() {
       <main className={`portfolio ${serif.variable}`}>
         <nav className="portfolio-nav" aria-label="Principal">
           <a className="brand" href="#top">
-            apliko<span>.</span>
+            ApliKo<span>.</span>
           </a>
           <ul className="nav-links" role="list">
             <li>
@@ -144,6 +145,7 @@ export default function Home() {
             </dl>
           </div>
           <HeroScene />
+          <Keycaps />
         </header>
 
         <header className="portfolio-heading" id="areas">
@@ -202,7 +204,7 @@ export default function Home() {
 
         <section className="design-process" id="process" aria-labelledby="process-title">
           <div className="process-header">
-            <h2 id="process-title">Cómo funciona Apliko</h2>
+            <h2 id="process-title">Cómo funciona ApliKo</h2>
             <p>Dinos quién eres. Filtra lo que aplica. Postula a tiempo.</p>
           </div>
           <div className="process-frame">

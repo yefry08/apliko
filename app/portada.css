@@ -277,6 +277,87 @@ html:has(.case-overlay[open]) {
   translate: -50% -50%;
 }
 
+/* ------------------------------------------------------------------ keycaps */
+
+/*
+ * "ApliKo" spelled in keycaps: the wordmark doubles as the shortcut to each area.
+ * Colours come from lib/areas.ts as --key; the shape lives here.
+ */
+.keycaps {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 6px;
+}
+
+.keycap {
+  --edge: 7px;
+  flex: 1 1 108px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 132px;
+  padding: 14px 14px 12px;
+  border: 3px solid var(--navy);
+  border-radius: 16px;
+  background: var(--key);
+  box-shadow: 0 var(--edge) 0 var(--navy);
+  color: var(--navy);
+  text-decoration: none;
+  transition:
+    translate 120ms ease,
+    box-shadow 120ms ease;
+}
+
+/* The key is pressed: it sinks onto its own edge. */
+.keycap:hover,
+.keycap:focus-visible {
+  --edge: 2px;
+  translate: 0 5px;
+}
+
+.keycap-glyph {
+  font-family: var(--sans);
+  font-size: clamp(2.3rem, 3.6vw, 3.6rem);
+  font-weight: 700;
+  line-height: 0.85;
+  letter-spacing: -1.5px;
+}
+
+.keycap-label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: rgba(24, 32, 58, 0.64);
+}
+
+/* Enter key: wider, with the glyph in the corner a real one uses. The cap keeps it from
+   stretching across a whole row of its own when the word wraps above it. */
+.keycap--wide {
+  flex: 1.5 1 150px;
+  max-width: 260px;
+}
+
+.keycap--wide .keycap-glyph {
+  align-self: flex-end;
+}
+
+/* Side key: narrow, so its label runs up the cap. */
+.keycap--slim {
+  flex: 0 0 62px;
+  align-items: center;
+  justify-content: center;
+}
+
+.keycap--slim .keycap-label {
+  writing-mode: vertical-rl;
+  rotate: 180deg;
+}
+
 /* ------------------------------------------------------------------ area heading */
 
 .portfolio-heading {
@@ -931,6 +1012,11 @@ html:has(.case-overlay[open]) {
   .hero-stats {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .keycap {
+    flex-basis: 92px;
+    min-height: 114px;
+  }
 }
 
 @media (max-width: 619px) {
@@ -944,6 +1030,30 @@ html:has(.case-overlay[open]) {
 
   .brand {
     font-size: 30px;
+  }
+
+  .keycaps {
+    gap: 9px;
+  }
+
+  .keycap {
+    flex-basis: 76px;
+    gap: 8px;
+    min-height: 94px;
+    padding: 11px 10px 10px;
+    border-radius: 13px;
+  }
+
+  .keycap-label {
+    font-size: 0.55rem;
+  }
+
+  .keycap--wide {
+    flex: 1.4 1 104px;
+  }
+
+  .keycap--slim {
+    flex: 0 0 50px;
   }
 
   /* Two rows: brand and button, then the links. */
@@ -1044,6 +1154,7 @@ html:has(.case-overlay[open]) {
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .keycap,
   .project-folder,
   .hero-scene__spline {
     transition: none;

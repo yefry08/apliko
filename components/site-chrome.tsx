@@ -7,7 +7,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-30 border-b bg-background/85 backdrop-blur">
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
         <Link href="/" className="font-display text-xl font-medium tracking-tight">
-          Apliko<span className="text-larimar">*</span>
+          ApliKo<span className="text-larimar">*</span>
         </Link>
         <nav aria-label="Principal" className="flex items-center gap-5 text-sm text-muted-foreground">
           <Link href="/becas" className="hover:text-foreground">
@@ -33,7 +33,7 @@ export function SiteFooter() {
       <div className="mx-auto grid max-w-7xl gap-6 px-4 py-10 text-sm text-muted-foreground sm:px-6 md:grid-cols-[1fr_auto]">
         <div className="flex max-w-2xl flex-col gap-2">
           <p className="font-display text-lg text-foreground">
-            Apliko<span className="text-larimar">*</span>
+            ApliKo<span className="text-larimar">*</span>
           </p>
           <p>
             * Cada ficha resume información pública. Confirma siempre fechas y requisitos en el sitio oficial antes de postular:
