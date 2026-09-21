@@ -18,7 +18,7 @@ export default function MisBecasPage() {
       <main className="mx-auto flex w-full max-w-7xl flex-col gap-8 px-4 py-12 sm:px-6">
         <div className="flex max-w-3xl flex-col gap-3">
           <p className="eyebrow">Seguimiento</p>
-          <h1 className="font-display text-5xl font-medium tracking-tight md:text-6xl">Mis becas</h1>
+          <h1 className="font-display text-5xl tracking-tight md:text-6xl">Mis becas</h1>
           <p className="text-muted-foreground">
             Mueve cada beca según avanzas y anota lo que te falta. Añade las fechas a tu calendario para que te avise antes
             de que cierren.

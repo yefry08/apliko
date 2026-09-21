@@ -40,7 +40,7 @@ function Arrow() {
  * Area list + archive box + case dialog. One piece of state (`active`) drives both the pill
  * highlight and the matching folder, so hover and focus stay in sync in either direction.
  */
-export function AreaExplorer({ areas, dialogClassName }: { areas: AreaSummary[]; dialogClassName?: string }) {
+export function AreaExplorer({ areas }: { areas: AreaSummary[] }) {
   const [active, setActive] = useState<string | null>(null);
   const [openId, setOpenId] = useState<string | null>(null);
   const dialog = useRef<HTMLDialogElement>(null);
@@ -146,7 +146,7 @@ export function AreaExplorer({ areas, dialogClassName }: { areas: AreaSummary[];
           <dialog
             id="case-overlay"
             ref={dialog}
-            className={`case-overlay ${dialogClassName ?? ""}`}
+            className="case-overlay"
             aria-labelledby="case-title"
             onClose={onClose}
             onClick={(e) => {

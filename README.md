@@ -43,8 +43,9 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
 
 - `lib/logic.ts`: estado, etiquetas y reglas de elegibilidad (sin datos, se puede usar en el cliente).
 - `lib/opportunities.ts`: datos y consultas (solo servidor).
-- `app/page.tsx` + `app/portada.css`: la portada blanca. Toda su hoja de estilos está en `portada.css`;
-  redefine los tokens del sitio dentro de `.portfolio`, así las piezas compartidas (tarjetas, footer) se ven claras.
+- `app/globals.css`: la paleta (blanco, navy `#18203A`, cobalto `#3054DE`) y las fuentes (Instrument Serif y Satoshi)
+  de todo el sitio. Es la única fuente de colores y tipografía; `app/layout.tsx` carga las fuentes.
+- `app/page.tsx` + `app/portada.css`: la portada. `portada.css` solo tiene el diseño de sus secciones y usa los tokens globales.
 - `lib/areas.ts`: las 8 áreas (colores de carpeta y tarjeta, y la regla que decide qué oportunidad entra en cada una).
   Las usan la portada y el filtro "Área" del catálogo (`/becas?area=clima`).
 - `components/portada/keycaps.tsx`: el logotipo ApliKo en teclas. Cada tecla es un área (las dos últimas toman

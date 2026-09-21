@@ -1,4 +1,3 @@
-import { Instrument_Serif } from "next/font/google";
 import Link from "next/link";
 import { DeadlineMarquee } from "@/components/deadline-marquee";
 import { deadlineText } from "@/components/opportunity-bits";
@@ -24,8 +23,6 @@ import "./portada.css";
 
 // Status depends on today's date, so refresh hourly.
 export const revalidate = 3600;
-
-const serif = Instrument_Serif({ weight: "400", style: ["normal", "italic"], subsets: ["latin"], variable: "--font-instrument" });
 
 const PROFILES: Profile[] = ["rd", "latam", "eeuu-ciudadano", "eeuu-residente", "daca"];
 
@@ -89,10 +86,7 @@ export default function Home() {
 
   return (
     <>
-      <link rel="preconnect" href="https://api.fontshare.com" />
-      <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700&display=swap" precedence="default" />
-
-      <main className={`portfolio ${serif.variable}`}>
+      <main className="portfolio">
         <nav className="portfolio-nav" aria-label="Principal">
           <a className="brand" href="#top">
             ApliKo<span>.</span>
@@ -153,7 +147,7 @@ export default function Home() {
           <p>Ocho carpetas, una por área. Ábrela para ver qué cierra pronto y entrar al catálogo filtrado.</p>
         </header>
 
-        <AreaExplorer areas={areas} dialogClassName={serif.variable} />
+        <AreaExplorer areas={areas} />
 
         <section className="deadlines" aria-labelledby="deadlines-title">
           <div className="section-header">
@@ -237,9 +231,7 @@ export default function Home() {
         </section>
       </main>
 
-      <div className="portfolio-footer">
-        <SiteFooter />
-      </div>
+      <SiteFooter />
     </>
   );
 }

@@ -4,12 +4,12 @@ import { SavedCount } from "./save-button";
 
 export function SiteHeader() {
   return (
-    <header className="sticky top-0 z-30 border-b bg-background/85 backdrop-blur">
-      <div className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
-        <Link href="/" className="font-display text-xl font-medium tracking-tight">
-          ApliKo<span className="text-larimar">*</span>
+    <header className="sticky top-0 z-30 border-b bg-background/90 backdrop-blur">
+      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
+        <Link href="/" className="font-display text-3xl leading-none tracking-tight">
+          ApliKo<span className="text-larimar">.</span>
         </Link>
-        <nav aria-label="Principal" className="flex items-center gap-5 text-sm text-muted-foreground">
+        <nav aria-label="Principal" className="flex items-center gap-5 text-sm font-medium text-foreground">
           <Link href="/becas" className="hover:text-foreground">
             Becas
           </Link>

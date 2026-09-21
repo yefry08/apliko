@@ -1,54 +1,9 @@
 /*
- * Portada de Apliko. Única fuente de estilos de la portada, ordenada por sección.
- * Los colores de cada área (carpeta, tarjeta, número) vienen de lib/areas.ts como
- * variables en línea; la geometría de las carpetas vive aquí.
+ * Portada de ApliKo, ordenada por sección. La paleta y las fuentes (--navy, --cobalt,
+ * --serif, --sans...) son las del sitio, en app/globals.css. Los colores de cada área
+ * (carpeta, tarjeta, número) vienen de lib/areas.ts como variables en línea; la geometría
+ * de las carpetas vive aquí.
  */
-
-/* ------------------------------------------------------------------ tokens */
-
-.portfolio,
-.portfolio-footer,
-.case-overlay {
-  --navy: #18203a;
-  --cobalt: #3054de;
-  --ink-muted: #536083;
-  --line: rgba(24, 32, 58, 0.14);
-  --serif: var(--font-instrument), "Instrument Serif", Georgia, serif;
-  --sans: "Satoshi", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
-
-  /* Shared components (carousel cards, footer) read the site tokens: re-tint them for white. */
-  --background: #ffffff;
-  --foreground: var(--navy);
-  --card: #ffffff;
-  --card-foreground: var(--navy);
-  --popover: #ffffff;
-  --popover-foreground: var(--navy);
-  --primary: var(--navy);
-  --primary-foreground: #ffffff;
-  --secondary: #f4f5f8;
-  --secondary-foreground: var(--navy);
-  --muted: #f4f5f8;
-  --muted-foreground: var(--ink-muted);
-  --accent: #f4f5f8;
-  --accent-foreground: var(--navy);
-  --border: rgba(24, 32, 58, 0.12);
-  --input: rgba(24, 32, 58, 0.16);
-  --ring: var(--cobalt);
-  --larimar: var(--cobalt);
-  --palm: #2f8a57;
-  --amber: #9d7720;
-  --coral: #d23c55;
-
-  color-scheme: light;
-  color: var(--navy);
-  font-family: var(--sans);
-}
-
-html:has(.portfolio),
-html:has(.portfolio) body {
-  background: #ffffff;
-  color-scheme: light;
-}
 
 /* Keep the page still behind the open dialog. */
 html:has(.case-overlay[open]) {
@@ -975,12 +930,6 @@ html:has(.case-overlay[open]) {
   color: var(--cobalt);
   font-size: 0.92rem;
   font-weight: 500;
-}
-
-/* ------------------------------------------------------------------ footer */
-
-.portfolio-footer {
-  background: #ffffff;
 }
 
 /* ------------------------------------------------------------------ responsive */

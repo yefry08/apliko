@@ -10,7 +10,6 @@ const GlobeScene = dynamic(() => import("./globe-scene"), {
   ssr: false,
   loading: () => <GlobePlaceholder />,
 });
-const FloatingScene = dynamic(() => import("./floating-scene"), { ssr: false });
 
 function GlobePlaceholder() {
   return (
@@ -49,16 +48,6 @@ export function LazyGlobe({ destinations }: { destinations: GlobeDestination[] }
       ) : (
         <GlobePlaceholder />
       )}
-    </div>
-  );
-}
-
-export function LazyFloating() {
-  const reduce = useReducedMotion();
-  const [ref, near] = useNearViewport<HTMLDivElement>();
-  return (
-    <div ref={ref} className="h-full w-full" aria-hidden="true">
-      {near && <FloatingScene animate={!reduce} />}
     </div>
   );
 }

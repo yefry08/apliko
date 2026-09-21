@@ -34,7 +34,7 @@ export default async function BecasPage(props: PageProps<"/becas">) {
       <main className="mx-auto flex w-full max-w-7xl flex-col gap-8 px-4 py-12 sm:px-6">
         <div className="flex max-w-3xl flex-col gap-3">
           <p className="eyebrow">Catálogo</p>
-          <h1 className="font-display text-5xl font-medium tracking-tight md:text-6xl">Becas y oportunidades</h1>
+          <h1 className="font-display text-5xl tracking-tight md:text-6xl">Becas y oportunidades</h1>
           <p className="text-muted-foreground">
             Elige tu situación para ver a cuáles puedes postular. Por defecto ocultamos las que ya cerraron, pero muchas vuelven a
             abrir cada año.

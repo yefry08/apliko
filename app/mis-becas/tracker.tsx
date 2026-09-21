@@ -63,7 +63,7 @@ export function Tracker({ items }: { items: Opportunity[] }) {
           {STAGES.map((s) => (
             <div key={s.id} className="flex flex-col">
               <dt className="eyebrow">{s.label}</dt>
-              <dd className="font-display text-3xl font-medium tabular-nums">{saved.filter(({ t }) => t.stage === s.id).length}</dd>
+              <dd className="font-display text-3xl tabular-nums">{saved.filter(({ t }) => t.stage === s.id).length}</dd>
             </div>
           ))}
         </dl>
@@ -110,7 +110,7 @@ export function Tracker({ items }: { items: Opportunity[] }) {
           return (
             <section key={stage.id} aria-labelledby={`col-${stage.id}`} className="flex flex-col gap-3 rounded-2xl border bg-card/30 p-3">
               <header className="flex items-baseline justify-between px-1">
-                <h2 id={`col-${stage.id}`} className="font-display text-lg font-medium">
+                <h2 id={`col-${stage.id}`} className="font-display text-lg">
                   {stage.label}
                 </h2>
                 <span className="text-xs text-muted-foreground">{stage.hint}</span>

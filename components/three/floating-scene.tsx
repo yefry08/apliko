@@ -3,10 +3,10 @@
 import { Float } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 
-const BONE = "#E1E0CC";
-const LARIMAR = "#7CC6E4";
-const CORAL = "#E8566A";
-const NAVY = "#12243a";
+const NAVY = "#18203A";
+const COBALT = "#3054DE";
+const CORAL = "#FF7869";
+const LIME = "#C8FF48";
 
 /** A graduation cap built from primitives: board, crown and tassel. */
 function Mortarboard({ color = NAVY, tassel = CORAL }: { color?: string; tassel?: string }) {
@@ -33,7 +33,7 @@ function Mortarboard({ color = NAVY, tassel = CORAL }: { color?: string; tassel?
 }
 
 /** An acceptance letter: envelope body plus a folded flap. */
-function Envelope({ color = BONE }: { color?: string }) {
+function Envelope({ color = LIME }: { color?: string }) {
   return (
     <group>
       <mesh>
@@ -42,7 +42,7 @@ function Envelope({ color = BONE }: { color?: string }) {
       </mesh>
       <mesh position={[0, 0.12, 0.025]} rotation={[0, 0, Math.PI / 4]} scale={[1, 1, 0.1]}>
         <boxGeometry args={[0.52, 0.52, 0.1]} />
-        <meshStandardMaterial color={LARIMAR} roughness={0.7} />
+        <meshStandardMaterial color={NAVY} roughness={0.7} />
       </mesh>
     </group>
   );
@@ -50,31 +50,22 @@ function Envelope({ color = BONE }: { color?: string }) {
 
 type Piece = { kind: "cap" | "envelope"; color?: string; tassel?: string; position: [number, number, number]; rotation: [number, number, number]; scale: number; speed: number; rot: number; float: number };
 
-// Around the CTA copy: pieces sit at the edges of a wide box.
-const EDGES: Piece[] = [
-  { kind: "cap", position: [-3.1, 1.1, 0], rotation: [0.5, 0.3, -0.2], scale: 0.9, speed: 1, rot: 1.2, float: 1.4 },
-  { kind: "envelope", position: [3.2, -0.9, -0.5], rotation: [0.2, -0.6, 0.3], scale: 0.8, speed: 0.8, rot: 1, float: 1.8 },
-  { kind: "cap", color: LARIMAR, tassel: BONE, position: [2.6, 1.6, -1.5], rotation: [0.7, -0.4, 0.4], scale: 0.6, speed: 1.1, rot: 1.4, float: 1.2 },
-  { kind: "envelope", color: CORAL, position: [-2.7, -1.5, -1], rotation: [-0.3, 0.5, -0.2], scale: 0.55, speed: 0.9, rot: 0.8, float: 1.5 },
-];
-
-// Hero: one cluster in the middle of its own canvas, bigger, so it reads at any aspect ratio.
-const CLUSTER: Piece[] = [
+// One cluster in the middle of its own canvas, so it reads at any aspect ratio.
+const PIECES: Piece[] = [
   { kind: "cap", position: [0.1, 0.55, 0], rotation: [0.55, 0.35, -0.15], scale: 1.35, speed: 0.9, rot: 0.9, float: 1.1 },
   { kind: "envelope", position: [-1.15, -1.05, 0.4], rotation: [0.25, 0.5, -0.25], scale: 0.95, speed: 0.75, rot: 0.8, float: 1.3 },
-  { kind: "cap", color: LARIMAR, tassel: BONE, position: [1.35, -0.55, -0.9], rotation: [0.7, -0.5, 0.35], scale: 0.7, speed: 1.1, rot: 1.2, float: 1.2 },
+  { kind: "cap", color: COBALT, tassel: LIME, position: [1.35, -0.55, -0.9], rotation: [0.7, -0.5, 0.35], scale: 0.7, speed: 1.1, rot: 1.2, float: 1.2 },
   { kind: "envelope", color: CORAL, position: [1.1, 1.65, -1.4], rotation: [-0.3, -0.4, 0.2], scale: 0.55, speed: 0.95, rot: 0.9, float: 1.4 },
 ];
 
-export default function FloatingScene({ animate = true, layout = "edges" }: { animate?: boolean; layout?: "edges" | "cluster" }) {
+export default function FloatingScene({ animate = true }: { animate?: boolean }) {
   const speed = animate ? 1.4 : 0;
-  const pieces = layout === "cluster" ? CLUSTER : EDGES;
   return (
     <Canvas dpr={[1, 1.5]} camera={{ position: [0, 0, 6], fov: 45 }} frameloop={animate ? "always" : "demand"} gl={{ alpha: true }}>
       <ambientLight intensity={0.7} />
       <directionalLight position={[4, 5, 5]} intensity={1.6} />
-      <pointLight position={[-4, -2, 3]} intensity={12} color={LARIMAR} />
-      {pieces.map((p, i) => (
+      <pointLight position={[-4, -2, 3]} intensity={10} color={COBALT} />
+      {PIECES.map((p, i) => (
         <Float key={i} speed={speed * p.speed} rotationIntensity={p.rot} floatIntensity={p.float}>
           <group position={p.position} rotation={p.rotation} scale={p.scale}>
             {p.kind === "cap" ? <Mortarboard color={p.color} tassel={p.tassel} /> : <Envelope color={p.color} />}

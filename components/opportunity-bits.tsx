@@ -89,7 +89,7 @@ export function OpportunityCard({ o, profile }: { o: Opportunity; profile?: Prof
           </div>
         </div>
         <div className="flex flex-col gap-1.5">
-          <h3 className="font-display text-lg font-medium leading-snug tracking-tight">
+          <h3 className="font-display text-[1.45rem] leading-tight">
             {/* Stretched link: the whole card is clickable, the save button sits above it. */}
             <Link href={`/becas/${o.slug}`} className="outline-none after:absolute after:inset-0 after:rounded-2xl">
               {o.name}

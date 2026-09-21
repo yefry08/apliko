@@ -3,7 +3,7 @@
 import { motion, useMotionTemplate, useMotionValue, useReducedMotion, useSpring, useTransform } from "framer-motion";
 import { cn } from "@/lib/utils";
 
-/** Card that tilts toward the pointer in 3D and catches a larimar glare. */
+/** Card that tilts toward the pointer in 3D and catches a cobalt glare. */
 export function TiltCard({ children, className }: { children: React.ReactNode; className?: string }) {
   const reduce = useReducedMotion();
   const x = useMotionValue(0.5);
@@ -12,7 +12,7 @@ export function TiltCard({ children, className }: { children: React.ReactNode; c
   const rotateY = useSpring(useTransform(x, [0, 1], [-9, 9]), { stiffness: 220, damping: 20 });
   const glareX = useTransform(x, (v) => `${v * 100}%`);
   const glareY = useTransform(y, (v) => `${v * 100}%`);
-  const glare = useMotionTemplate`radial-gradient(420px circle at ${glareX} ${glareY}, rgb(124 198 228 / 0.14), transparent 45%)`;
+  const glare = useMotionTemplate`radial-gradient(420px circle at ${glareX} ${glareY}, rgb(48 84 222 / 0.08), transparent 45%)`;
 
   return (
     <div className="h-full [perspective:1000px]">

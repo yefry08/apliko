@@ -5,14 +5,15 @@
 @custom-variant dark (&:is(.dark *));
 
 /*
- * Apliko is deliberately single-theme: a night-navy ground (the Malecón after dark),
- * bone text taken from the hero, and larimar — the Dominican gemstone — as the accent.
+ * ApliKo is single-theme: white ground, navy ink and cobalt as the accent. These tokens are
+ * the one source of colour and type for every page, the portada included. The --larimar
+ * name stays for the accent so existing utilities (text-larimar, bg-larimar) keep working.
  */
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-body);
+  --font-sans: var(--sans);
   --font-mono: var(--font-mono-face);
   --font-heading: var(--font-display);
   --font-display: var(--font-display);
@@ -46,29 +47,36 @@
 }
 
 :root {
-  color-scheme: dark;
-  --background: #07111f;
-  --foreground: #e1e0cc;
-  --card: #0c1a2c;
-  --card-foreground: #e1e0cc;
-  --popover: #0c1a2c;
-  --popover-foreground: #e1e0cc;
-  --primary: #e1e0cc;
-  --primary-foreground: #07111f;
-  --secondary: #12243a;
-  --secondary-foreground: #e1e0cc;
-  --muted: #12243a;
-  --muted-foreground: #a3a898;
-  --accent: #12243a;
-  --accent-foreground: #e1e0cc;
-  --destructive: #e8566a;
-  --border: rgb(225 224 204 / 0.12);
-  --input: rgb(225 224 204 / 0.16);
-  --ring: #7cc6e4;
-  --larimar: #7cc6e4;
-  --coral: #e8566a;
-  --palm: #6fd39b;
-  --amber: #e8b04b;
+  color-scheme: light;
+  --navy: #18203a;
+  --cobalt: #3054de;
+  --ink-muted: #536083;
+  --line: rgba(24, 32, 58, 0.14);
+  --serif: var(--font-display), "Instrument Serif", Georgia, serif;
+  --sans: "Satoshi", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --background: #ffffff;
+  --foreground: var(--navy);
+  --card: #ffffff;
+  --card-foreground: var(--navy);
+  --popover: #ffffff;
+  --popover-foreground: var(--navy);
+  --primary: var(--navy);
+  --primary-foreground: #ffffff;
+  --secondary: #f4f5f8;
+  --secondary-foreground: var(--navy);
+  --muted: #f4f5f8;
+  --muted-foreground: var(--ink-muted);
+  --accent: #f4f5f8;
+  --accent-foreground: var(--navy);
+  --destructive: #d23c55;
+  --border: rgba(24, 32, 58, 0.12);
+  --input: rgba(24, 32, 58, 0.16);
+  --ring: var(--cobalt);
+  --larimar: var(--cobalt);
+  --coral: #d23c55;
+  --palm: #2f8a57;
+  --amber: #9d7720;
   --radius: 0.75rem;
 }
 
@@ -88,8 +96,8 @@
     text-wrap: balance;
   }
   ::selection {
-    background: var(--larimar);
-    color: var(--background);
+    background: var(--cobalt);
+    color: #ffffff;
   }
 }
 
@@ -98,9 +106,10 @@
 }
 
 .eyebrow {
-  font-family: var(--font-mono-face);
-  font-size: 0.72rem;
-  letter-spacing: 0.12em;
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--muted-foreground);
 }

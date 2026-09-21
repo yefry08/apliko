@@ -46,7 +46,7 @@ export function HeroScene() {
     <div className="hero-scene" aria-hidden="true">
       {(!spline || !app) && (
         <div className="hero-scene__fallback" data-waiting={spline ? "" : undefined}>
-          <FloatingScene animate={!reduce} layout="cluster" />
+          <FloatingScene animate={!reduce} />
         </div>
       )}
       {spline && (

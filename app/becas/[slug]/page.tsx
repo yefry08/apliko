@@ -81,7 +81,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
             <StatusPill status={status} />
             <DaysLeft o={o} />
           </div>
-          <h1 className="max-w-4xl font-display text-4xl font-medium tracking-tight md:text-6xl">{o.name}</h1>
+          <h1 className="max-w-4xl font-display text-4xl tracking-tight md:text-6xl">{o.name}</h1>
           {o.sponsor && <p className="text-lg text-muted-foreground">{o.sponsor}</p>}
           <div className="flex flex-wrap gap-3">
             {o.applyUrl && (
@@ -120,7 +120,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
           <div className="flex min-w-0 flex-col gap-10">
             {(o.audience || o.notes) && (
               <section className="flex flex-col gap-4">
-                <h2 className="font-display text-2xl font-medium">Requisitos y notas</h2>
+                <h2 className="font-display text-2xl">Requisitos y notas</h2>
                 <p className="eyebrow">Texto original de la fuente, en inglés</p>
                 {o.audience && (
                   <div className="flex flex-col gap-1">
@@ -144,7 +144,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
 
             <section className="flex flex-col gap-4">
               <div className="flex flex-col gap-1">
-                <h2 className="font-display text-2xl font-medium">¿Puedo postular?</h2>
+                <h2 className="font-display text-2xl">¿Puedo postular?</h2>
                 <p className="text-sm text-muted-foreground">{ELIGIBILITY_REASON[o.citizenship]}</p>
               </div>
               <ul className="divide-y rounded-2xl border">
@@ -184,7 +184,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
 
         {related.length > 0 && (
           <section className="flex flex-col gap-6 border-t pt-12">
-            <h2 className="font-display text-3xl font-medium tracking-tight">Más opciones en {o.destinations[0]}</h2>
+            <h2 className="font-display text-3xl tracking-tight">Más opciones en {o.destinations[0]}</h2>
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {related.map((r) => (
                 <OpportunityCard key={r.id} o={r} />
