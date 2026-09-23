@@ -42,6 +42,7 @@ const SOURCE_LABEL: Record<Exclude<Opportunity["source"], "rss">, string> = {
   internacional: "listado de programas internacionales",
   financiamiento: "convocatorias de financiamiento revisadas a mano",
   voluntariado: "proyectos del Cuerpo Europeo de Solidaridad",
+  becas: "becas revisadas a mano, con su enlace oficial",
 };
 
 export default async function OpportunityPage(props: PageProps<"/becas/[slug]">) {
@@ -55,7 +56,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
     ["Destino", o.destinations.join(", ")],
     ["Monto", o.amount],
     ["Financiamiento", o.amount ? undefined : FUNDING_LABEL[o.funding]],
-    ["Quién puede postular", o.source === "financiamiento" || o.source === "voluntariado" ? o.citizenshipRaw : undefined],
+    ["Quién puede postular", o.source === "internacional" || o.source === "rss" ? undefined : o.citizenshipRaw],
     ["Nivel", o.levels.map((l) => LEVEL_LABEL[l]).join(", ") || undefined],
     ["Tipo", o.types.join(", ")],
     ["Área", o.areas.join(", ") || undefined],

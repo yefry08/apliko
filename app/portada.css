@@ -235,15 +235,14 @@ html:has(.case-overlay[open]) {
 /* ------------------------------------------------------------------ keycaps */
 
 /*
- * "ApliKo" spelled in keycaps: the wordmark doubles as the shortcut to each area.
- * Colours come from lib/areas.ts as --key; the shape lives here.
+ * "ApliKo" spelled in keycaps, opening the page: the wordmark doubles as the shortcut to
+ * each area. It spans the hero's first row. Colours come from lib/areas.ts as --key.
  */
 .keycaps {
   grid-column: 1 / -1;
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
-  margin-top: 6px;
 }
 
 .keycap {

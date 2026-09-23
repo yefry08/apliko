@@ -108,6 +108,7 @@ export default function Home() {
         </nav>
 
         <header className="hero" id="top">
+          <Keycaps />
           <div className="hero-copy">
             <h1>Becas, fellowships y fondos para estudiantes dominicanos y latinos.</h1>
             <p>Filtra por tu ciudadanía y descubre a cuáles sí puedes postular, antes de que cierren.</p>
@@ -139,7 +140,6 @@ export default function Home() {
             </dl>
           </div>
           <HeroScene />
-          <Keycaps />
         </header>
 
         <header className="portfolio-heading" id="areas">

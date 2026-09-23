@@ -6002,6 +6002,1258 @@
   "updatedAt": "2026-05-28"
  },
  {
+  "id": "bec-becas-anii-de-posgrado-nacional-maestria",
+  "slug": "becas-anii-de-posgrado-nacional-maestria",
+  "name": "Becas ANII de Posgrado Nacional: Maestría",
+  "sponsor": "Agencia Nacional de Investigación e Innovación (ANII)",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Uruguay"
+  ],
+  "funding": "completa",
+  "amount": "UYU 36,263 al mes (24 meses)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Uruguayos o extranjeros con residencia en Uruguay.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://anii.org.uy/apoyos/formacion/",
+  "applyUrl": "https://anii.org.uy/apoyos/formacion/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-beca-cnpq-doctorado-pleno-pec-pg",
+  "slug": "beca-cnpq-doctorado-pleno-pec-pg",
+  "name": "Beca CNPq: Doctorado pleno (PEC-PG)",
+  "sponsor": "CNPq, CAPES y Ministerio de Relaciones Exteriores de Brasil",
+  "source": "becas",
+  "types": [
+   "Beca de doctorado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Brasil"
+  ],
+  "funding": "completa",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Ciudadanos de países en desarrollo con acuerdo con Brasil, sin nacionalidad brasileña.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Suele abrir a mitad de año"
+  },
+  "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-estudantes-convenio-de-pos-graduacao-pec-pg",
+  "applyUrl": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-estudantes-convenio-de-pos-graduacao-pec-pg",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-citadel-grace-hopper-celebration-travel-grant",
+  "slug": "citadel-grace-hopper-celebration-travel-grant",
+  "name": "Citadel Grace Hopper Celebration Travel Grant",
+  "sponsor": "Citadel",
+  "source": "becas",
+  "types": [
+   "Beca de viaje"
+  ],
+  "areas": [
+   "Ciencias naturales",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Vuelo, hotel, traslados y dietas para GHC 2026 (Anaheim, 27-30 oct)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Estudiantes de pregrado, maestría o doctorado en carreras STEM.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-25"
+  },
+  "url": "https://www.citadel.com/careers/programs-and-events/conference-travel-grant/apply-for-the-grace-hopper-celebration/",
+  "applyUrl": "https://www.citadel.com/careers/programs-and-events/conference-travel-grant/apply-for-the-grace-hopper-celebration/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-faculty-of-engineering-international-scholarships-doctorado-e-investigacion",
+  "slug": "faculty-of-engineering-international-scholarships-doctorado-e-investigacion",
+  "name": "Faculty of Engineering International Scholarships: Doctorado e investigación",
+  "sponsor": "University of Strathclyde",
+  "source": "becas",
+  "types": [
+   "Beca de doctorado"
+  ],
+  "areas": [
+   "Ingeniería y tecnología"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "parcial",
+  "amount": "15% menos de matrícula cada año",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes internacionales (fuera de la UE) autofinanciados. Se asigna sola con la admisión.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.strath.ac.uk/studywithus/scholarships/postgraduateresearchengineeringinternationalscholarships/",
+  "applyUrl": "https://www.strath.ac.uk/studywithus/scholarships/postgraduateresearchengineeringinternationalscholarships/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-gci-world-2026-september",
+  "slug": "gci-world-2026-september",
+  "name": "GCI World 2026 September",
+  "sponsor": "Matsuo-Iwasawa Lab, Universidad de Tokio",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Ciencia de datos",
+   "Negocios y economía"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Japón"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes universitarios de cualquier país. En inglés y en línea.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La edición de septiembre empezó el 17 sept 2026; hay ediciones en abril y septiembre"
+  },
+  "url": "https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/",
+  "applyUrl": "https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-heinrich-boll-foundation-student-scholarship",
+  "slug": "heinrich-boll-foundation-student-scholarship",
+  "name": "Heinrich Böll Foundation: Student Scholarship",
+  "sponsor": "Heinrich-Böll-Stiftung",
+  "source": "becas",
+  "types": [
+   "Beca de posgrado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes internacionales para una maestría de 4 semestres o más en Alemania. Prioridad a países en desarrollo. Dos plazos al año: 1 de marzo y 1 de septiembre.",
+  "language": "Alemán (B2 o más)",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-03-01"
+  },
+  "url": "https://www.boell.de/en/applying-scholarship",
+  "applyUrl": "https://www.boell.de/en/applying-scholarship",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-vice-chancellor-s-phd-scholarship-vcps-rmit-university",
+  "slug": "vice-chancellor-s-phd-scholarship-vcps-rmit-university",
+  "name": "Vice-Chancellor's PhD Scholarship (VCPS), RMIT University",
+  "sponsor": "RMIT University",
+  "source": "becas",
+  "types": [
+   "Beca de doctorado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Australia"
+  ],
+  "funding": "completa",
+  "amount": "AUD 48,299 al año + AUD 5,000 para investigación + matrícula y seguro médico",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes nacionales e internacionales. Para internacionales cierra el 30 de septiembre.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://www.rmit.edu.au/scholarships/research/vcps",
+  "applyUrl": "https://www.rmit.edu.au/scholarships/research/vcps",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-2027-mohamed-ali-foundation-fellowship",
+  "slug": "2027-mohamed-ali-foundation-fellowship",
+  "name": "2027 Mohamed Ali Foundation Fellowship",
+  "sponsor": "Mohamed Ali Foundation y Durham University",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Historia de Egipto y Oriente Medio",
+   "Estudios sociales"
+  ],
+  "levels": [
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "amount": "Beca, alojamiento y comidas durante la residencia",
+  "citizenship": "global",
+  "citizenshipRaw": "Investigadores posdoctorales o consolidados.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Suele abrir de junio a septiembre"
+  },
+  "url": "https://www.durham.ac.uk/departments/academic/school-government-international-affairs/research/fellowships/the-mohamed-ali-foundation-fellowship-programme/",
+  "applyUrl": "https://www.durham.ac.uk/departments/academic/school-government-international-affairs/research/fellowships/the-mohamed-ali-foundation-fellowship-programme/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-aapi-creative-catalyst-fellowship-2027",
+  "slug": "aapi-creative-catalyst-fellowship-2027",
+  "name": "AAPI Creative Catalyst Fellowship 2027",
+  "sponsor": "AAPI Civic Engagement Fund",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Artes y diseño"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 30,000",
+  "citizenship": "eeuu-daca",
+  "citizenshipRaw": "Artistas de 18 años o más que viven en EE. UU. No exige ciudadanía.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-15"
+  },
+  "url": "https://aapifund.org/2027-creative-catalyst-fellowship-open-call/",
+  "applyUrl": "https://aapifund.org/2027-creative-catalyst-fellowship-open-call/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-acls-fellowships-and-grants-2026-27",
+  "slug": "acls-fellowships-and-grants-2026-27",
+  "name": "ACLS Fellowships and Grants 2026–27",
+  "sponsor": "American Council of Learned Societies (ACLS)",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Humanidades",
+   "Estudios sociales"
+  ],
+  "levels": [
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 60,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Personas con doctorado en humanidades o ciencias sociales interpretativas.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-17"
+  },
+  "url": "https://www.acls.org/competitions/acls-fellowships/",
+  "applyUrl": "https://www.acls.org/competitions/acls-fellowships/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-amsterdam-merit-scholarship",
+  "slug": "amsterdam-merit-scholarship",
+  "name": "Amsterdam Merit Scholarship",
+  "sponsor": "University of Amsterdam",
+  "source": "becas",
+  "types": [
+   "Beca de pregrado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "pregrado"
+  ],
+  "destinations": [
+   "Países Bajos"
+  ],
+  "funding": "parcial",
+  "amount": "EUR 6,000 al año (EUR 18,000 en total)",
+  "citizenship": "global",
+  "citizenshipRaw": "Nacionalidad de fuera de la UE y notas excelentes.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según la facultad (suele ser a inicios de febrero)"
+  },
+  "url": "https://www.uva.nl/en/education/fees-and-funding/bachelors-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html",
+  "applyUrl": "https://www.uva.nl/en/education/fees-and-funding/bachelors-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-aspire-leaders-program",
+  "slug": "aspire-leaders-program",
+  "name": "Aspire Leaders Program",
+  "sponsor": "Aspire Institute",
+  "source": "becas",
+  "types": [
+   "Programa de liderazgo"
+  ],
+  "areas": [
+   "Liderazgo",
+   "Negocios y economía"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "De 18 a 29 años, primera generación universitaria o de bajos ingresos.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Varias cohortes al año (la 1 de 2026 cerró el 21 de enero)"
+  },
+  "url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+  "applyUrl": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-asser-opcw-training-programme-on-disarmament-2026",
+  "slug": "asser-opcw-training-programme-on-disarmament-2026",
+  "name": "Asser–OPCW Training Programme on Disarmament 2026",
+  "sponsor": "Asser Institute y OPCW",
+  "source": "becas",
+  "types": [
+   "Formación"
+  ],
+  "areas": [
+   "Desarme",
+   "Relaciones internacionales"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Países Bajos"
+  ],
+  "funding": "varia",
+  "amount": "Exención de matrícula para algunos participantes",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes de posgrado avanzados y profesionales al inicio o a mitad de carrera.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "El curso es del 26 al 30 de octubre de 2026"
+  },
+  "url": "https://www.asser.nl/training-programmes/training-programme-disarmament-and-non-proliferation-of-wmd/",
+  "applyUrl": "https://www.asser.nl/training-programmes/training-programme-disarmament-and-non-proliferation-of-wmd/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-beca-honjo-international-scholarship-foundation",
+  "slug": "beca-honjo-international-scholarship-foundation",
+  "name": "Beca Honjo International Scholarship Foundation",
+  "sponsor": "Honjo International Scholarship Foundation",
+  "source": "becas",
+  "types": [
+   "Beca de posgrado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Japón"
+  ],
+  "funding": "varia",
+  "amount": "JPY 180,000 a 230,000 al mes",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes extranjeros de maestría o doctorado en Japón, de cualquier país y área.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-31"
+  },
+  "url": "https://www.hisf.or.jp/en/scholarship/foreigner/",
+  "applyUrl": "https://www.hisf.or.jp/en/scholarship/foreigner/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-beca-icetex-doctorado-en-politica-publica-tec-de-monterrey",
+  "slug": "beca-icetex-doctorado-en-politica-publica-tec-de-monterrey",
+  "name": "Beca ICETEX: Doctorado en Política Pública (Tec de Monterrey)",
+  "sponsor": "ICETEX y Tecnológico de Monterrey",
+  "source": "becas",
+  "types": [
+   "Beca de doctorado"
+  ],
+  "areas": [
+   "Políticas públicas"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "México"
+  ],
+  "funding": "completa",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo profesionales colombianos con maestría y 2 años de experiencia.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-02"
+  },
+  "url": "https://web.icetex.gov.co/es/-/2026-becas-del-100-doctorado-en-politica-publica-en-el-instituto-tecnologico-y-de-estudios-superiores-de-monterrey",
+  "applyUrl": "https://web.icetex.gov.co/es/-/2026-becas-del-100-doctorado-en-politica-publica-en-el-instituto-tecnologico-y-de-estudios-superiores-de-monterrey",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-becas-santander-microcredenciales-2026",
+  "slug": "becas-santander-microcredenciales-2026",
+  "name": "Becas Santander Microcredenciales 2026",
+  "sponsor": "Banco Santander",
+  "source": "becas",
+  "types": [
+   "Microcredenciales"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "España"
+  ],
+  "funding": "parcial",
+  "amount": "EUR 300 de descuento",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Personas matriculadas en microcredenciales de universidades españolas participantes.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-05-20"
+  },
+  "url": "https://www.santanderopenacademy.com/es/sites/scholarships/microcredenciales.html",
+  "applyUrl": "https://www.santanderopenacademy.com/es/sites/scholarships/microcredenciales.html",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-big-ten-academic-alliance-smithsonian-fellowship-2026",
+  "slug": "big-ten-academic-alliance-smithsonian-fellowship-2026",
+  "name": "Big Ten Academic Alliance Smithsonian Fellowship 2026",
+  "sponsor": "Big Ten Academic Alliance y Smithsonian Institution",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 45,000 al año + hasta USD 5,000 para investigación",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Doctorandos de universidades de la Big Ten Academic Alliance.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-15"
+  },
+  "url": "https://btaa.org/resources-for/students/smithsonian-fellowship",
+  "applyUrl": "https://btaa.org/resources-for/students/smithsonian-fellowship",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-ceu-financial-aid",
+  "slug": "ceu-financial-aid",
+  "name": "CEU Financial Aid",
+  "sponsor": "Central European University",
+  "source": "becas",
+  "types": [
+   "Ayuda financiera"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Austria"
+  ],
+  "funding": "varia",
+  "amount": "Pregrado: hasta 50% de matrícula; maestría: hasta 100% + estipendio; doctorado: matrícula y estipendio 4 años",
+  "citizenship": "global",
+  "citizenshipRaw": "Cualquier nacionalidad. Se asigna con la admisión, sin formulario aparte.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Dos rondas de admisión: octubre y febrero"
+  },
+  "url": "https://www.ceu.edu/admissions/financial-aid",
+  "applyUrl": "https://www.ceu.edu/admissions/financial-aid",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-citadel-neurips-travel-grant",
+  "slug": "citadel-neurips-travel-grant",
+  "name": "Citadel NeurIPS Travel Grant",
+  "sponsor": "Citadel",
+  "source": "becas",
+  "types": [
+   "Beca de viaje"
+  ],
+  "areas": [
+   "Ciencias naturales",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Australia"
+  ],
+  "funding": "completa",
+  "amount": "Vuelo, hotel, traslados y dietas para NeurIPS 2026 (Sídney, 6-12 dic)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Estudiantes de pregrado, maestría o doctorado en matemáticas, computación, física, estadística u otra área cuantitativa.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-05"
+  },
+  "url": "https://www.citadel.com/careers/programs-and-events/conference-travel-grant/apply-for-the-neurips-grant/",
+  "applyUrl": "https://www.citadel.com/careers/programs-and-events/conference-travel-grant/apply-for-the-neurips-grant/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-emile-boutmy-scholarship",
+  "slug": "emile-boutmy-scholarship",
+  "name": "Émile Boutmy Scholarship",
+  "sponsor": "Sciences Po",
+  "source": "becas",
+  "types": [
+   "Beca de pregrado"
+  ],
+  "areas": [
+   "Políticas y derecho"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "parcial",
+  "amount": "Exención total de matrícula o de EUR 9,500",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes de fuera de la UE admitidos por primera vez en Sciences Po.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Se pide en la solicitud de admisión"
+  },
+  "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+  "applyUrl": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-faculty-of-engineering-dean-s-international-excellence-award-for-masters-study-e",
+  "slug": "faculty-of-engineering-dean-s-international-excellence-award-for-masters-study-e",
+  "name": "Faculty of Engineering Dean's International Excellence Award for Masters Study, enero 2027",
+  "sponsor": "University of Strathclyde",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Ingeniería y tecnología"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "parcial",
+  "amount": "GBP 9,000 a 12,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes internacionales (fuera de la UE) autofinanciados con notas excelentes.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Para la entrada de enero de 2027. Se asigna a quienes ya tienen oferta de admisión"
+  },
+  "url": "https://www.strath.ac.uk/studywithus/scholarships/engineeringdeansinternationalexcellenceawards/",
+  "applyUrl": "https://www.strath.ac.uk/studywithus/scholarships/engineeringdeansinternationalexcellenceawards/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-gilder-lehrman-scholarly-fellowships-2026",
+  "slug": "gilder-lehrman-scholarly-fellowships-2026",
+  "name": "Gilder Lehrman Scholarly Fellowships 2026",
+  "sponsor": "Gilder Lehrman Institute of American History",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Historia de EE. UU.",
+   "Estudios sociales"
+  ],
+  "levels": [
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 3,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Doctorandos, profesores e investigadores independientes. La investigación se hace en Nueva York.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "url": "https://www.gilderlehrman.org/scholarly-fellowships",
+  "applyUrl": "https://www.gilderlehrman.org/scholarly-fellowships",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-harvard-radcliffe-fellowship-2027-2028",
+  "slug": "harvard-radcliffe-fellowship-2027-2028",
+  "name": "Harvard Radcliffe Fellowship 2027–2028",
+  "sponsor": "Radcliffe Institute for Advanced Study, Harvard University",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Ciencias naturales",
+   "Ingeniería y tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "USD 78,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Ciencias, ingeniería y matemáticas cierran el 1 de octubre de 2026; humanidades, sociales y artes cerraron el 10 de septiembre.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://www.radcliffe.harvard.edu/radcliffe-fellowship/application-information",
+  "applyUrl": "https://www.radcliffe.harvard.edu/radcliffe-fellowship/application-information",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-lingnan-university-undergraduate-scholarship",
+  "slug": "lingnan-university-undergraduate-scholarship",
+  "name": "Lingnan University Undergraduate Scholarship",
+  "sponsor": "Lingnan University",
+  "source": "becas",
+  "types": [
+   "Beca de pregrado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "pregrado"
+  ],
+  "destinations": [
+   "Hong Kong"
+  ],
+  "funding": "varia",
+  "amount": "Beca completa, de matrícula o de media matrícula (renovable)",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes internacionales admitidos en artes, negocios o ciencias sociales.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Se pide con la solicitud de admisión"
+  },
+  "url": "https://www.ln.edu.hk/admissions/ug/your-future-begins-now-apply/fees-and-scholarships",
+  "applyUrl": "https://www.ln.edu.hk/admissions/ug/your-future-begins-now-apply/fees-and-scholarships",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-linus-pauling-distinguished-postdoctoral-fellowship-2027",
+  "slug": "linus-pauling-distinguished-postdoctoral-fellowship-2027",
+  "name": "Linus Pauling Distinguished Postdoctoral Fellowship 2027",
+  "sponsor": "Pacific Northwest National Laboratory (PNNL)",
+  "source": "becas",
+  "types": [
+   "Posdoctorado"
+  ],
+  "areas": [
+   "Ciencias naturales"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Doctorado obtenido en los últimos 3 años o antes de empezar en otoño de 2027.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-15"
+  },
+  "url": "https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship",
+  "applyUrl": "https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-mellon-acls-dissertation-innovation-fellowship",
+  "slug": "mellon-acls-dissertation-innovation-fellowship",
+  "name": "Mellon/ACLS Dissertation Innovation Fellowship",
+  "sponsor": "American Council of Learned Societies (ACLS)",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Humanidades",
+   "Estudios sociales"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 42,000 + hasta USD 8,000 para investigación + USD 2,000 de mentoría",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Doctorandos de universidades de EE. UU. en humanidades o ciencias sociales, antes de la candidatura.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-28"
+  },
+  "url": "https://www.acls.org/competitions/mellon-acls-dissertation-innovation-fellowship/",
+  "applyUrl": "https://www.acls.org/competitions/mellon-acls-dissertation-innovation-fellowship/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-pasteur-paris-university-international-doctoral-program-ppu",
+  "slug": "pasteur-paris-university-international-doctoral-program-ppu",
+  "name": "Pasteur-Paris University International Doctoral Program (PPU)",
+  "sponsor": "Institut Pasteur y Université Paris Cité",
+  "source": "becas",
+  "types": [
+   "Beca de doctorado"
+  ],
+  "areas": [
+   "Salud",
+   "Ciencias de la vida"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "Candidatos internacionales al doctorado; empiezan el 1 de octubre de 2027.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-16"
+  },
+  "url": "https://www.pasteur.fr/en/education/ppu",
+  "applyUrl": "https://www.pasteur.fr/en/education/ppu",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-postdoctoral-fellow-in-communication-digital-media-and-future-of-work",
+  "slug": "postdoctoral-fellow-in-communication-digital-media-and-future-of-work",
+  "name": "Postdoctoral Fellow in Communication, Digital Media, and Future of Work",
+  "sponsor": "Tulane University",
+  "source": "becas",
+  "types": [
+   "Posdoctorado"
+  ],
+  "areas": [
+   "Comunicación y medios digitales"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Doctorado en comunicación digital o área afín. 18 meses desde el 5 de enero de 2027; revisan solicitudes desde el 15 de octubre hasta cubrir el puesto.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-15"
+  },
+  "url": "https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1464",
+  "applyUrl": "https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1464",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-princeton-plas-postdoctoral-fellowship",
+  "slug": "princeton-plas-postdoctoral-fellowship",
+  "name": "Princeton PLAS Postdoctoral Fellowship",
+  "sponsor": "Program in Latin American Studies, Princeton University",
+  "source": "becas",
+  "types": [
+   "Posdoctorado"
+  ],
+  "areas": [
+   "Estudios latinoamericanos y del Caribe",
+   "Humanidades"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "Doctores recientes de cualquier disciplina que investiguen sobre América Latina, el Caribe o Brasil.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "url": "https://plas.princeton.edu/fellowships/plas-fellowships/postdoctoral-fellowships",
+  "applyUrl": "https://plas.princeton.edu/fellowships/plas-fellowships/postdoctoral-fellowships",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-programa-de-becas-republica-de-chile-para-estudios-de-magister",
+  "slug": "programa-de-becas-republica-de-chile-para-estudios-de-magister",
+  "name": "Programa de Becas República de Chile para estudios de Magíster",
+  "sponsor": "Agencia Chilena de Cooperación Internacional para el Desarrollo (AGCID)",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Chile"
+  ],
+  "funding": "completa",
+  "amount": "Matrícula, arancel, manutención y seguro de salud (hasta 24 meses)",
+  "citizenship": "latam",
+  "citizenshipRaw": "Profesionales de América Latina y el Caribe, República Dominicana incluida. Estudios desde marzo de 2027.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La fecha cambia por país (en Colombia, vía ICETEX, cierra el 9 oct 2026)"
+  },
+  "url": "https://www.agcid.gob.cl/becas/becas-para-extranjeros",
+  "applyUrl": "https://www.agcid.gob.cl/becas/becas-para-extranjeros",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-psi-program-financial-support",
+  "slug": "psi-program-financial-support",
+  "name": "PSI Program: Financial Support",
+  "sponsor": "Perimeter Institute for Theoretical Physics",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Física teórica",
+   "Ciencias naturales"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Canadá"
+  ],
+  "funding": "completa",
+  "amount": "Matrícula, alojamiento y comidas",
+  "citizenship": "global",
+  "citizenshipRaw": "Graduados en física de cualquier país. La beca completa va con la admisión.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-24"
+  },
+  "url": "https://perimeterinstitute.ca/training/masters-program/psi-financial-support",
+  "applyUrl": "https://perimeterinstitute.ca/training/masters-program/psi-financial-support",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-sda-bocconi-school-of-management-becas-y-exenciones",
+  "slug": "sda-bocconi-school-of-management-becas-y-exenciones",
+  "name": "SDA Bocconi School of Management: becas y exenciones",
+  "sponsor": "SDA Bocconi School of Management",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Negocios y economía"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "Candidatos nacionales e internacionales admitidos.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según la ronda de admisión de cada programa"
+  },
+  "url": "https://www.sdabocconi.it/en/mba-executive-mba/full-time-mba/scholarships-and-tuition-waivers",
+  "applyUrl": "https://www.sdabocconi.it/en/mba-executive-mba/full-time-mba/scholarships-and-tuition-waivers",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-smithsonian-institution-fellowship-program-sifp",
+  "slug": "smithsonian-institution-fellowship-program-sifp",
+  "name": "Smithsonian Institution Fellowship Program (SIFP)",
+  "sponsor": "Smithsonian Institution",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes de posgrado, doctorandos, posdoctorales e investigadores sénior, de cualquier país.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-15"
+  },
+  "url": "https://fellowships.si.edu/SIFP",
+  "applyUrl": "https://fellowships.si.edu/SIFP",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-daad-study-scholarships-postgraduate-studies-in-fine-art-design-visual-communica",
+  "slug": "daad-study-scholarships-postgraduate-studies-in-fine-art-design-visual-communica",
+  "name": "DAAD Study Scholarships: Postgraduate Studies in Fine Art, Design, Visual Communication and Film",
+  "sponsor": "DAAD",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Artes y diseño",
+   "Cine"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "completa",
+  "amount": "EUR 934 al mes + viaje, seguro y ayuda de estudio",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Graduados en artes con portafolio. Alemán básico e inglés bueno (alemán avanzado para teatro y dirección).",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según el país (el ciclo anterior cerró el 10 de noviembre de 2025)"
+  },
+  "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135742",
+  "applyUrl": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135742",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-texas-mccombs-mba-scholarships",
+  "slug": "texas-mccombs-mba-scholarships",
+  "name": "Texas McCombs MBA Scholarships",
+  "sponsor": "McCombs School of Business, UT Austin",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Negocios y economía"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "Admitidos nacionales e internacionales; la ronda 1 es la prioritaria para becas (rondas 2 y 3: 15 ene y 1 abr de 2027).",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-15"
+  },
+  "url": "https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/",
+  "applyUrl": "https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-una-nca-graduate-fellows-program-2027",
+  "slug": "una-nca-graduate-fellows-program-2027",
+  "name": "UNA-NCA Graduate Fellows Program 2027",
+  "sponsor": "United Nations Association of the National Capital Area",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Relaciones internacionales",
+   "Estudios sociales"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Estudiantes de posgrado en el área de Washington D. C.; 4 horas por semana.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-04"
+  },
+  "url": "https://www.unanca.org/our-work/programs/graduate-fellows",
+  "applyUrl": "https://www.unanca.org/our-work/programs/graduate-fellows",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-lse-undergraduate-support-scheme",
+  "slug": "lse-undergraduate-support-scheme",
+  "name": "LSE Undergraduate Support Scheme",
+  "sponsor": "London School of Economics (LSE)",
+  "source": "becas",
+  "types": [
+   "Beca de pregrado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "pregrado"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "segun-necesidad",
+  "amount": "Según necesidad económica",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes de fuera del Reino Unido con oferta de LSE y necesidad económica.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Después de recibir oferta de LSE (el ciclo anterior cerró el 1 de mayo de 2026)"
+  },
+  "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding/undergraduate-support-scheme",
+  "applyUrl": "https://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding/undergraduate-support-scheme",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-university-of-klagenfurt-technology-scholarships",
+  "slug": "university-of-klagenfurt-technology-scholarships",
+  "name": "University of Klagenfurt Technology Scholarships",
+  "sponsor": "University of Klagenfurt",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Ingeniería y tecnología",
+   "Informática"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Austria"
+  ],
+  "funding": "completa",
+  "amount": "EUR 9,600 al año + viaje",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Graduados de licenciatura de una lista de países (incluye Argentina) para una maestría en inglés en ciencias técnicas.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La convocatoria la publica OeAD cada año"
+  },
+  "url": "https://www.aau.at/en/study/student-life/scholarships-grants/technology-scholarships/",
+  "applyUrl": "https://www.aau.at/en/study/student-life/scholarships-grants/technology-scholarships/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-university-of-waikato-doctoral-scholarship-2026",
+  "slug": "university-of-waikato-doctoral-scholarship-2026",
+  "name": "University of Waikato Doctoral Scholarship 2026",
+  "sponsor": "University of Waikato",
+  "source": "becas",
+  "types": [
+   "Beca de doctorado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Nueva Zelanda"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes nacionales e internacionales. Cuatro rondas al año: 31 ene, 30 abr, 31 jul y 31 oct.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-31"
+  },
+  "url": "https://www.waikato.ac.nz/int/study/scholarships/find-a-scholarship/university-of-waikato-doctoral-scholarship/",
+  "applyUrl": "https://www.waikato.ac.nz/int/study/scholarships/find-a-scholarship/university-of-waikato-doctoral-scholarship/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-utrecht-excellence-scholarships",
+  "slug": "utrecht-excellence-scholarships",
+  "name": "Utrecht Excellence Scholarships",
+  "sponsor": "Utrecht University",
+  "source": "becas",
+  "types": [
+   "Beca de pregrado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Países Bajos"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "Fuera de la UE/EEE y en el 10% superior de tu promoción.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "No se ofreció para 2026-27; confirma si vuelve para 2027-28"
+  },
+  "url": "https://www.uu.nl/en/bachelors/general-information/how-to-apply/scholarships-and-grants/utrecht-excellence-scholarships",
+  "applyUrl": "https://www.uu.nl/en/bachelors/general-information/how-to-apply/scholarships-and-grants/utrecht-excellence-scholarships",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-yale-global-health-emerging-scholars-program",
+  "slug": "yale-global-health-emerging-scholars-program",
+  "name": "Yale Global Health Emerging Scholars Program",
+  "sponsor": "Yale, Stanford, UC Berkeley y University of Arizona (NIH Fogarty)",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Salud"
+  ],
+  "levels": [
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Estipendio mensual, fondos de investigación y viajes",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Investigadores de EE. UU. y de países de ingresos bajos y medios; 12 meses de formación en 15 países.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-01"
+  },
+  "url": "https://ghi.arizona.edu/outreach/global-health-emerging-scholars-fellowship",
+  "applyUrl": "https://ghi.arizona.edu/outreach/global-health-emerging-scholars-fellowship",
+  "updatedAt": "2026-09-23"
+ },
+ {
   "id": "fin-wellcome-prize-for-mental-health-science",
   "slug": "wellcome-prize-for-mental-health-science",
   "name": "Wellcome Prize for Mental Health Science",

@@ -20,6 +20,7 @@ npm run data:import
 | Archivo | Fuente |
 | --- | --- |
 | `data/raw/international-*.psv` | Listado de programas internacionales (actualizado 28 may 2026). Separado por `\|`. |
+| `data/raw/becas.json` | Becas revisadas a mano, cada una con su enlace oficial y su fecha de cierre cuando existe. |
 | `data/raw/financiamiento.json` | Fondos, premios y convocatorias revisados a mano. |
 | `data/raw/startups.json` | Fondos públicos para startups y pymes, de la base "Grant Programs Database" (Notion). Sin fechas fijas: continuas o según convocatoria. |
 | `data/raw/voluntariado.json` | Proyectos del Cuerpo Europeo de Solidaridad. La lista de origen no trae un enlace por proyecto; todos llevan al buscador oficial. |

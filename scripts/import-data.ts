@@ -265,6 +265,61 @@ function readFinanciamiento(): Opportunity[] {
   });
 }
 
+interface BecaRow {
+  name: string;
+  sponsor: string;
+  /** Destination, in Spanish as lib/geo.ts names it. */
+  country: string;
+  levels: Level[];
+  type: string;
+  areas: string[];
+  funding: Funding;
+  amount?: string;
+  /** ISO date, "continua", or a label when there is no fixed date. */
+  deadline: string | { label: string };
+  citizenship: CitizenshipRule;
+  /** Who can apply, in Spanish. */
+  eligibility: string;
+  language?: string;
+  url: string;
+}
+
+/** Becas revisadas a mano, cada una con su enlace oficial (data/raw/becas.json). */
+function readBecas(): Opportunity[] {
+  const file = path.join(RAW, "becas.json");
+  if (!existsSync(file)) return [];
+  const rows = JSON.parse(readFileSync(file, "utf8")) as BecaRow[];
+  return rows.map((r) => {
+    const slug = slugify(r.name);
+    const deadline: Deadline =
+      typeof r.deadline === "object"
+        ? { kind: "por-confirmar", label: r.deadline.label }
+        : r.deadline === "continua"
+          ? { kind: "continua" }
+          : { kind: "exacta", date: r.deadline };
+    return {
+      id: `bec-${slug}`,
+      slug,
+      name: r.name,
+      sponsor: r.sponsor,
+      source: "becas",
+      types: [r.type],
+      areas: r.areas,
+      levels: r.levels,
+      destinations: [r.country],
+      funding: r.funding,
+      amount: r.amount,
+      citizenship: r.citizenship,
+      citizenshipRaw: r.eligibility,
+      language: r.language,
+      deadline,
+      url: r.url,
+      applyUrl: r.url,
+      updatedAt: "2026-09-23",
+    } satisfies Opportunity;
+  });
+}
+
 type VoluntariadoCategory = "humanitaria" | "educacion" | "ambiente" | "cultura" | "inclusion" | "comunidad";
 
 interface VoluntariadoRow {
@@ -410,7 +465,7 @@ function main() {
         .filter((c) => c.estado === "aprobada")
         .map((c) => c.oportunidad)
     : [];
-  const all = [...readInternational(), ...readFinanciamiento(), ...readStartups(), ...readVoluntariado(), ...approved];
+  const all = [...readInternational(), ...readBecas(), ...readFinanciamiento(), ...readStartups(), ...readVoluntariado(), ...approved];
   const seen = new Set<string>();
   const unique = all.filter((o) => {
     let slug = o.slug;
