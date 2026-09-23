@@ -10176,6 +10176,99 @@
   "updatedAt": "2026-09-18"
  },
  {
+  "id": "fin-eurofins-foundation-grant-programme",
+  "slug": "eurofins-foundation-grant-programme",
+  "name": "Eurofins Foundation Grant Programme",
+  "sponsor": "Eurofins Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para organizaciones"
+  ],
+  "areas": [
+   "Salud",
+   "Educación",
+   "Agua y saneamiento",
+   "Medio ambiente",
+   "Comunidades vulnerables"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial",
+   "Latinoamérica y el Caribe"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 25,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "ONG, organizaciones sin fines de lucro o universidades registradas antes de 2024 y con 24 meses de trayectoria. Proyectos de 9 a 12 meses, con presencia en América Latina. Una solicitud por año.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Abre de marzo a septiembre cada año (la ronda 2026 cerró el 1 de septiembre)"
+  },
+  "url": "https://www.eurofins.com/eurofins-foundation/submit-a-project/",
+  "applyUrl": "https://www.eurofins.com/eurofins-foundation/submit-a-project/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-avery-dennison-foundation-grantmaking",
+  "slug": "avery-dennison-foundation-grantmaking",
+  "name": "Avery Dennison Foundation Grantmaking",
+  "sponsor": "Avery Dennison Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para organizaciones"
+  ],
+  "areas": [
+   "Acceso a la educación",
+   "Sostenibilidad",
+   "Medios de vida",
+   "Comunidades de alta necesidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 50,000 a 100,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "ONG y organizaciones sin fines de lucro, con prioridad para comunidades de alta necesidad. Casi el 90% de sus proyectos están fuera de EE. UU.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.averydennison.com/en/home/company/avery-dennison-foundation/grantmaking.html",
+  "applyUrl": "https://www.averydennison.com/en/home/company/avery-dennison-foundation/grantmaking.html",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-fund-for-innovation-in-development-fid",
+  "slug": "fund-for-innovation-in-development-fid",
+  "name": "Fund for Innovation in Development (FID)",
+  "sponsor": "Cooperación francesa (AFD)",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para proyectos"
+  ],
+  "areas": [
+   "Pobreza y desigualdad",
+   "Educación",
+   "Desarrollo",
+   "Innovación"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Por etapas: de EUR 50,000 (preparación) a EUR 4 millones (expansión)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Cualquier tipo de organización, sola o en consorcio. No acepta personas individuales ni organismos internacionales.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://fundinnovation.dev/en/launch-project",
+  "applyUrl": "https://fundinnovation.dev/en/launch-project",
+  "updatedAt": "2026-09-18"
+ },
+ {
   "id": "sgp-french-tech-rise",
   "slug": "french-tech-rise",
   "name": "French Tech Rise",

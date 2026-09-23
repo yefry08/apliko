@@ -226,7 +226,8 @@ interface FinanciamientoRow {
   areas: string;
   region: string;
   citizenship?: CitizenshipRule;
-  deadline: string;
+  /** ISO date, "continua", or a label when the window repeats without a fixed date yet. */
+  deadline: string | { label: string };
   amount: string;
   url: string | null;
   levels?: Level[];
@@ -242,7 +243,11 @@ function readFinanciamiento(): Opportunity[] {
   return rows.map((r) => {
     const slug = slugify(r.name);
     const deadline: Deadline =
-      r.deadline === "continua" ? { kind: "continua" } : { kind: "exacta", date: r.deadline };
+      typeof r.deadline === "object"
+        ? { kind: "por-confirmar", label: r.deadline.label }
+        : r.deadline === "continua"
+          ? { kind: "continua" }
+          : { kind: "exacta", date: r.deadline };
     return {
       id: `fin-${slug}`,
       slug,
