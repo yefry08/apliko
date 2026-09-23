@@ -122,8 +122,9 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
       if (f.nivel && !o.levels.includes(f.nivel as Level)) return false;
       if (f.fondos && o.funding !== f.fondos) return false;
       if (f.destino && !o.destinations.includes(f.destino)) return false;
-      if (f.categoria === "becas" && o.source === "financiamiento") return false;
+      if (f.categoria === "becas" && (o.source === "financiamiento" || o.source === "voluntariado")) return false;
       if (f.categoria === "fondos" && o.source !== "financiamiento") return false;
+      if (f.categoria === "voluntariado" && o.source !== "voluntariado") return false;
       if (f.area && !AREA_BY_ID.get(f.area)?.matches(o)) return false;
       if (profile && eligibilityFor(o, profile) === "no-elegible") return false;
       if (q) {
@@ -223,6 +224,7 @@ export function Catalog({ items, initial }: { items: Opportunity[]; initial: Cat
           options={[
             ["becas", "Becas y programas"],
             ["fondos", "Fondos y premios"],
+            ["voluntariado", "Voluntariado"],
           ]}
         />
         <FilterSelect

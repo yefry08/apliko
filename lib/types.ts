@@ -42,8 +42,8 @@ export interface Opportunity {
   slug: string;
   name: string;
   sponsor?: string;
-  source: "internacional" | "rss" | "financiamiento";
-  /** Feed the item came from, when source === "rss". */
+  source: "internacional" | "rss" | "financiamiento" | "voluntariado";
+  /** Feed or list the item came from, when it is more specific than `source`. */
   sourceName?: string;
   types: string[];
   areas: string[];

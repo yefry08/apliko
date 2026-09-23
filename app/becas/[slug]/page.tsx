@@ -5,6 +5,7 @@ import { ArrowLeft, ArrowUpRight, CalendarPlus } from "lucide-react";
 import { SaveButton } from "@/components/save-button";
 import { DaysLeft, deadlineText, EligibilityTag, OpportunityCard, StatusPill } from "@/components/opportunity-bits";
 import { SiteFooter, SiteHeader } from "@/components/site-chrome";
+import type { Opportunity } from "@/lib/types";
 import {
   ELIGIBILITY_REASON,
   eligibilityFor,
@@ -37,6 +38,12 @@ export async function generateMetadata(props: PageProps<"/becas/[slug]">): Promi
 const dateFmt = new Intl.DateTimeFormat("es-DO", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
 const isKnown = (v?: string) => !!v && !/^(unknown|varies|varía|—)$/i.test(v.trim());
 
+const SOURCE_LABEL: Record<Exclude<Opportunity["source"], "rss">, string> = {
+  internacional: "listado de programas internacionales",
+  financiamiento: "convocatorias de financiamiento revisadas a mano",
+  voluntariado: "proyectos del Cuerpo Europeo de Solidaridad",
+};
+
 export default async function OpportunityPage(props: PageProps<"/becas/[slug]">) {
   const { slug } = await props.params;
   const o = getBySlug(slug);
@@ -48,7 +55,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
     ["Destino", o.destinations.join(", ")],
     ["Monto", o.amount],
     ["Financiamiento", o.amount ? undefined : FUNDING_LABEL[o.funding]],
-    ["Quién puede postular", o.source === "financiamiento" ? o.citizenshipRaw : undefined],
+    ["Quién puede postular", o.source === "financiamiento" || o.source === "voluntariado" ? o.citizenshipRaw : undefined],
     ["Nivel", o.levels.map((l) => LEVEL_LABEL[l]).join(", ") || undefined],
     ["Tipo", o.types.join(", ")],
     ["Área", o.areas.join(", ") || undefined],
@@ -175,7 +182,7 @@ export default async function OpportunityPage(props: PageProps<"/becas/[slug]">)
             </dl>
             <p className="text-xs text-muted-foreground">
               Fuente:{" "}
-              {o.source === "rss" ? (o.sourceName ?? "feed RSS") : o.source === "financiamiento" ? "convocatorias de financiamiento revisadas a mano" : "listado de programas internacionales"}
+              {o.sourceName ?? (o.source === "rss" ? "feed RSS" : SOURCE_LABEL[o.source])}
               , actualizado el{" "}
               {dateFmt.format(new Date(o.updatedAt))}. Confirma en el sitio oficial.
             </p>

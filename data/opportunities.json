@@ -8924,6 +8924,4292 @@
   "updatedAt": "2026-09-18"
  },
  {
+  "id": "sgp-french-tech-rise",
+  "slug": "french-tech-rise",
+  "name": "French Tech Rise",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Tecnología profunda",
+   "Hardware",
+   "Biotecnología y ciencias de la vida",
+   "Digital e IA"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "varia",
+  "amount": "Up to €500K grant",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Francia.",
+  "audience": "Stage: Pre-seed, Seed, Early Stage.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "French Tech Rise is a Bpifrance grant program supporting early-stage French deep tech startups working on hardware, biotech, AI, or other industrial technologies. The grant covers up to 70% of eligible R&D and prototype costs, up to €500K. It targets pre-Series A companies with a genuinely innovative technical approach and a credible path to market. Applicants must be incorporated in France. The program prioritizes physical-world innovations — startups working on atoms, not just bits — distinguishing it from purely software-focused French programs.",
+  "url": "https://lafrenchtech.gouv.fr/en/programme/french-tech-rise-2/",
+  "applyUrl": "https://lafrenchtech.gouv.fr/en/programme/french-tech-rise-2/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-horizon-europe-clusters",
+  "slug": "horizon-europe-clusters",
+  "name": "Horizon Europe (Clusters)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Digital e IA",
+   "Salud",
+   "Clima y tecnología verde",
+   "Tecnología espacial"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "€1M – €10M+ depending on call",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: R&D, Growth.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "Horizon Europe is the EU’s main research and innovation framework program (2021–2027) with a total budget of €95.5B. It is organized into thematic clusters: Health; Culture, Creativity & Society; Civil Security; Digital, Industry & Space; Climate, Energy & Mobility; and Food, Bioeconomy & Environment. Startups and SMEs apply to specific published calls within these clusters, typically as part of collaborative consortia (though some calls are open to individual entities). Each call has a defined scope, budget, and deadline. The EU Funding & Tenders portal is the single entry point for all applications.",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon",
+  "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-innosuisse-startup-grant",
+  "slug": "innosuisse-startup-grant",
+  "name": "Innosuisse Startup Grant",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Investigación y spin-offs",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Suiza"
+  ],
+  "funding": "varia",
+  "amount": "Up to CHF 150K per phase (3 phases = up to CHF 450K total)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Suiza.",
+  "audience": "Stage: Pre-seed, Seed, Early Stage.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "Innosuisse (Swiss Innovation Agency) offers Startup Grants to science-based Swiss startups with a clear link to a Swiss research institution. The program has three phases: Feasibility (up to CHF 150K, ~6 months), Proof of Concept (up to CHF 150K, ~12 months), and Market Entry (up to CHF 150K, ~12 months), for a potential total of CHF 450K. Each phase is applied for separately and must be completed successfully before advancing. Participation in Innosuisse coaching and training modules is mandatory alongside the grant. Startups must be in the process of spinning off from ETH, EPFL, a cantonal university, or a UAS.",
+  "url": "https://www.innosuisse.admin.ch/en/start-up-innovation-projects",
+  "applyUrl": "https://www.innosuisse.admin.ch/en/start-up-innovation-projects",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-zim-program-central-innovation-programme-for-smes",
+  "slug": "zim-program-central-innovation-programme-for-smes",
+  "name": "ZIM Program (Central Innovation Programme for SMEs)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "I+D en pymes",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "varia",
+  "amount": "Up to €380K per project (~45–55% of eligible costs)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Alemania.",
+  "audience": "Stage: Early Stage, Growth, R&D.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "notes": "ZIM (Zentrales Innovationsprogramm Mittelstand) is Germany’s largest and most accessible innovation funding program, administered by BMWK. It supports R&D projects by German SMEs (and startups) across all technology sectors and industries. Three funding forms: solo R&D projects (company alone), cooperative R&D projects (company + research institution), and R&D cooperation networks. The subsidy covers 45–55% of eligible R&D costs up to €380K per company per project. Applications are accepted on a rolling basis, with evaluation taking roughly 3 months. There is no thematic restriction — any technologically novel project qualifies.",
+  "url": "https://www.zim.de/ZIM/Navigation/DE/Meta/Englisch/englisch.html",
+  "applyUrl": "https://www.zim.de/ZIM/Navigation/DE/Meta/Englisch/englisch.html",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-vlaio-research-project-grant",
+  "slug": "vlaio-research-project-grant",
+  "name": "VLAIO Research Project Grant",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "I+D en pymes",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Bélgica"
+  ],
+  "funding": "varia",
+  "amount": "Up to €3M; 25–60% of eligible costs (higher for SMEs)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Bélgica.",
+  "audience": "Stage: Early Stage, Growth, R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "VLAIO (Flanders Innovation & Entrepreneurship) provides R&D project grants to companies based in the Flemish Region of Belgium. It funds both industrial research (further from market) and experimental development (closer to market), with subsidy rates of 25–50% for large companies, up to 60% for SMEs, and higher rates for collaborative projects. Maximum grant is €3M per project. The project must clearly exceed the state of the art and have commercial potential. Applications require a detailed technical and financial plan. VLAIO also offers innovation consulting, scale-up support, and connections to Flemish research institutions via its broader innovation ecosystem.",
+  "url": "https://www.vlaio.be/en/subsidies/research-project",
+  "applyUrl": "https://www.vlaio.be/en/subsidies/research-project",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-eic-pathfinder",
+  "slug": "eic-pathfinder",
+  "name": "EIC Pathfinder",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Investigación y spin-offs",
+   "Tecnología profunda"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "Up to €3M (Open); up to €4M (Challenges)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "EIC Pathfinder funds visionary, high-risk research aimed at developing the scientific foundations for radically new future technologies. It has two tracks: Pathfinder Open (up to €3M for any scientific direction, consortia of at least 3 entities) and Pathfinder Challenges (up to €4M for specific thematic calls). Primarily targets research teams, universities, and science-based startups at TRL 1–4. Successful Pathfinder projects can feed directly into EIC Transition funding for further development toward market.",
+  "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en",
+  "applyUrl": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-pathfinder_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-innovation-norway",
+  "slug": "innovation-norway",
+  "name": "Innovation Norway",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Clima y tecnología verde",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Noruega"
+  ],
+  "funding": "varia",
+  "amount": "Phase 1: up to NOK 150K; Phase 2: up to NOK 1M; Phase 3: up to NOK 2M",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Noruega.",
+  "audience": "Stage: Pre-seed, Seed, Early Stage.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "Innovation Norway offers startup grants to Norwegian companies under 3 years old with scalable, market-oriented innovations. The program has three sequential phases: Phase 1 (up to NOK 150K) for market and customer validation; Phase 2 (up to NOK 1M) for prototype development and business model refinement; Phase 3 (up to NOK 2M) for commercialization and internationalization. Each phase must be completed before applying for the next. Green tech and sustainability-focused startups receive priority weighting. Innovation Norway also provides international market access support, mentorship, and connections to its global network of offices.",
+  "url": "https://en.innovasjonnorge.no/article/startups",
+  "applyUrl": "https://en.innovasjonnorge.no/article/startups",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-eic-step-european-innovation-council",
+  "slug": "eic-step-european-innovation-council",
+  "name": "EIC Step (European Innovation Council)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Tecnología profunda"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "Up to €2.5M grant + €7.5M equity investment",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Early Stage, Growth.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "EIC Step is a European Innovation Council instrument under Horizon Europe that provides blended finance — combining a non-dilutive grant of up to €2.5M with an equity investment of up to €7.5M from the EIC Fund — to deep tech startups and SMEs developing breakthrough innovations with strong market potential. It targets companies that have already demonstrated technical feasibility and are ready to scale. The EIC Fund takes a minority equity stake in exchange for the investment component. Applications are submitted via the EIC platform and evaluated in a two-stage process including a written proposal and panel interview.",
+  "url": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
+  "applyUrl": "https://eic.ec.europa.eu/eic-funding-opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-eic-accelerator",
+  "slug": "eic-accelerator",
+  "name": "EIC Accelerator",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Tecnología profunda",
+   "Clima y tecnología verde",
+   "Digital e IA"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "Up to €2.5M grant + up to €15M equity investment",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Early Stage, Growth.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "The EIC Accelerator is the flagship EIC funding instrument for individual startups and SMEs with high-risk, high-impact innovations targeting large markets. It offers up to €2.5M in grants and up to €15M in equity investment (blended finance), or a grant-only option. Open to any tech sector, with strong focus on deep tech, green, and digital. Acceptance rates are typically 3–5%. Applications go through a three-stage process: short application, full proposal, and in-person panel interview in Brussels. Non-EU nationals can apply if based in an eligible country.",
+  "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+  "applyUrl": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-ukri-uk-research-and-innovation",
+  "slug": "ukri-uk-research-and-innovation",
+  "name": "UKRI (UK Research and Innovation)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Clima y tecnología verde",
+   "Digital e IA",
+   "Salud",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "amount": "€20K – €4M+ depending on programme and sector",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Reino Unido.",
+  "audience": "Stage: Early Stage, Growth, R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "UKRI (UK Research and Innovation) is the umbrella body for nine UK research councils plus Innovate UK, the primary funder of business-led innovation. Innovate UK offers grants and loans to UK-based startups and SMEs across a wide range of programs: Smart Grants (open, technology-neutral, €25K–€500K); Knowledge Transfer Partnerships (KTPs, linking businesses with universities); and themed challenges aligned to clean growth, future mobility, AI, and healthy ageing. Applications go through the Innovate UK portal (UKRI Funding Service). Post-Brexit, UK entities are generally excluded from Horizon Europe but UKRI programs are open to UK-incorporated companies regardless of founder nationality.",
+  "url": "https://www.ukri.org/apply-for-funding/",
+  "applyUrl": "https://www.ukri.org/apply-for-funding/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-gobio-next-eic-horizon-europe",
+  "slug": "gobio-next-eic-horizon-europe",
+  "name": "GOBio Next (EIC / Horizon Europe)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Biotecnología y ciencias de la vida"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "Up to €2.5M grant (proof of concept) + follow-on funding options",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: R&D, Early Stage.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "GO-Bio Next is a German federal program (BMBF) that funds life sciences spin-offs emerging from academic research. It runs in two phases: Phase 1 (Feasibility, up to ~€1.5M over 2 years) validates commercial viability and team formation, while Phase 2 (Company Formation, up to €2.5M) supports the actual founding and early growth of the biotech startup. Applicants must have a founding team rooted in a German research institution. The program is technology-neutral within life sciences, covering therapeutics, diagnostics, medical devices, and agricultural biotech.",
+  "url": "https://www.go-bio.de/gobio/en/go-bio/go-bio-next/go-bio-next.html",
+  "applyUrl": "https://www.go-bio.de/gobio/en/go-bio/go-bio-next/go-bio-next.html",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-exist-forschungstransfer",
+  "slug": "exist-forschungstransfer",
+  "name": "EXIST Forschungstransfer",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Investigación y spin-offs",
+   "Tecnología profunda"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "varia",
+  "amount": "€180K+",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Alemania.",
+  "audience": "Stage: Pre-seed, Seed.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "EXIST Forschungstransfer is the more intensive phase of the EXIST program, designed for spin-off projects that require substantial R&D to reach market readiness — typically deep tech with long development cycles. It runs in two phases: Phase 1 (up to 18 months, ~€180K+) funds R&D within the research institution; Phase 2 (up to 18 months) provides further support after company formation. Funding is significantly higher than the Gründerstipendium and requires a detailed technical and business plan. The host university applies on behalf of the team. Particularly suited to hardware, biotech, and materials science spin-offs.",
+  "url": "https://exist.de/programm/exist-forschungstransfer/foerderantrag-stellen/",
+  "applyUrl": "https://exist.de/programm/exist-forschungstransfer/foerderantrag-stellen/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-women-techeu",
+  "slug": "women-techeu",
+  "name": "Women TechEU",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Tecnología profunda",
+   "Startups lideradas por mujeres"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "€75K grant + coaching & mentoring",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Pre-seed, Seed.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "Women TechEU is an EIC initiative providing €75K business acceleration grants specifically to deep tech startups led by women CEOs. Beyond the grant, participants receive tailored coaching, mentoring from senior industry figures, and access to the broader EIC network and investor community. The program runs as an annual call and is designed to address the funding and visibility gap women founders face in European deep tech. Eligibility requires the startup to be in an early stage and the CEO to be a woman.",
+  "url": "https://womentecheurope.eu/",
+  "applyUrl": "https://womentecheurope.eu/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-neotec-cdti",
+  "slug": "neotec-cdti",
+  "name": "NEOTEC (CDTI)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "I+D en pymes",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "España"
+  ],
+  "funding": "varia",
+  "amount": "Up to €250K loan at 0% interest (repayable)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en España.",
+  "audience": "Stage: Seed, Early Stage.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "NEOTEC is a CDTI (Centro para el Desarrollo Tecnológico Industrial) program for technology-based Spanish startups. It provides 0% interest loans (partially non-repayable) of up to €250K to companies less than 3 years old. Eligible startups must have a strong R&D component and a 3-year business plan. Unlike most grants, NEOTEC is a loan and must be partially repaid, though the repayment conditions are favorable. The program runs one or two calls per year. CDTI also offers follow-on instruments for more mature companies. Applicants must be incorporated in Spain.",
+  "url": "https://www.cdti.es/en/ayudas/neotec",
+  "applyUrl": "https://www.cdti.es/en/ayudas/neotec",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-eurostars",
+  "slug": "eurostars",
+  "name": "Eurostars",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "I+D en pymes",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "Up to €500K per project (national agency co-funding)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Early Stage, Growth, R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "Eurostars is a joint program between EUREKA (38 member countries) and the European Commission that co-funds international R&D projects led by SMEs. Each project must involve at least two independent entities from different EUREKA countries, with an SME leading. National agencies fund their own country’s participants — meaning the actual grant is disbursed domestically, not centrally. Projects must have a clear commercial outcome within 2 years of completion. Eurostars has two annual cut-off dates and a fast evaluation process (~6 months from submission to funding decision).",
+  "url": "https://www.eurekanetwork.org/programmes/eurostars/",
+  "applyUrl": "https://www.eurekanetwork.org/programmes/eurostars/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-eic-transition",
+  "slug": "eic-transition",
+  "name": "EIC Transition",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Tecnología profunda",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "€500K – €2.5M grant",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Early Stage, R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "EIC Transition bridges the gap between early research results and market-ready products. It is exclusively open to teams and spin-offs that have completed an EIC Pathfinder or ERC Proof of Concept project. Funding of €500K–€2.5M supports technology maturation, prototype development, business model validation, and early IP strategy. Applicants can be research institutions, startups, or SMEs. The goal is to bring innovations from TRL 3–4 up to TRL 5–6, establishing a credible path to commercialization.",
+  "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en",
+  "applyUrl": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-i-nov-innovation-competition",
+  "slug": "i-nov-innovation-competition",
+  "name": "I-Nov Innovation Competition",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Digital e IA",
+   "Salud",
+   "Clima y tecnología verde",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "varia",
+  "amount": "€1M – €5M co-financing; R&D projects over 12–36 months",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Francia.",
+  "audience": "Stage: Early Stage, Growth, R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "I-Nov (Innovation Competition) is a French public innovation procurement program managed jointly by ADEME, ANR, and Bpifrance. It runs thematic calls across 12 priority areas including digital, health, transport and mobility, energy, and environment. Eligible applicants are French startups and SMEs with R&D projects of €1M–5M over 12–36 months. Co-financing covers 45–70% of eligible project costs depending on company size. I-Nov focuses on projects close to market with clear commercial potential, rather than fundamental research. Applications are submitted per thematic call.",
+  "url": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-concours-dinnovation-i-nov",
+  "applyUrl": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-concours-dinnovation-i-nov",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-aws-preseed-seedfinancing",
+  "slug": "aws-preseed-seedfinancing",
+  "name": "aws Preseed & Seedfinancing",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Tecnología profunda",
+   "Digital e IA",
+   "Biotecnología y ciencias de la vida",
+   "Clima y tecnología verde"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Austria"
+  ],
+  "funding": "varia",
+  "amount": "Preseed: up to €89K–€100K; Seedfinancing: up to €356K–€400K (non-repayable grants)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Austria.",
+  "audience": "Stage: Pre-seed, Seed.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "notes": "aws Preseed & Seedfinancing is run by Austria Wirtschaftsservice (aws), the Austrian federal development and financing bank. It provides non-repayable grants to Austrian startups from idea stage through to market launch. Preseed (up to €100K) covers concept development, prototype building, and market validation. Seedfinancing (up to €400K) funds product development and early market entry. Both require an innovative product or service with a viable business model. Applications are reviewed on a rolling basis. aws also offers advisory services and connects funded startups with its broader investor and corporate network.",
+  "url": "https://www.aws.at/en/aws-preseed-seedfinancing/",
+  "applyUrl": "https://www.aws.at/en/aws-preseed-seedfinancing/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-erc-starting-grant",
+  "slug": "erc-starting-grant",
+  "name": "ERC Starting Grant",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Investigación y spin-offs",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "Up to €1.5M over 5 years (up to €2.5M for relocating researchers)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "The ERC Starting Grant is a European Research Council award for early-career researchers (2–7 years post-PhD) with an excellent research track record. It funds frontier, investigator-driven research in any scientific field at a European host institution. The PI must be employed by the host institution, which can be a university, research center, or private company with a research mission. ERC grants are not startup grants per se, but successful projects frequently generate IP and spin-off companies. The grant covers up to €1.5M over 5 years (up to €2.5M if the researcher relocates to Europe from abroad).",
+  "url": "https://erc.europa.eu/apply-grant/starting-grant",
+  "applyUrl": "https://erc.europa.eu/apply-grant/starting-grant",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-innobooster-innovation-fund-denmark",
+  "slug": "innobooster-innovation-fund-denmark",
+  "name": "Innobooster (Innovation Fund Denmark)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Clima y tecnología verde",
+   "Biotecnología y ciencias de la vida",
+   "Digital e IA",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Dinamarca"
+  ],
+  "funding": "varia",
+  "amount": "Up to DKK 5M (~€670K); 50–75% of eligible costs",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Dinamarca.",
+  "audience": "Stage: Early Stage, Growth.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "notes": "Innobooster is Innovation Fund Denmark’s most accessible funding program for Danish startups and SMEs with innovative, knowledge-based projects. It offers two tracks: small projects (DKK 50K–2M, ~6-week processing time) and large projects (DKK 2M–5M, ~3-month processing time). It covers 50–75% of eligible costs. Applications are accepted on a rolling basis. The program is broad in scope — any sector qualifies, with particular activity in greentech, life sciences, and digital. Innobooster is a good entry point to the Danish public funding ecosystem before moving to larger EU programs.",
+  "url": "https://innovationsfonden.dk/en/p/innobooster",
+  "applyUrl": "https://innovationsfonden.dk/en/p/innobooster",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-life-programme",
+  "slug": "life-programme",
+  "name": "LIFE Programme",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Medio ambiente y economía circular",
+   "Clima y tecnología verde"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "€1M – €5M+ (55–60% co-financing rate)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Growth, R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "The LIFE Programme is the EU’s dedicated funding instrument for environment, nature, and climate action (2021–2027, total budget €5.4B). It operates through four sub-programs: Nature & Biodiversity, Circular Economy & Quality of Life, Climate Change Mitigation & Adaptation, and Clean Energy Transition. Projects are co-financed at 55–60% of eligible costs and typically involve a consortium of at least two entities. Project durations range from 2 to 5 years. CINEA (European Climate, Infrastructure and Environment Executive Agency) manages the program. Not primarily a startup grant — better suited to established companies or NGOs with a credible environmental track record.",
+  "url": "https://cinea.ec.europa.eu/programmes/life_en",
+  "applyUrl": "https://cinea.ec.europa.eu/programmes/life_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-vinnova-innovation-fund",
+  "slug": "vinnova-innovation-fund",
+  "name": "Vinnova Innovation Fund",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Clima y tecnología verde",
+   "Digital e IA",
+   "Salud",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Suecia"
+  ],
+  "funding": "varia",
+  "amount": "SEK 500K – 3M (~€45K–€270K) per project",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Suecia.",
+  "audience": "Stage: Early Stage, Growth.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "Vinnova is Sweden’s government innovation agency and manages a wide portfolio of funding programs for Swedish startups, SMEs, and research institutions. The primary startup-facing program is Innovative Startups, which provides SEK 500K–3M per project for companies under 5 years old with a genuinely new product or service. Thematic calls target sustainability, digitalization, health, and industrial transformation. Many Vinnova programs require a co-financing partner (e.g., a university or industry partner). Applications are submitted through Vinnova’s online portal and evaluated on innovation potential, team capability, and societal benefit.",
+  "url": "https://www.vinnova.se/en/apply-for-funding/",
+  "applyUrl": "https://www.vinnova.se/en/apply-for-funding/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-exist-grunderstipendium",
+  "slug": "exist-grunderstipendium",
+  "name": "EXIST Gründerstipendium",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Investigación y spin-offs",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "varia",
+  "amount": "€2,500–€3,000/month stipend per founder + €30K project budget (12 months)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Alemania.",
+  "audience": "Stage: Pre-seed.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "EXIST-Gründerstipendium is a German federal program (BMWK) that supports knowledge-intensive, innovative startup ideas originating from universities and research institutions. It provides a monthly living stipend (€2,500 for graduates, €3,000 for post-docs, €2,000 for students) for up to 12 months, plus a €30K project budget for materials and coaching. Applicants must be affiliated with a German university, which acts as the host institution and applies on the team’s behalf. The program covers the idea and business plan validation phase only — the team is not yet expected to have a legal entity.",
+  "url": "https://exist.de/en/programm/exist-gruendungsstipendium/",
+  "applyUrl": "https://exist.de/en/programm/exist-gruendungsstipendium/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-i-lab-innovation-contest",
+  "slug": "i-lab-innovation-contest",
+  "name": "I-Lab Innovation Contest",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Investigación y spin-offs",
+   "Tecnología profunda"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "varia",
+  "amount": "Up to €600K (maturation grant)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Francia.",
+  "audience": "Stage: Pre-seed, Seed.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "I-Lab is an annual French innovation competition run since 1999 by Bpifrance and the Ministry of Higher Education & Research. It targets pre-startups and very early-stage startups building on scientific or technological breakthroughs. Two categories: ‘Emergence’ (for projects still in the research phase, grant up to €200K) and ‘Creation-Développement’ (for projects with a founding team and product in development, grant up to €600K). Winners also receive tailored support from Bpifrance and visibility at national innovation events. Applicants must be based in France.",
+  "url": "https://www.francealumni.fr/en/news/the-27th-i-lab-contest-opens-promoting-the-best-innovative-projects-9512",
+  "applyUrl": "https://www.francealumni.fr/en/news/the-27th-i-lab-contest-opens-promoting-the-best-innovative-projects-9512",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-eit-accelerator-kic-programs",
+  "slug": "eit-accelerator-kic-programs",
+  "name": "EIT Accelerator (KIC Programs)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Clima y tecnología verde",
+   "Digital e IA",
+   "Salud",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "€15K – €100K+ non-dilutive; business plan prizes vary",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Seed, Early Stage.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "The EIT (European Institute of Innovation & Technology) funds Knowledge & Innovation Communities (KICs) — large-scale pan-European partnerships in specific sectors. Each KIC runs its own startup accelerator programs: EIT Climate-KIC (sustainability), EIT Digital (digital transformation), EIT Health (healthcare innovation), EIT Food (agri-food), EIT Manufacturing (industry), EIT Urban Mobility (transport), and EIT InnoEnergy (clean energy). Programs typically offer non-dilutive grants of €15K–€100K+, business plan competitions, education, mentoring, and access to a pan-European network. Applications go through the individual KIC, not centrally.",
+  "url": "https://www.eit.europa.eu/our-activities/opportunities",
+  "applyUrl": "https://www.eit.europa.eu/our-activities/opportunities",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-esa-bic-business-incubation-centres",
+  "slug": "esa-bic-business-incubation-centres",
+  "name": "ESA BIC (Business Incubation Centres)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Tecnología espacial"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "€50K – €250K cash + in-kind support (varies by national BIC)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Pre-seed, Seed, Early Stage.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "ESA Business Incubation Centres (BIC) are operated by the European Space Agency across 20+ sites in Europe (Austria, Belgium, Germany, Spain, Finland, France, Italy, Netherlands, Norway, Portugal, UK, and others). Each national BIC provides cash grants (€50K–€250K depending on the country), access to ESA technology, expertise, and facilities, plus business support over a 2-year incubation period. Startups must be developing downstream satellite applications (e.g., Earth observation data services, navigation, telecommunications) or spin-ins that apply space technology to non-space markets. Applications go through the relevant national BIC.",
+  "url": "https://booster.esa-bic.de/funding-opportunities/",
+  "applyUrl": "https://booster.esa-bic.de/funding-opportunities/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-sprind-bundesagentur-fur-sprunginnovationen",
+  "slug": "sprind-bundesagentur-fur-sprunginnovationen",
+  "name": "SPRIND (Bundesagentur für Sprunginnovationen)",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Tecnología profunda"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Alemania",
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "€100K – €10M+ per project; milestone-based",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Equipos de cualquier país que respondan a un reto publicado.",
+  "audience": "Stage: Early Stage, R&D.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "SPRIND (Bundesagentur für Sprunginnovationen) is Germany's federal agency for disruptive innovation, modeled on DARPA and ARPA-E. It identifies and funds 'radical innovations' that are too high-risk and long-horizon for incumbent companies or standard public funding. SPRIND runs themed challenge competitions where teams compete for milestone-based funding ranging from €100K to €10M+. Grants are non-repayable and outcome-driven. Crucially, SPRIND is nationality-agnostic — non-German and non-EU startups can and do receive funding, as long as they respond to a published challenge. SPRIND does not accept general applications; teams must respond to specific published challenges. It also has a Facilitation unit that helps innovators navigate legal and regulatory barriers.",
+  "url": "https://www.sprind.org/en/actions/your-project",
+  "applyUrl": "https://www.sprind.org/en/actions/your-project",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-ffg-general-programme",
+  "slug": "ffg-general-programme",
+  "name": "FFG General Programme",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "I+D en pymes",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Austria"
+  ],
+  "funding": "varia",
+  "amount": "Up to €3M per project; 50% of costs (up to 70% for startups)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Austria.",
+  "audience": "Stage: Early Stage, Growth, R&D.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "notes": "The FFG General Programme is the Austrian Research Promotion Agency’s (FFG) main open R&D funding instrument, available to Austrian companies of all sizes. It supports individual R&D projects (new products, processes, or services) and cooperative projects (with research institutions or other companies). Base subsidy rates are 25–35% for large companies, rising to 45–60% for SMEs and startups, and up to 70% for experimental development by small companies. Applications are accepted on a rolling basis with a processing time of approximately 3 months. Thematic restrictions are minimal — the project must demonstrate clear innovation above the state of the art.",
+  "url": "https://www.ffg.at/en/programme/general-programme",
+  "applyUrl": "https://www.ffg.at/en/programme/general-programme",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "sgp-cascade-funding",
+  "slug": "cascade-funding",
+  "name": "Cascade Funding",
+  "source": "financiamiento",
+  "sourceName": "Grant Programs Database (Notion)",
+  "types": [
+   "Fondos para startups"
+  ],
+  "areas": [
+   "Digital e IA",
+   "Cualquier sector"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "€5K – €200K (varies by program/hub)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups, pymes o equipos de investigación con sede en Europa.",
+  "audience": "Stage: Pre-seed, Seed, Early Stage.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según cada convocatoria"
+  },
+  "notes": "Cascade Funding (formally Financial Support to Third Parties, FSTP) is a mechanism through which EU-funded project hubs — such as AI testing and experimentation facilities, IoT platforms, and robotics hubs — redistribute a portion of their EU grant to third-party startups and SMEs via open competitive calls. Grant sizes are typically €5K–€200K. Each hub runs its own call with its own scope (tied to the hub’s technology focus), timeline, and eligibility criteria. Applications are submitted directly to the individual hub, not to the European Commission.",
+  "url": "https://webgate.ec.europa.eu/funding-tenders-opportunities/spaces/IT/pages/25559615/Cascade+Funding+Calls+Financial+Support+for+Third+Parties+FSTP",
+  "applyUrl": "https://webgate.ec.europa.eu/funding-tenders-opportunities/spaces/IT/pages/25559615/Cascade+Funding+Calls+Financial+Support+for+Third+Parties+FSTP",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-ghana-digital-empowerment-for-communities-in-ta",
+  "slug": "esc-humanitarian-volunteering-in-ghana-digital-empowerment-for-communities-in-ta",
+  "name": "ESC Humanitarian Volunteering in Ghana: Digital Empowerment for Communities in Tamale",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Ghana"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Manage social media, provide IT support and lead digital-literacy training in rural communities.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-uganda-inclusive-education-care-for-children-wi",
+  "slug": "esc-humanitarian-volunteering-in-uganda-inclusive-education-care-for-children-wi",
+  "name": "ESC Humanitarian Volunteering in Uganda: Inclusive Education & Care for Children with Special Needs in Kampala",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Uganda"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Support daily care, life skills, therapies and early childhood development.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-georgia-entrepreneurship-trainer-for-displaced-",
+  "slug": "esc-humanitarian-volunteering-in-georgia-entrepreneurship-trainer-for-displaced-",
+  "name": "ESC Humanitarian Volunteering in Georgia: Entrepreneurship Trainer for Displaced Youth & Women in Tserovani",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Georgia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Deliver business planning, financial literacy and enterprise training for internally displaced people.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-ghana-monitoring-evaluation-for-an-ngo-in-tamal",
+  "slug": "esc-humanitarian-volunteering-in-ghana-monitoring-evaluation-for-an-ngo-in-tamal",
+  "name": "ESC Humanitarian Volunteering in Ghana: Monitoring & Evaluation for an NGO in Tamale",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Ghana"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Build M&E tools, improve data quality and support donor reporting for a grassroots NGO.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-uganda-education-teacher-development-in-kampala",
+  "slug": "esc-humanitarian-volunteering-in-uganda-education-teacher-development-in-kampala",
+  "name": "ESC Humanitarian Volunteering in Uganda: Education & Teacher Development in Kampala",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Uganda"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Support classroom activities, strengthen teachers' skills and deliver digital-literacy lessons.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-ghana-women-s-economic-empowerment-in-rural-bol",
+  "slug": "esc-humanitarian-volunteering-in-ghana-women-s-economic-empowerment-in-rural-bol",
+  "name": "ESC Humanitarian Volunteering in Ghana: Women's Economic Empowerment in Rural Bolgatanga",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Ghana"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Strengthen women's skills in shea butter, weaving and cooperatives, opening new markets.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-georgia-communication-social-media-fundraising-",
+  "slug": "esc-humanitarian-volunteering-in-georgia-communication-social-media-fundraising-",
+  "name": "ESC Humanitarian Volunteering in Georgia: Communication, Social Media & Fundraising Officer in Tserovani",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Georgia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Build communication strategies and run social media and fundraising campaigns.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-uganda-digital-empowerment-trainer-in-kampala",
+  "slug": "esc-humanitarian-volunteering-in-uganda-digital-empowerment-trainer-in-kampala",
+  "name": "ESC Humanitarian Volunteering in Uganda: Digital Empowerment Trainer in Kampala",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Uganda"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Design and run digital skills and social media marketing trainings and deliver ICT sessions.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-ghana-climate-adaptation-disaster-preparedness-",
+  "slug": "esc-humanitarian-volunteering-in-ghana-climate-adaptation-disaster-preparedness-",
+  "name": "ESC Humanitarian Volunteering in Ghana: Climate Adaptation & Disaster Preparedness in Tamale",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Ghana"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Carry out climate vulnerability assessments and build local capacity in sustainable practices.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-kenya-early-childhood-education-support-near-ki",
+  "slug": "esc-humanitarian-volunteering-in-kenya-early-childhood-education-support-near-ki",
+  "name": "ESC Humanitarian Volunteering in Kenya: Early Childhood Education Support near Kisumu",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Kenia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support play-based learning and literacy for children aged 3-6 in the Kano Plains.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-ghana-vocational-skills-coordinator-in-tamale",
+  "slug": "esc-humanitarian-volunteering-in-ghana-vocational-skills-coordinator-in-tamale",
+  "name": "ESC Humanitarian Volunteering in Ghana: Vocational Skills Coordinator in Tamale",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Ghana"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Coordinate vocational-skills projects that boost employability and entrepreneurship.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-uganda-inclusive-education-for-children-with-di",
+  "slug": "esc-humanitarian-volunteering-in-uganda-inclusive-education-for-children-with-di",
+  "name": "ESC Humanitarian Volunteering in Uganda: Inclusive Education for Children with Disabilities in Kampala",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Uganda"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support 100 pupils aged 6-18 with disabilities at the Kampala School for the Physically Handicapped.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-georgia-climate-resilience-community-work-in-zu",
+  "slug": "esc-humanitarian-volunteering-in-georgia-climate-resilience-community-work-in-zu",
+  "name": "ESC Humanitarian Volunteering in Georgia: Climate Resilience & Community Work in Zugdidi",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Georgia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support climate-resilience and disaster-preparedness workshops and community initiatives.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-ghana-women-s-financial-digital-literacy-in-tam",
+  "slug": "esc-humanitarian-volunteering-in-ghana-women-s-financial-digital-literacy-in-tam",
+  "name": "ESC Humanitarian Volunteering in Ghana: Women's Financial & Digital Literacy in Tamale",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Ghana"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Help women's groups adopt digital tools and build financial records to access credit.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-tanzania-live-share-in-a-zanzibar-eco-village",
+  "slug": "esc-humanitarian-volunteering-in-tanzania-live-share-in-a-zanzibar-eco-village",
+  "name": "ESC Humanitarian Volunteering in Tanzania: Live & Share in a Zanzibar Eco-Village",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Tanzania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "duration": "180 días",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "180 days rotating through education, organic farming and community engagement; visa and vaccinations covered.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-uganda-digital-skills-ict-training-in-kampala",
+  "slug": "esc-humanitarian-volunteering-in-uganda-digital-skills-ict-training-in-kampala",
+  "name": "ESC Humanitarian Volunteering in Uganda: Digital Skills & ICT Training in Kampala",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Uganda"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Run digital-skills trainings and deliver ICT sessions for staff, schools and community organisations.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-ghana-french-language-support-in-rural-bolgatan",
+  "slug": "esc-humanitarian-volunteering-in-ghana-french-language-support-in-rural-bolgatan",
+  "name": "ESC Humanitarian Volunteering in Ghana: French Language Support in Rural Bolgatanga",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Ghana"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Help school children and community members build French skills through conversation and games.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-kenya-digital-skills-training-for-communities-i",
+  "slug": "esc-humanitarian-volunteering-in-kenya-digital-skills-training-for-communities-i",
+  "name": "ESC Humanitarian Volunteering in Kenya: Digital Skills Training for Communities in Kisumu",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Kenia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Boost digital literacy and online safety among youth and vulnerable children.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-ghana-ict-digital-skills-for-rural-students-in-",
+  "slug": "esc-humanitarian-volunteering-in-ghana-ict-digital-skills-for-rural-students-in-",
+  "name": "ESC Humanitarian Volunteering in Ghana: ICT & Digital Skills for Rural Students in Bolgatanga",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Ghana"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Build computer awareness and teach at a newly equipped ICT classroom in Kongo village.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-georgia-youth-worker-empowering-at-risk-youth-i",
+  "slug": "esc-humanitarian-volunteering-in-georgia-youth-worker-empowering-at-risk-youth-i",
+  "name": "ESC Humanitarian Volunteering in Georgia: Youth Worker Empowering At-Risk Youth in Zugdidi",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Georgia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Run youth programs for ages 8-25, support at-risk youth and mentor local volunteers.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-uganda-education-support-in-a-rural-community-s",
+  "slug": "esc-humanitarian-volunteering-in-uganda-education-support-in-a-rural-community-s",
+  "name": "ESC Humanitarian Volunteering in Uganda: Education Support in a Rural Community School near Kampala",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Uganda"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Strengthen school management, equip teachers with new methods and build the library.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-humanitarian-volunteering-in-tanzania-reforestation-a-nursery-in-sadaani-res",
+  "slug": "esc-humanitarian-volunteering-in-tanzania-reforestation-a-nursery-in-sadaani-res",
+  "name": "ESC Humanitarian Volunteering in Tanzania: Reforestation & a Nursery in Sadaani Reserve",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado",
+   "Ayuda humanitaria"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Ayuda humanitaria",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Tanzania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía).",
+  "audience": "Ages 18 to 35.",
+  "duration": "59 días",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "A 59-day mission building a nursery and supporting a native-tree seed bank. For nature lovers ready for a digital detox.",
+  "url": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "applyUrl": "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-eu-workshops-citizenship-education-at-a-europe-direct",
+  "slug": "esc-volunteering-in-france-eu-workshops-citizenship-education-at-a-europe-direct",
+  "name": "ESC Volunteering in France: EU Workshops & Citizenship Education at a Europe Direct Centre in Pau",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "language": "Francés e inglés",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Run EU info sessions, school workshops and debates.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-working-with-children-at-a-primary-school-in-trzciank",
+  "slug": "esc-volunteering-in-poland-working-with-children-at-a-primary-school-in-trzciank",
+  "name": "ESC Volunteering in Poland: Working with Children at a Primary School in Trzcianka",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Türkiye and 28 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Assist in classes for children aged 7-14 and share your passions, among lakes and forests.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-interculturality-web-radio-mobility-at-a-high-school-",
+  "slug": "esc-volunteering-in-france-interculturality-web-radio-mobility-at-a-high-school-",
+  "name": "ESC Volunteering in France: Interculturality, Web Radio & Mobility at a High School near Carcassonne",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "duration": "10 meses",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Ten months shaped by your own projects: web radio, social media and promoting mobility.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-hungary-youth-work-community-impact-teaching-experience",
+  "slug": "esc-volunteering-in-hungary-youth-work-community-impact-teaching-experience",
+  "name": "ESC Volunteering in Hungary: Youth Work, Community Impact & Teaching Experience",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Hungría"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Long-term, meaningful youth work in a small town, creating your own activities.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-bring-projects-to-life-at-coetlogon-high-school-in-re",
+  "slug": "esc-volunteering-in-france-bring-projects-to-life-at-coetlogon-high-school-in-re",
+  "name": "ESC Volunteering in France: Bring Projects to Life at Coëtlogon High School in Rennes",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "EUR 540 al mes + viaje cubierto",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Design workshops, share your culture and promote mobility. €540/month, travel covered.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-estonia-multicultural-kindergarten-with-language-immersion",
+  "slug": "esc-volunteering-in-estonia-multicultural-kindergarten-with-language-immersion",
+  "name": "ESC Volunteering in Estonia: Multicultural Kindergarten with Language Immersion",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Cyprus, Croatia, Liechtenstein, Malta, Ukraine and 24 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Play and learn with Estonian, Russian and international children in an inclusive kindergarten.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-intercultural-exchange-at-a-vocational-school",
+  "slug": "esc-volunteering-in-france-intercultural-exchange-at-a-vocational-school",
+  "name": "ESC Volunteering in France: Intercultural Exchange at a Vocational School",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Italy, Portugal, Romania and 2 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Bring Spanish and intercultural life to a rural vocational school.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-working-with-children-at-a-democratic-school-in-rzesz",
+  "slug": "esc-volunteering-in-poland-working-with-children-at-a-democratic-school-in-rzesz",
+  "name": "ESC Volunteering in Poland: Working with Children at a Democratic School in Rzeszów",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Italy, Portugal, Romania and 19 more countries.",
+  "duration": "3 meses",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Three months of educational, creative and intercultural work in a family-like school.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-alternative-education-in-a-rural-school",
+  "slug": "esc-volunteering-in-france-alternative-education-in-a-rural-school",
+  "name": "ESC Volunteering in France: Alternative Education in a Rural School",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Italy, Portugal, Romania and 13 more countries.",
+  "duration": "Un año escolar",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "A school year supporting a Montessori/Freinet/Steiner nature-based school, forest Fridays included.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-czechia-working-with-children-in-leisure-and-schools",
+  "slug": "esc-volunteering-in-czechia-working-with-children-in-leisure-and-schools",
+  "name": "ESC Volunteering in Czechia: Working with Children in Leisure and Schools",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "República Checa"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 17 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Placements across a leisure centre, schools and a Montessori kindergarten (ages 3-18).",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-social-action-youth-work-at-a-popular-education-centr",
+  "slug": "esc-volunteering-in-france-social-action-youth-work-at-a-popular-education-centr",
+  "name": "ESC Volunteering in France: Social Action & Youth Work at a Popular Education Centre",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Algeria, Greenland, Jordan, Morocco, Türkiye and 60 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Social support, leisure programmes and cultural events built on solidarity and inclusion.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-hungary-leading-educational-creative-activities-for-children",
+  "slug": "esc-volunteering-in-hungary-leading-educational-creative-activities-for-children",
+  "name": "ESC Volunteering in Hungary: Leading Educational & Creative Activities for Children",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Hungría"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Italy, Portugal, Ukraine and 46 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Lead handicrafts, games, STEM and sports for mainly disadvantaged children.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-democratic-school-volunteering-in-rzeszow",
+  "slug": "esc-volunteering-in-poland-democratic-school-volunteering-in-rzeszow",
+  "name": "ESC Volunteering in Poland: Democratic School Volunteering in Rzeszów",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Italy, Portugal, Romania and 19 more countries.",
+  "duration": "3 meses",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Three months of hands-on work with children and intercultural exchange. Great first ESC.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-spanish-culture-mobility-support-in-a-french-high-sch",
+  "slug": "esc-volunteering-in-france-spanish-culture-mobility-support-in-a-french-high-sch",
+  "name": "ESC Volunteering in France: Spanish Culture & Mobility Support in a French High School",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support students preparing for Erasmus+ internships and run European events.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-lithuania-teaching-assistant-at-an-open-waldorf-school-in-vi",
+  "slug": "esc-volunteering-in-lithuania-teaching-assistant-at-an-open-waldorf-school-in-vi",
+  "name": "ESC Volunteering in Lithuania: Teaching Assistant at an Open Waldorf School in Vilnius",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "Lituania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Italy.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support activities nurturing creative, confident young personalities.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-spain-three-months-with-children-youth-in-valladolid",
+  "slug": "esc-volunteering-in-spain-three-months-with-children-youth-in-valladolid",
+  "name": "ESC Volunteering in Spain: Three Months with Children & Youth in Valladolid",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Educación",
+   "Juventud"
+  ],
+  "levels": [],
+  "destinations": [
+   "España"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Italy.",
+  "duration": "3 meses",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Non-formal education with children and young people at a youth centre.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-bulgaria-eco-building-permaculture-at-roots-awakening",
+  "slug": "esc-volunteering-in-bulgaria-eco-building-permaculture-at-roots-awakening",
+  "name": "ESC Volunteering in Bulgaria: Eco-Building & Permaculture at Roots Awakening",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Bulgaria"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Eco-building with natural materials, organic growing and biodiversity landscaping in a rural eco-hub.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-slovakia-horses-farming-traditional-crafts-in-rural-zajezova",
+  "slug": "esc-volunteering-in-slovakia-horses-farming-traditional-crafts-in-rural-zajezova",
+  "name": "ESC Volunteering in Slovakia: Horses, Farming & Traditional Crafts in Rural Zaježová",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Eslovaquia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 33 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Regenerative farming, horses and crafts from blacksmithing to leatherwork.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-latvia-ikskile-free-school-kids-in-a-permaculture-garden",
+  "slug": "esc-volunteering-in-latvia-ikskile-free-school-kids-in-a-permaculture-garden",
+  "name": "ESC Volunteering in Latvia: Ikšķile Free School, Kids in a Permaculture Garden",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Letonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support children in play, learning and outdoor work in a permaculture garden. Vegetarian lunch daily.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-eco-living-mushroom-farming",
+  "slug": "esc-volunteering-in-france-eco-living-mushroom-farming",
+  "name": "ESC Volunteering in France: Eco Living & Mushroom Farming",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Croatia, Italy, Portugal and 11 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Tend a mushroom farm, worm compost and garden at an eco-place in rural France.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-belgium-education-community-for-a-just-ecological-transition",
+  "slug": "esc-volunteering-in-belgium-education-community-for-a-just-ecological-transition",
+  "name": "ESC Volunteering in Belgium: Education & Community for a Just Ecological Transition",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Bélgica"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Portugal and 20 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Organise conferences, workshops and a residential training programme at a transition hub.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-sweden-building-urban-gardening-in-stockholm",
+  "slug": "esc-volunteering-in-sweden-building-urban-gardening-in-stockholm",
+  "name": "ESC Volunteering in Sweden: Building & Urban Gardening in Stockholm",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Suecia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 23 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support renovations, building projects and urban food production with Blivande.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-spain-solidarity-gardens-for-fire-hit-communities-in-galicia",
+  "slug": "esc-volunteering-in-spain-solidarity-gardens-for-fire-hit-communities-in-galicia",
+  "name": "ESC Volunteering in Spain: Solidarity Gardens for Fire-Hit Communities in Galicia",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "España"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of France, Italy, the Netherlands, Poland, Portugal and 2 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Help regenerate green spaces with fire-affected communities, staying in a historic pazo.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-germany-environmental-work-camps-youth-exchange-in-stuttgart",
+  "slug": "esc-volunteering-in-germany-environmental-work-camps-youth-exchange-in-stuttgart",
+  "name": "ESC Volunteering in Germany: Environmental Work Camps & Youth Exchange in Stuttgart",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 21 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Co-lead international teams and train young people as eco messengers.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-spain-solidarity-shores-for-sustainable-seas-in-galicia",
+  "slug": "esc-volunteering-in-spain-solidarity-shores-for-sustainable-seas-in-galicia",
+  "name": "ESC Volunteering in Spain: Solidarity Shores for Sustainable Seas in Galicia",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "España"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, France, Italy, Poland, Portugal and 4 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Beach clean-ups, awareness actions and workshops on sustainable seas in Cambados.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-croatia-natural-gardening-environmental-education-in-zagreb",
+  "slug": "esc-volunteering-in-croatia-natural-gardening-environmental-education-in-zagreb",
+  "name": "ESC Volunteering in Croatia: Natural Gardening & Environmental Education in Zagreb",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Croacia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 18 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Promote natural gardening and environmental education with primary-school children.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-portugal-event-organisation-sustainable-rural-life-in-fafe",
+  "slug": "esc-volunteering-in-portugal-event-organisation-sustainable-rural-life-in-fafe",
+  "name": "ESC Volunteering in Portugal: Event Organisation & Sustainable Rural Life in Fafe",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Portugal"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 26 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Coordinate youth projects while getting hands-on with agroforestry and organic farming.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-croatia-sustainable-rural-community-volunteering-in-latinova",
+  "slug": "esc-volunteering-in-croatia-sustainable-rural-community-volunteering-in-latinova",
+  "name": "ESC Volunteering in Croatia: Sustainable & Rural Community Volunteering in Latinovac",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Croacia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Austria, Bosnia and Herzegovina, Bulgaria, Belgium, Czechia and 30 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Gardening, cooking, community events and renovating the village's old school.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-portugal-transforming-an-old-farm-into-a-sustainable-space-i",
+  "slug": "esc-volunteering-in-portugal-transforming-an-old-farm-into-a-sustainable-space-i",
+  "name": "ESC Volunteering in Portugal: Transforming an Old Farm into a Sustainable Space in Guimarães",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Medio ambiente",
+   "Sostenibilidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Portugal"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 26 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "A team of 10 turns an old farm into a sustainable space through agroforestry and natural building.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-teams-in-sint-maarten-non-formal-learning-in-prisons-with-unodc",
+  "slug": "esc-volunteering-teams-in-sint-maarten-non-formal-learning-in-prisons-with-unodc",
+  "name": "ESC Volunteering Teams in Sint Maarten: Non-Formal Learning in Prisons with UNODC",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Sint Maarten"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 23 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 23 to 30. Open to residents of Finland, Hungary, Ireland, Latvia, Portugal and 20 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-29"
+  },
+  "notes": "One of the most unusual ESC projects: non-formal learning inside a prison, delivered with UNODC. For ages 23+.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-literacy-culture-at-a-city-library-in-gdynia",
+  "slug": "esc-volunteering-in-poland-literacy-culture-at-a-city-library-in-gdynia",
+  "name": "ESC Volunteering in Poland: Literacy & Culture at a City Library in Gdynia",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Portugal and 31 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Assist librarians, run workshops and language classes, and support cultural activities.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-liechtenstein-social-cultural-animation-at-a-youth-center",
+  "slug": "esc-volunteering-in-liechtenstein-social-cultural-animation-at-a-youth-center",
+  "name": "ESC Volunteering in Liechtenstein: Social & Cultural Animation at a Youth Center",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Liechtenstein"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "language": "Alemán",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Games, music, street work and creative projects across eleven youth-centre locations.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-turkiye-media-arts-community-support-in-gaziantep",
+  "slug": "esc-volunteering-in-turkiye-media-arts-community-support-in-gaziantep",
+  "name": "ESC Volunteering in Türkiye: Media, Arts & Community Support in Gaziantep",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Turquía"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Georgia, Italy, Portugal, Serbia and 34 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Content creation in a pro TV studio, plus education, humanitarian aid and arts.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-books-culture-community-at-a-library-in-rumia",
+  "slug": "esc-volunteering-in-poland-books-culture-community-at-a-library-in-rumia",
+  "name": "ESC Volunteering in Poland: Books, Culture & Community at a Library in Rumia",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Portugal and 32 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Book lending, cultural events and your own workshops, author meetings and concerts.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-culture-and-community-in-sicily",
+  "slug": "esc-volunteering-in-italy-culture-and-community-in-sicily",
+  "name": "ESC Volunteering in Italy: Culture and Community in Sicily",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Portugal and 17 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Turn your own project (theatre, music, yoga, games) into activities at a Sicilian cultural centre.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-culture-events-youth-work-in-the-heart-of-silesia",
+  "slug": "esc-volunteering-in-poland-culture-events-youth-work-in-the-heart-of-silesia",
+  "name": "ESC Volunteering in Poland: Culture, Events & Youth Work in the Heart of Silesia",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Austria, Czechia, France, Croatia, Italy and 4 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Organize workshops, cultural events and creative activities at the Chorzów Cultural Center.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-egypt-content-creation-cultural-exchange-in-cairo",
+  "slug": "esc-volunteering-in-egypt-content-creation-cultural-exchange-in-cairo",
+  "name": "ESC Volunteering in Egypt: Content Creation & Cultural Exchange in Cairo",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Egipto"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Italy.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Shoot photos and videos, edit content and support youth exchanges at a Cairo co-working space.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-germany-arts-culture-community-at-a-creative-hub",
+  "slug": "esc-volunteering-in-germany-arts-culture-community-at-a-creative-hub",
+  "name": "ESC Volunteering in Germany: Arts, Culture & Community at a Creative Hub",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain, France, Italy, Poland, Portugal and 17 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Event and community management at a creative centre in a former tram depot.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-albania-social-inclusion-community-culture-in-tirana",
+  "slug": "esc-volunteering-in-albania-social-inclusion-community-culture-in-tirana",
+  "name": "ESC Volunteering in Albania: Social Inclusion & Community Culture in Tirana",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Albania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Latvia.",
+  "duration": "2 meses",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "A 2-month programme on social challenges, active citizenship and creativity.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-sweden-art-culture-community-at-blivande-in-stockholm",
+  "slug": "esc-volunteering-in-sweden-art-culture-community-at-blivande-in-stockholm",
+  "name": "ESC Volunteering in Sweden: Art, Culture & Community at Blivande in Stockholm",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Suecia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 22 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support artistic spaces, coordinate workshops and run big cultural events.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-romania-arts-roma-community-inclusion-in-iasi",
+  "slug": "esc-volunteering-in-romania-arts-roma-community-inclusion-in-iasi",
+  "name": "ESC Volunteering in Romania: Arts & Roma Community Inclusion in Iași",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Rumania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Türkiye and 7 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Bring music, dance and crafts to Roma communities through workshops for teenagers.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-albania-one-month-of-community-culture-in-tirana",
+  "slug": "esc-volunteering-in-albania-one-month-of-community-culture-in-tirana",
+  "name": "ESC Volunteering in Albania: One Month of Community & Culture in Tirana",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Albania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Latvia.",
+  "duration": "1 mes",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "A short, intense weekly programme on citizenship and creativity. A perfect first taste of ESC.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-reviving-a-rural-cultural-hub-in-alta-langa",
+  "slug": "esc-volunteering-in-italy-reviving-a-rural-cultural-hub-in-alta-langa",
+  "name": "ESC Volunteering in Italy: Reviving a Rural Cultural Hub in Alta Langa",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Poland, Portugal and 25 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Help renovate Casa Parco into a cultural hub for the rural Alta Langa region.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-creative-cultural-team-project-at-an-art-gallery-in-k",
+  "slug": "esc-volunteering-in-poland-creative-cultural-team-project-at-an-art-gallery-in-k",
+  "name": "ESC Volunteering in Poland: Creative & Cultural Team Project at an Art Gallery in Krosno",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Portugal and 21 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "A team of 6 works on creative and organisational tasks at BWA gallery. Especially for first-timers.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-turkiye-media-sports-community-volunteering-in-gaziantep",
+  "slug": "esc-volunteering-in-turkiye-media-sports-community-volunteering-in-gaziantep",
+  "name": "ESC Volunteering in Türkiye: Media, Sports & Community Volunteering in Gaziantep",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Turquía"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Albania, Algeria, Armenia, Austria, Azerbaijan and 37 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "A pro TV studio, radio, a pool and a forest, plus education and psychosocial support.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-bulgaria-street-art-culture-social-inclusion-in-burgas",
+  "slug": "esc-volunteering-in-bulgaria-street-art-culture-social-inclusion-in-burgas",
+  "name": "ESC Volunteering in Bulgaria: Street Art, Culture & Social Inclusion in Burgas",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Bulgaria"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain, France and Türkiye.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Run youth street-art festivals and creative initiatives on the Bulgarian seaside.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-cultural-events-creativity-at-a-krakow-cultural-club",
+  "slug": "esc-volunteering-in-poland-cultural-events-creativity-at-a-krakow-cultural-club",
+  "name": "ESC Volunteering in Poland: Cultural Events & Creativity at a Kraków Cultural Club",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Cultura",
+   "Artes",
+   "Medios"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Austria, Bulgaria, Belgium, Czechia, Croatia and 19 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Create cultural events, propose workshops and work with children and youth.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-social-farm-disability-migration-in-viterbo",
+  "slug": "esc-volunteering-in-italy-social-farm-disability-migration-in-viterbo",
+  "name": "ESC Volunteering in Italy: Social Farm, Disability & Migration in Viterbo",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Inclusión",
+   "Discapacidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 23 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Work across a social farm, a daily centre for people with disabilities, and a migration centre.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-lithuania-supporting-children-with-special-needs-in-vilnius",
+  "slug": "esc-volunteering-in-lithuania-supporting-children-with-special-needs-in-vilnius",
+  "name": "ESC Volunteering in Lithuania: Supporting Children with Special Needs in Vilnius",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Inclusión",
+   "Discapacidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Lituania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Italy.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Help teachers run learning and creative activities at a special school for 154 kids aged 7-21.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-disability-inclusion-creative-workshops-with-don-pippo",
+  "slug": "esc-volunteering-in-italy-disability-inclusion-creative-workshops-with-don-pippo",
+  "name": "ESC Volunteering in Italy: Disability Inclusion & Creative Workshops with Don Pippo in Forlì",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Inclusión",
+   "Discapacidad"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Austria, Belgium, Cyprus, Czechia, Croatia and 24 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Creative workshops and pet therapy supporting the inclusion of people with disabilities.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-heritage-events-at-villandraut-castle",
+  "slug": "esc-volunteering-in-france-heritage-events-at-villandraut-castle",
+  "name": "ESC Volunteering in France: Heritage & Events at Villandraut Castle",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Carpentry, timber framing and a medieval castle concert with REMPART and Adichats.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-community-youth-social-centre-in-recanati",
+  "slug": "esc-volunteering-in-italy-community-youth-social-centre-in-recanati",
+  "name": "ESC Volunteering in Italy: Community & Youth Social Centre in Recanati",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain, Greece, Italy, Poland, Portugal and 7 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Work with children, teens and elderly on culture, art and a new social kitchen.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-georgia-youth-work-comms-project-management-at-a-scout-cente",
+  "slug": "esc-volunteering-in-georgia-youth-work-comms-project-management-at-a-scout-cente",
+  "name": "ESC Volunteering in Georgia: Youth Work, Comms & Project Management at a Scout Center",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Georgia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Poland.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Run non-formal activities, create digital content and organise events.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-germany-supporting-international-workcamps-volunteering-in-s",
+  "slug": "esc-volunteering-in-germany-supporting-international-workcamps-volunteering-in-s",
+  "name": "ESC Volunteering in Germany: Supporting International Workcamps & Volunteering in Stuttgart",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain, France, Croatia, Italy, Portugal and 21 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Co-lead international teams and see how NGOs build peace through cooperation.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-mushrooms-circular-economy-in-carcassonne",
+  "slug": "esc-volunteering-in-france-mushrooms-circular-economy-in-carcassonne",
+  "name": "ESC Volunteering in France: Mushrooms & Circular Economy in Carcassonne",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Italy, Portugal, Romania and 12 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Turn coffee waste into oyster mushrooms by cargo bike with IDC's Café Vert.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-social-inclusion-fighting-food-poverty-near-naples",
+  "slug": "esc-volunteering-in-italy-social-inclusion-fighting-food-poverty-near-naples",
+  "name": "ESC Volunteering in Italy: Social Inclusion & Fighting Food Poverty near Naples",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Poland, Portugal and 33 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Run educational activities and help Caritas distribute food to vulnerable families.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-the-netherlands-simple-living-yoga-sharing-circles-at-an-eco",
+  "slug": "esc-volunteering-in-the-netherlands-simple-living-yoga-sharing-circles-at-an-eco",
+  "name": "ESC Volunteering in the Netherlands: Simple Living, Yoga & Sharing Circles at an Ecovillage",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Países Bajos"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "duration": "6 meses",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Six months of gardening, cooking, yoga and sharing circles at Land van Aine.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-fighting-elderly-isolation-in-the-countryside-near-pa",
+  "slug": "esc-volunteering-in-france-fighting-elderly-isolation-in-the-countryside-near-pa",
+  "name": "ESC Volunteering in France: Fighting Elderly Isolation in the Countryside near Paris",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Italy.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Visit isolated elderly people and reach out to more seniors in rural areas.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-office-volunteer-support-at-a-local-ngo-in-kwidzyn",
+  "slug": "esc-volunteering-in-poland-office-volunteer-support-at-a-local-ngo-in-kwidzyn",
+  "name": "ESC Volunteering in Poland: Office & Volunteer Support at a Local NGO in Kwidzyn",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Portugal and 29 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Learn how an NGO runs from the inside: documents, meetings and supporting volunteers.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-communication-assistant-with-esn-in-rome",
+  "slug": "esc-volunteering-in-italy-communication-assistant-with-esn-in-rome",
+  "name": "ESC Volunteering in Italy: Communication Assistant with ESN in Rome",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Poland, Portugal and 23 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Social media, graphics, video and articles with ESN Italia in the Eternal City.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-promoting-european-citizenship-in-annecy",
+  "slug": "esc-volunteering-in-france-promoting-european-citizenship-in-annecy",
+  "name": "ESC Volunteering in France: Promoting European Citizenship in Annecy",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Run school workshops and support European initiatives at Annecy's City Hall.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-youth-work-learning-support-in-forli",
+  "slug": "esc-volunteering-in-italy-youth-work-learning-support-in-forli",
+  "name": "ESC Volunteering in Italy: Youth Work & Learning Support in Forlì",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Austria, Belgium, Cyprus, Czechia, Croatia and 24 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Study support and art, music and theatre workshops for teens aged 14-25.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-youth-work-european-ambassadorship-in-redon",
+  "slug": "esc-volunteering-in-france-youth-work-european-ambassadorship-in-redon",
+  "name": "ESC Volunteering in France: Youth Work & European Ambassadorship in Redon",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Bulgaria, Belgium, Cyprus, Czechia, Croatia and 15 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-30"
+  },
+  "notes": "Promote ESC and European mobility to youth-animation students.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-portugal-support-european-mobility-projects-in-lisbon",
+  "slug": "esc-volunteering-in-portugal-support-european-mobility-projects-in-lisbon",
+  "name": "ESC Volunteering in Portugal: Support European Mobility Projects in Lisbon",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Portugal"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Belgium, Germany, Spain, France, Italy and 8 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Accompany Erasmus+ groups, organise logistics and create Instagram and TikTok content.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-working-across-generations-at-a-university",
+  "slug": "esc-volunteering-in-poland-working-across-generations-at-a-university",
+  "name": "ESC Volunteering in Poland: Working Across Generations at a University",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of 5 countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "From a nursery to an elderly day-care centre, plus library and marketing studio.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-portugal-community-migrant-integration-in-lisbon",
+  "slug": "esc-volunteering-in-portugal-community-migrant-integration-in-lisbon",
+  "name": "ESC Volunteering in Portugal: Community & Migrant Integration in Lisbon",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Portugal"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Belgium, Germany, Spain, France, Italy and 5 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Study support, sports and digital training connecting seniors and young people.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-youth-activities-european-mobility-promotion",
+  "slug": "esc-volunteering-in-france-youth-activities-european-mobility-promotion",
+  "name": "ESC Volunteering in France: Youth Activities & European Mobility Promotion",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Albania, Armenia, Georgia, Lebanon, Türkiye and 60 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Promote mobility, run activities for young people and co-organise a Europe Day event.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-portugal-community-life-in-lisbon-s-mouraria",
+  "slug": "esc-volunteering-in-portugal-community-life-in-lisbon-s-mouraria",
+  "name": "ESC Volunteering in Portugal: Community Life in Lisbon's Mouraria",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Portugal"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain and Italy.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Civic participation, cultural events and integration of migrants in a diverse neighbourhood.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-slovakia-two-months-with-youth-in-a-catholic-community-in-tr",
+  "slug": "esc-volunteering-in-slovakia-two-months-with-youth-in-a-catholic-community-in-tr",
+  "name": "ESC Volunteering in Slovakia: Two Months with Youth in a Catholic Community in Trstená",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Eslovaquia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Austria, Bulgaria, Belgium, Cyprus, Croatia and 27 more countries.",
+  "duration": "2 meses",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "One of 6 short-term volunteers running camps and youth activities in the Slovak mountains.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-luxembourg-supporting-young-refugees-through-education-inclu",
+  "slug": "esc-volunteering-in-luxembourg-supporting-young-refugees-through-education-inclu",
+  "name": "ESC Volunteering in Luxembourg: Supporting Young Refugees through Education & Inclusion",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Luxemburgo"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Bulgaria, Croatia, Finland, Liechtenstein, Poland and 10 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "French lessons, orientation and support for recently arrived young migrants aged 13-17.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-italy-supporting-vulnerable-minors-in-padova",
+  "slug": "esc-volunteering-in-italy-supporting-vulnerable-minors-in-padova",
+  "name": "ESC Volunteering in Italy: Supporting Vulnerable Minors in Padova",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 24 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Help educators in a care house for unaccompanied minors and trafficking survivors.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-poland-a-year-of-sport-horses-youth-work",
+  "slug": "esc-volunteering-in-poland-a-year-of-sport-horses-youth-work",
+  "name": "ESC Volunteering in Poland: A Year of Sport, Horses & Youth Work",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Polonia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Croatia, Italy, Portugal and 14 more countries.",
+  "duration": "1 año",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Animate activities for children, assist coaches in football and horse riding, and care for horses.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-france-promoting-european-citizenship-in-annecy-europe-direc",
+  "slug": "esc-volunteering-in-france-promoting-european-citizenship-in-annecy-europe-direc",
+  "name": "ESC Volunteering in France: Promoting European Citizenship in Annecy (Europe Direct)",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Francia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, Ireland, Italy, Portugal and 6 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "School workshops on European citizenship and support for the Europe Direct network.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-cyprus-sport-outdoors-inclusion-near-larnaca",
+  "slug": "esc-volunteering-in-cyprus-sport-outdoors-inclusion-near-larnaca",
+  "name": "ESC Volunteering in Cyprus: Sport, Outdoors & Inclusion near Larnaca",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Chipre"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 23 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Deliver sports and outdoor activities and support activities for people with disabilities.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-germany-international-youth-work-at-the-border-in-frankfurt-",
+  "slug": "esc-volunteering-in-germany-international-youth-work-at-the-border-in-frankfurt-",
+  "name": "ESC Volunteering in Germany: International Youth Work at the Border in Frankfurt (Oder)",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain, France, Italy, Poland, Portugal and 30 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support international youth work, coordinate volunteers and develop your own projects.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-portugal-community-outreach-event-organization-in-evora",
+  "slug": "esc-volunteering-in-portugal-community-outreach-event-organization-in-evora",
+  "name": "ESC Volunteering in Portugal: Community Outreach & Event Organization in Évora",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Portugal"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Germany, Spain, France, Italy, Poland and 14 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Brainstorm, plan and coordinate events from a Maker Space. Especially for young people with fewer opportunities.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-finland-community-food-aid-volunteering-with-dila-in-lahti",
+  "slug": "esc-volunteering-in-finland-community-food-aid-volunteering-with-dila-in-lahti",
+  "name": "ESC Volunteering in Finland: Community & Food Aid Volunteering with Dila in Lahti",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Finlandia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Austria, Bulgaria, Belgium, Cyprus, Croatia and 23 more countries.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Guide people at open meeting places, sort donations and pack food aid bags.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-romania-solidarity-pottery-anti-discrimination-at-nocrich-sc",
+  "slug": "esc-volunteering-in-romania-solidarity-pottery-anti-discrimination-at-nocrich-sc",
+  "name": "ESC Volunteering in Romania: Solidarity, Pottery & Anti-Discrimination at Nocrich Scout Centre",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Rumania"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Run scout activities, support kids with school basics and help manage a social pottery workshop.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-spain-sport-social-inclusion-in-a-coruna",
+  "slug": "esc-volunteering-in-spain-sport-social-inclusion-in-a-coruna",
+  "name": "ESC Volunteering in Spain: Sport & Social Inclusion in A Coruña",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "España"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Spain and Italy.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Support sports and inclusion for young people aged 8-17 at risk of exclusion.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "vol-esc-volunteering-in-slovakia-6-8-months-of-youth-work-in-a-catholic-community-in",
+  "slug": "esc-volunteering-in-slovakia-6-8-months-of-youth-work-in-a-catholic-community-in",
+  "name": "ESC Volunteering in Slovakia: 6-8 Months of Youth Work in a Catholic Community in Trstená",
+  "sponsor": "Cuerpo Europeo de Solidaridad (Unión Europea)",
+  "source": "voluntariado",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Voluntariado",
+   "Juventud",
+   "Desarrollo comunitario"
+  ],
+  "levels": [],
+  "destinations": [
+   "Eslovaquia"
+  ],
+  "funding": "completa",
+  "amount": "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "De 18 a 30 años, con residencia legal en uno de los países que acepta el proyecto.",
+  "audience": "Ages 18 to 30. Open to residents of Austria, Bulgaria, Belgium, Cyprus, Croatia and 26 more countries.",
+  "duration": "6 a 8 meses",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-08-31"
+  },
+  "notes": "Work with teenagers and bring your poster, video and design skills to youth activities.",
+  "url": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "applyUrl": "https://youth.europa.eu/go-abroad/volunteering/opportunities_en",
+  "updatedAt": "2026-09-23"
+ },
+ {
   "id": "rss-the-open-notebook-early-career-fellowship-2027",
   "slug": "the-open-notebook-early-career-fellowship-2027",
   "name": "The Open Notebook Early-Career Fellowship 2027",

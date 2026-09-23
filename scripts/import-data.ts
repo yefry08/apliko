@@ -60,6 +60,33 @@ const COUNTRY_ES: Record<string, string> = {
   Sudafrica: "Sudáfrica",
   Panama: "Panamá",
   Lithuania: "Lituania",
+  Italy: "Italia",
+  Portugal: "Portugal",
+  Netherlands: "Países Bajos",
+  Czechia: "República Checa",
+  Estonia: "Estonia",
+  Bulgaria: "Bulgaria",
+  Slovakia: "Eslovaquia",
+  Latvia: "Letonia",
+  Croatia: "Croacia",
+  Finland: "Finlandia",
+  Cyprus: "Chipre",
+  Luxembourg: "Luxemburgo",
+  Liechtenstein: "Liechtenstein",
+  Albania: "Albania",
+  Georgia: "Georgia",
+  "Türkiye": "Turquía",
+  Egypt: "Egipto",
+  Ghana: "Ghana",
+  Kenya: "Kenia",
+  Uganda: "Uganda",
+  Tanzania: "Tanzania",
+  "Sint Maarten": "Sint Maarten",
+  Norway: "Noruega",
+  Denmark: "Dinamarca",
+  "Belgium (Flanders)": "Bélgica",
+  "EU-wide": "Europa",
+  "Pan-European (EUREKA)": "Europa",
   UAE: "Emiratos Árabes Unidos",
   Belgica: "Bélgica",
   Hungria: "Hungría",
@@ -238,6 +265,143 @@ function readFinanciamiento(): Opportunity[] {
   });
 }
 
+type VoluntariadoCategory = "humanitaria" | "educacion" | "ambiente" | "cultura" | "inclusion" | "comunidad";
+
+interface VoluntariadoRow {
+  name: string;
+  /** Host country, in English as the source lists it. */
+  host: string;
+  category: VoluntariadoCategory;
+  deadline: string;
+  summary: string;
+  /** Countries of residence the project accepts, when the source lists them. */
+  openTo?: string;
+  duration?: string;
+  language?: string;
+  amount?: string;
+  minAge?: number;
+}
+
+// Areas per category, worded so lib/areas.ts files each project in the right folder.
+const VOLUNTARIADO_AREAS: Record<VoluntariadoCategory, string[]> = {
+  humanitaria: ["Voluntariado", "Ayuda humanitaria", "Desarrollo comunitario"],
+  educacion: ["Voluntariado", "Educación", "Juventud"],
+  ambiente: ["Voluntariado", "Medio ambiente", "Sostenibilidad"],
+  cultura: ["Voluntariado", "Cultura", "Artes", "Medios"],
+  inclusion: ["Voluntariado", "Inclusión", "Discapacidad"],
+  comunidad: ["Voluntariado", "Juventud", "Desarrollo comunitario"],
+};
+
+const ESC_HUMANITARIAN_URL = "https://youth.europa.eu/solidarity/young-people/volunteering-humanitarian-aid_en";
+const ESC_OPPORTUNITIES_URL = "https://youth.europa.eu/go-abroad/volunteering/opportunities_en";
+
+/**
+ * Proyectos del Cuerpo Europeo de Solidaridad (data/raw/voluntariado.json). La lista de origen
+ * no trae un enlace por proyecto, así que todos llevan al buscador oficial del programa.
+ */
+function readVoluntariado(): Opportunity[] {
+  const file = path.join(RAW, "voluntariado.json");
+  if (!existsSync(file)) return [];
+  const rows = JSON.parse(readFileSync(file, "utf8")) as VoluntariadoRow[];
+  return rows.map((r) => {
+    const slug = slugify(r.name);
+    const humanitarian = r.category === "humanitaria";
+    const maxAge = humanitarian ? 35 : 30;
+    const url = humanitarian ? ESC_HUMANITARIAN_URL : ESC_OPPORTUNITIES_URL;
+    return {
+      id: `vol-${slug}`,
+      slug,
+      name: r.name,
+      sponsor: "Cuerpo Europeo de Solidaridad (Unión Europea)",
+      source: "voluntariado",
+      types: humanitarian ? ["Voluntariado", "Ayuda humanitaria"] : ["Voluntariado"],
+      areas: VOLUNTARIADO_AREAS[r.category],
+      levels: [],
+      destinations: [COUNTRY_ES[r.host] ?? r.host],
+      funding: "completa",
+      amount: r.amount ?? "Alojamiento, comida, viaje, seguro y dinero de bolsillo cubiertos",
+      citizenship: "paises-elegibles",
+      citizenshipRaw: humanitarian
+        ? "De 18 a 35 años, con residencia legal en un país de la UE o asociado al programa (Islandia, Liechtenstein, Macedonia del Norte, Turquía)."
+        : `De ${r.minAge ?? 18} a ${maxAge} años, con residencia legal en uno de los países que acepta el proyecto.`,
+      audience: `Ages ${r.minAge ?? 18} to ${maxAge}.${r.openTo ? ` Open to residents of ${r.openTo}.` : ""}`,
+      language: r.language,
+      duration: r.duration,
+      deadline: { kind: "exacta", date: r.deadline },
+      notes: r.summary,
+      url,
+      applyUrl: url,
+      updatedAt: "2026-09-23",
+    } satisfies Opportunity;
+  });
+}
+
+interface StartupRow {
+  name: string;
+  /** Where the applicant must be based; " | " separates several. */
+  geography: string;
+  stage: string[];
+  startupType: string[];
+  amount: string;
+  description: string;
+  url: string;
+  /** The program funds teams from any country (the rest require a local company). */
+  openInternationally?: boolean;
+}
+
+// Worded so lib/areas.ts can also file them by theme (STEAM, Salud, Clima, Impacto social).
+const STARTUP_AREA_ES: Record<string, string> = {
+  "Deep Tech": "Tecnología profunda",
+  Hardware: "Hardware",
+  "Biotech / Life Sciences": "Biotecnología y ciencias de la vida",
+  "Digital / AI": "Digital e IA",
+  Health: "Salud",
+  "Climate / Green Tech": "Clima y tecnología verde",
+  "Space Tech": "Tecnología espacial",
+  "Research / Spin-off": "Investigación y spin-offs",
+  "Any Sector": "Cualquier sector",
+  "R&D / SME": "I+D en pymes",
+  "Women-led": "Startups lideradas por mujeres",
+  "Environment / Circular Economy": "Medio ambiente y economía circular",
+};
+
+/** Fondos públicos para startups y pymes (data/raw/startups.json, de la base "Grant Programs Database" en Notion). */
+function readStartups(): Opportunity[] {
+  const file = path.join(RAW, "startups.json");
+  if (!existsSync(file)) return [];
+  const rows = JSON.parse(readFileSync(file, "utf8")) as StartupRow[];
+  return rows.map((r) => {
+    const slug = slugify(r.name);
+    const places = [...new Set(r.geography.split(" | ").map((g) => COUNTRY_ES[g] ?? g))];
+    const deadline: Deadline = /rolling basis/i.test(r.description)
+      ? { kind: "continua" }
+      : { kind: "por-confirmar", label: "Según cada convocatoria" };
+    return {
+      id: `sgp-${slug}`,
+      slug,
+      name: r.name,
+      source: "financiamiento",
+      sourceName: "Grant Programs Database (Notion)",
+      types: ["Fondos para startups"],
+      areas: translate(STARTUP_AREA_ES, r.startupType),
+      levels: ["profesional"],
+      destinations: places,
+      funding: "varia",
+      amount: r.amount,
+      citizenship: r.openInternationally ? "ver-notas" : "paises-elegibles",
+      citizenshipRaw: r.openInternationally
+        ? "Equipos de cualquier país que respondan a un reto publicado."
+        : `Startups, pymes o equipos de investigación con sede en ${places.join(" o ")}.`,
+      audience: `Stage: ${r.stage.join(", ")}.`,
+      deadline,
+      notes: r.description,
+      url: r.url,
+      applyUrl: r.url,
+      updatedAt: "2026-09-23",
+    } satisfies Opportunity;
+  });
+}
+
 function main() {
   // De los feeds RSS (scripts/ingest_rss.py) solo entran las candidatas aprobadas.
   const rssFile = path.join(process.cwd(), "data", "rss", "candidates.json");
@@ -246,7 +410,7 @@ function main() {
         .filter((c) => c.estado === "aprobada")
         .map((c) => c.oportunidad)
     : [];
-  const all = [...readInternational(), ...readFinanciamiento(), ...approved];
+  const all = [...readInternational(), ...readFinanciamiento(), ...readStartups(), ...readVoluntariado(), ...approved];
   const seen = new Set<string>();
   const unique = all.filter((o) => {
     let slug = o.slug;
