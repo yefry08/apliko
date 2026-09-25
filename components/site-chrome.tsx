@@ -20,6 +20,9 @@ export function SiteHeader() {
             Mis becas
             <SavedCount />
           </Link>
+          <Link href="/mi-perfil" className="hover:text-foreground">
+            Mi perfil
+          </Link>
           <AccountLink />
         </nav>
       </div>

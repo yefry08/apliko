@@ -25,7 +25,8 @@ export function AccountLink() {
   );
 }
 
-export function SyncNote() {
+/** `what` finishes the signed-out sentence: "Entra a tu cuenta para {what} en cualquier dispositivo." */
+export function SyncNote({ what = "verlas" }: { what?: string }) {
   const { configured, user, sync } = useAuth();
   if (!configured) return null;
   if (!user) {
@@ -34,7 +35,7 @@ export function SyncNote() {
         <Link href="/entrar" className="text-larimar hover:underline">
           Entra a tu cuenta
         </Link>{" "}
-        para verlas en cualquier dispositivo.
+        para {what} en cualquier dispositivo.
       </p>
     );
   }

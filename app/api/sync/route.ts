@@ -1,13 +1,16 @@
 import { getSessionUserId } from "@/lib/auth";
 import { getSql } from "@/lib/db";
+import { parseExpediente } from "@/lib/expediente";
 import type { Stage } from "@/lib/store";
 
-/** Mis becas, sincronizadas: el navegador nunca habla con Postgres, solo con estas rutas. */
+/** Mis becas y Mi perfil, sincronizados: el navegador nunca habla con Postgres, solo con estas rutas. */
 
 export const dynamic = "force-dynamic";
 
 const STAGES = new Set<Stage>(["guardada", "preparando", "enviada", "resultado"]);
 const SITUATIONS = new Set(["rd", "latam", "eeuu-ciudadano", "eeuu-residente", "daca"]);
+/** Un perfil completo con muchos ensayos cabe holgado; esto solo frena abusos. */
+const MAX_EXPEDIENTE_CHARS = 400_000;
 
 interface ItemPayload {
   id: string;
@@ -35,10 +38,11 @@ export async function GET(request: Request) {
   const sql = getSql();
   if (!sql) return Response.json({ error: "Falta DATABASE_URL" }, { status: 500 });
 
-  const [rows, profile] = await Promise.all([
+  const [rows, profile, expediente] = await Promise.all([
     sql`select opportunity_id, stage, notes, saved_at, updated_at
         from tracked_items where user_id = ${userId}`,
     sql`select situation, updated_at from profiles where user_id = ${userId}`,
+    sql`select data, updated_at from expedientes where user_id = ${userId}`,
   ]);
 
   return Response.json({
@@ -51,6 +55,8 @@ export async function GET(request: Request) {
     })),
     profile: profile[0]?.situation ?? null,
     profileUpdatedAt: profile[0] ? new Date(profile[0].updated_at as string).toISOString() : null,
+    expediente: expediente[0]?.data ?? null,
+    expedienteUpdatedAt: expediente[0] ? new Date(expediente[0].updated_at as string).toISOString() : null,
   });
 }
 
@@ -77,6 +83,12 @@ export async function POST(request: Request) {
       : null;
   if (hasProfile && !isIso(profileRaw.updatedAt)) return Response.json({ error: "Perfil inválido" }, { status: 400 });
 
+  const expedienteRaw = body.expediente as { data?: unknown; updatedAt?: unknown } | undefined;
+  const hasExpediente = expedienteRaw !== undefined && expedienteRaw !== null;
+  if (hasExpediente && (!isIso(expedienteRaw.updatedAt) || JSON.stringify(expedienteRaw.data ?? null).length > MAX_EXPEDIENTE_CHARS)) {
+    return Response.json({ error: "Perfil maestro inválido" }, { status: 400 });
+  }
+
   const queries = [];
   for (const i of items) {
     queries.push(sql`
@@ -94,6 +106,15 @@ export async function POST(request: Request) {
       values (${userId}, ${situation}, ${profileRaw.updatedAt as string})
       on conflict (user_id) do update
         set situation = excluded.situation, updated_at = excluded.updated_at`);
+  }
+
+  if (hasExpediente) {
+    const data = JSON.stringify(parseExpediente(expedienteRaw.data));
+    queries.push(sql`
+      insert into expedientes (user_id, data, updated_at)
+      values (${userId}, ${data}::jsonb, ${expedienteRaw.updatedAt as string})
+      on conflict (user_id) do update
+        set data = excluded.data, updated_at = excluded.updated_at`);
   }
 
   if (queries.length) await sql.transaction(queries);

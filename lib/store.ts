@@ -1,11 +1,13 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
+import { parseExpediente, type Expediente } from "./expediente";
 import type { Profile } from "./logic";
 
 /**
- * Saved opportunities, application stages and the viewer's profile. Always kept in this
- * browser (localStorage); when the viewer signs in, lib/sync.ts mirrors it to Neon.
+ * Saved opportunities, application stages, the viewer's situation and their master profile
+ * (Mi perfil). Always kept in this browser (localStorage); when the viewer signs in,
+ * lib/sync.ts mirrors it to Neon.
  */
 
 export type Stage = "guardada" | "preparando" | "enviada" | "resultado";
@@ -27,6 +29,8 @@ export interface TrackedItem {
 export interface AplikoState {
   profile?: Profile;
   profileUpdatedAt?: string;
+  expediente?: Expediente;
+  expedienteUpdatedAt?: string;
   items: Record<string, TrackedItem>;
 }
 
@@ -52,7 +56,7 @@ export function getAplikoState(): AplikoState {
       for (const [id, item] of Object.entries(parsed.items ?? {})) {
         items[id] = { ...item, updatedAt: item.updatedAt ?? item.savedAt };
       }
-      cached = { ...parsed, items };
+      cached = { ...parsed, items, expediente: parsed.expediente ? parseExpediente(parsed.expediente) : undefined };
     } catch {
       cached = EMPTY;
     }
@@ -107,6 +111,9 @@ export function useApliko() {
     setNotes: (id: string, notes: string) => patchItem(id, { notes }),
     setProfile(profile: Profile | undefined) {
       setAplikoState({ ...getAplikoState(), profile, profileUpdatedAt: now() });
+    },
+    setExpediente(expediente: Expediente) {
+      setAplikoState({ ...getAplikoState(), expediente, expedienteUpdatedAt: now() });
     },
   };
 }

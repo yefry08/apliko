@@ -1,5 +1,6 @@
 "use client";
 
+import { parseExpediente } from "./expediente";
 import type { Profile } from "./logic";
 import { getAplikoState, setAplikoState, subscribeApliko, type AplikoState, type Stage, type TrackedItem } from "./store";
 
@@ -17,6 +18,8 @@ interface RemoteState {
   items: RemoteItem[];
   profile: Profile | null;
   profileUpdatedAt: string | null;
+  expediente: unknown;
+  expedienteUpdatedAt: string | null;
 }
 
 const newer = (a?: string | null, b?: string | null) => (a ?? "") >= (b ?? "");
@@ -30,10 +33,14 @@ function merge(local: AplikoState, remote: RemoteState): AplikoState {
     }
   }
   const useRemote = remote.profileUpdatedAt && (!local.profileUpdatedAt || newer(remote.profileUpdatedAt, local.profileUpdatedAt));
+  const useRemoteExpediente =
+    remote.expedienteUpdatedAt && (!local.expedienteUpdatedAt || newer(remote.expedienteUpdatedAt, local.expedienteUpdatedAt));
   return {
     items,
     profile: useRemote ? (remote.profile ?? undefined) : local.profile,
     profileUpdatedAt: useRemote ? (remote.profileUpdatedAt ?? undefined) : local.profileUpdatedAt,
+    expediente: useRemoteExpediente ? parseExpediente(remote.expediente) : local.expediente,
+    expedienteUpdatedAt: useRemoteExpediente ? (remote.expedienteUpdatedAt ?? undefined) : local.expedienteUpdatedAt,
   };
 }
 
@@ -55,7 +62,8 @@ export function startSync(getToken: () => Promise<string | null>, onStatus: (s: 
       .map(([id, t]) => ({ id, ...t }));
     const deletes = Object.keys(before.items).filter((id) => !(id in target.items));
     const profileChanged = before.profileUpdatedAt !== target.profileUpdatedAt;
-    if (!upserts.length && !deletes.length && !profileChanged) {
+    const expedienteChanged = Boolean(target.expediente) && before.expedienteUpdatedAt !== target.expedienteUpdatedAt;
+    if (!upserts.length && !deletes.length && !profileChanged && !expedienteChanged) {
       synced = target;
       onStatus("synced");
       return;
@@ -66,6 +74,7 @@ export function startSync(getToken: () => Promise<string | null>, onStatus: (s: 
       upserts,
       deletes,
       profile: profileChanged ? { situation: target.profile ?? null, updatedAt: target.profileUpdatedAt } : undefined,
+      expediente: expedienteChanged ? { data: target.expediente, updatedAt: target.expedienteUpdatedAt } : undefined,
     };
     try {
       const token = await getToken();
@@ -100,6 +109,8 @@ export function startSync(getToken: () => Promise<string | null>, onStatus: (s: 
         items: Object.fromEntries(remote.items.map((r) => [r.id, { stage: r.stage, notes: r.notes, savedAt: r.savedAt, updatedAt: r.updatedAt }])),
         profile: remote.profile ?? undefined,
         profileUpdatedAt: remote.profileUpdatedAt ?? undefined,
+        expediente: remote.expediente ? parseExpediente(remote.expediente) : undefined,
+        expedienteUpdatedAt: remote.expedienteUpdatedAt ?? undefined,
       };
       setAplikoState(merged);
       await push(merged);

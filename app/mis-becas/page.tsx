@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { SiteFooter, SiteHeader } from "@/components/site-chrome";
 import { opportunities, sortForDisplay } from "@/lib/opportunities";
 import { SyncNote } from "@/components/account-link";
@@ -24,6 +25,13 @@ export default function MisBecasPage() {
             de que cierren.
           </p>
           <SyncNote />
+          <p className="text-sm text-muted-foreground">
+            Completa{" "}
+            <Link href="/mi-perfil" className="text-larimar hover:underline">
+              Mi perfil
+            </Link>{" "}
+            con tus datos, documentos y respuestas para postular más rápido.
+          </p>
         </div>
         <Tracker items={sortForDisplay(opportunities)} />
       </main>
