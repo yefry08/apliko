@@ -10269,6 +10269,1082 @@
   "updatedAt": "2026-09-18"
  },
  {
+  "id": "fin-build-ship-shape-amazon-developer-hackathon",
+  "slug": "build-ship-shape-amazon-developer-hackathon",
+  "name": "Build, Ship, Shape: Amazon Developer Hackathon",
+  "sponsor": "Amazon",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Alexa+",
+   "Fire TV",
+   "Wearables",
+   "Programación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 138,000 en premios",
+  "citizenship": "global",
+  "citizenshipRaw": "Mayores de edad de cualquier país (con las excepciones habituales). En línea.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-23"
+  },
+  "url": "https://amazonappdev2026.devpost.com/",
+  "applyUrl": "https://amazonappdev2026.devpost.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-nebius-x-nvidia-global-ai-hackathon",
+  "slug": "nebius-x-nvidia-global-ai-hackathon",
+  "name": "Nebius x NVIDIA Global AI Hackathon",
+  "sponsor": "Nebius y NVIDIA",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Agentes",
+   "Robótica",
+   "Programación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "Más de USD 50,000 en efectivo y hardware (premio mayor: USD 20,000)",
+  "citizenship": "global",
+  "citizenshipRaw": "Mayores de edad de cualquier país (con las excepciones habituales). En línea, con encuentros presenciales opcionales.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-30"
+  },
+  "url": "https://nebiusglobalaihackathon.devpost.com/",
+  "applyUrl": "https://nebiusglobalaihackathon.devpost.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-opencv-ai-competition-2026-powered-by-aws",
+  "slug": "opencv-ai-competition-2026-powered-by-aws",
+  "name": "OpenCV AI Competition 2026, powered by AWS",
+  "sponsor": "OpenCV y AWS",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Visión por computadora",
+   "Inteligencia artificial",
+   "Programación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 20,250 en premios (premio mayor: USD 5,000) + créditos de AWS",
+  "citizenship": "global",
+  "citizenshipRaw": "Mayores de edad de cualquier país (con las excepciones habituales). En línea, equipos de cualquier tamaño.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "url": "https://opencv26.devpost.com/",
+  "applyUrl": "https://opencv26.devpost.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-aws-communication-developer-services-cds-agentic-ai-partner-hackathon",
+  "slug": "aws-communication-developer-services-cds-agentic-ai-partner-hackathon",
+  "name": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+  "sponsor": "AWS",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Agentes",
+   "Comunicación",
+   "Programación"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 40,000 en premios",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Solo profesionales y posgraduados de empresas socias de AWS, de cualquier país. En línea.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-28"
+  },
+  "url": "https://aws-cds-partner.devpost.com/",
+  "applyUrl": "https://aws-cds-partner.devpost.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-agents-for-impact-hackathon",
+  "slug": "agents-for-impact-hackathon",
+  "name": "Agents for Impact Hackathon",
+  "sponsor": "Google Cloud",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Agentes",
+   "Impacto social",
+   "Salud pública"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Premios en efectivo en la fase digital",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Hackatones presenciales de un día en ciudades seleccionadas; equipos formados por Google Cloud. Después hay una fase digital con premios en efectivo (enero a marzo de 2027).",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Hackatones presenciales de octubre a diciembre de 2026 (Nueva York: 8 de diciembre)"
+  },
+  "url": "https://cloud.google.com/resources/agents-for-impact-2026",
+  "applyUrl": "https://cloud.google.com/resources/agents-for-impact-2026",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-amd-developer-hackathon-act-iii",
+  "slug": "amd-developer-hackathon-act-iii",
+  "name": "AMD Developer Hackathon: ACT III",
+  "sponsor": "AMD y lablab.ai",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Agentes",
+   "GPU",
+   "Programación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "En línea",
+   "Italia"
+  ],
+  "funding": "varia",
+  "amount": "Más de USD 5,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Desarrolladores de cualquier país; hay que unirse al AMD AI Developer Program. En línea, con fase presencial opcional en Roma, Milán e Imperia (viaje no incluido).",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Se construye en línea del 12 al 18 de octubre de 2026; inscríbete antes"
+  },
+  "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii",
+  "applyUrl": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-lablab-x-amd-ai-academy-challenge",
+  "slug": "lablab-x-amd-ai-academy-challenge",
+  "name": "Lablab x AMD AI Academy Challenge",
+  "sponsor": "AMD y lablab.ai",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Aprendizaje",
+   "Programación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 5,000 en premios",
+  "citizenship": "global",
+  "citizenshipRaw": "Participación individual (sin equipos), de cualquier país. En línea, del 1 de septiembre al 1 de diciembre de 2026.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-01"
+  },
+  "url": "https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge",
+  "applyUrl": "https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-ibm-bob-2-0-hackathon",
+  "slug": "ibm-bob-2-0-hackathon",
+  "name": "IBM Bob 2.0 Hackathon",
+  "sponsor": "IBM y lablab.ai",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Desarrollo asistido por IA",
+   "Programación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 10,000 en premios",
+  "citizenship": "global",
+  "citizenshipRaw": "Abierto a todos, solo o en equipo. En línea, 48 horas del 25 al 27 de septiembre de 2026; inscríbete antes del arranque.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-25"
+  },
+  "url": "https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon",
+  "applyUrl": "https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-ai-builders-challenge-with-ibm-bob",
+  "slug": "ai-builders-challenge-with-ibm-bob",
+  "name": "AI Builders Challenge with IBM Bob",
+  "sponsor": "IBM y BeMyApp",
+  "source": "financiamiento",
+  "types": [
+   "Hackatón"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Industrias creativas",
+   "Exploración espacial",
+   "Programación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 15,000 en premios (premio mayor: USD 5,000)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Estudiantes universitarios de 18 años o más, solos o en equipos de hasta 5. En línea; un reto por mes (julio a septiembre de 2026).",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-09-30"
+  },
+  "url": "https://aibuilderschallenge-bob.bemyapp.com/",
+  "applyUrl": "https://aibuilderschallenge-bob.bemyapp.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-y-combinator",
+  "slug": "y-combinator",
+  "name": "Y Combinator",
+  "sponsor": "Y Combinator",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 500,000: USD 125,000 por el 7% + USD 375,000 en SAFE sin tope (MFN)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Varias convocatorias al año"
+  },
+  "url": "https://www.ycombinator.com/apply",
+  "applyUrl": "https://www.ycombinator.com/apply",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-anywhere-accelerator",
+  "slug": "techstars-anywhere-accelerator",
+  "name": "Techstars Anywhere Accelerator",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/anywhere",
+  "applyUrl": "https://www.techstars.com/accelerators/anywhere",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-boston-accelerator",
+  "slug": "techstars-boston-accelerator",
+  "name": "Techstars Boston Accelerator",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/boston",
+  "applyUrl": "https://www.techstars.com/accelerators/boston",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-chicago",
+  "slug": "techstars-chicago",
+  "name": "Techstars Chicago",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/chicago",
+  "applyUrl": "https://www.techstars.com/accelerators/chicago",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-new-york-city-accelerator",
+  "slug": "techstars-new-york-city-accelerator",
+  "name": "Techstars New York City Accelerator",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/nyc",
+  "applyUrl": "https://www.techstars.com/accelerators/nyc",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-boulder",
+  "slug": "techstars-boulder",
+  "name": "Techstars Boulder",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/boulder",
+  "applyUrl": "https://www.techstars.com/accelerators/boulder",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-ai-health-baltimore",
+  "slug": "techstars-ai-health-baltimore",
+  "name": "Techstars AI Health Baltimore",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Salud",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/baltimore-ai-health",
+  "applyUrl": "https://www.techstars.com/accelerators/baltimore-ai-health",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-space-accelerator",
+  "slug": "techstars-space-accelerator",
+  "name": "Techstars Space Accelerator",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología espacial"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/space",
+  "applyUrl": "https://www.techstars.com/accelerators/space",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-alabama-energytech-accelerator",
+  "slug": "techstars-alabama-energytech-accelerator",
+  "name": "Techstars Alabama EnergyTech Accelerator",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Energía",
+   "Clima"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/birmingham",
+  "applyUrl": "https://www.techstars.com/accelerators/birmingham",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-columbus",
+  "slug": "techstars-columbus",
+  "name": "Techstars Columbus",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/ohio-state-university-accelerator",
+  "applyUrl": "https://www.techstars.com/accelerators/ohio-state-university-accelerator",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-techstars-future-of-food",
+  "slug": "techstars-future-of-food",
+  "name": "Techstars Future of Food",
+  "sponsor": "Techstars",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Alimentación",
+   "Agricultura"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/future-of-food",
+  "applyUrl": "https://www.techstars.com/accelerators/future-of-food",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-northwestern-medicine-techstars-healthcare-accelerator",
+  "slug": "northwestern-medicine-techstars-healthcare-accelerator",
+  "name": "Northwestern Medicine & Techstars Healthcare Accelerator",
+  "sponsor": "Techstars y Northwestern Medicine",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Salud"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/northwestern-medicine-healthcare",
+  "applyUrl": "https://www.techstars.com/accelerators/northwestern-medicine-healthcare",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-usc-and-techstars-accelerator",
+  "slug": "usc-and-techstars-accelerator",
+  "name": "USC and Techstars Accelerator",
+  "sponsor": "Techstars y University of Southern California",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 220,000 con los términos estándar de Techstars (inversión a cambio de participación)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la fecha de la próxima cohorte"
+  },
+  "url": "https://www.techstars.com/accelerators/usc-and-techstars",
+  "applyUrl": "https://www.techstars.com/accelerators/usc-and-techstars",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-alchemist-accelerator",
+  "slug": "alchemist-accelerator",
+  "name": "Alchemist Accelerator",
+  "sponsor": "Alchemist Accelerator",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología empresarial"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://www.alchemistaccelerator.com/",
+  "applyUrl": "https://www.alchemistaccelerator.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-berkeley-skydeck",
+  "slug": "berkeley-skydeck",
+  "name": "Berkeley SkyDeck",
+  "sponsor": "UC Berkeley",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 210,000 para las empresas seleccionadas de la cohorte",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://skydeck.berkeley.edu/",
+  "applyUrl": "https://skydeck.berkeley.edu/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-startx",
+  "slug": "startx",
+  "name": "StartX",
+  "sponsor": "StartX",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Solo para fundadores con vínculo con Stanford (estudiantes, exalumnos, profesores o personal).",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://startx.com/",
+  "applyUrl": "https://startx.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-forum-ventures",
+  "slug": "forum-ventures",
+  "name": "Forum Ventures",
+  "sponsor": "Forum Ventures",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Software empresarial"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://www.forumvc.com/accelerator",
+  "applyUrl": "https://www.forumvc.com/accelerator",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-entrepreneurs-roundtable-accelerator",
+  "slug": "entrepreneurs-roundtable-accelerator",
+  "name": "Entrepreneurs Roundtable Accelerator",
+  "sponsor": "Entrepreneurs Roundtable Accelerator (ERA)",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://www.eranyc.com/",
+  "applyUrl": "https://www.eranyc.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-gener8tor-accelerator",
+  "slug": "gener8tor-accelerator",
+  "name": "gener8tor Accelerator",
+  "sponsor": "gener8tor",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://www.gener8tor.com/",
+  "applyUrl": "https://www.gener8tor.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-gbeta",
+  "slug": "gbeta",
+  "name": "gBETA",
+  "sponsor": "gener8tor",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://www.gener8tor.com/gbeta",
+  "applyUrl": "https://www.gener8tor.com/gbeta",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-tinyseed",
+  "slug": "tinyseed",
+  "name": "TinySeed",
+  "sponsor": "TinySeed",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "SaaS",
+   "Software"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://tinyseed.com/",
+  "applyUrl": "https://tinyseed.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-indiebio",
+  "slug": "indiebio",
+  "name": "IndieBio",
+  "sponsor": "IndieBio (SOSV)",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Biotecnología",
+   "Ciencias de la vida"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://indiebio.co/",
+  "applyUrl": "https://indiebio.co/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-hax",
+  "slug": "hax",
+  "name": "HAX",
+  "sponsor": "HAX (SOSV)",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Hardware",
+   "Robótica"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://hax.co/",
+  "applyUrl": "https://hax.co/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-creative-destruction-lab-toronto",
+  "slug": "creative-destruction-lab-toronto",
+  "name": "Creative Destruction Lab Toronto",
+  "sponsor": "Creative Destruction Lab",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Ciencia y tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Canadá"
+  ],
+  "funding": "varia",
+  "amount": "Según los términos del programa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Fundadores de startups con potencial de crecimiento. Es inversión a cambio de participación: revisa los términos del programa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Revisa la próxima convocatoria"
+  },
+  "url": "https://creativedestructionlab.com/locations/toronto/",
+  "applyUrl": "https://creativedestructionlab.com/locations/toronto/",
+  "updatedAt": "2026-09-18"
+ },
+ {
   "id": "sgp-french-tech-rise",
   "slug": "french-tech-rise",
   "name": "French Tech Rise",
