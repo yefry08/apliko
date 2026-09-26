@@ -54,6 +54,9 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
   experiencia, premios, enlaces a documentos y banco de respuestas). Vive en `localStorage` junto a Mis becas y, con
   sesión, se sincroniza a la tabla `expedientes` (`db/migrations/0002_expedientes.sql`). `parseExpediente` es la única
   validación: la usan el navegador, la importación de archivos y `/api/sync`. No guarda pasaportes, cédulas ni contraseñas.
+- `lib/cv.ts`: lee el CV en PDF en el navegador (PDF.js) y llena Mi perfil con reglas simples, sin IA ni servidor:
+  datos de contacto, experiencia, proyectos, estudios, cursos, idiomas, premios, habilidades y el resumen. Para probarlo
+  con un PDF local: `npx tsx scripts/probar-cv.ts ruta/al/cv.pdf`.
 - `lib/areas.ts`: las 8 áreas (colores de carpeta y tarjeta, y la regla que decide qué oportunidad entra en cada una).
   Las usan la portada y el filtro "Área" del catálogo (`/becas?area=clima`).
 - `components/portada/keycaps.tsx`: el logotipo ApliKo en teclas. Cada tecla es un área (las dos últimas toman

@@ -17,8 +17,8 @@ export default function MiPerfilPage() {
           <p className="eyebrow">Postular más rápido</p>
           <h1 className="font-display text-5xl tracking-tight md:text-6xl">Mi perfil</h1>
           <p className="text-muted-foreground">
-            Lo que piden casi todos los formularios, escrito una sola vez: tus datos, estudios, idiomas, experiencia,
-            documentos y las respuestas que reutilizas. Se guarda solo mientras escribes.
+            Sube tu CV y pega tu LinkedIn: con eso llenamos lo que piden casi todos los formularios. Revisa el resultado
+            abajo cuando quieras. Se guarda solo mientras escribes.
           </p>
           <p className="text-sm text-muted-foreground">
             No guardes aquí números de pasaporte, de cédula ni contraseñas: esos se escriben a mano en cada formulario.

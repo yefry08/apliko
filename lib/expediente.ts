@@ -83,8 +83,19 @@ export interface Answer {
   text: string;
 }
 
+/** The CV as text: what the reader extracted, kept whole so a bot can quote it later. */
+export interface CvText {
+  fileName: string;
+  text: string;
+  importedAt: string;
+}
+
 export interface Expediente {
   personal: Personal;
+  cv: CvText | null;
+  skills: string;
+  /** Optional: what the user's AI assistant already knows about them, pasted as-is. */
+  aiMemory: string;
   languages: Language[];
   education: Education[];
   experience: Experience[];
@@ -139,6 +150,9 @@ const EMPTY_PERSONAL = Object.fromEntries(PERSONAL_FIELDS.map((f) => [f.key, ""]
 
 export const EMPTY_EXPEDIENTE: Expediente = {
   personal: EMPTY_PERSONAL,
+  cv: null,
+  skills: "",
+  aiMemory: "",
   languages: [],
   education: [],
   experience: [],
@@ -168,8 +182,12 @@ const id = (r: Row) => str(r.id, 64) || newId();
 export function parseExpediente(raw: unknown): Expediente {
   const r = isRow(raw) ? raw : {};
   const p = isRow(r.personal) ? r.personal : {};
+  const cv = isRow(r.cv) ? r.cv : null;
   return {
     personal: Object.fromEntries(PERSONAL_FIELDS.map((f) => [f.key, str(p[f.key])])) as unknown as Personal,
+    cv: cv && str(cv.text) ? { fileName: str(cv.fileName, 200), text: str(cv.text, 40000), importedAt: str(cv.importedAt, 10) } : null,
+    skills: str(r.skills, 4000),
+    aiMemory: str(r.aiMemory, 20000),
     languages: list(r.languages, 20, (l) => ({
       id: id(l),
       language: str(l.language, 60),
@@ -232,7 +250,8 @@ export function completeness(e: Expediente) {
     ["Al menos un estudio", e.education.some((x) => x.institution)],
     ["Al menos un idioma", e.languages.some((x) => x.language)],
     ["Al menos una experiencia", e.experience.some((x) => x.organization)],
-    ["Tu CV", e.documents.some((d) => d.url && /cv|curr[ií]cul|resume|r[ée]sum[ée]/i.test(d.name))],
+    ["Tu CV", Boolean(e.cv) || e.documents.some((d) => d.url && /cv|curr[ií]cul|resume|r[ée]sum[ée]/i.test(d.name))],
+    ["Tu LinkedIn", Boolean(p.linkedin)],
     ["Al menos una respuesta", e.answers.some((a) => wordCount(a.text) > 0)],
   ];
   const done = checks.filter(([, ok]) => ok).length;
