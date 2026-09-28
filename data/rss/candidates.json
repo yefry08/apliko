@@ -2099,5 +2099,877 @@
    "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-restoring-native-grasslands-for-biodiversity-and-livestock/",
    "updatedAt": "2026-09-22"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/bevisioneers-the-mercedes-benz-fellowship-program/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/bevisioneers-the-mercedes-benz-fellowship-program/",
+  "title": "beVisioneers: The Mercedes-Benz Fellowship Program",
+  "publishedAt": "2026-09-28T06:56:45+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-bevisioneers",
+   "slug": "bevisioneers",
+   "name": "beVisioneers",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "beVisioneers: The Mercedes-Benz Fellowship is a fellowship launched in 2023 by The DO School Fellowships gGmbH and funded by Mercedes-Benz.",
+   "url": "https://www.fundsforngos.org/how-to-apply/bevisioneers-the-mercedes-benz-fellowship-program/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/call-for-letters-of-inquiry-gef-small-grants-programme-saint-vincent-and-the-grenadines/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/call-for-letters-of-inquiry-gef-small-grants-programme-saint-vincent-and-the-grenadines/",
+  "title": "Call for Letters of Inquiry: GEF Small Grants Programme (Saint Vincent and the Grenadines)",
+  "publishedAt": "2026-09-28T06:52:08+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-call-for-letters-of-inquiry",
+   "slug": "call-for-letters-of-inquiry",
+   "name": "Call for Letters of Inquiry",
+   "sponsor": "Critical Ecosystem Partnership Fund (CEPF)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Critical Ecosystem Partnership Fund (CEPF) is inviting Letters of Inquiry (LOIs) from civil society organizations in Saint Vincent and the Grenadines for projects under the Global Environment Facility (GEF) Small Grants Program (SGP).",
+   "url": "https://www.fundsforngos.org/how-to-apply/call-for-letters-of-inquiry-gef-small-grants-programme-saint-vincent-and-the-grenadines/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/",
+  "title": "CFPs: Strengthening Independent Journalism and Countering Disinformation in Moldova",
+  "publishedAt": "2026-09-28T06:49:12+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-strengthening-independent-journalism-and-countering-disinformation-in-moldova",
+   "slug": "strengthening-independent-journalism-and-countering-disinformation-in-moldova",
+   "name": "Strengthening Independent Journalism and Countering Disinformation in Moldova",
+   "sponsor": "Canal France International (CFI)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Periodismo",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Francia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-17"
+   },
+   "notes": "Canal France International (CFI) is inviting applications for a call for projects to strengthen independent journalism and counter disinformation in the Republic of Moldova. Three selected media outlets can receive grants of up to €30,000, with an indicative total call budget of €90,000.",
+   "url": "https://www.fundsforngos.org/how-to-apply/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-local-biodiversity-conservation-through-citizen-participation/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-local-biodiversity-conservation-through-citizen-participation/",
+  "title": "A Sample Grant Proposals On“ Local Biodiversity Conservation Through Citizen Participation”",
+  "publishedAt": "2026-09-25T09:32:00+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-local-biodiversity-conservation-through-citizen-part",
+   "slug": "a-sample-grant-proposals-on-local-biodiversity-conservation-through-citizen-part",
+   "name": "A Sample Grant Proposals On“ Local Biodiversity Conservation Through Citizen Participation”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Local biodiversity conservation is a crucial aspect of environmental sustainability that focuses on protecting the variety of life forms within a specific area. This includes not only the species themselves but also their habitats and the ecosystems they inhabit.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-local-biodiversity-conservation-through-citizen-participation/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-community-resilience-to-extreme-weather-events/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-community-resilience-to-extreme-weather-events/",
+  "title": "A Sample Grant Proposals On“ Community Resilience to Extreme Weather Events”",
+  "publishedAt": "2026-09-25T09:31:40+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-community-resilience-to-extreme-weather-events",
+   "slug": "a-sample-grant-proposals-on-community-resilience-to-extreme-weather-events",
+   "name": "A Sample Grant Proposals On“ Community Resilience to Extreme Weather Events”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Community resilience refers to the ability of a community to prepare for, respond to, and recover from extreme weather events. As climate change continues to intensify the frequency and severity of these events, building resilience has become a pressing concern for many communities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-community-resilience-to-extreme-weather-events/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/project-assistance-community-arts-organizations-2026-27-canada/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/project-assistance-community-arts-organizations-2026-27-canada/",
+  "title": "Project Assistance: Community Arts Organizations 2026/27 (Canada)",
+  "publishedAt": "2026-09-25T09:02:52+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-project-assistance",
+   "slug": "project-assistance",
+   "name": "Project Assistance",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Canadá"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The North Vancouver Recreation and Culture Commission (NVRC) offers Programming & Project Assistance Grants to support arts and culture programming and projects that benefit North Vancouver residents.",
+   "url": "https://www.fundsforngos.org/how-to-apply/project-assistance-community-arts-organizations-2026-27-canada/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/cfps-reducing-missed-appointments-through-planned-care-innovation-uk/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/cfps-reducing-missed-appointments-through-planned-care-innovation-uk/",
+  "title": "CFPs: Reducing Missed Appointments Through Planned Care Innovation (UK)",
+  "publishedAt": "2026-09-25T08:57:37+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-reducing-missed-appointments-through-planned-care-innovation-uk",
+   "slug": "reducing-missed-appointments-through-planned-care-innovation-uk",
+   "name": "Reducing Missed Appointments Through Planned Care Innovation (UK)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Negocios",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Contracts for Innovation Cymru is a UK public-sector innovation competition run through Innovate UK Business Connect, seeking innovative solutions to reduce missed appointments and improve access to planned care.",
+   "url": "https://www.fundsforngos.org/how-to-apply/cfps-reducing-missed-appointments-through-planned-care-innovation-uk/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/pcr-early-career-fellowship-in-prostate-cancer-research-uk/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/pcr-early-career-fellowship-in-prostate-cancer-research-uk/",
+  "title": "PCR Early Career Fellowship in Prostate Cancer Research (UK)",
+  "publishedAt": "2026-09-25T08:52:56+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-pcr-early-career-fellowship-in-prostate-cancer-research-uk",
+   "slug": "pcr-early-career-fellowship-in-prostate-cancer-research-uk",
+   "name": "PCR Early Career Fellowship in Prostate Cancer Research (UK)",
+   "sponsor": "Prostate Cancer Research (PCR)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-12"
+   },
+   "notes": "Prostate Cancer Research (PCR) is inviting applications for its Early Career Fellowship in Prostate Cancer Research to support outstanding researchers as they transition toward research independence. The fellowship typically funds projects for up to three years, with funding of up to £250,000.",
+   "url": "https://www.fundsforngos.org/how-to-apply/pcr-early-career-fellowship-in-prostate-cancer-research-uk/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/submit-entries-for-aspire-leaders-program/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/submit-entries-for-aspire-leaders-program/",
+  "title": "Submit Entries for Aspire Leaders Program",
+  "publishedAt": "2026-09-25T07:13:48+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-submit-entries-for-aspire-leaders-program",
+   "slug": "submit-entries-for-aspire-leaders-program",
+   "name": "Submit Entries for Aspire Leaders Program",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [
+    "pregrado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "nization focused on transforming the lives of first-generation college students around the world",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Aspire Institute Inc. (operating through Aspire Leaders) is an organization focused on transforming the lives of first-generation college students around the world.",
+   "url": "https://www.fundsforngos.org/how-to-apply/submit-entries-for-aspire-leaders-program/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/call-for-applications-community-initiatives-program-australia/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/call-for-applications-community-initiatives-program-australia/",
+  "title": "Call for Applications: Community Initiatives Program (Australia)",
+  "publishedAt": "2026-09-25T07:08:40+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-community-initiatives-program-australia",
+   "slug": "community-initiatives-program-australia",
+   "name": "Community Initiatives Program (Australia)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Australia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Clarence Valley Council Community Initiatives Program (CIP) provides support to not-for-profit organisations for new or continuing projects and initiatives that benefit the Clarence Valley community. Funding categories include cash, rates, fee waivers for Council venues, and a schools category (awards nights only).",
+   "url": "https://www.fundsforngos.org/how-to-apply/call-for-applications-community-initiatives-program-australia/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/inaugural-equality-fund-journalism-fellowship-program-2026/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/inaugural-equality-fund-journalism-fellowship-program-2026/",
+  "title": "Inaugural Equality Fund Journalism Fellowship Program 2026",
+  "publishedAt": "2026-09-25T07:05:28+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-inaugural-equality-fund-journalism-fellowship-program-2026",
+   "slug": "inaugural-equality-fund-journalism-fellowship-program-2026",
+   "name": "Inaugural Equality Fund Journalism Fellowship Program 2026",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "oda-eligible countries to publish fact-based stories on local solutions to global crises, with a focus on gender",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Equality Fund Journalism Fellowship is an inaugural journalism fellowship supporting up to five journalists in ODA-eligible countries to publish fact-based stories on local solutions to global crises, with a focus on gender.",
+   "url": "https://www.fundsforngos.org/how-to-apply/inaugural-equality-fund-journalism-fellowship-program-2026/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/open-call-siag-community-connection-grant-2027-australia/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/open-call-siag-community-connection-grant-2027-australia/",
+  "title": "Open Call: SIAG Community Connection Grant 2027 (Australia)",
+  "publishedAt": "2026-09-24T07:09:57+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-open-call-siag-community-connection-grant-2027-australia",
+   "slug": "open-call-siag-community-connection-grant-2027-australia",
+   "name": "Open Call: SIAG Community Connection Grant 2027 (Australia)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Australia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-16"
+   },
+   "notes": "The SIAG 2026/27 Community Connection Grant – Round 2 is a grant opportunity offered by Latrobe City Council for projects in community development and health. Submissions are accepted via the Latrobe City Council online grants portal, powered by SmartyGrants, and close at 4:00pm on 16 October 2026 (AEDT).",
+   "url": "https://www.fundsforngos.org/how-to-apply/open-call-siag-community-connection-grant-2027-australia/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/paul-coverdell-forensic-science-improvement-competitive-grants-program-united-states/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/paul-coverdell-forensic-science-improvement-competitive-grants-program-united-states/",
+  "title": "Paul Coverdell Forensic Science Improvement – Competitive Grants Program (United States)",
+  "publishedAt": "2026-09-24T07:05:45+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-paul-coverdell-forensic-science-improvement-competitive-grants-program-united-st",
+   "slug": "paul-coverdell-forensic-science-improvement-competitive-grants-program-united-st",
+   "name": "Paul Coverdell Forensic Science Improvement – Competitive Grants Program (United States)",
+   "sponsor": "Bureau of Justice Assistance (BJA)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Ciencias"
+   ],
+   "levels": [],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-29"
+   },
+   "notes": "The Bureau of Justice Assistance (BJA) is offering competitive grants under the FY 2026 Paul Coverdell Forensic Science Improvement—Competitive Grants Program to support forensic science improvement efforts in the United States. Funding ranges from $100,000 to $500,000.",
+   "url": "https://www.fundsforngos.org/how-to-apply/paul-coverdell-forensic-science-improvement-competitive-grants-program-united-states/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/danish-health-foundation-grants-for-health-and-social-research-denmark/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/danish-health-foundation-grants-for-health-and-social-research-denmark/",
+  "title": "Danish Health Foundation Grants for Health and Social Research (Denmark)",
+  "publishedAt": "2026-09-24T07:03:50+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-danish-health-foundation-grants-for-health-and-social-research-denmark",
+   "slug": "danish-health-foundation-grants-for-health-and-social-research-denmark",
+   "name": "Danish Health Foundation Grants for Health and Social Research (Denmark)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Dinamarca"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-26"
+   },
+   "notes": "Danish Health Foundation (Helsefonden) offers grants to support projects in health and social-related fields in Denmark. The opportunity includes a grant size range of $10,000 to $100,000 and an application deadline of 26-Nov-2026 at 14:00 for “Øvrige” (other) applications.",
+   "url": "https://www.fundsforngos.org/how-to-apply/danish-health-foundation-grants-for-health-and-social-research-denmark/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-digital-early-warning-systems-for-rural-disaster-preparedness/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-early-warning-systems-for-rural-disaster-preparedness/",
+  "title": "A Sample Grant Proposals On“ Digital Early Warning Systems for Rural Disaster Preparedness”",
+  "publishedAt": "2026-09-24T04:16:31+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-digital-early-warning-systems-for-rural-disaster-pre",
+   "slug": "a-sample-grant-proposals-on-digital-early-warning-systems-for-rural-disaster-pre",
+   "name": "A Sample Grant Proposals On“ Digital Early Warning Systems for Rural Disaster Preparedness”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Digital Early Warning Systems (DEWS) are innovative tools designed to provide timely alerts about potential disasters, allowing communities to prepare and respond effectively.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-early-warning-systems-for-rural-disaster-preparedness/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-climate-resilient-dairy-farming-for-smallholder-households/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-climate-resilient-dairy-farming-for-smallholder-households/",
+  "title": "A Sample Grant Proposals On“ Climate-Resilient Dairy Farming for Smallholder Households”",
+  "publishedAt": "2026-09-24T04:16:24+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-climate-resilient-dairy-farming-for-smallholder-hous",
+   "slug": "a-sample-grant-proposals-on-climate-resilient-dairy-farming-for-smallholder-hous",
+   "name": "A Sample Grant Proposals On“ Climate-Resilient Dairy Farming for Smallholder Households”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Climate-resilient dairy farming is an innovative approach that aims to adapt dairy production systems to the challenges posed by climate change. As global temperatures rise and weather patterns become increasingly unpredictable, traditional farming methods are often insufficient to ensure sustainable milk production.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-climate-resilient-dairy-farming-for-smallholder-households/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/yrv-global-teachers-grant-2026-funding-for-cultural-education-projects/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/yrv-global-teachers-grant-2026-funding-for-cultural-education-projects/",
+  "title": "YRV Global Teachers Grant 2026: Funding for Cultural Education Projects",
+  "publishedAt": "2026-09-23T07:02:27+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-yrv-global-teachers-grant-2026",
+   "slug": "yrv-global-teachers-grant-2026",
+   "name": "YRV Global Teachers Grant 2026",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "secundaria"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "parcial",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Youth Research Vox (YRV) Global Teachers Grant 2026 is an initiative designed to support secondary school English teachers worldwide in implementing classroom projects that celebrate local cultures and enhance students’ cultural identities.",
+   "url": "https://www.fundsforngos.org/how-to-apply/yrv-global-teachers-grant-2026-funding-for-cultural-education-projects/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/kindred-cares-grant-2026-funding-for-palliative-care-programs-and-research-in-canada/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/kindred-cares-grant-2026-funding-for-palliative-care-programs-and-research-in-canada/",
+  "title": "Kindred Cares Grant 2026: Funding for Palliative Care Programs and Research in Canada",
+  "publishedAt": "2026-09-23T07:00:01+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-kindred-cares-grant-2026",
+   "slug": "kindred-cares-grant-2026",
+   "name": "Kindred Cares Grant 2026",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Canadá"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-26"
+   },
+   "notes": "The Kindred Cares Grant, managed by the Kindred Foundation, supports programs and research in hospice, palliative, and end-of-life care for individuals with life-limiting conditions and their families. The grant aims to address clinical care needs and preferences.",
+   "url": "https://www.fundsforngos.org/how-to-apply/kindred-cares-grant-2026-funding-for-palliative-care-programs-and-research-in-canada/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/marie-h-brookreson-trust-grants-for-supporting-the-blind/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/marie-h-brookreson-trust-grants-for-supporting-the-blind/",
+  "title": "Marie H. Brookreson Trust Grants for Supporting the Blind",
+  "publishedAt": "2026-09-23T06:46:56+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-marie-h-brookreson-trust-grants-for-supporting-the-blind",
+   "slug": "marie-h-brookreson-trust-grants-for-supporting-the-blind",
+   "name": "Marie H. Brookreson Trust Grants for Supporting the Blind",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Marie H. Brookreson Trust offers grants to support the financing of homes for the blind and organizations that provide assistance to the blind. Managed by Wells Fargo Bank, N.A., this opportunity is open to eligible 501(c)(3) organizations across the United States.",
+   "url": "https://www.fundsforngos.org/how-to-apply/marie-h-brookreson-trust-grants-for-supporting-the-blind/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-local-seed-systems-for-climate-resilient-crop-production/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-local-seed-systems-for-climate-resilient-crop-production/",
+  "title": "A Sample Grant Proposals On“ Local Seed Systems for Climate-Resilient Crop Production”",
+  "publishedAt": "2026-09-23T04:29:27+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-local-seed-systems-for-climate-resilient-crop-produc",
+   "slug": "a-sample-grant-proposals-on-local-seed-systems-for-climate-resilient-crop-produc",
+   "name": "A Sample Grant Proposals On“ Local Seed Systems for Climate-Resilient Crop Production”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In recent years, the importance of sustainable agriculture has gained significant attention, particularly in the context of climate change. This grant proposal aims to address the pressing need for enhancing local seed systems and promoting climate-resilient crop production.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-local-seed-systems-for-climate-resilient-crop-production/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-regenerative-grazing-for-land-and-livelihood-restoration/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-regenerative-grazing-for-land-and-livelihood-restoration/",
+  "title": "A Sample Grant Proposals On“ Regenerative Grazing for Land and Livelihood Restoration”",
+  "publishedAt": "2026-09-23T04:29:21+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-regenerative-grazing-for-land-and-livelihood-restora",
+   "slug": "a-sample-grant-proposals-on-regenerative-grazing-for-land-and-livelihood-restora",
+   "name": "A Sample Grant Proposals On“ Regenerative Grazing for Land and Livelihood Restoration”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Regenerative grazing is an innovative approach to livestock management that focuses on restoring the health of grasslands and ecosystems while simultaneously improving the livelihoods of farmers.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-regenerative-grazing-for-land-and-livelihood-restoration/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-sustainable-watershed-management-through-community-partnerships/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-sustainable-watershed-management-through-community-partnerships/",
+  "title": "A Sample Grant Proposals On“ Sustainable Watershed Management Through Community Partnerships”",
+  "publishedAt": "2026-09-23T04:29:12+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-sustainable-watershed-management-through-community-p",
+   "slug": "a-sample-grant-proposals-on-sustainable-watershed-management-through-community-p",
+   "name": "A Sample Grant Proposals On“ Sustainable Watershed Management Through Community Partnerships”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Sustainable watershed management is a critical approach to maintaining the health of our water resources while balancing ecological, social, and economic needs. At its core, it involves managing the land and water resources within a watershed in a way that ensures their long-term viability.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-sustainable-watershed-management-through-community-partnerships/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-digital-tools-for-strengthening-rural-farmer-cooperatives/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-tools-for-strengthening-rural-farmer-cooperatives/",
+  "title": "A Sample Grant Proposals On“ Digital Tools for Strengthening Rural Farmer Cooperatives”",
+  "publishedAt": "2026-09-23T04:28:55+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-digital-tools-for-strengthening-rural-farmer-coopera",
+   "slug": "a-sample-grant-proposals-on-digital-tools-for-strengthening-rural-farmer-coopera",
+   "name": "A Sample Grant Proposals On“ Digital Tools for Strengthening Rural Farmer Cooperatives”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In today’s fast-paced world, technology has become an essential part of every sector, including agriculture. For rural farmer cooperatives, digital tools can be transformative, enhancing productivity, communication, and overall efficiency.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-tools-for-strengthening-rural-farmer-cooperatives/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-ai-based-crop-disease-detection-for-smallholder-farmers/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-ai-based-crop-disease-detection-for-smallholder-farmers/",
+  "title": "A Sample Grant Proposals On“ AI-Based Crop Disease Detection for Smallholder Farmers”",
+  "publishedAt": "2026-09-23T04:28:41+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-ai-based-crop-disease-detection-for-smallholder-farm",
+   "slug": "a-sample-grant-proposals-on-ai-based-crop-disease-detection-for-smallholder-farm",
+   "name": "A Sample Grant Proposals On“ AI-Based Crop Disease Detection for Smallholder Farmers”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Artificial Intelligence (AI) is making significant strides in various sectors, and agriculture is no exception. AI-based crop disease detection systems leverage advanced algorithms and machine learning techniques to identify diseases in plants at an early stage.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-ai-based-crop-disease-detection-for-smallholder-farmers/",
+   "updatedAt": "2026-09-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-integrated-nature-climate-and-livelihood-resilience-program/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-integrated-nature-climate-and-livelihood-resilience-program/",
+  "title": "A Sample Grant Proposals On“ Integrated Nature, Climate, and Livelihood Resilience Program”",
+  "publishedAt": "2026-09-23T04:28:11+00:00",
+  "fetchedAt": "2026-09-28T12:39:24+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-integrated-nature-climate-and-livelihood-resilience-",
+   "slug": "a-sample-grant-proposals-on-integrated-nature-climate-and-livelihood-resilience-",
+   "name": "A Sample Grant Proposals On“ Integrated Nature, Climate, and Livelihood Resilience Program”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Economía",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Integrated Nature, Climate, and Livelihood Resilience Program (INCLRP) is designed to address the interconnected challenges of environmental degradation, climate change, and socio-economic vulnerabilities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-integrated-nature-climate-and-livelihood-resilience-program/",
+   "updatedAt": "2026-09-28"
+  }
  }
 ]
