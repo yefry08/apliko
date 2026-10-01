@@ -23,6 +23,7 @@ npm run data:import
 | `data/raw/becas.json` | Becas revisadas a mano, cada una con su enlace oficial y su fecha de cierre cuando existe. |
 | `data/raw/financiamiento.json` | Fondos, premios y convocatorias revisados a mano. |
 | `data/raw/startups.json` | Fondos públicos para startups y pymes, de la base "Grant Programs Database" (Notion). Sin fechas fijas: continuas o según convocatoria. |
+| `data/raw/ea-oportunidades.json` | Fellowships, pasantías, cursos, fondos y voluntariados del EA Opportunities Board (effectivealtruism.org/opportunities), sin los empleos. Viene del JSON que la página incluye; los fondos van a "Fondos y premios" y los voluntariados a "Voluntariado". |
 | `data/raw/voluntariado.json` | Proyectos del Cuerpo Europeo de Solidaridad. La lista de origen no trae un enlace por proyecto; todos llevan al buscador oficial. |
 
 El estado de cada oportunidad (abierta, cierra pronto, cerrada…) se calcula con la fecha de hoy en hora de RD. Las páginas se regeneran cada hora.

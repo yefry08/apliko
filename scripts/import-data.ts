@@ -462,6 +462,96 @@ function readStartups(): Opportunity[] {
   });
 }
 
+interface EaRow {
+  title: string;
+  organization: string;
+  types: string[];
+  causeAreas: string[];
+  location: string;
+  locationFilter: string[];
+  deadline: string | null;
+  pay: string | null;
+  link: string;
+  description: string;
+}
+
+const EA_TYPE_ES: Record<string, string> = {
+  Fellowship: "Fellowship", Internship: "Pasantía", Course: "Curso", Event: "Evento", Funding: "Fondos",
+  Volunteer: "Voluntariado", Contest: "Concurso", Advising: "Asesoría", "Independent project": "Proyecto independiente",
+  "Full-time": "Tiempo completo", "Part-time": "Medio tiempo",
+};
+
+// Worded so lib/areas.ts files each cause in a folder (Salud, Clima, Política, Diplomacia…).
+const EA_CAUSE_ES: Record<string, string> = {
+  "AI safety & policy": "Seguridad de la IA y políticas",
+  "Building effective altruism": "Altruismo eficaz",
+  "Global health & development": "Salud global y desarrollo",
+  "Animal welfare": "Bienestar animal",
+  "Biosecurity & pandemic preparedness": "Bioseguridad y salud pública",
+  "Institutional decision-making": "Gobernanza y decisiones institucionales",
+  "International security & cooperation": "Seguridad y relaciones internacionales",
+  "Global priorities research": "Investigación de prioridades globales",
+  "Information security": "Seguridad informática",
+  "Nuclear security": "Seguridad nuclear",
+  "Climate change": "Cambio climático",
+  "Mental health & wellbeing": "Salud mental y bienestar",
+  "Global catastrophic risks": "Riesgos catastróficos globales",
+  "Other (pressing)": "Otros problemas urgentes",
+  "All cause areas": "Todas las causas",
+};
+
+const EA_PLACE_ES: Record<string, string> = {
+  Remote: "En línea", USA: "Estados Unidos", "Europe (excluding UK)": "Europa", "Australia & Oceania": "Australia",
+  "South America": "Latinoamérica y el Caribe", "Central America & Caribbean": "Latinoamérica y el Caribe",
+  "Middle East": "Medio Oriente", Mexico: "México", Canada: "Canadá", Singapore: "Singapur", "South Africa": "Sudáfrica",
+  "Czech Republic": "República Checa", "New Zealand": "Nueva Zelanda", Vietnam: "Vietnam", Nigeria: "Nigeria",
+  Uganda: "Uganda", "Burkina Faso": "Burkina Faso", Liberia: "Liberia", India: "India", Asia: "Asia", Africa: "África",
+};
+
+/**
+ * Becas, pasantías, cursos, fondos y voluntariados del EA Opportunities Board
+ * (data/raw/ea-oportunidades.json, sin los empleos). El tipo decide en qué categoría cae.
+ */
+function readEa(): Opportunity[] {
+  const file = path.join(RAW, "ea-oportunidades.json");
+  if (!existsSync(file)) return [];
+  const rows = JSON.parse(readFileSync(file, "utf8")) as EaRow[];
+  return rows.map((r) => {
+    const has = (t: string) => r.types.includes(t);
+    const source: Opportunity["source"] =
+      has("Fellowship") || has("Internship") || has("Course") ? "becas"
+        : has("Funding") || has("Contest") ? "financiamiento"
+          : has("Volunteer") ? "voluntariado"
+            : "becas";
+    // Generic titles ("Volunteer", "Fellowship") need the organization to mean anything.
+    const generic = r.title.length <= 30 && !r.organization.split(/[\s,()]+/).some((w) => w.length > 3 && r.title.includes(w));
+    const name = generic && r.organization ? `${r.title} · ${r.organization}` : r.title;
+    const slug = slugify(name);
+    const places = [...new Set(r.locationFilter.map((l) => EA_PLACE_ES[l] ?? COUNTRY_ES[l] ?? l))];
+    return {
+      id: `ea-${slug}`,
+      slug,
+      name,
+      sponsor: r.organization || undefined,
+      source,
+      sourceName: "EA Opportunities Board (effectivealtruism.org)",
+      types: translate(EA_TYPE_ES, r.types),
+      areas: translate(EA_CAUSE_ES, r.causeAreas),
+      levels: [],
+      destinations: places.length ? places : ["Mundial"],
+      funding: "varia",
+      amount: r.pay ? `Pago: ${r.pay}` : undefined,
+      citizenship: "ver-notas",
+      citizenshipRaw: r.location ? `Ubicación: ${r.location}. Revisa los requisitos en la convocatoria.` : "Revisa los requisitos en la convocatoria.",
+      deadline: r.deadline ? { kind: "exacta", date: r.deadline } : { kind: "por-confirmar", label: "Sin fecha de cierre publicada" },
+      notes: r.description || undefined,
+      url: r.link,
+      applyUrl: r.link,
+      updatedAt: "2026-10-01",
+    } satisfies Opportunity;
+  });
+}
+
 function main() {
   // De los feeds RSS (scripts/ingest_rss.py) solo entran las candidatas aprobadas.
   const rssFile = path.join(process.cwd(), "data", "rss", "candidates.json");
@@ -470,7 +560,7 @@ function main() {
         .filter((c) => c.estado === "aprobada")
         .map((c) => c.oportunidad)
     : [];
-  const all = [...readInternational(), ...readBecas(), ...readFinanciamiento(), ...readStartups(), ...readVoluntariado(), ...approved];
+  const all = [...readInternational(), ...readBecas(), ...readFinanciamiento(), ...readStartups(), ...readVoluntariado(), ...readEa(), ...approved];
   const seen = new Set<string>();
   const unique = all.filter((o) => {
     let slug = o.slug;
