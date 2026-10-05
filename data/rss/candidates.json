@@ -2971,5 +2971,1274 @@
    "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-integrated-nature-climate-and-livelihood-resilience-program/",
    "updatedAt": "2026-09-28"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93843",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/05/tomorrows-leaders-program-2027-2028-fully-funded-undergraduate-scholarship-for-students-from-the-middle-east-and-north-africa/",
+  "title": "Tomorrow’s Leaders Program 2027–2028: Fully Funded Undergraduate Scholarship for Students from the Middle East and North Africa",
+  "publishedAt": "2026-10-05T10:51:33+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-tomorrow-s-leaders-program-2027-2028",
+   "slug": "tomorrow-s-leaders-program-2027-2028",
+   "name": "Tomorrow’s Leaders Program 2027–2028",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "secundaria",
+    "pregrado",
+    "maestria",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-18"
+   },
+   "notes": "Applications are now open for the Tomorrow’s Leaders Program 2027–2028 , a prestigious undergraduate scholarship and leadership development programme sponsored by the U.S. Department of State’s Middle East Partnership Initiative (MEPI) .",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/tomorrows-leaders-program-2027-2028-fully-funded-undergraduate-scholarship-for-students-from-the-middle-east-and-north-africa/",
+   "applyUrl": "https://fhi360.govfa.net/wf/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InYyIn0.eyJ3b3JrZmxvd1Nlc3Npb25JZCI6ImI5ZDczY2UxLTg5ZGMtNDI1Yi04MjVhLTM5MzIzODQ5YmQ4MiIsIm5vbmNlIjoiWVpuZzlud1ROeGc5SVZjNE9DcTZaYXdoemE1NzBYemUlM0FjMGJiZThjNDQ0Zjk4ZmI0YmUwYThhOThmMWQyYjdmMiIsImV2ZW50IjoiZm9ybS52aWV3LmRpc3BsYXkiLCJleHBpcmVzIjoxNzk4OTcyMTE4fQ.t0f-hcv3jr2kFqGsujzpcT9jFOmBsk1-LqhTjqBavoo",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93836",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/05/columbia-climate-school/",
+  "title": "Columbia Climate School Postdoctoral Research Program 2027: Fully Funded Opportunity for Climate and Sustainable Development Researchers",
+  "publishedAt": "2026-10-05T08:25:05+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-columbia-climate-school-postdoctoral-research-program-2027",
+   "slug": "columbia-climate-school-postdoctoral-research-program-2027",
+   "name": "Columbia Climate School Postdoctoral Research Program 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship",
+    "Investigación"
+   ],
+   "areas": [
+    "Medio ambiente",
+    "Ciencias",
+    "Artes"
+   ],
+   "levels": [
+    "doctorado",
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "visa support for international applicants the program is open to both u",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-30"
+   },
+   "notes": "Applications are now open for the Columbia Climate School Postdoctoral Research Program 2027 , a prestigious research opportunity at Columbia University in the City of New York for outstanding early-career researchers committed to advancing knowledge and practical solutions related to climate change, sustainability, en",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/columbia-climate-school/",
+   "applyUrl": "https://www.climate.columbia.edu/postdoctoral-research-program",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93833",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/05/ejs-center/",
+  "title": "EJS Center Seeks Director of Research, Knowledge & Archives to Advance African Women’s Leadership",
+  "publishedAt": "2026-10-05T08:11:25+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo; no admite dominicanos (e to facilitate meaningful use of the center’s collections by groups including: african researchers; students; oral historians; and community advocates).",
+  "oportunidad": {
+   "id": "rss-ejs-center-seeks-director-of-research-knowledge-archives-to-advance-african-wome",
+   "slug": "ejs-center-seeks-director-of-research-knowledge-archives-to-advance-african-wome",
+   "name": "EJS Center Seeks Director of Research, Knowledge & Archives to Advance African Women’s Leadership",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Políticas públicas"
+   ],
+   "levels": [
+    "doctorado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "e to facilitate meaningful use of the center’s collections by groups including: african researchers; students; oral historians; and community advocates",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Ellen Johnson Sirleaf Presidential Center for Women and Development (EJS Center) is seeking an experienced research and knowledge leader to join its team as Director of Research, Knowledge & Archives .",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/ejs-center/",
+   "applyUrl": "https://ejscenter.bamboohr.com/careers/48",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93821",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/05/swarovski-foundation-creatives-for-our-future-2026-global-grant-and-education-programme-for-young-creatives-advancing-the-sustainable-development-goals/",
+  "title": "Swarovski Foundation Creatives for Our Future 2026: Global Grant and Education Programme for Young Creatives Advancing the Sustainable Development Goals",
+  "publishedAt": "2026-10-05T05:33:46+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-swarovski-foundation-creatives-for-our-future-2026",
+   "slug": "swarovski-foundation-creatives-for-our-future-2026",
+   "name": "Swarovski Foundation Creatives for Our Future 2026",
+   "sponsor": "Swarovski Foundation, in collaboration with the United Nations Office for Partnerships,",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Ingeniería",
+    "Tecnología",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "the programme is open to creatives from around the world , making it a global opportunity for emerging professionals working across a variety of creative an",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-09"
+   },
+   "notes": "The Swarovski Foundation, in collaboration with the United Nations Office for Partnerships, is inviting applications for the next edition of the Creatives for Our Future programme, a global initiative designed to identify, support, educate and accelerate the next generation of creative changemakers working toward susta",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/swarovski-foundation-creatives-for-our-future-2026-global-grant-and-education-programme-for-young-creatives-advancing-the-sustainable-development-goals/",
+   "applyUrl": "https://creatives.swarovskifoundation.org/application",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93827",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/05/4th-youth-leadership-award/",
+  "title": "4th Youth Leadership & Innovation Award for Migration 2026: Seed Funding, Mentorship and Global Visibility for Youth-Led Migration Solutions",
+  "publishedAt": "2026-10-05T05:20:46+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-4th-youth-leadership-innovation-award-for-migration-2026",
+   "slug": "4th-youth-leadership-innovation-award-for-migration-2026",
+   "name": "4th Youth Leadership & Innovation Award for Migration 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Economía",
+    "Migración"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-10"
+   },
+   "notes": "Applications are now open for the 4th Youth Leadership & Innovation Award for Migration (YLIA) 2026 , a global initiative supporting young people who are already developing and implementing practical solutions to migration-related challenges.",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/4th-youth-leadership-award/",
+   "applyUrl": "https://mycpglobal.org/get-involved/ylia-4",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=64144",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/05/national-scholarship-programme-of-the-slovak-republic-2025-2026-study-research-and-create-in-slovakia/",
+  "title": "Slovakia National Scholarship Programme 2026/2027: Apply for Study, PhD, Research and Academic Mobility Scholarships",
+  "publishedAt": "2026-10-05T03:57:29+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "aprobada",
+  "motivo": "Aprobada sola: beca abierta a dominicanos, cierra el 2026-10-31.",
+  "oportunidad": {
+   "id": "rss-slovakia-national-scholarship-programme-2026-2027",
+   "slug": "slovakia-national-scholarship-programme-2026-2027",
+   "name": "Slovakia National Scholarship Programme 2026/2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Economía",
+    "Medio ambiente",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "citizens of countries around the world, except citizens of slovakia, may apply provided they satisfy the applicable eligibility requiremen",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-31"
+   },
+   "notes": "The National Scholarship Programme of the Slovak Republic (NSP) 2026/2027 is providing international students, PhD students, university teachers, researchers and artists with an opportunity to undertake a scholarship stay in Slovakia.",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/national-scholarship-programme-of-the-slovak-republic-2025-2026-study-research-and-create-in-slovakia/",
+   "applyUrl": "https://www.scholarships.sk/en/main/submit-application",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=33623",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/05/council-of-foreign-relations-many-spring-2024-internship-programs-available/",
+  "title": "Paid Internships at the Council on Foreign Relations, USA",
+  "publishedAt": "2026-10-05T01:35:57+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "aprobada",
+  "motivo": "Aprobada sola: internship abierta a dominicanos, cierra el 2026-10-11.",
+  "oportunidad": {
+   "id": "rss-paid-internships-at-the-council-on-foreign-relations-usa",
+   "slug": "paid-internships-at-the-council-on-foreign-relations-usa",
+   "name": "Paid Internships at the Council on Foreign Relations, USA",
+   "sponsor": "Council on Foreign Relations (CFR) Blavatnik Internship Program Spring 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Internship"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Artes"
+   ],
+   "levels": [
+    "secundaria",
+    "pregrado",
+    "maestria",
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "rrently enrolled undergraduate and graduate students; eligible recent graduates international students: eligible with valid u",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-11"
+   },
+   "notes": "The Council on Foreign Relations (CFR) Blavatnik Internship Program Spring 2027 is now accepting applications for paid internships in New York, Washington, DC, and selected remote positions.",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/council-of-foreign-relations-many-spring-2024-internship-programs-available/",
+   "applyUrl": "https://careers-cfr.icims.com/jobs/3026/cfr-internship-program-spring-2027/job?mode=view&amp%3Bmobile=false&amp%3Bwidth=769&amp%3Bheight=500&amp%3Bbga=true&amp%3BneedsRedirect=false&amp%3Bjan1offset=-300&amp%3Bjun1offset=-240",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93802",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/04/university-of-cambridge-biosciences-dtp-phd-programme-2027-fully-funded-phd-scholarship-for-international-students/",
+  "title": "University of Cambridge Biosciences DTP PhD Programme 2027: Fully Funded PhD Scholarship for International Students",
+  "publishedAt": "2026-10-04T13:47:57+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "aprobada",
+  "motivo": "Aprobada sola: beca abierta a dominicanos, cierra el 2026-12-08.",
+  "oportunidad": {
+   "id": "rss-university-of-cambridge-biosciences-dtp-phd-programme-2027",
+   "slug": "university-of-cambridge-biosciences-dtp-phd-programme-2027",
+   "name": "University of Cambridge Biosciences DTP PhD Programme 2027",
+   "sponsor": "University of Cambridge Biosciences Doctoral Training Programme (DTP) PhD Programme 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Tecnología",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "doctorado"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "however, the number of places available to international students is limited, making it important for prospective applicants to prepare strong applications and submi",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-08"
+   },
+   "notes": "The University of Cambridge Biosciences Doctoral Training Programme (DTP) PhD Programme 2027 is now accepting applications from prospective doctoral students interested in pursuing advanced research in biological sciences in the United Kingdom.",
+   "url": "https://opportunitiesforyouth.org/2026/10/04/university-of-cambridge-biosciences-dtp-phd-programme-2027-fully-funded-phd-scholarship-for-international-students/",
+   "applyUrl": "https://bbsrcdtp.lifesci.cam.ac.uk/how-apply",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93796",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/",
+  "title": "Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voice for Community Change",
+  "publishedAt": "2026-10-04T08:11:09+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-aspen-healthy-communities-fellowship-2027",
+   "slug": "aspen-healthy-communities-fellowship-2027",
+   "name": "Aspen Healthy Communities Fellowship 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Salud",
+    "Tecnología"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-30"
+   },
+   "notes": "The Aspen Healthy Communities Fellowship 2027 offers a structured opportunity to strengthen the leadership, communication and advocacy behind community health initiatives.",
+   "url": "https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/",
+   "applyUrl": "https://www.aspenglobalinnovators.org/en/programs/healthy-communities-fellowship/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93792",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/04/mit-solve-global-challenges-2027-open-with-over-usd-1-million-in-prize-funding-and-nine-months-of-support/",
+  "title": "MIT Solve Global Challenges 2027 Open with Over USD 1 Million in Prize Funding and Nine Months of Support",
+  "publishedAt": "2026-10-04T07:59:39+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-mit-solve-global-challenges-2027-open-with-over-usd-1-million-in-prize-funding-a",
+   "slug": "mit-solve-global-challenges-2027-open-with-over-usd-1-million-in-prize-funding-a",
+   "name": "MIT Solve Global Challenges 2027 Open with Over USD 1 Million in Prize Funding and Nine Months of Support",
+   "sponsor": "MIT Solve",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship",
+    "Premio"
+   ],
+   "areas": [
+    "Salud",
+    "Tecnología",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "parcial",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-02"
+   },
+   "notes": "MIT Solve is accepting applications for its 2027 Global Challenges , offering technology-based solutions a pathway to funding, expert support, and partnerships. The current round covers climate, economic prosperity, health, and learning, alongside the 2027 Indigenous Communities Fellowship .",
+   "url": "https://opportunitiesforyouth.org/2026/10/04/mit-solve-global-challenges-2027-open-with-over-usd-1-million-in-prize-funding-and-nine-months-of-support/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communities-2/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communities-2/",
+  "title": "A Sample Grant Proposals On “Digital Inclusion for Rural and Low-Income Communities”",
+  "publishedAt": "2026-10-05T06:33:39+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communiti",
+   "slug": "a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communiti",
+   "name": "A Sample Grant Proposals On “Digital Inclusion for Rural and Low-Income Communities”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Economía",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Digital inclusion refers to the efforts made to ensure that all individuals, regardless of their socioeconomic status, geographic location, or technological proficiency, have access to digital technologies and the internet.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communities-2/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-agroforestry-for-sustainable-rural-livelihoods/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-agroforestry-for-sustainable-rural-livelihoods/",
+  "title": "A Sample Grant Proposals On “ Agroforestry for Sustainable Rural Livelihoods”",
+  "publishedAt": "2026-10-05T05:24:56+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-agroforestry-for-sustainable-rural-livelihoods",
+   "slug": "a-sample-grant-proposals-on-agroforestry-for-sustainable-rural-livelihoods",
+   "name": "A Sample Grant Proposals On “ Agroforestry for Sustainable Rural Livelihoods”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Agroforestry is an integrated approach that combines agriculture and forestry practices to create more sustainable land-use systems. This method not only enhances biodiversity but also improves soil health, increases crop yields, and provides additional income sources for rural communities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-agroforestry-for-sustainable-rural-livelihoods/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-coastal-ecosystem-restoration-and-community-livelihoods-project/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-coastal-ecosystem-restoration-and-community-livelihoods-project/",
+  "title": "A Sample Grant Proposals On “ Coastal Ecosystem Restoration and Community Livelihoods Project”",
+  "publishedAt": "2026-10-05T05:24:39+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-coastal-ecosystem-restoration-and-community-liveliho",
+   "slug": "a-sample-grant-proposals-on-coastal-ecosystem-restoration-and-community-liveliho",
+   "name": "A Sample Grant Proposals On “ Coastal Ecosystem Restoration and Community Livelihoods Project”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Coastal ecosystems, such as mangroves, salt marshes, and coral reefs, play a crucial role in maintaining environmental balance and supporting local communities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-coastal-ecosystem-restoration-and-community-livelihoods-project/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/empowering-women-farmers-sample-grant-proposal-for-climate-resilience/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/empowering-women-farmers-sample-grant-proposal-for-climate-resilience/",
+  "title": "A Sample Grant Proposals“ On Empowering Women Farmers: Sample Grant Proposal for Climate Resilience”",
+  "publishedAt": "2026-10-05T05:16:38+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-empowering-women-farmers",
+   "slug": "a-sample-grant-proposals-on-empowering-women-farmers",
+   "name": "A Sample Grant Proposals“ On Empowering Women Farmers",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Empowering women farmers is crucial for achieving sustainable agricultural practices and enhancing food security globally. Women play a significant role in agriculture, contributing to food production, processing, and marketing.",
+   "url": "https://www.fundsforngos.org/all-proposals/empowering-women-farmers-sample-grant-proposal-for-climate-resilience/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-digital-tools-for-improving-access-to-public-services/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-tools-for-improving-access-to-public-services/",
+  "title": "A Sample Grant Proposals On“ Digital Tools for Improving Access to Public Services ”",
+  "publishedAt": "2026-10-05T05:12:52+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-digital-tools-for-improving-access-to-public-service",
+   "slug": "a-sample-grant-proposals-on-digital-tools-for-improving-access-to-public-service",
+   "name": "A Sample Grant Proposals On“ Digital Tools for Improving Access to Public Services ”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In today’s fast-paced world, the integration of digital tools into public service access has become increasingly essential. These tools not only streamline processes but also enhance the overall experience for citizens seeking assistance.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-tools-for-improving-access-to-public-services/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-financial-literacy-and-digital-skills-for-women/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-financial-literacy-and-digital-skills-for-women/",
+  "title": "A Sample Grant Proposals On“ Financial Literacy and Digital Skills for Women”",
+  "publishedAt": "2026-10-05T05:12:40+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-financial-literacy-and-digital-skills-for-women",
+   "slug": "a-sample-grant-proposals-on-financial-literacy-and-digital-skills-for-women",
+   "name": "A Sample Grant Proposals On“ Financial Literacy and Digital Skills for Women”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In today’s rapidly evolving world, financial literacy and digital skills are essential tools for empowerment, especially for women. These skills not only enhance personal and professional growth but also contribute to broader economic stability and equality.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-financial-literacy-and-digital-skills-for-women/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-telehealth-access-for-underserved-rural-communities/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-telehealth-access-for-underserved-rural-communities/",
+  "title": "A Sample Grant Proposals On“ Telehealth Access for Underserved Rural Communities”",
+  "publishedAt": "2026-10-05T05:08:56+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-telehealth-access-for-underserved-rural-communities",
+   "slug": "a-sample-grant-proposals-on-telehealth-access-for-underserved-rural-communities",
+   "name": "A Sample Grant Proposals On“ Telehealth Access for Underserved Rural Communities”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Telehealth has emerged as a transformative force in healthcare, particularly for rural communities that often face significant barriers to accessing medical services.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-telehealth-access-for-underserved-rural-communities/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-maternal-and-child-health-awareness-initiative/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-maternal-and-child-health-awareness-initiative/",
+  "title": "A Sample Grant Proposals On“ Maternal and Child Health Awareness Initiative”",
+  "publishedAt": "2026-10-05T05:08:39+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-maternal-and-child-health-awareness-initiative",
+   "slug": "a-sample-grant-proposals-on-maternal-and-child-health-awareness-initiative",
+   "name": "A Sample Grant Proposals On“ Maternal and Child Health Awareness Initiative”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Maternal and Child Health Awareness Initiative is designed to tackle pressing health issues that affect mothers and children, particularly in underserved communities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-maternal-and-child-health-awareness-initiative/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/world-habitat-day-2026-funding-opportunities-for-housing-homelessness-and-sustainable-cities/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/world-habitat-day-2026-funding-opportunities-for-housing-homelessness-and-sustainable-cities/",
+  "title": "World Habitat Day 2026: Funding Opportunities for Housing, Homelessness and Sustainable Cities",
+  "publishedAt": "2026-10-05T04:50:22+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-world-habitat-day-2026",
+   "slug": "world-habitat-day-2026",
+   "name": "World Habitat Day 2026",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "[October 2026] World Habitat Day 2026, observed on 5 October, highlights the importance of adequate housing, sustainable urban development, inclusive communities, and resilient human settlements.",
+   "url": "https://www.fundsforngos.org/how-to-apply/world-habitat-day-2026-funding-opportunities-for-housing-homelessness-and-sustainable-cities/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-plastic-waste-reduction-through-community-recycling/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-plastic-waste-reduction-through-community-recycling/",
+  "title": "A Sample Grant Proposals On“ Plastic Waste Reduction Through Community Recycling”",
+  "publishedAt": "2026-10-05T04:15:52+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-plastic-waste-reduction-through-community-recycling",
+   "slug": "a-sample-grant-proposals-on-plastic-waste-reduction-through-community-recycling",
+   "name": "A Sample Grant Proposals On“ Plastic Waste Reduction Through Community Recycling”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "So, you’re wondering what a grant proposal for a plastic waste reduction project actually looks like? Good question!",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-plastic-waste-reduction-through-community-recycling/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-community-coding-and-digital-skills-centers/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-community-coding-and-digital-skills-centers/",
+  "title": "A Sample Grant Proposals On“ Community Coding and Digital Skills Centers”",
+  "publishedAt": "2026-10-05T04:15:44+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-community-coding-and-digital-skills-centers",
+   "slug": "a-sample-grant-proposals-on-community-coding-and-digital-skills-centers",
+   "name": "A Sample Grant Proposals On“ Community Coding and Digital Skills Centers”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "So, you’re wondering what a grant proposal for a community coding and digital skills center actually looks like? Think of it as a detailed plan explaining why your center is a great idea, what it will do, and why a funder should invest in it. It’s not about flowery language, but about presenting a solid,...",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-community-coding-and-digital-skills-centers/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-agroecology-training-for-smallholder-farmers/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-agroecology-training-for-smallholder-farmers/",
+  "title": "A Sample Grant proposals On“ Agroecology Training for Smallholder Farmers”",
+  "publishedAt": "2026-10-05T04:15:39+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-agroecology-training-for-smallholder-farmers",
+   "slug": "a-sample-grant-proposals-on-agroecology-training-for-smallholder-farmers",
+   "name": "A Sample Grant proposals On“ Agroecology Training for Smallholder Farmers”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "So, you’re looking at putting together a grant proposal for an agroecology training program for smallholder farmers? That’s a fantastic initiative!",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-agroecology-training-for-smallholder-farmers/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-digital-market-linkages-for-smallholder-farmers/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-market-linkages-for-smallholder-farmers/",
+  "title": "A Sample Grant Proposals On“ Digital Market Linkages for Smallholder Farmers”",
+  "publishedAt": "2026-10-05T04:14:52+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-digital-market-linkages-for-smallholder-farmers",
+   "slug": "a-sample-grant-proposals-on-digital-market-linkages-for-smallholder-farmers",
+   "name": "A Sample Grant Proposals On“ Digital Market Linkages for Smallholder Farmers”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "So, you’re curious about what a grant proposal for “Digital Market Linkages for Smallholder Farmers” might actually look like? Think of it as a blueprint, a detailed plan explaining how technology can help farmers connect directly with buyers, cut out middlemen, and ultimately earn more.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-market-linkages-for-smallholder-farmers/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-career-readiness-and-employability-skills-for-young-adults/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-career-readiness-and-employability-skills-for-young-adults/",
+  "title": "A Sample Grant Proposals On“ Career Readiness and Employability Skills for Young Adults”",
+  "publishedAt": "2026-10-05T04:14:49+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-career-readiness-and-employability-skills-for-young-",
+   "slug": "a-sample-grant-proposals-on-career-readiness-and-employability-skills-for-young-",
+   "name": "A Sample Grant Proposals On“ Career Readiness and Employability Skills for Young Adults”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "So, you’re wondering what a grant proposal for a program focused on career readiness and employability skills for young adults actually looks like? At its core, it’s a detailed plan that shows a potential funder exactly what you want to do, why it’s important, how you’ll do it, and what impact it will have. Think...",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-career-readiness-and-employability-skills-for-young-adults/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-skills-training-for-women-returning-to-the-workforce/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-skills-training-for-women-returning-to-the-workforce/",
+  "title": "A Sample Grant Proposals On“ Skills Training for Women Returning to the Workforce”",
+  "publishedAt": "2026-10-05T04:14:28+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-skills-training-for-women-returning-to-the-workforce",
+   "slug": "a-sample-grant-proposals-on-skills-training-for-women-returning-to-the-workforce",
+   "name": "A Sample Grant Proposals On“ Skills Training for Women Returning to the Workforce”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Thinking about applying for a grant to help women get back into the workforce after a break? It’s a fantastic idea, and successful grant proposals often focus on clear needs, practical solutions, and measurable outcomes.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-skills-training-for-women-returning-to-the-workforce/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-open-digital-solutions-for-community-development/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-open-digital-solutions-for-community-development/",
+  "title": "A Sample Grant Proposals On“ Open Digital Solutions for Community Development”",
+  "publishedAt": "2026-10-01T08:51:35+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-open-digital-solutions-for-community-development",
+   "slug": "a-sample-grant-proposals-on-open-digital-solutions-for-community-development",
+   "name": "A Sample Grant Proposals On“ Open Digital Solutions for Community Development”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "When it comes to understanding the complexities of human behavior, one question often arises: what drives people to make the choices they do? This inquiry spans various fields, from psychology to sociology, and even economics.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-open-digital-solutions-for-community-development/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-technology-skills-for-sustainable-livelihoods/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-technology-skills-for-sustainable-livelihoods/",
+  "title": "A Sample Grant proposals On“ Technology Skills for Sustainable Livelihoods”",
+  "publishedAt": "2026-10-01T08:51:28+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-technology-skills-for-sustainable-livelihoods",
+   "slug": "a-sample-grant-proposals-on-technology-skills-for-sustainable-livelihoods",
+   "name": "A Sample Grant proposals On“ Technology Skills for Sustainable Livelihoods”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "When it comes to understanding the complexities of human behavior, one question often arises: what drives people to make the choices they do? This inquiry spans various fields, from psychology to sociology, and even economics.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-technology-skills-for-sustainable-livelihoods/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-ai-and-digital-tools-for-nonprofit-organizations/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-ai-and-digital-tools-for-nonprofit-organizations/",
+  "title": "A Sample Grant Proposals On“ AI and Digital Tools for Nonprofit Organizations”",
+  "publishedAt": "2026-10-01T08:51:15+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-ai-and-digital-tools-for-nonprofit-organizations",
+   "slug": "a-sample-grant-proposals-on-ai-and-digital-tools-for-nonprofit-organizations",
+   "name": "A Sample Grant Proposals On“ AI and Digital Tools for Nonprofit Organizations”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "When it comes to understanding the complexities of human behavior, one question often arises: what drives people to act the way they do? This inquiry spans various fields, from psychology to sociology, and even philosophy.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-ai-and-digital-tools-for-nonprofit-organizations/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communities/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communities/",
+  "title": "A Sample Grant Proposals On“ Digital Inclusion for Rural and Low-Income Communities”",
+  "publishedAt": "2026-10-01T08:51:05+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communiti",
+   "slug": "a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communiti",
+   "name": "A Sample Grant Proposals On“ Digital Inclusion for Rural and Low-Income Communities”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "When it comes to choosing the right type of flooring for your home, the options can feel overwhelming. From hardwood to laminate, tile to carpet, each material has its own set of advantages and disadvantages. The best choice often depends on your lifestyle, budget, and aesthetic preferences.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-inclusion-for-rural-and-low-income-communities/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-digital-safety-and-online-skills-for-adolescent-girls/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-safety-and-online-skills-for-adolescent-girls/",
+  "title": "A Sample Grant Proposals On“ Digital Safety and Online Skills for Adolescent Girls”",
+  "publishedAt": "2026-10-01T08:50:49+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-digital-safety-and-online-skills-for-adolescent-girl",
+   "slug": "a-sample-grant-proposals-on-digital-safety-and-online-skills-for-adolescent-girl",
+   "name": "A Sample Grant Proposals On“ Digital Safety and Online Skills for Adolescent Girls”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "En línea"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "When it comes to choosing the right type of flooring for your home, the options can feel overwhelming. From hardwood to laminate, tile to carpet, each material has its own set of advantages and disadvantages. The best choice often depends on your lifestyle, budget, and aesthetic preferences.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-digital-safety-and-online-skills-for-adolescent-girls/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposals-on-women-farmers-access-to-climate-information/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-women-farmers-access-to-climate-information/",
+  "title": "A Sample Grant Proposals On“ Women Farmers’ Access to Climate Information”",
+  "publishedAt": "2026-10-01T08:50:36+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposals-on-women-farmers-access-to-climate-information",
+   "slug": "a-sample-grant-proposals-on-women-farmers-access-to-climate-information",
+   "name": "A Sample Grant Proposals On“ Women Farmers’ Access to Climate Information”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "When it comes to understanding the complexities of human behavior, one question often arises: what drives people to make the choices they do? This inquiry spans various fields, from psychology to sociology, and even economics.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-women-farmers-access-to-climate-information/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/applications-open-for-fulbright-visiting-scholar-program-israel/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/applications-open-for-fulbright-visiting-scholar-program-israel/",
+  "title": "Applications open for Fulbright Visiting Scholar Program (Israel)",
+  "publishedAt": "2026-10-01T08:02:58+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-applications-open-for-fulbright-visiting-scholar-program-israel",
+   "slug": "applications-open-for-fulbright-visiting-scholar-program-israel",
+   "name": "Applications open for Fulbright Visiting Scholar Program (Israel)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Israel"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-21"
+   },
+   "notes": "The Fulbright Visiting Scholar Program provides grants to nearly 1,000 foreign scholars from over 100 countries to conduct post-doctoral research at U.S. institutions. The U.S. host academic period can range from an academic semester to a full academic year.",
+   "url": "https://www.fundsforngos.org/how-to-apply/applications-open-for-fulbright-visiting-scholar-program-israel/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/apply-for-fulbright-inter-country-travel-grant-program-denmark/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/apply-for-fulbright-inter-country-travel-grant-program-denmark/",
+  "title": "Apply for Fulbright Inter-Country Travel Grant Program (Denmark)",
+  "publishedAt": "2026-10-01T07:35:32+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-apply-for-fulbright-inter-country-travel-grant-program-denmark",
+   "slug": "apply-for-fulbright-inter-country-travel-grant-program-denmark",
+   "name": "Apply for Fulbright Inter-Country Travel Grant Program (Denmark)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Dinamarca"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Fulbright Denmark participates in the Fulbright Inter-Country Travel Grant Program, which supports U.S. Fulbright Scholars to build professional connections with fellow scholars and institutions in Europe. The program allows Denmark-based higher education institutions to invite U.S.",
+   "url": "https://www.fundsforngos.org/how-to-apply/apply-for-fulbright-inter-country-travel-grant-program-denmark/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda/",
+  "title": "Grant for Skilling Youth Groups in ICT and Multimedia (Uganda)",
+  "publishedAt": "2026-10-01T07:31:12+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda",
+   "slug": "grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda",
+   "name": "Grant for Skilling Youth Groups in ICT and Multimedia (Uganda)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Uganda Communications Commission (UCC), through the Uganda Communications Universal Service and Access Fund (UCUSAF), invites eligible organisations to submit proposals to implement the Youth ICT and Multimedia Skilling Programme for Financial Year 2026/2027.",
+   "url": "https://www.fundsforngos.org/how-to-apply/grant-for-skilling-youth-groups-in-ict-and-multimedia-uganda/",
+   "updatedAt": "2026-10-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/2026-prescott-marine-mammal-rescue-and-response-grant-program-us/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/2026-prescott-marine-mammal-rescue-and-response-grant-program-us/",
+  "title": "2026 Prescott Marine Mammal Rescue and Response Grant Program (US)",
+  "publishedAt": "2026-10-01T07:25:00+00:00",
+  "fetchedAt": "2026-10-05T11:00:13+00:00",
+  "estado": "descartada",
+  "motivo": "Es un boletín o una lista de varias oportunidades.",
+  "oportunidad": {
+   "id": "rss-2026-prescott-marine-mammal-rescue-and-response-grant-program-us",
+   "slug": "2026-prescott-marine-mammal-rescue-and-response-grant-program-us",
+   "name": "2026 Prescott Marine Mammal Rescue and Response Grant Program (US)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The U.S. Department of the Interior’s Fish and Wildlife Service (FWS) offers the F26AS00023 FY2026 Prescott Marine Mammal Rescue and Response Grant Program to support eligible marine mammal stranding participants and stranding network collaborators.",
+   "url": "https://www.fundsforngos.org/how-to-apply/2026-prescott-marine-mammal-rescue-and-response-grant-program-us/",
+   "updatedAt": "2026-10-05"
+  }
  }
 ]

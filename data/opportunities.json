@@ -21669,5 +21669,107 @@
   "url": "https://opportunitiesforyouth.org/2026/09/18/the-open-notebook-career/",
   "applyUrl": "https://www.theopennotebook.com/early-career-fellowship-program/",
   "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "rss-slovakia-national-scholarship-programme-2026-2027",
+  "slug": "slovakia-national-scholarship-programme-2026-2027",
+  "name": "Slovakia National Scholarship Programme 2026/2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Economía",
+   "Medio ambiente",
+   "Educación",
+   "Artes"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "citizens of countries around the world, except citizens of slovakia, may apply provided they satisfy the applicable eligibility requiremen",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-31"
+  },
+  "notes": "The National Scholarship Programme of the Slovak Republic (NSP) 2026/2027 is providing international students, PhD students, university teachers, researchers and artists with an opportunity to undertake a scholarship stay in Slovakia.",
+  "url": "https://opportunitiesforyouth.org/2026/10/05/national-scholarship-programme-of-the-slovak-republic-2025-2026-study-research-and-create-in-slovakia/",
+  "applyUrl": "https://www.scholarships.sk/en/main/submit-application",
+  "updatedAt": "2026-10-05"
+ },
+ {
+  "id": "rss-paid-internships-at-the-council-on-foreign-relations-usa",
+  "slug": "paid-internships-at-the-council-on-foreign-relations-usa",
+  "name": "Paid Internships at the Council on Foreign Relations, USA",
+  "sponsor": "Council on Foreign Relations (CFR) Blavatnik Internship Program Spring 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Internship"
+  ],
+  "areas": [
+   "Políticas públicas",
+   "Artes"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "maestria",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "rrently enrolled undergraduate and graduate students; eligible recent graduates international students: eligible with valid u",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-11"
+  },
+  "notes": "The Council on Foreign Relations (CFR) Blavatnik Internship Program Spring 2027 is now accepting applications for paid internships in New York, Washington, DC, and selected remote positions.",
+  "url": "https://opportunitiesforyouth.org/2026/10/05/council-of-foreign-relations-many-spring-2024-internship-programs-available/",
+  "applyUrl": "https://careers-cfr.icims.com/jobs/3026/cfr-internship-program-spring-2027/job?mode=view&amp%3Bmobile=false&amp%3Bwidth=769&amp%3Bheight=500&amp%3Bbga=true&amp%3BneedsRedirect=false&amp%3Bjan1offset=-300&amp%3Bjun1offset=-240",
+  "updatedAt": "2026-10-05"
+ },
+ {
+  "id": "rss-university-of-cambridge-biosciences-dtp-phd-programme-2027",
+  "slug": "university-of-cambridge-biosciences-dtp-phd-programme-2027",
+  "name": "University of Cambridge Biosciences DTP PhD Programme 2027",
+  "sponsor": "University of Cambridge Biosciences Doctoral Training Programme (DTP) PhD Programme 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Tecnología",
+   "Artes"
+  ],
+  "levels": [
+   "pregrado",
+   "doctorado"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "however, the number of places available to international students is limited, making it important for prospective applicants to prepare strong applications and submi",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-08"
+  },
+  "notes": "The University of Cambridge Biosciences Doctoral Training Programme (DTP) PhD Programme 2027 is now accepting applications from prospective doctoral students interested in pursuing advanced research in biological sciences in the United Kingdom.",
+  "url": "https://opportunitiesforyouth.org/2026/10/04/university-of-cambridge-biosciences-dtp-phd-programme-2027-fully-funded-phd-scholarship-for-international-students/",
+  "applyUrl": "https://bbsrcdtp.lifesci.cam.ac.uk/how-apply",
+  "updatedAt": "2026-10-05"
  }
 ]
