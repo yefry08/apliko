@@ -96,7 +96,8 @@ Cómo encaja:
 
 ## Producción
 
-- Sitio: https://apliko-omega.vercel.app (Vercel, proyecto `apliko`).
+- Sitio: https://aplik0.vercel.app (Vercel, proyecto `apliko`). La dirección anterior, https://apliko-omega.vercel.app,
+  sigue activa. Ambas están en los dominios de confianza de Neon Auth; un dominio nuevo hay que agregarlo ahí también.
 - Código: repositorio privado `yefry08/apliko`. Cada push a `main` despliega solo.
 - Variables de entorno: cargadas en Vercel (Production). `DATABASE_URL` está marcada como sensible.
 - Neon Auth: el dominio de producción está en la lista de dominios de confianza. Si cambias de dominio,
