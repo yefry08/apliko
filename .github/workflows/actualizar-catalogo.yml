@@ -1,0 +1,54 @@
+# Actualiza el catálogo todos los días, en la nube y gratis (GitHub Actions):
+# trae becas nuevas de los feeds RSS y del EA Opportunities Board, regenera
+# data/opportunities.json y, si cambió, lo sube a main. Vercel despliega solo.
+name: Actualizar catálogo
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # 7:00 a. m. en Santo Domingo
+  workflow_dispatch: # botón "Run workflow" para correrlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-catalogo
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Becas nuevas desde RSS
+        run: python scripts/ingest_rss.py --sin-importar
+
+      - name: EA Opportunities Board
+        # Si la página cambia y falla, el resto del catálogo se actualiza igual.
+        run: python scripts/actualizar_ea.py || echo "::warning::No se pudo actualizar el EA Opportunities Board"
+
+      - run: npm run data:import
+
+      - name: Publicar si cambió
+        # El autor es la cuenta de Vercel, para que Vercel despliegue el commit.
+        run: |
+          git add data/opportunities.json data/rss/candidates.json data/raw/ea-oportunidades.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el catálogo."
+            exit 0
+          fi
+          git -c user.name=yefry08 -c user.email=yefrynunez45@gmail.com commit -m "Catálogo actualizado automáticamente"
+          git push

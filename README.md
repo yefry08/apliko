@@ -102,9 +102,12 @@ Cómo encaja:
 - Variables de entorno: cargadas en Vercel (Production). `DATABASE_URL` está marcada como sensible.
 - Neon Auth: el dominio de producción está en la lista de dominios de confianza. Si cambias de dominio,
   agrégalo en Neon > Auth o el acceso con Google/GitHub fallará al volver.
-- Becas nuevas: la tarea programada de Windows "Apliko - becas RSS" corre `scripts/rss-semanal.cmd`
-  los lunes a las 8:00 a. m. Si el catálogo cambia, hace commit de esos dos archivos y push, y Vercel
-  publica. Para desactivar el push automático, borra ese bloque del `.cmd`.
+- Catálogo automático: el workflow `.github/workflows/actualizar-catalogo.yml` corre en GitHub Actions
+  todos los días a las 7:00 a. m. (hora de Santo Domingo). Trae becas nuevas de los feeds RSS
+  (`scripts/ingest_rss.py`) y del EA Opportunities Board (`scripts/actualizar_ea.py`), regenera el
+  catálogo y, si cambió, hace commit y push; Vercel publica. Se puede correr a mano desde la pestaña
+  Actions > "Actualizar catálogo" > "Run workflow". La tarea de Windows "Apliko - becas RSS"
+  (`scripts/rss-semanal.cmd`) hacía lo mismo solo con RSS y solo con la computadora encendida.
 
 ## Pendiente antes de producción
 
