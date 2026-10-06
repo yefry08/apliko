@@ -29,9 +29,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-          cache: npm
-
-      - run: npm ci --no-audit --no-fund
 
       - name: Becas nuevas desde RSS
         run: python scripts/ingest_rss.py --sin-importar
@@ -40,7 +37,9 @@ jobs:
         # Si la página cambia y falla, el resto del catálogo se actualiza igual.
         run: python scripts/actualizar_ea.py || echo "::warning::No se pudo actualizar el EA Opportunities Board"
 
-      - run: npm run data:import
+      # import-data.ts solo usa Node y tipos: basta tsx, sin instalar todo el sitio.
+      - name: Regenerar el catálogo
+        run: npx --yes tsx@4 scripts/import-data.ts
 
       - name: Publicar si cambió
         # El autor es la cuenta de Vercel, para que Vercel despliegue el commit.
