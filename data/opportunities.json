@@ -15631,6 +15631,186 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-wildlife-technology-fund-renaissance-philanthropy",
+  "slug": "wildlife-technology-fund-renaissance-philanthropy",
+  "name": "Wildlife Technology Fund · Renaissance Philanthropy",
+  "sponsor": "Renaissance Philanthropy",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Funding for research and incubation on wildlife technology problems affecting both animal welfare and human interests.\n\n- Rodent fertility control solutions safer, humane, and effective\n- Welfare indicators for wild animals across broad taxonomic groups\n- Wildlife vaccination for diseases affecting animals, people, or livelihoods",
+  "url": "https://wildlifetech.org/",
+  "applyUrl": "https://wildlifetech.org/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-legal-intern-program-for-animals",
+  "slug": "legal-intern-program-for-animals",
+  "name": "Legal Intern, Program for Animals",
+  "sponsor": "Mercy for Animals",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "A paid summer legal internship supporting farmed animal protection work through campaigns, litigation, and policy projects.\n\n- Research federal, state, and local laws and draft memoranda\n- Work directly with attorneys on high-impact legal projects\n- Weekly virtual meetings with supervisors and fellow interns\n- Educational sessions with investigations, campaigns, policy, and organizing teams",
+  "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&source=CC2&lang=en_US&selectedMenuKey=CurrentOpenings&jobId=558569&_ga=2.28751996.1152443147.1791182219-1965807046.1753674741",
+  "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&source=CC2&lang=en_US&selectedMenuKey=CurrentOpenings&jobId=558569&_ga=2.28751996.1152443147.1791182219-1965807046.1753674741",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-wmd-non-proliferation-disarmament-in-an-era-of-technological-convergence",
+  "slug": "wmd-non-proliferation-disarmament-in-an-era-of-technological-convergence",
+  "name": "WMD Non-Proliferation & Disarmament in an Era of Technological Convergence",
+  "sponsor": "Stockholm International Peace Research Institute (SIPRI)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Curso"
+  ],
+  "areas": [
+   "Seguridad y relaciones internacionales",
+   "Seguridad nuclear"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "Suecia"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Stockholm, Sweden. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-19"
+  },
+  "notes": "An intensive online course on WMD non-proliferation and disarmament, exploring technical foundations, governance, and emerging technology risks through expert-led sessions and discussion.\n\n- Scientific foundations of nuclear, chemical, and biological weapons\n- Treaties, institutions, verification, and compliance mechanisms\n- Emerging technologies, technological convergence, and evolving WMD risks\n- Case-based discussions, expert presentations, and direct engagement with instructors",
+  "url": "https://web103.reachmee.com/ext/I021/1690/job?site=7&lang=UK&validator=9c16162aeec1b1c78db51d0c3e4163a1&ref=https%3A%2F%2Fwww.sipri.org%2F&job_id=147",
+  "applyUrl": "https://web103.reachmee.com/ext/I021/1690/job?site=7&lang=UK&validator=9c16162aeec1b1c78db51d0c3e4163a1&ref=https%3A%2F%2Fwww.sipri.org%2F&job_id=147",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-founders-week-coefficient-giving-pivotal-research-london-initiative-for-safe-ai-",
+  "slug": "founders-week-coefficient-giving-pivotal-research-london-initiative-for-safe-ai-",
+  "name": "Founders Week · Coefficient Giving, Pivotal Research, London Initiative for Safe AI (LISA)",
+  "sponsor": "Coefficient Giving, Pivotal Research, London Initiative for Safe AI (LISA)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Evento"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: London, UK. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-12"
+  },
+  "notes": "A five-day programme for aspiring AI safety founders to develop an idea, form a team, and pitch a new organisation plan.\n\n- Meet possible co-founders, founders, researchers, and funders\n- Scope a problem, theory of change, first-year plan, and budget\n- Pitch grantmakers and get written feedback on your proposal\n- Receive follow-on support to develop a full funding proposal",
+  "url": "https://www.joinliftoff.ai/",
+  "applyUrl": "https://www.joinliftoff.ai/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-intern-data-and-campaign-centre-for-future-generations-cfg",
+  "slug": "intern-data-and-campaign-centre-for-future-generations-cfg",
+  "name": "Intern, Data and Campaign · Centre for Future Generations (CFG)",
+  "sponsor": "Centre for Future Generations (CFG)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas",
+   "Gobernanza y decisiones institucionales"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "Bélgica"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Brussels, Belgium. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-13"
+  },
+  "notes": "Entry-level internship supporting campaign planning, evaluation and CRM work around policy research on emerging technologies.\n\n- Design and run evaluations of campaigns, then report what worked\n- Build dashboards and quarterly reporting for the leadership team\n- Draft newsletter, social and website content around publications\n- Maintain CRM records and log engagement across channels",
+  "url": "https://stichtingicfg.bamboohr.com/careers/67",
+  "applyUrl": "https://stichtingicfg.bamboohr.com/careers/67",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-intern-community-and-events-centre-for-future-generations-cfg",
+  "slug": "intern-community-and-events-centre-for-future-generations-cfg",
+  "name": "Intern, Community and Events · Centre for Future Generations (CFG)",
+  "sponsor": "Centre for Future Generations (CFG)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas",
+   "Gobernanza y decisiones institucionales"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "Bélgica"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Brussels, Belgium. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-13"
+  },
+  "notes": "Entry-level internship supporting events and community building for an emerging technology governance think tank.\n\n- Help plan and deliver policy roundtables and large public gatherings\n- Map and connect the people working on technology governance in Europe\n- Learn event logistics, invitations, registration and on-the-day coordination\n- Mentored by a senior communications manager under a structured training plan",
+  "url": "https://stichtingicfg.bamboohr.com/careers/68",
+  "applyUrl": "https://stichtingicfg.bamboohr.com/careers/68",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-fellowship-field-epidemiology-or-public-health-microbiology-cohort-2027",
   "slug": "fellowship-field-epidemiology-or-public-health-microbiology-cohort-2027",
   "name": "Fellowship, Field Epidemiology or Public Health Microbiology (Cohort 2027)",
@@ -16357,35 +16537,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-biosecurity-fellow-popvax",
-  "slug": "biosecurity-fellow-popvax",
-  "name": "Biosecurity Fellow · PopVax",
-  "sponsor": "PopVax",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: London, UK. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "A 3-month biosecurity fellowship supporting the launch of a biotechnology company's biosecurity program and pandemic preparedness work.\n\n- Engage UK biosecurity stakeholders across government, academia, and industry\n- Track AI-enabled biological design and biosecurity developments\n- Assess sequence data sharing and support technical communication\n- Help coordinate program operations and fundraising materials",
-  "url": "https://jobs.popvax.com/41207",
-  "applyUrl": "https://jobs.popvax.com/41207",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-intern-ai-security-research-rand",
   "slug": "intern-ai-security-research-rand",
   "name": "Intern, AI Security Research · RAND",
@@ -16500,35 +16651,6 @@
   "notes": "A structured online course exploring effective altruism ideas and approaches to increasing social impact through guided readings and small-group discussions.\n\n- Weekly readings on global problems and strategies for solving them\n- 1.5-hour facilitated discussions in cohorts of 4–8 participants\n- Designed as a follow-up to the Introductory EA Program\n- Free, global program running over eight weeks",
   "url": "https://www.effectivealtruism.org/courses/in-depth-program",
   "applyUrl": "https://www.effectivealtruism.org/courses/in-depth-program",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-graduate-fellowship-national-nuclear-security-administration-2027",
-  "slug": "graduate-fellowship-national-nuclear-security-administration-2027",
-  "name": "Graduate Fellowship, National Nuclear Security Administration (2027)",
-  "sponsor": "Pacific Northwest National Laboratory",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Seguridad nuclear"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Livermore, CA / Albuquerque, NM / Washington, DC. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "A one-year paid fellowship supporting U.S. national security work across the National Nuclear Security Administration.\n\n- Contribute to nonproliferation, counterproliferation, stockpile management, and national security programs.\n- Gain experience in policy, technical analysis, stakeholder engagement, and program management.\n- Work alongside NNSA offices while receiving structured professional development.",
-  "url": "https://careers.pnnl.gov/jobs/11951?lang=en-us&iis=Job+Board&iisn=LinkedIn",
-  "applyUrl": "https://careers.pnnl.gov/jobs/11951?lang=en-us&iis=Job+Board&iisn=LinkedIn",
   "updatedAt": "2026-10-01"
  },
  {
@@ -16773,64 +16895,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-bootcamp-make-your-high-impact-career-pivot",
-  "slug": "bootcamp-make-your-high-impact-career-pivot",
-  "name": "Bootcamp: Make your high-impact career pivot",
-  "sponsor": "Centre for Effective Altruism (CEA)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-04"
-  },
-  "notes": "A four-day online bootcamp helps experienced professionals clarify high-impact career directions and take concrete next steps.\n\n- Compare cause areas and roles using structured decision frameworks\n- Develop applications, project outlines, networking pitches, or action plans\n- Get advisor feedback, peer accountability, and connections with impact-focused professionals\n- Build momentum toward a high-impact career transition",
-  "url": "https://www.effectivealtruism.org/courses/bootcamp",
-  "applyUrl": "https://www.effectivealtruism.org/courses/bootcamp",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-cbt-lab-program-participant-winter-2026-27-cohort",
-  "slug": "cbt-lab-program-participant-winter-2026-27-cohort",
-  "name": "CBT Lab Program Participant (Winter 2026-27 Cohort)",
-  "sponsor": "Rethink Wellbeing",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Salud mental y bienestar"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-05"
-  },
-  "notes": "A 12-week online CBT program supporting mental wellbeing and productivity through facilitated group practice and evidence-based behavioral techniques.\n- Join weekly 90-minute sessions with 4–6 matched peers\n- Practice CBT tools for anxiety, low mood, procrastination, and related challenges\n- Receive support from trained facilitators and a supervising clinical psychologist\n- Grant funding covers program costs; a refundable attendance deposit applies",
-  "url": "https://forum.effectivealtruism.org/posts/PFsZ4yZnEPJfcWCNk/boost-your-mental-resilience-to-grow-your-impact-attend?utm_campaign=post_share&utm_source=link",
-  "applyUrl": "https://forum.effectivealtruism.org/posts/PFsZ4yZnEPJfcWCNk/boost-your-mental-resilience-to-grow-your-impact-attend?utm_campaign=post_share&utm_source=link",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-odysea-singapore-ai-safety-hub-sash",
   "slug": "odysea-singapore-ai-safety-hub-sash",
   "name": "OdySEA · Singapore AI Safety Hub (SASH)",
@@ -16919,36 +16983,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-trainee-epidemic-intelligence-european-centre-for-disease-prevention-and-control",
-  "slug": "trainee-epidemic-intelligence-european-centre-for-disease-prevention-and-control",
-  "name": "Trainee, Epidemic Intelligence · European Centre for Disease Prevention and Control (ECDC)",
-  "sponsor": "European Centre for Disease Prevention and Control (ECDC)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Europa",
-   "Suecia"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Stockholm, Sweden. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-05"
-  },
-  "notes": "Gain practical experience in epidemic intelligence operations through a five-to-nine-month public health traineeship.\n\n- Join the Epidemic Intelligence Group for real-life operational experience\n- Develop practical knowledge of disease prevention and control work\n- Receive a monthly traineeship grant and travel allowance\n- Work within the EU's public health agency",
-  "url": "https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-epidemic-intelligence-189",
-  "applyUrl": "https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-epidemic-intelligence-189",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-request-for-proposals-project-tailwind",
   "slug": "request-for-proposals-project-tailwind",
   "name": "Request for Proposals: Project Tailwind",
@@ -16975,66 +17009,6 @@
   "notes": "Launch and build an ambitious initiative aimed directly at reducing global catastrophic risks from transformative AI.\n\n- Develop and validate an AI safety initiative with substantial founder autonomy\n- Build a team, articulate a theory of change, and prioritize impact\n- Funding ranges from $200k pre-seed grants to $200m+ at scale\n- International proposals are generally eligible",
   "url": "https://coefficientgiving.org/tailwind/",
   "applyUrl": "https://coefficientgiving.org/tailwind/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-trainee-emergency-preparedness-and-response",
-  "slug": "trainee-emergency-preparedness-and-response",
-  "name": "Trainee, Emergency Preparedness and Response",
-  "sponsor": "European Centre for Disease Prevention and Control (ECDC)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Europa",
-   "Suecia"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Stockholm, Sweden. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-05"
-  },
-  "notes": "Gain practical experience in emergency preparedness and response within a European public health agency’s structured traineeship programme.\n\n- Develop practical knowledge and professional experience\n- Learn how ECDC contributes to EU public health activities\n- Traineeships run for five to nine months\n- Receive a monthly grant and travel allowance",
-  "url": "https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-emergency-preparedness-and-response-190",
-  "applyUrl": "https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-emergency-preparedness-and-response-190",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-trainee-respiratory-viruses-european-centre-for-disease-prevention-and-control-e",
-  "slug": "trainee-respiratory-viruses-european-centre-for-disease-prevention-and-control-e",
-  "name": "Trainee, Respiratory Viruses · European Centre for Disease Prevention and Control (ECDC)",
-  "sponsor": "European Centre for Disease Prevention and Control (ECDC)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Europa",
-   "Suecia"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Stockholm, Sweden. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-05"
-  },
-  "notes": "Gain practical public health experience through a time-limited traineeship focused on respiratory viruses and ECDC’s disease prevention work.\n\n- Develop practical knowledge and professional experience within an EU public health agency\n- Traineeships last five to nine months\n- Receive a monthly grant and travel allowance\n- Applicants must hold a university degree and meet nationality requirements",
-  "url": "https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-respiratory-viruses-196",
-  "applyUrl": "https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-respiratory-viruses-196",
   "updatedAt": "2026-10-01"
  },
  {
@@ -17125,35 +17099,6 @@
   "notes": "Develop and communicate evidence-based tuberculosis health information for education programmes serving affected communities.\n\n- Adapt materials for low-literacy and cross-cultural audiences\n- Create digital, social, video, audio, and one-page health resources\n- Keep public-facing TB information current and accessible\n- Support outreach to health workers, TB programmes, and funders",
   "url": "https://docs.google.com/document/d/17oUuo3wAZXCwpRGoRai-4vd4H8umAQqyxghMEfQw5uU/edit?usp=sharing",
   "applyUrl": "https://docs.google.com/document/d/17oUuo3wAZXCwpRGoRai-4vd4H8umAQqyxghMEfQw5uU/edit?usp=sharing",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-request-for-proposals-launchpad-funds",
-  "slug": "request-for-proposals-launchpad-funds",
-  "name": "Request for Proposals: Launchpad Funds",
-  "sponsor": "Coefficient Giving",
-  "source": "financiamiento",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Salud global y desarrollo"
-  ],
-  "levels": [],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-02"
-  },
-  "notes": "Apply for funding to pilot innovative solutions that advance global health and wellbeing.\n\n- Supports early-stage projects with high potential for impact\n- Open to diverse approaches and disciplines\n- Emphasis on scalable, sustainable interventions\n- Flexible funding for rapid testing and learning",
-  "url": "https://coefficientgiving.org/funds/global-health-wellbeing-opportunities/request-for-proposals-launchpad-funds/",
-  "applyUrl": "https://coefficientgiving.org/funds/global-health-wellbeing-opportunities/request-for-proposals-launchpad-funds/",
   "updatedAt": "2026-10-01"
  },
  {
@@ -17303,36 +17248,6 @@
   "notes": "Explore interventions in commercial pollination and honey production that could improve managed honey bee welfare and farm productivity.\n\n- Research and develop promising intervention ideas\n- Consult experts in beekeeping, entomology, and pollination services\n- Produce internal reports and models to guide prioritization\n- Potentially lead future research or intervention delivery",
   "url": "https://fairerfields.org/careers/2026-research-fellow-managed-honey-bees",
   "applyUrl": "https://fairerfields.org/careers/2026-research-fellow-managed-honey-bees",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-career-planning-course-high-impact-professionals-hip",
-  "slug": "career-planning-course-high-impact-professionals-hip",
-  "name": "Career Planning Course · High Impact Professionals (HIP)",
-  "sponsor": "High Impact Professionals (HIP)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Salud global y desarrollo",
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-04"
-  },
-  "notes": "A six-week online career planning course helps doctors and medical students explore high-impact career paths and identify promising next steps.\n\n- Join weekly small-group sessions with a facilitator\n- Explore career pathways for addressing pressing global health problems\n- Build career planning skills and consider new professional directions",
-  "url": "https://www.highimpactmedicine.org/career-planning",
-  "applyUrl": "https://www.highimpactmedicine.org/career-planning",
   "updatedAt": "2026-10-01"
  },
  {
@@ -17903,36 +17818,6 @@
   "notes": "Support California's AI governance through technical policy advising and scientific analysis.\n\n- Advise on frontier AI policy, safety, and governance issues.\n- Synthesize stakeholder input and contribute legislative reports.\n- Coordinate experts across government, academia, industry, and communities.\n- Support responsible AI adoption in state government.",
   "url": "https://ccst.us/senior-ai-fellow-cdt/",
   "applyUrl": "https://ccst.us/senior-ai-fellow-cdt/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-hi-med-career-planning-course",
-  "slug": "hi-med-career-planning-course",
-  "name": "Hi-Med Career Planning Course",
-  "sponsor": "High Impact Medicine (Hi-Med)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Salud global y desarrollo",
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-04"
-  },
-  "notes": "Explore high-impact medical career pathways through a structured online career planning program for doctors and medical students.\n\n- Join weekly small-group sessions with a facilitator.\n- Explore impactful career paths and effective giving opportunities.\n- Receive personalized career planning guidance and resources.\n- Learn alongside peers interested in global health challenges.",
-  "url": "https://www.highimpactmedicine.org/career-planning",
-  "applyUrl": "https://www.highimpactmedicine.org/career-planning",
   "updatedAt": "2026-10-01"
  },
  {
@@ -18645,8 +18530,8 @@
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Istanbul, Turkey. Revisa los requisitos en la convocatoria.",
   "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
+   "kind": "exacta",
+   "date": "2026-10-24"
   },
   "notes": "Join a community event exploring effective altruism through talks, workshops, and networking for newcomers and experienced members alike.\n\n* Learn core effective altruism concepts and priority cause areas\n* Attend workshops, discussions, and organization fair sessions\n* Connect with peers, mentors, and potential collaborators\n* Explore career, donation, and project opportunities",
   "url": "https://www.effectivealtruism.org/ea-global/events/ea-summit-istanbul",
@@ -21771,5 +21656,138 @@
   "url": "https://opportunitiesforyouth.org/2026/10/04/university-of-cambridge-biosciences-dtp-phd-programme-2027-fully-funded-phd-scholarship-for-international-students/",
   "applyUrl": "https://bbsrcdtp.lifesci.cam.ac.uk/how-apply",
   "updatedAt": "2026-10-05"
+ },
+ {
+  "id": "rss-durham-university-transformative-humanities-phd-studentships-2027",
+  "slug": "durham-university-transformative-humanities-phd-studentships-2027",
+  "name": "Durham University Transformative Humanities PhD Studentships 2027",
+  "sponsor": "The university",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Artes"
+  ],
+  "levels": [
+   "pregrado",
+   "doctorado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "this means the competition is open to both home and international applicants, although the number of awards available to overseas candidates is limited to up to two",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-15"
+  },
+  "notes": "Durham University has announced a competitive funding opportunity for outstanding candidates interested in pursuing doctoral research within the field of Transformative Humanities . The university is offering up to eleven PhD Studentships for candidates beginning their doctoral programmes in October 2027 .",
+  "url": "https://opportunitiesforyouth.org/2026/10/06/durham-university-transformative-humanities-phd-studentships-2027-fully-funded-phd-opportunity-for-home-and-overseas-students/",
+  "updatedAt": "2026-10-06"
+ },
+ {
+  "id": "rss-institute-for-youth-in-policy-public-policy-fellowship-2027",
+  "slug": "institute-for-youth-in-policy-public-policy-fellowship-2027",
+  "name": "Institute for Youth in Policy Public Policy Fellowship 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Políticas públicas",
+   "Economía",
+   "Medio ambiente",
+   "Educación"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "particularly important because the program currently has restrictions regarding international applicants",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-23"
+  },
+  "notes": "The Institute for Youth in Policy (YIP) Public Policy Fellowship 2027 is a two-month development program designed for young people interested in public policy, civic engagement, social impact, political issues, and innovative solutions to major social, economic, and environmental challenges.",
+  "url": "https://opportunitiesforyouth.org/2026/10/06/institute-for-youth-in-policy-public-policy-fellowship-2027/",
+  "applyUrl": "https://airtable.com/apphr8IR3bORYJbNc/pagXbgHZ7tOmDysFw/form",
+  "updatedAt": "2026-10-06"
+ },
+ {
+  "id": "rss-harvard-belfer-center-fellowships-2027-2028",
+  "slug": "harvard-belfer-center-fellowships-2027-2028",
+  "name": "Harvard Belfer Center Fellowships 2027–2028",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Tecnología",
+   "Políticas públicas",
+   "Medio ambiente",
+   "Ciencias"
+  ],
+  "levels": [
+   "pregrado",
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "at the same time, applicants should not assume that every fellowship is globally open because individual programs can have specific geographic restrictions",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-01"
+  },
+  "notes": "The Belfer Center for Science and International Affairs at Harvard Kennedy School has opened applications for its 2027–2028 academic year fellowships , offering scholars, researchers, practitioners, doctoral candidates, policy professionals, scientists, technologists, and other experts opportunities to engage with one ",
+  "url": "https://opportunitiesforyouth.org/2026/10/06/harvard-belfer-center-fellowships-2027-2028-fellowship-opportunities-at-harvard-kennedy-school/",
+  "applyUrl": "https://connect.hks.harvard.edu/belferfellowships/s/",
+  "updatedAt": "2026-10-06"
+ },
+ {
+  "id": "rss-jerome-r-lewis-legislative-fellows-program-2027",
+  "slug": "jerome-r-lewis-legislative-fellows-program-2027",
+  "name": "Jerome R. Lewis Legislative Fellows Program 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Políticas públicas",
+   "Economía",
+   "Negocios",
+   "Ciencias"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "the university of delaware source does not describe this as an open worldwide fellowship",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-30"
+  },
+  "notes": "The Jerome R. Lewis Legislative Fellows Program 2027 at the University of Delaware offers students an opportunity to gain practical experience inside the legislative and public policy process while working directly with the Delaware General Assembly .",
+  "url": "https://opportunitiesforyouth.org/2026/10/06/jerome-r-lewis-legislative-fellows-program-2027-paid-public-policy-fellowship-at-the-university-of-delaware/",
+  "applyUrl": "https://www.udel.edu/academics/colleges/biden-school/research-public-service/ipa/students/legislative-fellows-program/",
+  "updatedAt": "2026-10-06"
  }
 ]
