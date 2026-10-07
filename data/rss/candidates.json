@@ -4769,5 +4769,527 @@
    "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposals-on-ai-powered-agricultural-advisory-services-for-smallholder-farmers/",
    "updatedAt": "2026-10-06"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94051",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/stanford-cisac-fellowships-2027-2028-fully-funded-research-opportunity-for-international-security-scholars-and-professionals/",
+  "title": "Stanford CISAC Fellowships 2027–2028: Fully Funded Research Opportunity for International Security Scholars and Professionals",
+  "publishedAt": "2026-10-07T16:13:13+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-stanford-cisac-fellowships-2027-2028",
+   "slug": "stanford-cisac-fellowships-2027-2028",
+   "name": "Stanford CISAC Fellowships 2027–2028",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Ingeniería",
+    "Tecnología",
+    "Políticas públicas",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Stanford Center for International Security and Cooperation (CISAC) Fellowships 2027–2028 offer an exceptional opportunity for scholars and professionals interested in international security, emerging technologies, geopolitics, nuclear security, artificial intelligence, natural sciences, engineering, and other compl",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/stanford-cisac-fellowships-2027-2028-fully-funded-research-opportunity-for-international-security-scholars-and-professionals/",
+   "applyUrl": "https://cisacstanford.slideroom.com/#/permalink/program/58211",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94083",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/apple-hardware-phd-internships-2026-phd-opportunities-in-electrical-and-computer-engineering-in-the-united-states/",
+  "title": "Apple Hardware PhD Internships 2026: PhD Opportunities in Electrical and Computer Engineering in the United States",
+  "publishedAt": "2026-10-07T16:06:30+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-apple-hardware-phd-internships-2026",
+   "slug": "apple-hardware-phd-internships-2026",
+   "name": "Apple Hardware PhD Internships 2026",
+   "sponsor": "Apple",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Internship"
+   ],
+   "areas": [
+    "Ingeniería",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "doctorado"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "continua"
+   },
+   "notes": "Apple is inviting applications from PhD students interested in gaining advanced industry experience through its Hardware PhD Internships in the United States.",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/apple-hardware-phd-internships-2026-phd-opportunities-in-electrical-and-computer-engineering-in-the-united-states/",
+   "applyUrl": "https://jobs.apple.com/app/en-us/apply/200664421",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94059",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/ernst-mach-grant-2026-2027-fully-funded-research-and-study-opportunities-in-austria-for-international-students-and-researchers/",
+  "title": "Ernst Mach Grant 2026–2027: Fully Funded Research and Study Opportunities in Austria for International Students and Researchers",
+  "publishedAt": "2026-10-07T15:31:51+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "Ya cerró (2026-03-31).",
+  "oportunidad": {
+   "id": "rss-ernst-mach-grant-2026-2027",
+   "slug": "ernst-mach-grant-2026-2027",
+   "name": "Ernst Mach Grant 2026–2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Economía",
+    "Ciencias",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "doctorado"
+   ],
+   "destinations": [
+    "Austria"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "the ernst mach grant – worldwide is aimed at young researchers from all countries except austria and supports research stays of 1 to 9 months for applicants up to 35 years old",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-03-31"
+   },
+   "notes": "The Ernst Mach Grant is a collection of international scholarship and research funding programmes administered by OeAD – Austria’s Agency for Education and Internationalisation on behalf of the Austrian Federal Ministry of Women, Science and Research.",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/ernst-mach-grant-2026-2027-fully-funded-research-and-study-opportunities-in-austria-for-international-students-and-researchers/",
+   "applyUrl": "https://www.scholarships.at/apps",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93806",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/alf-knowledge-for-action-k4a-cycle-2-apply-for-e700-research-brief-funding-and-up-to-e500-for-an-academic-dialogue/",
+  "title": "ALF Knowledge for Action K4A Cycle 2: Apply for €700 Research Brief Funding and Up to €500 for an Academic Dialogue.",
+  "publishedAt": "2026-10-07T15:08:12+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-alf-knowledge-for-action-k4a-cycle-2",
+   "slug": "alf-knowledge-for-action-k4a-cycle-2",
+   "name": "ALF Knowledge for Action K4A Cycle 2",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Medio ambiente",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-24"
+   },
+   "notes": "The Anna Lindh Foundation (ALF) has opened applications for the second cycle of its Knowledge for Action (K4A) Programme , an opportunity designed to support evidence-based and policy-oriented research addressing important challenges across the Euro-Mediterranean region.",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/alf-knowledge-for-action-k4a-cycle-2-apply-for-e700-research-brief-funding-and-up-to-e500-for-an-academic-dialogue/",
+   "applyUrl": "https://alf.website/en/alf-knowledge-for-action-k4a-application/",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94054",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/ifad-2-million-grant-call-for-proposals-food-systems-transformation-in-the-central-sahel/",
+  "title": "IFAD $2 Million Grant Call for Proposals: Food Systems Transformation in the Central Sahel",
+  "publishedAt": "2026-10-07T15:06:37+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-ifad-2-million-grant-call-for-proposals",
+   "slug": "ifad-2-million-grant-call-for-proposals",
+   "name": "IFAD $2 Million Grant Call for Proposals",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Economía",
+    "Medio ambiente",
+    "Artes",
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-16"
+   },
+   "notes": "The International Fund for Agricultural Development (IFAD) has opened a major regional funding opportunity for institutions and organizations working to strengthen food systems, agricultural value chains, climate resilience, food security, employment and inclusive economic development in the Central Sahel.",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/ifad-2-million-grant-call-for-proposals-food-systems-transformation-in-the-central-sahel/",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93810",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/ipds-non-resident-research-fellowship-2026-remote-research-opportunity-for-mphil-graduates-and-phd-researchers-worldwide/",
+  "title": "IPDS Non-Resident Research Fellowship 2026: Remote Research Opportunity for MPhil Graduates and PhD Researchers Worldwide.",
+  "publishedAt": "2026-10-07T14:59:44+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-ipds-non-resident-research-fellowship-2026",
+   "slug": "ipds-non-resident-research-fellowship-2026",
+   "name": "IPDS Non-Resident Research Fellowship 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship",
+    "Investigación"
+   ],
+   "areas": [
+    "Derecho",
+    "Políticas públicas",
+    "Economía",
+    "Ciencias"
+   ],
+   "levels": [
+    "doctorado",
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "En línea"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "continua"
+   },
+   "notes": "The Institute of Peace and Diplomatic Studies (IPDS) has opened applications for its Non-Resident Research Fellowship , a four-month remote research opportunity designed for doctoral researchers, PhD holders and eligible MPhil or research master’s graduates who want to develop academic research into practical policy-or",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/ipds-non-resident-research-fellowship-2026-remote-research-opportunity-for-mphil-graduates-and-phd-researchers-worldwide/",
+   "applyUrl": "https://ipd.org.pk/programs/fellowship/#apply",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=93815",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/future-leaders-programme-2027-applications-open-for-the-next-generation-of-political-leaders-interested-in-global-affairs/",
+  "title": "Future Leaders Programme 2027: Applications Open for the Next Generation of Political Leaders Interested in Global Affairs.",
+  "publishedAt": "2026-10-07T14:48:34+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-future-leaders-programme-2027",
+   "slug": "future-leaders-programme-2027",
+   "name": "Future Leaders Programme 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Artes",
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "participants will be brought together with fellow candidates and senior figures from the worlds of: politics defence foreign affairs international development diplomacy global security these int",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-31"
+   },
+   "notes": "The Coalition for Global Prosperity (CGP) has opened applications for its Future Leaders Programme 2027 , an exclusive cross-party foreign policy programme designed to support the next generation of political leaders with an interest in international affairs.",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/future-leaders-programme-2027-applications-open-for-the-next-generation-of-political-leaders-interested-in-global-affairs/",
+   "applyUrl": "https://www.coalitionforglobalprosperity.com/future-leaders-application",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94052",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/bipartisan-policy-center-paid-internships-2027-gain-hands-on-experience-in-public-policy-government-relations-and-research-in-washington-dc/",
+  "title": "Bipartisan Policy Center Paid Internships 2027: Gain Hands-On Experience in Public Policy, Government Relations and Research in Washington, DC",
+  "publishedAt": "2026-10-07T14:36:19+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-bipartisan-policy-center-paid-internships-2027",
+   "slug": "bipartisan-policy-center-paid-internships-2027",
+   "name": "Bipartisan Policy Center Paid Internships 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Internship"
+   ],
+   "areas": [
+    "Salud",
+    "Políticas públicas",
+    "Economía",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "click here to apply international students and non-u",
+   "deadline": {
+    "kind": "continua"
+   },
+   "notes": "Are you a university student or recent graduate interested in public policy, government, economics, governance, health, housing, energy, human capital, communications, or government relations ?",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/bipartisan-policy-center-paid-internships-2027-gain-hands-on-experience-in-public-policy-government-relations-and-research-in-washington-dc/",
+   "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b7ec3708-935d-4824-b8ca-81a1101b34c3&amp%3BccId=19000101_000003&amp%3BjobId=574132&amp%3BjwId=SYS%3AJW%3A001&amp%3Blang=en_US",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=90531",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/2026-un-youth-townhall-in-germany-open-call-for-young-people-aged-18-35-to-join-the-un-youth-townhall/",
+  "title": "UN Youth Townhall 2026: Call for UN Contributions to the First-Ever Youth Townhall in Heidelberg, Germany",
+  "publishedAt": "2026-10-07T14:35:23+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-call-for-un-contributions-to-the-first-ever-youth-townhall-in-heidelberg-germany",
+   "slug": "call-for-un-contributions-to-the-first-ever-youth-townhall-in-heidelberg-germany",
+   "name": "Call for UN Contributions to the First-Ever Youth Townhall in Heidelberg, Germany",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Políticas públicas",
+    "Medio ambiente",
+    "Artes",
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Alemania"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "ontributing to innovation, advocacy, policymaking and community-level solutions around the world",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-14"
+   },
+   "notes": "The United Nations Youth Office has opened a call for contributions from the UN system at the global, regional and country levels for the first-ever UN Youth Townhall , scheduled to take place in Heidelberg, Germany, from December 8–10, 2026 .",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/2026-un-youth-townhall-in-germany-open-call-for-young-people-aged-18-35-to-join-the-un-youth-townhall/",
+   "applyUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=2zWeD09UYE-9zF6kFubccEfjz3lv_OFAoninbh35sHdUM0E2T1RRMUYwQ1RRTUlEQUE5N1VKMEQ3RS4u&amp%3Broute=shorturl",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=56843",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/07/20000-fellowship-for-writers-tackling-climate-change-through-storytelling/",
+  "title": "2027 NRDC Climate Storytelling Fellowship: $20,000 Fellowship for Climate Screenwriters and TV Pilot Writers",
+  "publishedAt": "2026-10-07T14:24:01+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "Es un boletín o una lista de varias oportunidades.",
+  "oportunidad": {
+   "id": "rss-2027-nrdc-climate-storytelling-fellowship",
+   "slug": "2027-nrdc-climate-storytelling-fellowship",
+   "name": "2027 NRDC Climate Storytelling Fellowship",
+   "sponsor": "The 2027 NRDC Climate Storytelling Fellowship",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Salud",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-04"
+   },
+   "notes": "The 2027 NRDC Climate Storytelling Fellowship is now accepting submissions from writers with completed feature film screenplays or television pilots that engage meaningfully with climate change.",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/20000-fellowship-for-writers-tackling-climate-change-through-storytelling/",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/innovation-sprint-funding-call-for-health-technology-solutions-uk/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/innovation-sprint-funding-call-for-health-technology-solutions-uk/",
+  "title": "Innovation Sprint Funding Call for Health Technology Solutions (UK)",
+  "publishedAt": "2026-10-07T07:14:10+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-innovation-sprint-funding-call-for-health-technology-solutions-uk",
+   "slug": "innovation-sprint-funding-call-for-health-technology-solutions-uk",
+   "name": "Innovation Sprint Funding Call for Health Technology Solutions (UK)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The CHI-Zone Innovation Sprint Funding Call seeks innovative health technology ideas aimed at improving health outcomes, addressing health inequalities, or solving real-world health and care challenges.",
+   "url": "https://www.fundsforngos.org/how-to-apply/innovation-sprint-funding-call-for-health-technology-solutions-uk/",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/open-call-for-18th-creew-research-grant-program-nepal/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/open-call-for-18th-creew-research-grant-program-nepal/",
+  "title": "Open Call for 18th CREEW Research Grant Program (Nepal)",
+  "publishedAt": "2026-10-07T07:12:03+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-open-call-for-18th-creew-research-grant-program-nepal",
+   "slug": "open-call-for-18th-creew-research-grant-program-nepal",
+   "name": "Open Call for 18th CREEW Research Grant Program (Nepal)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Investigación"
+   ],
+   "areas": [
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Center of Research for Environment, Energy and Water (CREEW) invites proposals for its Research Grant Program for the fiscal year 2026-27. This opportunity is designed to fund innovative projects focused on environmental sustainability, energy efficiency, and water resource management.",
+   "url": "https://www.fundsforngos.org/how-to-apply/open-call-for-18th-creew-research-grant-program-nepal/",
+   "updatedAt": "2026-10-07"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/call-for-proposals-aws-agentic-ai-grant-program/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/call-for-proposals-aws-agentic-ai-grant-program/",
+  "title": "Call for Proposals: AWS Agentic AI Grant Program",
+  "publishedAt": "2026-10-07T07:08:28+00:00",
+  "fetchedAt": "2026-10-07T17:42:18+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-aws-agentic-ai-grant-program",
+   "slug": "aws-agentic-ai-grant-program",
+   "name": "AWS Agentic AI Grant Program",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The AWS Agentic AI Call for Proposals seeks to advance research in agentic artificial intelligence (AI) by funding open-source tool development and impactful research projects. Hosted by Amazon Web Services (AWS), this opportunity is open to researchers interested in AI agents.",
+   "url": "https://www.fundsforngos.org/how-to-apply/call-for-proposals-aws-agentic-ai-grant-program/",
+   "updatedAt": "2026-10-07"
+  }
  }
 ]
