@@ -5291,5 +5291,109 @@
    "url": "https://www.fundsforngos.org/how-to-apply/call-for-proposals-aws-agentic-ai-grant-program/",
    "updatedAt": "2026-10-07"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/rfas-pre-qualification-of-csos-and-ngos-for-the-responsible-party-roster-iraq/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/rfas-pre-qualification-of-csos-and-ngos-for-the-responsible-party-roster-iraq/",
+  "title": "RFAs: Pre-Qualification of CSOs and NGOs for the Responsible Party Roster (Iraq)",
+  "publishedAt": "2026-10-08T07:46:43+00:00",
+  "fetchedAt": "2026-10-08T17:46:38+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-rfas-pre-qualification-of-csos-and-ngos-for-the-responsible-party-roster-iraq",
+   "slug": "rfas-pre-qualification-of-csos-and-ngos-for-the-responsible-party-roster-iraq",
+   "name": "RFAs: Pre-Qualification of CSOs and NGOs for the Responsible Party Roster (Iraq)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-19"
+   },
+   "notes": "The United Nations Development Programme (UNDP) invites Civil Society Organizations (CSOs) and Non-Governmental Organizations (NGOs) to participate in the pre-qualification process for inclusion in the UNDP Iraq Responsible Partnership.",
+   "url": "https://www.fundsforngos.org/how-to-apply/rfas-pre-qualification-of-csos-and-ngos-for-the-responsible-party-roster-iraq/",
+   "updatedAt": "2026-10-08"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/rfps-small-business-transportation-technical-assistance-center-program-region-1-us/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/rfps-small-business-transportation-technical-assistance-center-program-region-1-us/",
+  "title": "RFPs: Small Business Transportation Technical Assistance Center Program – Region 1 (US)",
+  "publishedAt": "2026-10-08T07:35:04+00:00",
+  "fetchedAt": "2026-10-08T17:46:38+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-rfps-small-business-transportation-technical-assistance-center-program-region-1-",
+   "slug": "rfps-small-business-transportation-technical-assistance-center-program-region-1-",
+   "name": "RFPs: Small Business Transportation Technical Assistance Center Program – Region 1 (US)",
+   "sponsor": "U.S. Department of Transportation (USDOT)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Negocios",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-31"
+   },
+   "notes": "The U.S. Department of Transportation (USDOT) is offering funding to establish and operate a Small Business Transportation Technical Assistance Center (SBTTAC) in Region 1.",
+   "url": "https://www.fundsforngos.org/how-to-apply/rfps-small-business-transportation-technical-assistance-center-program-region-1-us/",
+   "updatedAt": "2026-10-08"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/call-for-ngo-cso-partners-for-two-development-projects-central-african-republic/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/call-for-ngo-cso-partners-for-two-development-projects-central-african-republic/",
+  "title": "Call for NGO/CSO Partners for Two Development Projects (Central African Republic)",
+  "publishedAt": "2026-10-08T07:27:43+00:00",
+  "fetchedAt": "2026-10-08T17:46:38+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-call-for-ngo-cso-partners-for-two-development-projects-central-african-republic",
+   "slug": "call-for-ngo-cso-partners-for-two-development-projects-central-african-republic",
+   "name": "Call for NGO/CSO Partners for Two Development Projects (Central African Republic)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The United Nations Development Programme (UNDP) is seeking proposals from NGOs and Civil Society Organizations (CSOs) to partner in implementing projects in the Central African Republic.",
+   "url": "https://www.fundsforngos.org/how-to-apply/call-for-ngo-cso-partners-for-two-development-projects-central-african-republic/",
+   "updatedAt": "2026-10-08"
+  }
  }
 ]

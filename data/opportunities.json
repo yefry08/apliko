@@ -15631,6 +15631,64 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-strategic-animal-funding-circle",
+  "slug": "strategic-animal-funding-circle",
+  "name": "Strategic Animal Funding Circle",
+  "sponsor": "Senterra Funders",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-01"
+  },
+  "notes": "Funding for early-stage, high-impact projects reducing farmed or wild animal suffering, especially smaller or neglected opportunities.\n\n- Service delivery, campaigning, policy work, or other measurable welfare interventions\n- Projects reducing farmed animal numbers or improving neglected species’ welfare\n- Smaller-budget, newer, or unusual interventions with room for more funding\n- Metacharities and alternative protein work with clear, scalable impact",
+  "url": "https://docs.google.com/document/d/1Xo8tyeVeWWoaEhKvdaTVz_-qhitDsjcn8q_jgQxuQFA/edit?tab=t.0",
+  "applyUrl": "https://docs.google.com/document/d/1Xo8tyeVeWWoaEhKvdaTVz_-qhitDsjcn8q_jgQxuQFA/edit?tab=t.0",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-visiting-research-fellow-global-health-development",
+  "slug": "visiting-research-fellow-global-health-development",
+  "name": "Visiting Research Fellow, Global Health & Development",
+  "sponsor": "Ambitious Impact (AIM) [Formerly Charity Entrepreneurship]",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: London, UK. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Five-month applied research fellowship evaluating which charity ideas are strong enough to recommend to new nonprofit founders.\n\n- Embedded in the research team with ongoing feedback from senior researchers\n- Evaluate interventions, design research, and make decisions under uncertainty\n- Structured growth targets and a research curriculum built for learning\n- ~£25/hour, up to 35 hours a week, or hosted as a university placement",
+  "url": "https://drive.google.com/file/d/1B1YR9yVXS0HV_hgLJJTSuUhthZwlW9Ex/view",
+  "applyUrl": "https://drive.google.com/file/d/1B1YR9yVXS0HV_hgLJJTSuUhthZwlW9Ex/view",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-grantmaker-in-residence-elevate-philanthropy",
   "slug": "grantmaker-in-residence-elevate-philanthropy",
   "name": "Grantmaker-In-Residence · Elevate Philanthropy",
