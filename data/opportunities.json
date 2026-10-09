@@ -15631,6 +15631,64 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-fellow-in-residence-schmidt-sciences",
+  "slug": "fellow-in-residence-schmidt-sciences",
+  "name": "Fellow in Residence · Schmidt Sciences",
+  "sponsor": "Schmidt Sciences",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: New York, NY. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-15"
+  },
+  "notes": "A 12–18 month fellowship for recent AI PhDs combining independent research with hands-on philanthropic grantmaking.\n\n- Split time between research projects and evaluating AI funding proposals\n- Advise on research areas deserving greater philanthropic support\n- Recruit expert reviewers and help organize workshops or smaller grants\n- Receive compute, event, and travel support for research and community-building",
+  "url": "https://jobs.lever.co/schmidt-entities/6bef9879-f540-475e-ad26-5254fa4e1ad7",
+  "applyUrl": "https://jobs.lever.co/schmidt-entities/6bef9879-f540-475e-ad26-5254fa4e1ad7",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-personal-career-advising-probably-good",
+  "slug": "personal-career-advising-probably-good",
+  "name": "Personal Career Advising · Probably Good",
+  "sponsor": "Probably Good",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Asesoría"
+  ],
+  "areas": [
+   "Altruismo eficaz"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Free one-on-one career advising to help you explore impactful career paths, evaluate options, and plan next steps.\n\n- Discuss your background, goals, plans, and uncertainties\n- Brainstorm career paths and assess key decisions\n- Develop frameworks, tests, and concrete next steps\n- Get relevant resources, connections, and opportunities",
+  "url": "https://probablygood.org/advising/",
+  "applyUrl": "https://probablygood.org/advising/",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-strategic-animal-funding-circle",
   "slug": "strategic-animal-funding-circle",
   "name": "Strategic Animal Funding Circle",
@@ -16378,36 +16436,6 @@
   "notes": "Spread One for the World’s effective giving message in your workplace and network to inspire others to pledge 1% to high-impact charities.\n\n- Host workplace or community talks about effective giving\n- Share resources with colleagues, friends, and peers\n- Encourage others to take the 1% Pledge\n- Join and help grow a global ambassador community",
   "url": "https://1fortheworld.org/community-ambassadors",
   "applyUrl": "https://1fortheworld.org/community-ambassadors",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-ai-safety-workshop-for-working-professionals",
-  "slug": "ai-safety-workshop-for-working-professionals",
-  "name": "AI Safety Workshop for working professionals",
-  "sponsor": "Kairos",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Evento"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas",
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: London, UK. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-09"
-  },
-  "notes": "Free three-day residential workshop exploring catastrophic risks from advanced AI and biotechnology, and careers addressing them.\n\n- Examine foundational arguments on AI safety and biosecurity risks\n- Hear career journeys from professionals working in both fields\n- Travel, accommodation and meals covered; around 30 attendees\n- Few hours of pre-reading; $100 deposit refunded after attending",
-  "url": "https://gcp-apply.kairos-project.org/?utm_source=ea-opportunities-board&utm_medium=job-board&utm_campaign=gcp-london-26",
-  "applyUrl": "https://gcp-apply.kairos-project.org/?utm_source=ea-opportunities-board&utm_medium=job-board&utm_campaign=gcp-london-26",
   "updatedAt": "2026-10-01"
  },
  {
@@ -18208,35 +18236,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-request-for-proposals-safety-assessment-for-far-uvc-exposure",
-  "slug": "request-for-proposals-safety-assessment-for-far-uvc-exposure",
-  "name": "Request for Proposals, Safety Assessment for Far-UVC Exposure",
-  "sponsor": "Blueprint Biosecurity",
-  "source": "financiamiento",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-09"
-  },
-  "notes": "Submit proposals to advance safe, scalable, and effective UVC disinfection technologies for biosecurity applications.  \n- Funding available for research, development, or deployment  \n- Focus on real-world impact and safety  \n- Open to academic, nonprofit, and private sector applicants",
-  "url": "https://blueprintbiosecurity.org/safe-uvc-rfp/",
-  "applyUrl": "https://blueprintbiosecurity.org/safe-uvc-rfp/",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-1-1-advising-bluedot-impact",
   "slug": "1-1-advising-bluedot-impact",
   "name": "1-1 Advising · BlueDot Impact",
@@ -18469,35 +18468,6 @@
   "notes": "Join project-based adversarial evaluations for frontier and production AI systems.\n\n* Test systems through threat modeling and specialist evaluation\n* Translate findings into evidence for governance decisions\n* Work across ML security, policy, forecasting, and systems analysis",
   "url": "https://www.syntonyresearch.ai/work/trusted-red-team/",
   "applyUrl": "https://www.syntonyresearch.ai/work/trusted-red-team/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-career-advising-probably-good",
-  "slug": "career-advising-probably-good",
-  "name": "Career Advising · Probably Good",
-  "sponsor": "Probably Good",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Asesoría"
-  ],
-  "areas": [
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "Free one-on-one advising for people exploring impactful career paths.\n\n* Discuss background, goals, plans, and uncertainties\n* Brainstorm options and evaluate career trade-offs\n* Build concrete next steps and test key hypotheses\n* Get connected with relevant resources, people, and opportunities",
-  "url": "https://probablygood.org/advising/",
-  "applyUrl": "https://probablygood.org/advising/",
   "updatedAt": "2026-10-01"
  },
  {
@@ -20794,38 +20764,6 @@
   "notes": "Volunteer with Effektiver Altruismus Deutschland to contribute to impactful projects and community initiatives aligned with effective altruism principles.\n\n- Find a suitable role, such as leading a local group, organizing events, or supporting the intro program\n- Get involved with established organizations or help set up new local groups if none exist in your area\n- Publish articles or questions to the effective altruism forum to help develop the community\n- Realize your own projects or advocate for effective social engagement in your workplace\n\nFor additional opportunities, visit the EA Opportunities Board: https://ea-internships.pory.app/",
   "url": "https://effektiveraltruismus.de/en/volunteering",
   "applyUrl": "https://effektiveraltruismus.de/en/volunteering",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-intern-trade-fair-fundraising-proveg-international",
-  "slug": "intern-trade-fair-fundraising-proveg-international",
-  "name": "Intern, Trade Fair Fundraising · ProVeg International",
-  "sponsor": "ProVeg International",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Medio tiempo",
-   "Voluntariado"
-  ],
-  "areas": [
-   "Bienestar animal"
-  ],
-  "levels": [],
-  "destinations": [
-   "Europa",
-   "Alemania"
-  ],
-  "funding": "varia",
-  "amount": "Pago: 15 € Stundenlohn",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Germany. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "Join ProVeg International as a fundraising promoter at Veggie fairs across Germany, helping to inspire support for plant-based food systems.\n\n- Actively engage with visitors at Veggie fairs to represent ProVeg and recruit new supporting members\n- Flexible, occasional work with a €15 hourly wage, plus covered travel, accommodation, and meals\n- Be part of a passionate, mission-driven team making a positive impact\n- Open to applicants regardless of background; strong German and English skills required\n\nNo specific visa requirements are mentioned.",
-  "url": "https://proveg.jobs.personio.de/job/12891?display=en",
-  "applyUrl": "https://proveg.jobs.personio.de/job/12891?display=en",
   "updatedAt": "2026-10-01"
  },
  {
