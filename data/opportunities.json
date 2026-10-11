@@ -16892,64 +16892,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-intro-to-effective-altruism-centre-for-effective-altruism-cea",
-  "slug": "intro-to-effective-altruism-centre-for-effective-altruism-cea",
-  "name": "Intro to effective altruism · Centre for Effective Altruism (CEA)",
-  "sponsor": "Centre for Effective Altruism (CEA)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-11"
-  },
-  "notes": "Learn the core ideas of effective altruism through a structured eight-week online course with small-group discussions and facilitator support.\n- Explore frameworks for doing more good with your career and donations.\n- Complete weekly readings, podcasts, or videos before facilitated discussions.\n- Join a global cohort and connect with 1,400+ alumni on Slack.\n- Receive guidance on next steps and further engagement with EA.",
-  "url": "https://www.effectivealtruism.org/courses/introductory-program",
-  "applyUrl": "https://www.effectivealtruism.org/courses/introductory-program",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-in-depth-ea-program-centre-for-effective-altruism-cea",
-  "slug": "in-depth-ea-program-centre-for-effective-altruism-cea",
-  "name": "In-Depth EA Program · Centre for Effective Altruism (CEA)",
-  "sponsor": "Centre for Effective Altruism (CEA)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-11"
-  },
-  "notes": "A structured online course exploring effective altruism ideas and approaches to increasing social impact through guided readings and small-group discussions.\n\n- Weekly readings on global problems and strategies for solving them\n- 1.5-hour facilitated discussions in cohorts of 4–8 participants\n- Designed as a follow-up to the Introductory EA Program\n- Free, global program running over eight weeks",
-  "url": "https://www.effectivealtruism.org/courses/in-depth-program",
-  "applyUrl": "https://www.effectivealtruism.org/courses/in-depth-program",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-health-aid-transition-fund-coefficient-giving",
   "slug": "health-aid-transition-fund-coefficient-giving",
   "name": "Health Aid Transition Fund · Coefficient Giving",

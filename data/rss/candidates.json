@@ -6429,5 +6429,48 @@
    "url": "https://www.fundsforngos.org/how-to-apply/call-for-entries-community-grants-program-canada/",
    "updatedAt": "2026-10-10"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94328",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/11/university-of-auckland-doctoral-scholarship-2026-2027-receive-nz35468-per-year-tuition-fee-coverage-and-health-insurance-support/",
+  "title": "University of Auckland Doctoral Scholarship 2026–2027: Receive NZ$35,468 Per Year, Tuition Fee Coverage and Health Insurance Support",
+  "publishedAt": "2026-10-11T13:45:13+00:00",
+  "fetchedAt": "2026-10-11T16:35:03+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-university-of-auckland-doctoral-scholarship-2026-2027",
+   "slug": "university-of-auckland-doctoral-scholarship-2026-2027",
+   "name": "University of Auckland Doctoral Scholarship 2026–2027",
+   "sponsor": "University of Auckland",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Salud",
+    "Políticas públicas",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Nueva Zelanda"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "international students who require confirmation of scholarship funding for a visa application may request a funding letter",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-01"
+   },
+   "notes": "Introduction Are you looking for a doctoral scholarship in New Zealand to support your advanced studies and research career?",
+   "url": "https://opportunitiesforyouth.org/2026/10/11/university-of-auckland-doctoral-scholarship-2026-2027-receive-nz35468-per-year-tuition-fee-coverage-and-health-insurance-support/",
+   "applyUrl": "https://www.auckland.ac.nz/en/study/applications-and-admissions/apply-now.html",
+   "updatedAt": "2026-10-11"
+  }
  }
 ]
