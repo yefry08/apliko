@@ -7254,6 +7254,297 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "bec-ai2-research-and-engineering-internships",
+  "slug": "ai2-research-and-engineering-internships",
+  "name": "Ai2 Research and Engineering Internships",
+  "sponsor": "Allen Institute for AI (Ai2)",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "amount": "Pago competitivo y patrocinio de visa",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes de pregrado o posgrado en áreas de IA (las de ingeniería, desde 3.er año de pregrado). Aceptan candidatos internacionales y patrocinan visa. 12 semanas, presencial en Seattle.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Las de verano se publican en otoño del año anterior; también hay durante el año"
+  },
+  "url": "https://allenai.org/internships",
+  "applyUrl": "https://allenai.org/internships",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-turing-internship-network-tin",
+  "slug": "turing-internship-network-tin",
+  "name": "Turing Internship Network (TIN)",
+  "sponsor": "The Alan Turing Institute",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Ciencia de datos",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "estipendio",
+  "amount": "Pasantía pagada, a tiempo completo o parcial",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Doctorandos (PhD) en ciencia de datos o IA, en proyectos de empresas, gobierno u ONG del Reino Unido e Irlanda. La página no detalla requisitos de visa.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Según convocatoria; avisan por la lista de correo Skills at the Turing"
+  },
+  "url": "https://www.turing.ac.uk/collaborate-turing/internships",
+  "applyUrl": "https://www.turing.ac.uk/collaborate-turing/internships",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-cactus-internship-2027",
+  "slug": "cactus-internship-2027",
+  "name": "CaCTüS Internship 2027",
+  "sponsor": "Max Planck Institutes (Biological Cybernetics e Intelligent Systems) y Tübingen AI Center",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Neurociencia"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "completa",
+  "amount": "Estipendio completo por 3 meses + apoyo para viaje y alojamiento",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes de licenciatura o maestría, o recién graduados, de cualquier país. Se anima en especial a quienes son y viven en países de ingresos bajos y medios. El portal abre el 21 de octubre; la pasantía es del 1 de julio al 30 de septiembre de 2027 en Tübingen.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-16"
+  },
+  "url": "https://www.projects.tuebingen.mpg.de/",
+  "applyUrl": "https://www.projects.tuebingen.mpg.de/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-ufal-pre-phd-student-internship-primavera-2027",
+  "slug": "ufal-pre-phd-student-internship-primavera-2027",
+  "name": "ÚFAL Pre-PhD Student Internship (primavera 2027)",
+  "sponsor": "Instituto de Lingüística Formal y Aplicada (ÚFAL), Universidad Carolina de Praga",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Procesamiento de lenguaje natural",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "maestria",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "República Checa"
+  ],
+  "funding": "parcial",
+  "amount": "Viaje hasta CZK 15,000 y alojamiento hasta CZK 8,000 al mes",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes de cualquier país con la maestría terminada o por terminar, interesados en el doctorado en Lingüística Computacional de ÚFAL. De 1 a 3 meses (marzo a mayo). Se postula por correo a phd@ufal.mff.cuni.cz con CV, carta de motivación y notas. La de otoño cierra el 15 de junio.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-15"
+  },
+  "url": "https://ufal.mff.cuni.cz/teaching/student-internships",
+  "applyUrl": "https://ufal.mff.cuni.cz/teaching/student-internships",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-embl-trainees-and-interns",
+  "slug": "embl-trainees-and-interns",
+  "name": "EMBL Trainees and Interns",
+  "sponsor": "European Molecular Biology Laboratory (EMBL)",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Bioinformática",
+   "Biología molecular"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "varia",
+  "amount": "Según la vacante; cubren el viaje de reubicación",
+  "citizenship": "global",
+  "citizenshipRaw": "Pasantías en grupos de investigación y servicios de datos (bioinformática, investigación computacional, TI) en las sedes de EMBL. Se postula a las vacantes publicadas o escribiendo directo al jefe de grupo. EMBL tramita visas para internacionales.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.embl.org/careers/internships/",
+  "applyUrl": "https://www.embl.org/careers/internships/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-google-research-student-researcher-y-pasantias-de-investigacion",
+  "slug": "google-research-student-researcher-y-pasantias-de-investigacion",
+  "name": "Google Research: Student Researcher y pasantías de investigación",
+  "sponsor": "Google Research",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Computación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Student Researcher: estudiantes de pregrado, maestría o doctorado, o quienes van a empezar una maestría o doctorado. Research internships: doctorandos en su último año. Hay vacantes en varios países; los requisitos dependen de cada una.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Las vacantes se publican durante el año"
+  },
+  "url": "https://research.google/programs-and-events/student-engagement/",
+  "applyUrl": "https://research.google/programs-and-events/student-engagement/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-nsf-ncar-siparcs-2027",
+  "slug": "nsf-ncar-siparcs-2027",
+  "name": "NSF NCAR SIParCS 2027",
+  "sponsor": "NSF National Center for Atmospheric Research (NCAR)",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Computación de alto rendimiento",
+   "Ciencias atmosféricas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "amount": "USD 23.41/h (pregrado) o 28.32/h (posgrado) + vivienda y viaje a Boulder",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Estudiantes matriculados en una universidad de EE. UU. (desde 3.er año de pregrado o de posgrado) con permiso para trabajar allí. Los internacionales en universidades de EE. UU. pueden postular con CPT u OPT. Las vacantes abren el 3 de noviembre; ya no piden cartas de recomendación.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-19"
+  },
+  "url": "https://www.cisl.ucar.edu/outreach/internships/how_to_apply",
+  "applyUrl": "https://www.cisl.ucar.edu/outreach/internships/how_to_apply",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-wsai-summer-internship-iit-madras",
+  "slug": "wsai-summer-internship-iit-madras",
+  "name": "WSAI Summer Internship, IIT Madras",
+  "sponsor": "Wadhwani School of Data Science and AI, IIT Madras",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Ciencia de datos",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "India"
+  ],
+  "funding": "estipendio",
+  "amount": "Estipendio; sin alojamiento",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo estudiantes de ingeniería o ciencias matriculados en una universidad o instituto de la India. De 3 a 6 meses, presencial en Chennai.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La edición 2026 cerró el 16 de febrero de 2026; la siguiente suele cerrar en febrero"
+  },
+  "url": "https://wsai.iitm.ac.in/internships/",
+  "applyUrl": "https://wsai.iitm.ac.in/internships/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-bmi-summer-internship-2027-university-of-arizona",
+  "slug": "bmi-summer-internship-2027-university-of-arizona",
+  "name": "BMI Summer Internship 2027, University of Arizona",
+  "sponsor": "Departamento de Informática Biomédica, University of Arizona College of Medicine – Phoenix",
+  "source": "becas",
+  "types": [
+   "Pasantía de investigación"
+  ],
+  "areas": [
+   "Bioinformática",
+   "Inteligencia artificial",
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "amount": "Estipendio; remota y a tiempo completo",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Estudiantes de 2.º o 3.er año de pregrado o de posgrado en ciencia de datos, computación, ingeniería biomédica o biología computacional. Remota, del 24 de mayo al 13 de agosto de 2027; hasta 6 pasantes. Postulaciones del 11 de enero al 5 de febrero de 2027. La página no menciona requisitos de ciudadanía.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-05"
+  },
+  "url": "https://phoenixmed.arizona.edu/bmi/summer-internship",
+  "applyUrl": "https://phoenixmed.arizona.edu/bmi/summer-internship",
+  "updatedAt": "2026-09-23"
+ },
+ {
   "id": "fin-wellcome-prize-for-mental-health-science",
   "slug": "wellcome-prize-for-mental-health-science",
   "name": "Wellcome Prize for Mental Health Science",
