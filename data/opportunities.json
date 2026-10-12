@@ -15922,6 +15922,216 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-generator-residency-kairos-constellation",
+  "slug": "generator-residency-kairos-constellation",
+  "name": "Generator Residency · Kairos, Constellation",
+  "sponsor": "Kairos, Constellation",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Berkeley, CA. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-01"
+  },
+  "notes": "A three-month residency where AI safety generalists pitch, build, and ship projects with mentorship and support transitioning into full-time roles.\n\n- Self-directed or embedded tracks for leading projects or joining organizations\n- Weekly advising from experienced AI safety generalists across the ecosystem\n- Generous project budgets to collate resources, run events, or build infrastructure\n- Office access, field context-building, and support extending or spinning out projects",
+  "url": "https://generatorresidency.org/?utm_source=ea-opportunities-board&utm_medium=job-board&utm_campaign=generator-27",
+  "applyUrl": "https://generatorresidency.org/?utm_source=ea-opportunities-board&utm_medium=job-board&utm_campaign=generator-27",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-in-depth-ea-program-centre-for-effective-altruism-cea",
+  "slug": "in-depth-ea-program-centre-for-effective-altruism-cea",
+  "name": "In-Depth EA Program · Centre for Effective Altruism (CEA)",
+  "sponsor": "Centre for Effective Altruism (CEA)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Curso"
+  ],
+  "areas": [
+   "Altruismo eficaz"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "An eight-week course exploring global problems and ways to increase your impact through readings and small-group discussion.\n\n- Weekly readings on global problems and solution strategies\n- 1.5-hour weekly discussions with 4–8 participants and a facilitator\n- Follow-on programme for deeper engagement with effective altruism ideas\n- Full curriculum focused on comparing problems and contributing effectively",
+  "url": "https://www.effectivealtruism.org/courses/in-depth-program",
+  "applyUrl": "https://www.effectivealtruism.org/courses/in-depth-program",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-the-precipice-reading-group-centre-for-effective-altruism-cea",
+  "slug": "the-precipice-reading-group-centre-for-effective-altruism-cea",
+  "name": "The Precipice Reading Group · Centre for Effective Altruism (CEA)",
+  "sponsor": "Centre for Effective Altruism (CEA)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Curso"
+  ],
+  "areas": [
+   "Altruismo eficaz",
+   "Investigación de prioridades globales"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "An eight-week reading group on *The Precipice*, combining weekly reading with small-group discussions on existential risks and humanity’s future.\n\n- Read the book over eight weeks\n- Spend about 1.5 hours weekly reading\n- Join 1.5-hour weekly structured cohort discussions\n- Discuss risks including nuclear war, pandemics, climate change, and AI",
+  "url": "https://www.effectivealtruism.org/courses/the-precipice-reading-group",
+  "applyUrl": "https://www.effectivealtruism.org/courses/the-precipice-reading-group",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-intro-to-effective-altruism-centre-for-effective-altruism-cea",
+  "slug": "intro-to-effective-altruism-centre-for-effective-altruism-cea",
+  "name": "Intro to effective altruism · Centre for Effective Altruism (CEA)",
+  "sponsor": "Centre for Effective Altruism (CEA)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Curso"
+  ],
+  "areas": [
+   "Altruismo eficaz"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "An 8-week introductory course on effective altruism with weekly readings, discussions, and facilitated exploration of how to do more good.\n\n- Explore core EA ideas like impact, global poverty, and animal welfare\n- Complete weekly readings, podcasts, or videos before small-group discussions\n- Discuss career impact, donations, pandemics, climate change, and other priorities\n- Get guidance from facilitators and connect with alumni for next steps",
+  "url": "https://www.effectivealtruism.org/courses/introductory-program",
+  "applyUrl": "https://www.effectivealtruism.org/courses/introductory-program",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-litigation-program-fellow-2027-2029",
+  "slug": "litigation-program-fellow-2027-2029",
+  "name": "Litigation Program Fellow (2027-2029)",
+  "sponsor": "Animal Legal Defense Fund",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Pago: $71,509 – $79,036",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-25"
+  },
+  "notes": "A two-year litigation fellowship where recent law graduates manage strategic animal protection cases and develop impact litigation skills.\n\n- Conduct legal research, filings, and day-to-day case management\n- Participate in motions practice, appearances, and legal arguments\n- Develop new cases and novel legal theories and strategies\n- Draft amicus briefs and coordinate with pro bono and local counsel",
+  "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537097",
+  "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537097",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-clerkship-pro-bono-program-summer-2027",
+  "slug": "clerkship-pro-bono-program-summer-2027",
+  "name": "Clerkship, Pro Bono Program (Summer 2027)",
+  "sponsor": "Animal Legal Defense Fund",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Pago: $20/hour",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-20"
+  },
+  "notes": "Work on animal law research projects in a summer clerkship focused on expanding pro bono practice and understanding in the legal community.\n\n- Research law firms, bar associations, and CLE opportunities\n- Explore housing issues affecting animals and their guardians\n- Analyze animal custody disputes and dangerous dog restrictions\n- Research tort, negligence, and animals-as-property legal issues",
+  "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4479370",
+  "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4479370",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-global-digital-health-forum-techchange",
+  "slug": "global-digital-health-forum-techchange",
+  "name": "Global Digital Health Forum · TechChange",
+  "sponsor": "TechChange",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Evento"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Asia",
+   "Thailand"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Bangkok, Thailand / Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-20"
+  },
+  "notes": "A three-day digital health forum where participants join plenaries, hybrid sessions, networking, and side events in person or online.\n\n- Live plenary and hybrid sessions with on-demand recordings\n- Networking with digital health practitioners, funders, researchers, and policymakers\n- In-person side events, including the Thailand Showcase\n- Opening reception, plus lunch and coffee breaks for in-person attendees",
+  "url": "https://www.gdhf.digital/registration",
+  "applyUrl": "https://www.gdhf.digital/registration",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-fellow-in-residence-schmidt-sciences",
   "slug": "fellow-in-residence-schmidt-sciences",
   "name": "Fellow in Residence · Schmidt Sciences",
@@ -16364,35 +16574,6 @@
   "notes": "An intensive online course on WMD non-proliferation and disarmament, exploring technical foundations, governance, and emerging technology risks through expert-led sessions and discussion.\n\n- Scientific foundations of nuclear, chemical, and biological weapons\n- Treaties, institutions, verification, and compliance mechanisms\n- Emerging technologies, technological convergence, and evolving WMD risks\n- Case-based discussions, expert presentations, and direct engagement with instructors",
   "url": "https://web103.reachmee.com/ext/I021/1690/job?site=7&lang=UK&validator=9c16162aeec1b1c78db51d0c3e4163a1&ref=https%3A%2F%2Fwww.sipri.org%2F&job_id=147",
   "applyUrl": "https://web103.reachmee.com/ext/I021/1690/job?site=7&lang=UK&validator=9c16162aeec1b1c78db51d0c3e4163a1&ref=https%3A%2F%2Fwww.sipri.org%2F&job_id=147",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-founders-week-coefficient-giving-pivotal-research-london-initiative-for-safe-ai-",
-  "slug": "founders-week-coefficient-giving-pivotal-research-london-initiative-for-safe-ai-",
-  "name": "Founders Week · Coefficient Giving, Pivotal Research, London Initiative for Safe AI (LISA)",
-  "sponsor": "Coefficient Giving, Pivotal Research, London Initiative for Safe AI (LISA)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Evento"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: London, UK. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-12"
-  },
-  "notes": "A five-day programme for aspiring AI safety founders to develop an idea, form a team, and pitch a new organisation plan.\n\n- Meet possible co-founders, founders, researchers, and funders\n- Scope a problem, theory of change, first-year plan, and budget\n- Pitch grantmakers and get written feedback on your proposal\n- Receive follow-on support to develop a full funding proposal",
-  "url": "https://www.joinliftoff.ai/",
-  "applyUrl": "https://www.joinliftoff.ai/",
   "updatedAt": "2026-10-01"
  },
  {
@@ -17243,38 +17424,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-summer-fellowships-legal-advocates-for-safe-science-and-technology-lasst",
-  "slug": "summer-fellowships-legal-advocates-for-safe-science-and-technology-lasst",
-  "name": "Summer Fellowships · Legal Advocates for Safe Science and Technology (LASST)",
-  "sponsor": "Legal Advocates for Safe Science and Technology (LASST)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas",
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "amount": "Pago: $70,000",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-12"
-  },
-  "notes": "A 10-week summer fellowship conducting legal and regulatory research on risks from advanced science and technology.\n\n- Research biotechnology regulation and AI governance questions\n- Direct mentorship from experienced attorneys on a small legal team\n- Join strategy meetings shaping advocacy and litigation plans\n- Produce one white paper or legal research memo",
-  "url": "https://lasstorg.substack.com/p/lasst-now-accepting-applications",
-  "applyUrl": "https://lasstorg.substack.com/p/lasst-now-accepting-applications",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-science-and-technology-policy-fellow-legislative-branch-cohort-in-ai",
   "slug": "science-and-technology-policy-fellow-legislative-branch-cohort-in-ai",
   "name": "Science and Technology Policy Fellow, Legislative Branch Cohort in AI",
@@ -17480,35 +17629,6 @@
   "notes": "A one-year fellowship applying AI research and analysis to biological-threat early warning, public health surveillance, and biosecurity.\n- Assess emerging AI capabilities, limitations, and public health use cases\n- Develop and test AI-enabled analytical approaches and prototypes\n- Research biology-related AI capabilities and biosecurity implications\n- Gain mentorship and practical experience in biothreat early warning",
   "url": "https://www.linkedin.com/jobs/view/4464659437/",
   "applyUrl": "https://www.linkedin.com/jobs/view/4464659437/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-winter-research-fellowship-eu-law-2027",
-  "slug": "winter-research-fellowship-eu-law-2027",
-  "name": "Winter Research Fellowship, EU Law (2027)",
-  "sponsor": "Institute for Law & AI (LawAI)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Cambridge, UK. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-12"
-  },
-  "notes": "A full-time research fellowship focused on EU law, the EU AI Act, and frontier AI governance.\n\n- Develop or contribute to legal research and advisory projects\n- Receive tailored mentorship, career planning, and expert engagement\n- £1,000 weekly stipend, with relocation support for Cambridge-based fellows\n- Runs February–April 2027, with a possible five-week extension",
-  "url": "https://law-ai.org/wrf-eu/",
-  "applyUrl": "https://law-ai.org/wrf-eu/",
   "updatedAt": "2026-10-01"
  },
  {
@@ -18735,45 +18855,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-request-for-founders-halcyon-futures",
-  "slug": "request-for-founders-halcyon-futures",
-  "name": "Request for Founders · Halcyon Futures",
-  "sponsor": "Halcyon Futures",
-  "source": "financiamiento",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas",
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos",
-   "Reino Unido",
-   "Europa",
-   "Canadá",
-   "Latinoamérica y el Caribe",
-   "Asia",
-   "África",
-   "Australia",
-   "México",
-   "Medio Oriente"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Global. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "Help launch and scale organizations addressing catastrophic AI risks across technical, policy, biosecurity, cybersecurity, and field-building domains.\n\n* Build a new high-impact organization tackling AI-related global risks.\n* Receive funding to start and grow ambitious institutions.\n* Focus on neglected technical, policy, or resilience challenges.\n* Target experienced founders, researchers, operators, and public-sector leaders.",
-  "url": "https://halcyonfutures.org/founders",
-  "applyUrl": "https://halcyonfutures.org/founders",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-rosalind-biodefense-program-openai",
   "slug": "rosalind-biodefense-program-openai",
   "name": "Rosalind Biodefense Program · OpenAI",
@@ -18977,36 +19058,6 @@
   "notes": "Explore effective altruism through talks, workshops, and networking with an engaged European community.\n\n* Attend talks, workshops, and discussions on global challenges.\n* Connect with peers, employers, and experienced community members.\n* Explore high-impact careers and effective ways to contribute.\n* Build lasting relationships through meetups and one-on-one meetings.",
   "url": "https://www.effectivealtruism.org/ea-global/events/eagxberlin-2026",
   "applyUrl": "https://www.effectivealtruism.org/ea-global/events/eagxberlin-2026",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-ea-summit-istanbul-efektif-altruizm-turkiye",
-  "slug": "ea-summit-istanbul-efektif-altruizm-turkiye",
-  "name": "EA Summit: Istanbul · Efektif Altruizm Türkiye",
-  "sponsor": "Efektif Altruizm Türkiye",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Evento"
-  ],
-  "areas": [
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "Medio Oriente",
-   "Turquía"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Istanbul, Turkey. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-24"
-  },
-  "notes": "Join a community event exploring effective altruism through talks, workshops, and networking for newcomers and experienced members alike.\n\n* Learn core effective altruism concepts and priority cause areas\n* Attend workshops, discussions, and organization fair sessions\n* Connect with peers, mentors, and potential collaborators\n* Explore career, donation, and project opportunities",
-  "url": "https://www.effectivealtruism.org/ea-global/events/ea-summit-istanbul",
-  "applyUrl": "https://www.effectivealtruism.org/ea-global/events/ea-summit-istanbul",
   "updatedAt": "2026-10-01"
  },
  {
@@ -20626,8 +20677,8 @@
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Washington, USA. Revisa los requisitos en la convocatoria.",
   "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
+   "kind": "exacta",
+   "date": "2026-10-25"
   },
   "notes": "An internship for students interested in open-source research on global proliferation and sanctions evasion networks.\n- Work on real-world investigations into weapons of mass destruction supply chains\n- Build skills using trade databases and open-source intelligence tools\n- Collaborate with a small, nonpartisan team advancing nonproliferation policy\n- Foreign language skills (Mandarin, Farsi, Arabic) and technical knowledge valued\n\nThis text was generated by AI. If you notice any inconsistencies, please let us know using this [form](https://airtable.com/appngKrXQ99QHsAo4/shrrnPHkHnhTQNA4u)",
   "url": "https://www.wisconsinproject.org/about-us/employment/",
