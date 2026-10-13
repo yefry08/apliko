@@ -15922,6 +15922,96 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-public-policy-and-communications-intern",
+  "slug": "public-policy-and-communications-intern",
+  "name": "Public Policy and Communications Intern",
+  "sponsor": "Innovations for Poverty Action",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "Latinoamérica y el Caribe",
+   "Colombia"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Colombia. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "notes": "Support evidence-based public policy communications through research synthesis, strategic messaging, and communication products.\n\n- Plan and monitor communication activities and outputs\n- Draft briefs, technical notes, presentations, and policy materials\n- Summarize research evidence for technical and non-technical audiences\n- Create content for social media and other communication channels",
+  "url": "https://poverty-action.org/practicante-de-politicas-publicas-y-comunicacion",
+  "applyUrl": "https://poverty-action.org/practicante-de-politicas-publicas-y-comunicacion",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-ai-safety-essentials-fellowship",
+  "slug": "ai-safety-essentials-fellowship",
+  "name": "AI Safety Essentials Fellowship",
+  "sponsor": "Global AI Youth Network Sub Saharan Africa",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "África"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (Africa). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-08"
+  },
+  "notes": "A 7-week fellowship where participants study AI safety, join facilitated discussions, and develop a capstone or next-step learning pathway.\n\n- Weekly pre-reading and live group calls on AI safety topics\n- Sessions on existential risk, frontier models, alignment, and governance\n- Mentorship from researchers, governance fellows, and peer builders\n- Capstone proposal support and guidance toward fellowships, internships, and micro grants",
+  "url": "https://gainssa.org/initiatives/fellowship",
+  "applyUrl": "https://gainssa.org/initiatives/fellowship",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-board-member-incl-chair-ea-somalia",
+  "slug": "board-member-incl-chair-ea-somalia",
+  "name": "Board Member (incl. Chair) · EA Somalia",
+  "sponsor": "EA Somalia",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Asesoría",
+   "Voluntariado"
+  ],
+  "areas": [
+   "Altruismo eficaz"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Volunteer board role helping guide strategy, governance, and growth for an emerging national Effective Altruism organisation.\n\n- Shape vision, priorities, and evidence-informed strategic decisions\n- Strengthen governance, oversight, and organisational policies\n- Support fundraising, partnerships, and links to the global EA community\n- Around five hours a month, fully remote; Chair option available",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSerLlEDXFxbsouySTKvN4Df_jceUA5-LeHEirTG3NHN7q29ng/viewform?usp=dialog",
+  "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSerLlEDXFxbsouySTKvN4Df_jceUA5-LeHEirTG3NHN7q29ng/viewform?usp=dialog",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-generator-residency-kairos-constellation",
   "slug": "generator-residency-kairos-constellation",
   "name": "Generator Residency · Kairos, Constellation",
@@ -16577,68 +16667,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-intern-data-and-campaign-centre-for-future-generations-cfg",
-  "slug": "intern-data-and-campaign-centre-for-future-generations-cfg",
-  "name": "Intern, Data and Campaign · Centre for Future Generations (CFG)",
-  "sponsor": "Centre for Future Generations (CFG)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas",
-   "Gobernanza y decisiones institucionales"
-  ],
-  "levels": [],
-  "destinations": [
-   "Europa",
-   "Bélgica"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Brussels, Belgium. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-13"
-  },
-  "notes": "Entry-level internship supporting campaign planning, evaluation and CRM work around policy research on emerging technologies.\n\n- Design and run evaluations of campaigns, then report what worked\n- Build dashboards and quarterly reporting for the leadership team\n- Draft newsletter, social and website content around publications\n- Maintain CRM records and log engagement across channels",
-  "url": "https://stichtingicfg.bamboohr.com/careers/67",
-  "applyUrl": "https://stichtingicfg.bamboohr.com/careers/67",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-intern-community-and-events-centre-for-future-generations-cfg",
-  "slug": "intern-community-and-events-centre-for-future-generations-cfg",
-  "name": "Intern, Community and Events · Centre for Future Generations (CFG)",
-  "sponsor": "Centre for Future Generations (CFG)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas",
-   "Gobernanza y decisiones institucionales"
-  ],
-  "levels": [],
-  "destinations": [
-   "Europa",
-   "Bélgica"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Brussels, Belgium. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-13"
-  },
-  "notes": "Entry-level internship supporting events and community building for an emerging technology governance think tank.\n\n- Help plan and deliver policy roundtables and large public gatherings\n- Map and connect the people working on technology governance in Europe\n- Learn event logistics, invitations, registration and on-the-day coordination\n- Mentored by a senior communications manager under a structured training plan",
-  "url": "https://stichtingicfg.bamboohr.com/careers/68",
-  "applyUrl": "https://stichtingicfg.bamboohr.com/careers/68",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-fellowship-field-epidemiology-or-public-health-microbiology-cohort-2027",
   "slug": "fellowship-field-epidemiology-or-public-health-microbiology-cohort-2027",
   "name": "Fellowship, Field Epidemiology or Public Health Microbiology (Cohort 2027)",
@@ -17213,36 +17241,6 @@
   "notes": "Funding for programs and events on global catastrophic risks, effective altruism, biosecurity, forecasting, and related areas.\n\n- Supports fellowships, scholarships, internships, residencies, courses, and conferences\n- Open to both in-person and online activities, at any career stage\n- Individual one-off programs and organizations running programs both eligible\n- Rolling assessment, with most decisions within three months",
   "url": "https://coefficientgiving.org/funds/global-catastrophic-risks-opportunities/funding-for-programs-and-events-on-global-catastrophic-risk-effective-altruism-and-other-topics/",
   "applyUrl": "https://coefficientgiving.org/funds/global-catastrophic-risks-opportunities/funding-for-programs-and-events-on-global-catastrophic-risk-effective-altruism-and-other-topics/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-intern-administrative-and-financial-assistant",
-  "slug": "intern-administrative-and-financial-assistant",
-  "name": "Intern, Administrative and Financial Assistant",
-  "sponsor": "Living Goods",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Salud global y desarrollo"
-  ],
-  "levels": [],
-  "destinations": [
-   "África",
-   "Burkina Faso"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Ouagadougou, Burkina Faso. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "An entry-level administrative and finance internship supporting community health operations through hands-on training in finance and procurement processes.\n\n- Digitize and archive accounting records and supplier invoices.\n- Assist with inventory management and vehicle log verification.\n- Support payment verification and banking procedures.\n- Receive on-the-job training from finance and procurement staff.",
-  "url": "https://livinggoods.applytojob.com/apply/BBtCUuYl7Y/Stagiaire-Assistant-e-Administratif-ve-Et-Financier-e-",
-  "applyUrl": "https://livinggoods.applytojob.com/apply/BBtCUuYl7Y/Stagiaire-Assistant-e-Administratif-ve-Et-Financier-e-",
   "updatedAt": "2026-10-01"
  },
  {
@@ -22249,5 +22247,39 @@
   "url": "https://opportunitiesforyouth.org/2026/10/06/jerome-r-lewis-legislative-fellows-program-2027-paid-public-policy-fellowship-at-the-university-of-delaware/",
   "applyUrl": "https://www.udel.edu/academics/colleges/biden-school/research-public-service/ipa/students/legislative-fellows-program/",
   "updatedAt": "2026-10-06"
+ },
+ {
+  "id": "rss-trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027",
+  "slug": "trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027",
+  "name": "Trinity College Dublin PhD Researcher in Sociology Scholarship 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Salud",
+   "Ingeniería",
+   "Políticas públicas",
+   "Ciencias"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Irlanda"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "their inclusion in the research topic does not establish any nationality or ethnicity restriction for applicants",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-30"
+  },
+  "notes": "Are you a postgraduate graduate with a background in Sociology, Social Policy, Sociology of Health, or a related social science discipline looking for a fully funded PhD opportunity in Europe?",
+  "url": "https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/",
+  "updatedAt": "2026-10-13"
  }
 ]
