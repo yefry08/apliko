@@ -22281,5 +22281,39 @@
   "notes": "Are you a postgraduate graduate with a background in Sociology, Social Policy, Sociology of Health, or a related social science discipline looking for a fully funded PhD opportunity in Europe?",
   "url": "https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/",
   "updatedAt": "2026-10-13"
+ },
+ {
+  "id": "rss-climatecap-mba-fellowship-2027",
+  "slug": "climatecap-mba-fellowship-2027",
+  "name": "ClimateCAP MBA Fellowship 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Tecnología",
+   "Políticas públicas",
+   "Economía",
+   "Negocios"
+  ],
+  "levels": [
+   "pregrado",
+   "doctorado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "students currently enrolled in mba programmes around the world are welcome to apply, provided they satisfy the programme’s enrolment and other eligibility require",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "notes": "Applications are open for the ClimateCAP MBA Fellowship 2027 , a 12-month professional and academic development programme designed for Master of Business Administration (MBA) students who want to understand the relationship between climate change, business strategy, investment, innovation and sustainable economic devel",
+  "url": "https://opportunitiesforyouth.org/2026/10/14/climatecap-mba-fellowship-2027-apply-for-a-global-climate-leadership-fellowship-for-mba-students/",
+  "applyUrl": "https://go.fuqua.duke.edu/fuqualbws/application/form",
+  "updatedAt": "2026-10-14"
  }
 ]
