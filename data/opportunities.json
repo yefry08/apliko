@@ -15922,6 +15922,271 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-global-health-strategy-intern-path",
+  "slug": "global-health-strategy-intern-path",
+  "name": "Global Health Strategy Intern · PATH",
+  "sponsor": "PATH",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Washington, DC / Remote (US). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-26"
+  },
+  "notes": "Support PATH’s multilateral development bank strategy by researching health projects and identifying funding opportunities in priority countries.\n\n- Collect data on MDB-funded health projects in selected geographies\n- Build a library of health priorities, activities, and opportunities\n- Summarize funding trends from desk research and stakeholder engagement\n- Review funding portals with the project manager to spot opportunities",
+  "url": "https://path.wd1.myworkdayjobs.com/en-US/External/job/Global-Health-Strategy-Intern_JR2844",
+  "applyUrl": "https://path.wd1.myworkdayjobs.com/en-US/External/job/Global-Health-Strategy-Intern_JR2844",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-funding-strep-a-rheumatic-heart-disease-vaccine-development",
+  "slug": "funding-strep-a-rheumatic-heart-disease-vaccine-development",
+  "name": "Funding: Strep A/Rheumatic Heart Disease Vaccine Development",
+  "sponsor": "Coefficient Giving",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Funding for projects advancing Strep A vaccines and related work to reduce rheumatic heart disease.\n\n- Phase 1 and controlled human infection model clinical trials\n- Epidemiology, immunology, preclinical models, and in vitro assays\n- Next-generation vaccine candidates, including new antigens and delivery optimization\n- Regulatory, policy, and delivery preparation, including LMIC disease burden research",
+  "url": "https://coefficientgiving.org/funds/strep-a-vaccine-fund/open-call/",
+  "applyUrl": "https://coefficientgiving.org/funds/strep-a-vaccine-fund/open-call/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-rapid-grants-bluedot-impact",
+  "slug": "rapid-grants-bluedot-impact",
+  "name": "Rapid Grants · BlueDot Impact",
+  "sponsor": "BlueDot Impact",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Bioseguridad y salud pública",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Funding for people making progress on AI safety or biosecurity, from exploring a promising direction to carrying out a concrete project.\n\n- Up to $20,000 for research, learning, time, and living costs\n- Funds projects and experiments, including compute, tools, and testing ideas\n- Supports events and community activities like meetups and venue costs\n- Can cover travel and collaboration for conferences, fieldwork, and partnerships",
+  "url": "https://bluedot.org/grants/rapid",
+  "applyUrl": "https://bluedot.org/grants/rapid",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-expression-of-interest-center-on-long-term-risk",
+  "slug": "expression-of-interest-center-on-long-term-risk",
+  "name": "Expression of Interest · Center on Long-Term Risk",
+  "sponsor": "Center on Long-Term Risk",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Proyecto independiente"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Open application to share your interests for potentially relevant future roles and related opportunities.\n\n- Submit your details for future position notifications\n- Be contacted about roles relevant to your interests\n- Discuss your interests further in some cases\n- Receive relevant resources",
+  "url": "https://longtermrisk.org/jobs/interest/",
+  "applyUrl": "https://longtermrisk.org/jobs/interest/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-clr-fund-center-on-long-term-risk",
+  "slug": "clr-fund-center-on-long-term-risk",
+  "name": "CLR Fund · Center on Long-Term Risk",
+  "sponsor": "Center on Long-Term Risk",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Funding for individuals, academics, and organizations doing research relevant to s-risks and CLR’s priority areas.\n\n- Supports independent research, academic projects, and collaborative work\n- Can fund tuition, living costs, teaching buy-outs, and research expenses\n- Open to individuals, academic institutions, and charitable organizations\n- Applications are reviewed and grants awarded on a rolling basis",
+  "url": "https://longtermrisk.org/grantmaking/",
+  "applyUrl": "https://longtermrisk.org/grantmaking/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-ai-horizons-forum-quorum",
+  "slug": "ai-horizons-forum-quorum",
+  "name": "AI Horizons Forum · Quorum",
+  "sponsor": "Quorum",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Evento"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: San Francisco, CA. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-27"
+  },
+  "notes": "A two-day forum on transformative AI where attendees hear talks, join 1:1s, and build collaborations on AI safety and governance.\n\n- Talks on key field updates and strategic priorities\n- Structured networking, including 1:1s and speed networking\n- Sessions on alignment, control, and effective governance\n- Opportunities for collaborations, funding connections, and hiring",
+  "url": "https://www.aihorizonsforum.org/",
+  "applyUrl": "https://www.aihorizonsforum.org/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-2027-28-cohort-100x-impact",
+  "slug": "2027-28-cohort-100x-impact",
+  "name": "2027/28 cohort · 100x Impact",
+  "sponsor": "100x Impact",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Salud global y desarrollo",
+   "Cambio climático"
+  ],
+  "levels": [],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: London, UK. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "A 16-week hybrid accelerator at the London School of Economics for impact ventures aiming to scale their work hundredfold.\n\n- Free programme with sponsored trips to London at start and end\n- Tailored strategy support, expert advice and peer learning with LSE researchers\n- Focus on scaling pathways, impact measurement and leadership under growth\n- Selected ventures may be considered for follow-on catalytic funding",
+  "url": "https://www.100ximpact.org/",
+  "applyUrl": "https://www.100ximpact.org/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-cities-deliver-ai-solutions-for-public-services",
+  "slug": "cities-deliver-ai-solutions-for-public-services",
+  "name": "Cities Deliver: AI Solutions for Public Services",
+  "sponsor": "OpenAI Foundation, The Rockefeller Foundation",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Gobernanza y decisiones institucionales"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-03-01"
+  },
+  "notes": "Grants for organizations working with city governments to use AI to improve public services in underserved communities.\n\n- Funds seed pilots or scaling existing city-tested solutions\n- Supports public health, economic mobility, environmental resilience, and civic engagement projects\n- Grants range from $500,000 to $2 million over 24 months\n- Includes peer learning, evaluation support, and some technical assistance",
+  "url": "https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/",
+  "applyUrl": "https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-conceptual-reasoning-fellow-anthropic",
+  "slug": "conceptual-reasoning-fellow-anthropic",
+  "name": "Conceptual Reasoning Fellow · Anthropic",
+  "sponsor": "Anthropic",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: San Francisco, CA / Remote (US). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-28"
+  },
+  "notes": "A four-month fellowship for experts to work with Anthropic researchers on improving Claude’s reasoning in their field.\n\n- Scoped research project with mentorship from Anthropic researchers\n- Access to frontier Claude models and internal evaluation tooling\n- Design evaluations and RL environments for field-specific reasoning tasks\n- Collaborate with a cohort on judgment-heavy problems in law, policy, philosophy, economics, or cognitive science",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
+  "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-public-policy-and-communications-intern",
   "slug": "public-policy-and-communications-intern",
   "name": "Public Policy and Communications Intern",
@@ -17835,35 +18100,6 @@
   "notes": "Paid 10-week research fellowship placing law students, professionals, and academics at the frontier of AI, law, and policy.\n\n- Develop a tailored research project with a dedicated mentor\n- Focus areas include Law-Following AI and automated governance\n- Weekly subsidy, plus a funded Convening Week and workshop\n- Q&A sessions with leading experts and career planning support",
   "url": "https://law-ai.org/srf-lf/",
   "applyUrl": "https://law-ai.org/srf-lf/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-harambeans-africa-jobs-fund-prize",
-  "slug": "harambeans-africa-jobs-fund-prize",
-  "name": "Harambeans Africa Jobs Fund Prize",
-  "sponsor": "Africa Jobs Fund",
-  "source": "financiamiento",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Concurso"
-  ],
-  "areas": [
-   "Salud global y desarrollo"
-  ],
-  "levels": [],
-  "destinations": [
-   "África"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Africa. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-14"
-  },
-  "notes": "A competitive prize supporting African entrepreneurs to build export manufacturing businesses that create higher-productivity jobs in Africa.\n\n- Winner receives $20,000 in grant funding and Harambeans Alliance admission\n- Offers a potential pathway to up to $1 million in further investment\n- Supports early-stage ventures and entrepreneurs with compelling business ideas\n- Focuses on scalable, labour-intensive export manufacturing",
-  "url": "https://www.africajobsfund.com/opportunities/harambeans-prize",
-  "applyUrl": "https://www.africajobsfund.com/opportunities/harambeans-prize",
   "updatedAt": "2026-10-01"
  },
  {
@@ -20064,36 +20300,6 @@
   "notes": "The Mirror Biology Dialogues Fund (MBDF) invites expressions of interest from individuals passionate about addressing the risks of \"mirror life\"—synthetic organisms built from mirror-image molecules.\n\n- Opportunities available in science, policy, and operations, with the potential for exceptional candidates to be considered outside formal hiring rounds.\n- Contribute to global efforts to understand and avert unprecedented ecological and health risks associated with mirror life.\n- Collaborate with leading scientists, policymakers, and civil society to shape international dialogue and policy.\n- Fast-moving, mission-driven nonprofit with an international team and support from major foundations.\n\nAlternate application pathways are available for science, policy, operations, and general interest via the links on the MBDF jobs page.",
   "url": "https://www.mbdialogues.org/jobs/",
   "applyUrl": "https://www.mbdialogues.org/jobs/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-rapid-grants-bluedot-impact",
-  "slug": "rapid-grants-bluedot-impact",
-  "name": "Rapid Grants · BlueDot Impact",
-  "sponsor": "BlueDot Impact",
-  "source": "financiamiento",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fondos",
-   "Proyecto independiente"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "BlueDot Impact's Rapid Grants program funds concrete AI safety work — from research projects and events to community building — for people in the BlueDot network.\n\n- Grants typically range from **$50 to $10,000**, with decisions in around **5 working days** and payment upfront by default\n- Eligible costs include compute and API credits, events and meetups, travel, research access, community chapters, and project tooling\n- Open to BlueDot course participants, alumni, facilitators, and active community members doing excellent work on AI safety\n- A short impact update is all that's required when the work is done — no formal report\n\nApply directly via the [Rapid Grants application form](https://airtable.com/appMVNtdBtvtJvu5E/pag9G3oF4DYAyassX/form). If your funding need exceeds $10,000, contact BlueDot directly as other programs may be available.\n\n*No visa requirements are mentioned on the source page.*",
-  "url": "https://bluedot.org/programs/rapid-grants",
-  "applyUrl": "https://bluedot.org/programs/rapid-grants",
   "updatedAt": "2026-10-01"
  },
  {
@@ -22315,5 +22521,38 @@
   "url": "https://opportunitiesforyouth.org/2026/10/14/climatecap-mba-fellowship-2027-apply-for-a-global-climate-leadership-fellowship-for-mba-students/",
   "applyUrl": "https://go.fuqua.duke.edu/fuqualbws/application/form",
   "updatedAt": "2026-10-14"
+ },
+ {
+  "id": "rss-dw-traineeship-2028-2029-in-germany",
+  "slug": "dw-traineeship-2028-2029-in-germany",
+  "name": "DW Traineeship 2028–2029 in Germany",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship",
+   "Internship"
+  ],
+  "areas": [
+   "Periodismo",
+   "Tecnología",
+   "Derecho",
+   "Economía"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Alemania"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "ons: dw editorial offices in bonn and berlin, with exposure to regional bureaus around the world application method: online application through the official dw recruitment portal applicants should",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-17"
+  },
+  "notes": "The DW Traineeship 2028–2029 is now open for applications, offering aspiring journalists an opportunity to develop professional journalism skills through an intensive, paid 18-month training program with Deutsche Welle (DW), Germany’s international broadcaster.",
+  "url": "https://opportunitiesforyouth.org/2026/10/14/paid-dw-traineeship-2027-dw-volontariat-apply-for-one-of-germanys-most-prestigious-journalism-programs/",
+  "updatedAt": "2026-10-15"
  }
 ]
