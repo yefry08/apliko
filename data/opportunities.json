@@ -22554,5 +22554,73 @@
   "notes": "The DW Traineeship 2028–2029 is now open for applications, offering aspiring journalists an opportunity to develop professional journalism skills through an intensive, paid 18-month training program with Deutsche Welle (DW), Germany’s international broadcaster.",
   "url": "https://opportunitiesforyouth.org/2026/10/14/paid-dw-traineeship-2027-dw-volontariat-apply-for-one-of-germanys-most-prestigious-journalism-programs/",
   "updatedAt": "2026-10-15"
+ },
+ {
+  "id": "rss-asian-development-bank-japan-scholarship-program-2026",
+  "slug": "asian-development-bank-japan-scholarship-program-2026",
+  "name": "Asian Development Bank–Japan Scholarship Program 2026",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Políticas públicas",
+   "Economía",
+   "Negocios",
+   "Medio ambiente"
+  ],
+  "levels": [
+   "maestria",
+   "profesional"
+  ],
+  "destinations": [
+   "Japón",
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "erstand that this is a targeted scholarship rather than a general award open to all nationalities",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-01"
+  },
+  "notes": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education?",
+  "url": "https://opportunitiesforyouth.org/2026/10/16/asian-development-bank-japan-scholarship-program-2026-fully-funded-masters-scholarships-at-the-east-west-center-in-the-usa/",
+  "applyUrl": "https://eastwestcenter.submittable.com/submit/c537e27c-c696-4362-9e9f-1711d1aa9fa7/asian-development-bank-japan-scholarship-program-adb-jsp-2026",
+  "updatedAt": "2026-10-16"
+ },
+ {
+  "id": "rss-call-for-experts",
+  "slug": "call-for-experts",
+  "name": "Call for Experts",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Periodismo",
+   "Derecho",
+   "Educación",
+   "Artes"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": ", researchers, analysts, practitioners, companies and other legal entities from around the world",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-06"
+  },
+  "notes": "The SALTO Participation and Information Resource Centre (SALTO PI) has announced a Call for Experts and Contributors to develop the P² Dossiers – Sectorial Blueprints on Participation , a collection of practical publications designed to strengthen democratic participation, common values and civic engagement across diff",
+  "url": "https://opportunitiesforyouth.org/2026/10/16/call-for-experts-salto-participation-and-information-resource-centre-opens-applications-for-p%c2%b2-dossiers-on-democratic-participation/",
+  "applyUrl": "https://forms.cloud.microsoft/e/kSvtzhF1i0",
+  "updatedAt": "2026-10-16"
  }
 ]
