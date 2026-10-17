@@ -13,7 +13,8 @@ export function AccountLink() {
           Entrar
         </Link>
         <Link href="/registro" className="rounded-full bg-primary px-3 py-1 text-primary-foreground hover:opacity-90">
-          Crear cuenta
+          <span className="sm:hidden">Registro</span>
+          <span className="hidden sm:inline">Crear cuenta</span>
         </Link>
       </>
     );
