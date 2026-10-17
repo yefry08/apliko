@@ -803,6 +803,67 @@ html:has(.case-overlay[open]) {
   75% { transform: rotate(3deg); }
 }
 
+/* ------------------------------------------------------------------ sign up */
+
+.signup-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
+  align-items: start;
+  gap: 40px;
+  margin-top: 96px;
+  padding-top: 40px;
+  border-top: 1px solid var(--line);
+}
+
+.signup-copy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.signup-copy h2 {
+  font-size: clamp(2rem, 3.4vw, 3rem);
+  line-height: 1.1;
+  letter-spacing: -0.8px;
+}
+
+.signup-copy p {
+  max-width: 420px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--ink-muted);
+}
+
+.signup-benefits {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.signup-benefits li {
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+}
+
+.signup-benefits h3 {
+  margin-bottom: 8px;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--navy);
+}
+
+.signup-benefits p {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--ink-muted);
+}
+
 /* ------------------------------------------------------------------ contact */
 
 .contact-section {
@@ -950,6 +1011,10 @@ html:has(.case-overlay[open]) {
   .eligibility-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
+
+  .signup-section {
+    grid-template-columns: minmax(0, 1fr);
+  }
 }
 
 @media (max-width: 799px) {
@@ -1090,6 +1155,14 @@ html:has(.case-overlay[open]) {
 
   .contact-section {
     padding: 28px 24px;
+  }
+
+  .signup-section {
+    margin-top: 56px;
+  }
+
+  .signup-benefits {
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .case-overlay {

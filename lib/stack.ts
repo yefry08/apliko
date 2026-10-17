@@ -16,7 +16,10 @@ export const stackApp = authConfigured
       redirectMethod: "nextjs",
       urls: {
         signIn: "/entrar",
-        signUp: "/entrar",
+        signUp: "/registro",
+        emailVerification: "/entrar/verificar",
+        forgotPassword: "/entrar/recuperar",
+        passwordReset: "/entrar/nueva-clave",
         oauthCallback: "/entrar/callback",
         afterSignIn: "/mis-becas",
         afterSignUp: "/mis-becas",

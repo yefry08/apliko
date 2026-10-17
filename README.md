@@ -91,8 +91,31 @@ Cómo encaja:
 - El navegador nunca habla con Postgres. Pide y envía a `app/api/sync`, con el token de la sesión
   en la cabecera; el servidor lo verifica contra el JWKS del proyecto (`lib/auth.ts`) antes de consultar.
 - `lib/sync.ts` combina ambos lados al entrar: gana la edición más reciente y no se pierde nada.
-- `app/entrar`: Google, GitHub o email con contraseña. El enlace mágico está apagado en el proyecto
-  de Neon Auth; si lo prefieres, se enciende desde el panel de Neon y se cambia el formulario.
+- `app/entrar` (entrar) y `app/registro` (crear cuenta): Google, GitHub o email con contraseña, con el mismo
+  formulario (`app/entrar/login-form.tsx`). Los correos de la cuenta llegan a `app/entrar/verificar` (verificar el
+  email) y `app/entrar/nueva-clave` (contraseña nueva, pedida en `app/entrar/recuperar`). El enlace mágico está apagado.
+- Antibot: Cloudflare Turnstile (gratis) en crear cuenta, entrar con email y recuperar contraseña
+  (`components/turnstile.tsx`); `app/api/turnstile` confirma el token con Cloudflare. Sin `NEXT_PUBLIC_TURNSTILE_SITE_KEY`
+  y `TURNSTILE_SECRET_KEY` se apaga solo. En desarrollo, `.env.development.local` usa las claves de prueba de Cloudflare.
+  Limitación: el registro va del navegador directo a Neon Auth, así que Turnstile frena bots que usan el formulario, no
+  a uno que llame a la API de Neon Auth por su cuenta. Lo que impide que esas cuentas sirvan es pedir el email verificado.
+- Roles (`lib/roles.ts`): `usuario`, `admin` y `superadmin`. El super admin es la cuenta cuyo email verificado es
+  `SUPERADMIN_EMAIL`; los admins están en la tabla `user_roles` (`db/migrations/0003_roles.sql`, ya ejecutado en Neon).
+  `app/admin` muestra cuentas y estadísticas a admins; solo el super admin nombra o quita admins (`app/api/admin`).
+  Las cuentas salen de `neon_auth.users_sync`, la copia que Neon Auth mantiene en la base; las sesiones anónimas no cuentan.
+
+### Correos de la cuenta con Gmail (gratis)
+
+Neon Auth manda los correos de verificación y de contraseña nueva. Para que salgan desde tu Gmail en vez del remitente
+compartido de Stack:
+
+1. En tu cuenta de Google activa la verificación en dos pasos y crea una contraseña de aplicación
+   (myaccount.google.com/apppasswords).
+2. En Neon > proyecto `apliko` > Auth > Configuration > Email server, elige servidor propio (SMTP):
+   host `smtp.gmail.com`, puerto `587`, usuario tu Gmail, contraseña la de aplicación, remitente tu Gmail y nombre ApliKo.
+3. En Auth > Configuration > Email & password, actívalo y marca que pida verificar el email al registrarse.
+
+Gmail permite unos 500 correos al día, de sobra para estos avisos.
 
 ## Producción
 

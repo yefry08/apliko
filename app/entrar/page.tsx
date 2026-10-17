@@ -20,7 +20,7 @@ export default function EntrarPage() {
             que en la computadora.
           </p>
         </div>
-        <LoginForm />
+        <LoginForm mode="entrar" />
       </main>
       <SiteFooter />
     </>

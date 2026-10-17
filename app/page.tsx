@@ -3,6 +3,7 @@ import { DeadlineMarquee } from "@/components/deadline-marquee";
 import { deadlineText } from "@/components/opportunity-bits";
 import { AreaExplorer, type AreaSummary } from "@/components/portada/area-explorer";
 import { Keycaps } from "@/components/portada/keycaps";
+import { RegistroNavLink, RegistroSection } from "@/components/registro";
 import { SiteFooter } from "@/components/site-chrome";
 import { HeroScene } from "@/components/three/hero-scene";
 import { LazyGlobe } from "@/components/three/lazy-scenes";
@@ -103,6 +104,9 @@ export default function Home() {
             </li>
             <li>
               <Link href="/mi-perfil">Mi perfil</Link>
+            </li>
+            <li>
+              <RegistroNavLink />
             </li>
           </ul>
           <a className="nav-cta" href="#contact">
@@ -219,6 +223,8 @@ export default function Home() {
             </ol>
           </div>
         </section>
+
+        <RegistroSection />
 
         <section className="contact-section" id="contact" aria-labelledby="contact-title">
           <h2 id="contact-title">Encuentra tu beca</h2>
