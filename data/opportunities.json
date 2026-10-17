@@ -16057,6 +16057,183 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-organization-builders-program-successif",
+  "slug": "organization-builders-program-successif",
+  "name": "Organization Builders Program · Successif",
+  "sponsor": "Successif",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-22"
+  },
+  "notes": "A programme connecting experienced organization builders with AI safety organizations through paid projects or direct-hire assessments.\n\n- Work on a real organizational growth need inside an AI safety organization\n- Explore fit through a project or assessment before committing permanently\n- Get peer support from others moving into AI safety\n- Potentially transition into a permanent operations or leadership role",
+  "url": "https://www.successif.org/organization-builders-program",
+  "applyUrl": "https://www.successif.org/organization-builders-program",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-founding-director-of-research-aixbioafrica",
+  "slug": "founding-director-of-research-aixbioafrica",
+  "name": "Founding Director of Research · AIxBioAfrica",
+  "sponsor": "AIxBioAfrica",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas",
+   "Bioseguridad y salud pública"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "África"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (Africa). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "A senior research leadership role shaping and overseeing a research agenda across AI safety, biosecurity, and African contexts.\n\n- Set the direction and raise the quality of research as the organization grows\n- Oversee research spanning AI safety, biosecurity, health, evaluation, and governance\n- Help build a research-to-capacity pipeline linking research, fellowships, courses, and webinars\n- Strengthen African participation in global AI safety and biosecurity work",
+  "url": "https://airtable.com/appkjlP1PITnNuUqa/pagwxrta9EFGpcuvY/form",
+  "applyUrl": "https://airtable.com/appkjlP1PITnNuUqa/pagwxrta9EFGpcuvY/form",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-abundance-and-growth-fund-coefficient-giving",
+  "slug": "abundance-and-growth-fund-coefficient-giving",
+  "name": "Abundance and Growth Fund · Coefficient Giving",
+  "sponsor": "Coefficient Giving",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Gobernanza y decisiones institucionales"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Funding for policy-focused projects that can boost economic growth and lower living costs in the US and other high-income countries.\n\n- Funds work on housing, energy, clinical trials, immigration, and innovation policy\n- Supports state capacity and abundance field-building efforts\n- Also considers transportation, economic dynamism, and health care policy proposals\n- No hard grant cap; amounts vary by proposal and fit",
+  "url": "https://coefficientgiving.org/funds/abundance-and-growth/apply-for-a-grant-from-the-abundance-and-growth-fund/",
+  "applyUrl": "https://coefficientgiving.org/funds/abundance-and-growth/apply-for-a-grant-from-the-abundance-and-growth-fund/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-intern-animal-farming-monitoring-and-early-warning-system",
+  "slug": "intern-animal-farming-monitoring-and-early-warning-system",
+  "name": "Intern, Animal Farming Monitoring and Early Warning System",
+  "sponsor": "Eurogroup for Animals",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (Europe). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Prototype an early warning system to detect emerging intensive and novel animal farming projects across Europe.\n\n- Map information sources signalling new farming developments\n- Evaluate web scraping, NLP, keyword monitoring, and AI classification\n- Design workflows to validate, prioritise, and share alerts\n- Document system architecture, methods, and future recommendations",
+  "url": "https://www.eurogroupforanimals.org/who-we-are/jobs/monitoring-early-warning-system-emerging-novel-animal-farming-internship",
+  "applyUrl": "https://www.eurogroupforanimals.org/who-we-are/jobs/monitoring-early-warning-system-emerging-novel-animal-farming-internship",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-ai-safety-research-fellowship",
+  "slug": "ai-safety-research-fellowship",
+  "name": "AI Safety Research Fellowship",
+  "sponsor": "Pivotal Research",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: London, UK. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-01"
+  },
+  "notes": "A 15-week fellowship for doing AI safety or governance research with mentor guidance and structured support.\n\n- Weekly 1-on-1 mentorship with established researchers\n- Research management to scope projects and navigate blockers\n- Workshops and Q&A sessions with domain experts\n- Full-time research project leading to papers, briefs, or other outputs",
+  "url": "http://ai.pivo.tl/?ref=80k",
+  "applyUrl": "http://ai.pivo.tl/?ref=80k",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-global-growth-fund-coefficient-giving",
+  "slug": "global-growth-fund-coefficient-giving",
+  "name": "Global Growth Fund · Coefficient Giving",
+  "sponsor": "Coefficient Giving",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Funding for policy research, advisory work, and advocacy to accelerate economic growth in low- and middle-income countries.\n\n- Support policy research and advisory work in LMICs\n- Fund advocacy connected to growth policy in rich countries\n- Explore export-oriented manufacturing and energy access strategies\n- Back work on extractive transparency, debt relief, trade, and investment",
+  "url": "https://coefficientgiving.org/funds/global-growth/",
+  "applyUrl": "https://coefficientgiving.org/funds/global-growth/",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-global-health-strategy-intern-path",
   "slug": "global-health-strategy-intern-path",
   "name": "Global Health Strategy Intern · PATH",
@@ -16547,7 +16724,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $71,509 – $79,036",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -16578,7 +16754,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $20/hour",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -16712,7 +16887,7 @@
   "id": "ea-visiting-research-fellow-global-health-development",
   "slug": "visiting-research-fellow-global-health-development",
   "name": "Visiting Research Fellow, Global Health & Development",
-  "sponsor": "Ambitious Impact (AIM) [Formerly Charity Entrepreneurship]",
+  "sponsor": "Ambitious Impact (AIM)",
   "source": "becas",
   "sourceName": "EA Opportunities Board (effectivealtruism.org)",
   "types": [
@@ -16758,7 +16933,6 @@
    "Reino Unido"
   ],
   "funding": "varia",
-  "amount": "Pago: $125,000 stipend",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: London, UK / New York, NY / San Francisco, CA. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -17117,7 +17291,6 @@
    "Hong Kong"
   ],
   "funding": "varia",
-  "amount": "Pago: $75,000 – $120,000",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Hong Kong / London, UK / Los Angeles, CA / New York, NY / San Francisco, CA / Seattle, WA / Washington, DC. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -17236,7 +17409,6 @@
    "Reino Unido"
   ],
   "funding": "varia",
-  "amount": "Pago: $170,000 – $210,000 (US) / £100,000 – £150,000 (UK)",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Oxford, UK / Berkeley, CA. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -17297,7 +17469,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $1,000/month",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -17336,37 +17507,6 @@
   "notes": "Spread One for the World’s effective giving message in your workplace and network to inspire others to pledge 1% to high-impact charities.\n\n- Host workplace or community talks about effective giving\n- Share resources with colleagues, friends, and peers\n- Encourage others to take the 1% Pledge\n- Join and help grow a global ambassador community",
   "url": "https://1fortheworld.org/community-ambassadors",
   "applyUrl": "https://1fortheworld.org/community-ambassadors",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-board-member-s-ret-americas",
-  "slug": "board-member-s-ret-americas",
-  "name": "Board Member(s) · RET Americas",
-  "sponsor": "RET Americas",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Voluntariado"
-  ],
-  "areas": [
-   "Salud global y desarrollo",
-   "Seguridad y relaciones internacionales"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (US preferred). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-16"
-  },
-  "notes": "Board member opportunity to help guide strategy, governance, and growth for a humanitarian nonprofit.\n\n- Oversee strategy, fiscal integrity, and CEO performance\n- Join quarterly board meetings and relevant committees or task forces\n- Support fundraising through annual Give/Get commitment and ambassadorial outreach\n- Initial three-year term, renewable by mutual agreement",
-  "url": "https://theret.org/job/wfh/board-members-for-ret-americas/",
-  "applyUrl": "https://theret.org/job/wfh/board-members-for-ret-americas/",
   "updatedAt": "2026-10-01"
  },
  {
@@ -17448,7 +17588,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $20/hour",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -17479,7 +17618,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $20/hour",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -17839,7 +17977,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $101,401 – $131,826",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Washington, DC. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -17870,7 +18007,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $20/hour",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -17998,35 +18134,6 @@
   "notes": "A free, 8-week introductory program exploring AI alignment through evening sessions and an optional structured fellowship track.\n\n- Learn alignment, mechanistic interpretability, reinforcement learning, training dynamics, and singular learning theory\n- Choose flexible Explorer participation or commit to the full Fellow track\n- Fellows attend at least 75% of sessions and complete a capstone project\n- Designed for beginners, students, and professionals exploring AI safety",
   "url": "https://odysea-ai.org/",
   "applyUrl": "https://odysea-ai.org/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-fellowship-artificial-intelligence-for-biothreat-early-warning",
-  "slug": "fellowship-artificial-intelligence-for-biothreat-early-warning",
-  "name": "Fellowship, Artificial Intelligence for Biothreat Early Warning",
-  "sponsor": "Oak Ridge Institute for Science and Education (ORISE)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Atlanta, GA. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-15"
-  },
-  "notes": "A one-year fellowship applying AI research and analysis to biological-threat early warning, public health surveillance, and biosecurity.\n- Assess emerging AI capabilities, limitations, and public health use cases\n- Develop and test AI-enabled analytical approaches and prototypes\n- Research biology-related AI capabilities and biosecurity implications\n- Gain mentorship and practical experience in biothreat early warning",
-  "url": "https://www.linkedin.com/jobs/view/4464659437/",
-  "applyUrl": "https://www.linkedin.com/jobs/view/4464659437/",
   "updatedAt": "2026-10-01"
  },
  {
@@ -18178,36 +18285,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-ea-summit-south-africa-2026",
-  "slug": "ea-summit-south-africa-2026",
-  "name": "EA Summit: South Africa 2026",
-  "sponsor": "Effective Altruism South Africa",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Evento"
-  ],
-  "areas": [
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "África",
-   "Sudáfrica"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Cape Town, South Africa. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-16"
-  },
-  "notes": "A one-day conference for people exploring how to use their careers and resources to address pressing global problems.\n\n- Hear talks on global health, animal welfare, biosecurity, AI safety, and effective giving\n- Join interactive workshops, discussions, and one-to-one conversations\n- Connect with experienced practitioners through a structured mentorship programme\n- Open to newcomers as well as experienced community members",
-  "url": "https://www.effectivealtruism.org/ea-global/events/ea-summit-south-africa-2026",
-  "applyUrl": "https://www.effectivealtruism.org/ea-global/events/ea-summit-south-africa-2026",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-summer-research-fellowship-legal-frontiers",
   "slug": "summer-research-fellowship-legal-frontiers",
   "name": "Summer Research Fellowship, Legal Frontiers",
@@ -18256,7 +18333,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $79,000 – $92,000",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -18346,7 +18422,6 @@
    "Reino Unido"
   ],
   "funding": "varia",
-  "amount": "Pago: $6,000/month",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Berkeley, CA. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -18557,7 +18632,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $6,752 – $8,201/month",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Livermore, CA. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -18588,7 +18662,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $23.26 – $31.62 Hourly",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Livermore, CA. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -18618,7 +18691,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $3.5K – $5K/monthly",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: New York, NY / San Francisco, CA / Remote. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -18795,7 +18867,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $120,000 – $150,000",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Sacramento, CA. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -18826,7 +18897,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $120,000 – $150,000",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Sacramento, CA. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -18836,65 +18906,6 @@
   "notes": "Support California's AI governance through technical policy advising and scientific analysis.\n\n- Advise on frontier AI policy, safety, and governance issues.\n- Synthesize stakeholder input and contribute legislative reports.\n- Coordinate experts across government, academia, industry, and communities.\n- Support responsible AI adoption in state government.",
   "url": "https://ccst.us/senior-ai-fellow-cdt/",
   "applyUrl": "https://ccst.us/senior-ai-fellow-cdt/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-request-for-proposals-for-cage-free-laying-hen-welfare",
-  "slug": "request-for-proposals-for-cage-free-laying-hen-welfare",
-  "name": "Request for Proposals for Cage-Free Laying Hen Welfare",
-  "sponsor": "EA Animal Welfare Fund (AWF)",
-  "source": "financiamiento",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Bienestar animal"
-  ],
-  "levels": [],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-15"
-  },
-  "notes": "The EA Animal Welfare Fund is seeking proposals to accelerate the global transition to cage-free egg production, with a focus on scaling high-impact interventions that improve laying hen welfare.\n\n- Funding for producer engagement, supply chain support, and cage-free standards in the Global South.\n- Supports corporate accountability, policy advocacy, and large-scale cage-free implementation.\n- Grants typically range from $250k–$2M, with larger multi-year funding for proven organizations.\n- Open to organizations with credible plans to spare at least one million hens from cages.",
-  "url": "https://funds.effectivealtruism.org/funds/animal-welfare",
-  "applyUrl": "https://funds.effectivealtruism.org/funds/animal-welfare",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-translators-clusterinfo",
-  "slug": "translators-clusterinfo",
-  "name": "Translators · ClusterInfo",
-  "sponsor": "ClusterInfo",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Voluntariado"
-  ],
-  "areas": [
-   "Salud mental y bienestar"
-  ],
-  "levels": [],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "varia",
-  "amount": "Pago: $300",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-15"
-  },
-  "notes": "Help review translated health guides to make reliable treatment information accessible to more patients worldwide.\n\n- Review guides in your native language for clarity and accuracy.\n- Volunteer to improve multilingual health resources.\n- Support faster access to trustworthy information.",
-  "url": "https://forum.effectivealtruism.org/posts/eMWsKbLFMy7ABdCLw/alfredo-parra-s-quick-takes#LcvvKpL3JDhpEe3k2",
-  "applyUrl": "https://forum.effectivealtruism.org/posts/eMWsKbLFMy7ABdCLw/alfredo-parra-s-quick-takes#LcvvKpL3JDhpEe3k2",
   "updatedAt": "2026-10-01"
  },
  {
@@ -19659,7 +19670,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $25 per hour for undergraduate students – $32.50 per hour for graduate students",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Washington, DC. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -21673,7 +21683,6 @@
    "En línea"
   ],
   "funding": "varia",
-  "amount": "Pago: $847.73 for their first cohort, and $423.86 for each additional cohort",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
   "deadline": {
@@ -21683,35 +21692,6 @@
   "notes": "Facilitate virtual programs to help participants learn about the core ideas of effective altruism while deepening your own understanding and making a positive impact.\n\n- Prepare for and lead weekly group discussions (3–8 participants) using provided materials and facilitator guides (2.5–4 hours/week per cohort)\n- Support participants, track attendance, and occasionally hold 1:1s; attend a training session\n- Receive a stipend based on your location, experience, and number of cohorts (see stipend calculator); payments available in countries supported by Wise (not available in sanctioned countries)\n- Application process includes a short form, trial task, and possibly a live interview",
   "url": "https://www.effectivealtruism.org/facilitating",
   "applyUrl": "https://www.effectivealtruism.org/facilitating",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-play-the-estimation-game-to-improve-your-decision-making-abilities",
-  "slug": "play-the-estimation-game-to-improve-your-decision-making-abilities",
-  "name": "Play the Estimation Game to Improve your Decision-Making Abilities",
-  "sponsor": "Sage",
-  "source": "financiamiento",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Concurso"
-  ],
-  "areas": [
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "Host The Estimation Game event for your group to build community, train estimation skills, and compete globally in a fun, easy-to-organize format.\n\n- Players answer two rounds of Fermi estimation questions in teams, comparing scores with others worldwide\n- No specialist knowledge required; open to anyone and suitable for in-person or remote play\n- Organizing is simple—just gather participants and direct them to the game website; resources and demo available\n- Flexible timing: host during the last week of each month or use archived games for custom scheduling\n\nFor large events or bespoke versions, contact adam@sage-future.org.",
-  "url": "https://www.quantifiedintuitions.org/estimation-game/for-organisers",
-  "applyUrl": "https://www.quantifiedintuitions.org/estimation-game/for-organisers",
   "updatedAt": "2026-10-01"
  },
  {
@@ -22241,7 +22221,6 @@
    "Estados Unidos"
   ],
   "funding": "varia",
-  "amount": "Pago: $1,900 per month",
   "citizenship": "ver-notas",
   "citizenshipRaw": "Ubicación: Washington, USA. Revisa los requisitos en la convocatoria.",
   "deadline": {
