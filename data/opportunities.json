@@ -11636,6 +11636,141 @@
   "updatedAt": "2026-09-18"
  },
  {
+  "id": "fin-fast-forward-latam-the-future-of-transport-and-logistics",
+  "slug": "fast-forward-latam-the-future-of-transport-and-logistics",
+  "name": "Fast Forward LATAM: The Future of Transport and Logistics",
+  "sponsor": "Mexico Tech Week, Dalton LABS y Startup LATAM",
+  "source": "financiamiento",
+  "types": [
+   "Evento"
+  ],
+  "areas": [
+   "Movilidad",
+   "Logística",
+   "Startups",
+   "Inversión"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "México"
+  ],
+  "funding": "completa",
+  "amount": "Gratis",
+  "citizenship": "global",
+  "citizenshipRaw": "Abierto a todos, gratis; el anfitrión aprueba cada inscripción. Presencial en Ciudad de México, 27 de octubre, 10:00 a 14:00.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-27"
+  },
+  "url": "https://luma.com/mxtw-e30f1334",
+  "applyUrl": "https://luma.com/mxtw-e30f1334",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-the-bridge-mexico-2026",
+  "slug": "the-bridge-mexico-2026",
+  "name": "The Bridge México 2026",
+  "sponsor": "Colombia Tech Week",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Startups",
+   "Expansión a México",
+   "Inversión"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "México"
+  ],
+  "funding": "con-costo",
+  "amount": "Cuesta USD 4,000 por founder, sin vuelos ni hospedaje",
+  "citizenship": "latam",
+  "citizenshipRaw": "Founders o C-level de startups de LATAM en etapa pre-seed a serie A con tracción, con inglés B2 o más. 10 cupos, del 26 de octubre al 1 de noviembre en Ciudad de México, durante Mexico Tech Week. No toma equity.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-02"
+  },
+  "url": "https://thebridge.colombiatechweek.co/",
+  "applyUrl": "https://thebridge.colombiatechweek.co/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-alas-annual-leaders-summit-2026",
+  "slug": "alas-annual-leaders-summit-2026",
+  "name": "ALAS Annual Leaders Summit 2026",
+  "sponsor": "ALAS",
+  "source": "financiamiento",
+  "types": [
+   "Evento"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inversión",
+   "Innovación",
+   "Políticas públicas"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Bolivia"
+  ],
+  "funding": "varia",
+  "amount": "Sin entradas a la venta; la participación es por invitación",
+  "citizenship": "latam",
+  "citizenshipRaw": "Solo por invitación: se pide en la página. Para fundadores, inversores, gobierno, academia y organismos de LATAM. Del 4 al 7 de noviembre en Santa Cruz de la Sierra.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-04"
+  },
+  "url": "https://summit.alas.global/",
+  "applyUrl": "https://summit.alas.global/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-panambi-ventures-demo-day-2026-lapsyconf",
+  "slug": "panambi-ventures-demo-day-2026-lapsyconf",
+  "name": "Panambí Ventures Demo Day 2026 (LAPsyConf)",
+  "sponsor": "Panambí Ventures",
+  "source": "financiamiento",
+  "types": [
+   "Demo Day"
+  ],
+  "areas": [
+   "Salud mental",
+   "Longevidad",
+   "Biotecnología",
+   "Healthtech",
+   "Startups"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Chile"
+  ],
+  "funding": "varia",
+  "amount": "Presentar ante VCs e inversores",
+  "citizenship": "latam",
+  "citizenshipRaw": "Startups early-stage de LATAM en salud mental, longevidad, biotecnología, healthtech o nuevas terapéuticas. Presentan ante inversores el 18 de noviembre en la Universidad Adolfo Ibáñez, Santiago, durante Chile Tech Week. La inscripción de startups es un formulario de Google enlazado en la página.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-02"
+  },
+  "url": "https://techweek.cl/en/panambi-ventures-demo-day",
+  "applyUrl": "https://techweek.cl/en/panambi-ventures-demo-day",
+  "updatedAt": "2026-09-18"
+ },
+ {
   "id": "sgp-french-tech-rise",
   "slug": "french-tech-rise",
   "name": "French Tech Rise",
