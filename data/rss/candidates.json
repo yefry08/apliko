@@ -9480,5 +9480,478 @@
    "applyUrl": "https://jsk.smapply.org/",
    "updatedAt": "2026-10-16"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94868",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/17/palantir-meritocracy-fellowship-2026-a-five-week-programme-combining-technology-leadership-and-real-world-software-engineering/",
+  "title": "Palantir Meritocracy Fellowship 2026: A Five-Week Programme Combining Technology, Leadership, and Real-World Software Engineering",
+  "publishedAt": "2026-10-17T12:49:02+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-palantir-meritocracy-fellowship-2026",
+   "slug": "palantir-meritocracy-fellowship-2026",
+   "name": "Palantir Meritocracy Fellowship 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Ingeniería",
+    "Tecnología",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Overview of the Palantir Meritocracy Fellowship The Palantir Meritocracy Fellowship is a development programme designed to identify talented individuals, challenge their intellectual abilities, and give them the opportunity to work on meaningful technology projects.",
+   "url": "https://opportunitiesforyouth.org/2026/10/17/palantir-meritocracy-fellowship-2026-a-five-week-programme-combining-technology-leadership-and-real-world-software-engineering/",
+   "applyUrl": "https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94797",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/17/salto-pi-editorial-board-2026-paid-sector-mentor-and-editorial-fellow-opportunities-across-six-sectors/",
+  "title": "SALTO PI Editorial Board 2026: Paid Sector Mentor and Editorial Fellow Opportunities Across Six Sectors",
+  "publishedAt": "2026-10-17T12:01:35+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa; no admite dominicanos (residency requirements applicants must be residents of an eu member state).",
+  "oportunidad": {
+   "id": "rss-salto-pi-editorial-board-2026",
+   "slug": "salto-pi-editorial-board-2026",
+   "name": "SALTO PI Editorial Board 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "completa",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "residency requirements applicants must be residents of an eu member state",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-08"
+   },
+   "notes": "Overview of the SALTO PI Editorial Board Call for Mentors and Fellows 2026\nThe SALTO Participation and Information Resource Centre (SALTO PI) has announced an international call for Sector Mentors and Editorial Fellows to join its newly established Editorial Board, a remote European editorial community dedicated to dev",
+   "url": "https://opportunitiesforyouth.org/2026/10/17/salto-pi-editorial-board-2026-paid-sector-mentor-and-editorial-fellow-opportunities-across-six-sectors/",
+   "applyUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0pjgj41C1EuYA3GV_pbw4sY64g0PFcpLsd9ySGNXvU9UNTk2RzM5R1pORVJYUkhVQjBJMThQMk82My4u",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=92293",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/17/united-nations-young-professionals-programme-ypp-eligibility-application-process-exam-guide-and-how-to-prepare/",
+  "title": "United Nations Young Professionals Programme (YPP) 2026: Development and Sustainability Exam – Apply by November 30",
+  "publishedAt": "2026-10-17T06:12:29+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-united-nations-young-professionals-programme-ypp-2026",
+   "slug": "united-nations-young-professionals-programme-ypp-2026",
+   "name": "United Nations Young Professionals Programme (YPP) 2026",
+   "sponsor": "United Nations Young Professionals Programme (YPP) 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Internship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "Job Opening The United Nations Young Professionals Programme (YPP) 2026 is accepting applications for the Development and Sustainability examination.",
+   "url": "https://opportunitiesforyouth.org/2026/10/17/united-nations-young-professionals-programme-ypp-eligibility-application-process-exam-guide-and-how-to-prepare/",
+   "applyUrl": "https://inspira.un.org/psp/PUNA1J/EMPLOYEE/HRMS/c/UN_CUSTOMIZATIONS.UN_JOB_DETAIL.GBL?Action=A&amp%3BUNAction=Apply&amp%3BJobOpeningId=285586&amp%3BlanguageCd=ENG",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94845",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/17/iyf-youth-research-learning-fellow-2026/",
+  "title": "International Youth Foundation (IYF) Youth Research & Learning Fellow 2026: Paid Remote Fellowship for U.S. University Students, Earning Up to $28 per Hour",
+  "publishedAt": "2026-10-17T01:06:55+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-international-youth-foundation-iyf-youth-research-learning-fellow-2026",
+   "slug": "international-youth-foundation-iyf-youth-research-learning-fellow-2026",
+   "name": "International Youth Foundation (IYF) Youth Research & Learning Fellow 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Tecnología",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "profesional"
+   ],
+   "destinations": [
+    "En línea",
+    "Estados Unidos"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The International Youth Foundation (IYF) Youth Research & Learning Fellow 2026 is a paid, remote fellowship opportunity for university students in the United States who are interested in education, youth development, curriculum design, workforce readiness, and the growing impact of artificial intelligence (AI) on learn",
+   "url": "https://opportunitiesforyouth.org/2026/10/17/iyf-youth-research-learning-fellow-2026/",
+   "applyUrl": "https://recruiting.paylocity.com/Recruiting/jobs/Apply/4586654",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94841",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/16/women-inpower-fellowship-2026-free-year-long-leadership-fellowship-for-senior-level-women-leaders-in-the-united-states/",
+  "title": "Women inPower Fellowship 2026: Free Year-Long Leadership Fellowship for Senior-Level Women Leaders in the United States",
+  "publishedAt": "2026-10-16T20:28:15+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-women-inpower-fellowship-2026",
+   "slug": "women-inpower-fellowship-2026",
+   "name": "Women inPower Fellowship 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "con-costo",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-26"
+   },
+   "notes": "Introduction Are you a senior-level woman leader looking for mentorship, executive coaching, leadership training, and a supportive professional community to help you advance to the highest levels of leadership?",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/women-inpower-fellowship-2026-free-year-long-leadership-fellowship-for-senior-level-women-leaders-in-the-united-states/",
+   "applyUrl": "https://www.92ny.org/belfer-center-for-innovation-social-impact/women-inpower/fellowship",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94834",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/16/upskill-america-education-and-career-mobility-fellowship-2026-applications-open-for-the-fourth-cohort-of-this-9-month-professional-development-programme/",
+  "title": "UpSkill America Education and Career Mobility Fellowship 2026: Applications Open for the Fourth Cohort of This 9-Month Professional Development Programme",
+  "publishedAt": "2026-10-16T19:56:01+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-upskill-america-education-and-career-mobility-fellowship-2026",
+   "slug": "upskill-america-education-and-career-mobility-fellowship-2026",
+   "name": "UpSkill America Education and Career Mobility Fellowship 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "international applicants should review the official application information to establish whether they are eligible",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-18"
+   },
+   "notes": "Introduction Are you a mid-career professional working in Human Resources (HR), Learning and Development (L&D), or corporate talent management and looking for opportunities to strengthen your professional skills, expand your network, and address emerging workforce challenges?",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/upskill-america-education-and-career-mobility-fellowship-2026-applications-open-for-the-fourth-cohort-of-this-9-month-professional-development-programme/",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94823",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/16/aidswatchhome-2026-2027-grant-program-apply-for-up-to-15000-to-advance-hiv-advocacy-community-organizing-and-policy-change/",
+  "title": "AIDSWatch@Home 2026–2027 Grant Program: Apply for Up to $15,000 to Advance HIV Advocacy, Community Organizing and Policy Change",
+  "publishedAt": "2026-10-16T19:16:29+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-aidswatch-home-2026-2027-grant-program",
+   "slug": "aidswatch-home-2026-2027-grant-program",
+   "name": "AIDSWatch@Home 2026–2027 Grant Program",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Políticas públicas",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "parcial",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-30"
+   },
+   "notes": "Organizations and community coalitions working to advance HIV-related policy, strengthen community leadership, and promote equitable decision-making have an opportunity to secure funding through the AIDSWatch@Home 2026–2027 Grant Program.",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/aidswatchhome-2026-2027-grant-program-apply-for-up-to-15000-to-advance-hiv-advocacy-community-organizing-and-policy-change/",
+   "applyUrl": "https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fbit.ly%2Faidswatch-at-home&amp%3Burlhash=Q-gh&amp%3Bmt=KdE8vfelHhMWloDsfi0y6dEDbETp2c15ke6LRQzTImLWq_OjzWGwrGaHTs47vzPNezJXE0vKnfC50umZjYsXshYhK811a2x_HR6Sq89hjrTYosWmdRlgGIHMNws&amp%3BisSdui=true&amp%3Blipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B%2BeSux%2BC1RBSqc2btDeotCA%3D%3D",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94819",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/16/unicef-malaysia-youth-call-2026-help-create-a-manifesto-for-a-safe-clean-healthy-and-sustainable-environment/",
+  "title": "UNICEF Malaysia Youth Call 2026: Help Create a Manifesto for a Safe, Clean, Healthy and Sustainable Environment",
+  "publishedAt": "2026-10-16T18:01:53+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-unicef-malaysia-youth-call-2026",
+   "slug": "unicef-malaysia-youth-call-2026",
+   "name": "UNICEF Malaysia Youth Call 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "con-costo",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-14"
+   },
+   "notes": "Young people aged 15 to 24 who are currently residing in Malaysia are invited to participate in a UNICEF Malaysia initiative focused on creating a Manifesto for a Safe, Clean, Healthy and Sustainable Environment.",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/unicef-malaysia-youth-call-2026-help-create-a-manifesto-for-a-safe-clean-healthy-and-sustainable-environment/",
+   "applyUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=lQFBd-EUuE-QS6sYkgI2ZxWfNh775eBMpTaMRzwKjotUMjZESTNHNzJVT0ZMUVA0S0xXRTc5TURJUS4u&amp%3Broute=shorturl",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94795",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/16/undp-pakistan-human-rights-internship-programme-2026-apply-for-the-three-month-internship-in-human-rights-governance-and-research-second-cohort/",
+  "title": "UNDP Pakistan Human Rights Internship Programme 2026: Apply for the Three-Month Internship in Human Rights, Governance and Research – Second Cohort",
+  "publishedAt": "2026-10-16T16:51:31+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-undp-pakistan-human-rights-internship-programme-2026",
+   "slug": "undp-pakistan-human-rights-internship-programme-2026",
+   "name": "UNDP Pakistan Human Rights Internship Programme 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Internship"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-01"
+   },
+   "notes": "Introduction: Applications Open for the UNDP Pakistan Human Rights Internship Programme 2026 Are you a university student or recent graduate interested in human rights, governance, research, and social justice?",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/undp-pakistan-human-rights-internship-programme-2026-apply-for-the-three-month-internship-in-human-rights-governance-and-research-second-cohort/",
+   "applyUrl": "https://drive.google.com/file/d/1QcSp4jp4-QQb5EtHNN6eZwYUpEp0g5id/view",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/cfas-silicon-carbide-cladding-lead-test-rod-development-phase-1-us/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/cfas-silicon-carbide-cladding-lead-test-rod-development-phase-1-us/",
+  "title": "CFAs: Silicon Carbide Cladding Lead Test Rod Development -Phase 1 (US)",
+  "publishedAt": "2026-10-16T12:00:33+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-silicon-carbide-cladding-lead-test-rod-development-phase-1-us",
+   "slug": "silicon-carbide-cladding-lead-test-rod-development-phase-1-us",
+   "name": "Silicon Carbide Cladding Lead Test Rod Development -Phase 1 (US)",
+   "sponsor": "Department of Energy’s Idaho Field Office",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-07"
+   },
+   "notes": "The Department of Energy’s Idaho Field Office is offering a funding opportunity for the Silicon Carbide Cladding Lead Test Rod Development-Phase 1.",
+   "url": "https://www.fundsforngos.org/how-to-apply/cfas-silicon-carbide-cladding-lead-test-rod-development-phase-1-us/",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/rfas-mildred-blaxter-postdoctoral-fellowships-award-united-kingdom/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/rfas-mildred-blaxter-postdoctoral-fellowships-award-united-kingdom/",
+  "title": "RFAs: Mildred Blaxter Postdoctoral Fellowships Award (United Kingdom)",
+  "publishedAt": "2026-10-16T11:59:06+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-rfas-mildred-blaxter-postdoctoral-fellowships-award-united-kingdom",
+   "slug": "rfas-mildred-blaxter-postdoctoral-fellowships-award-united-kingdom",
+   "name": "RFAs: Mildred Blaxter Postdoctoral Fellowships Award (United Kingdom)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship",
+    "Premio"
+   ],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Mildred Blaxter Postdoctoral Fellowships, offered by the Foundation for the Sociology of Health and Illness, support recent PhD graduates in sociology of health and illness to advance their research and career.",
+   "url": "https://www.fundsforngos.org/how-to-apply/rfas-mildred-blaxter-postdoctoral-fellowships-award-united-kingdom/",
+   "updatedAt": "2026-10-17"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/academy-research-fellowship-program-finland/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/academy-research-fellowship-program-finland/",
+  "title": "Academy Research Fellowship Program – Finland",
+  "publishedAt": "2026-10-16T11:57:05+00:00",
+  "fetchedAt": "2026-10-17T14:05:58+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-academy-research-fellowship-program-finland",
+   "slug": "academy-research-fellowship-program-finland",
+   "name": "Academy Research Fellowship Program – Finland",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship",
+    "Investigación"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Finlandia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Research Council of Finland invites early-career researchers to apply for the 2027 Academy Research Fellowships. This opportunity aims to support researchers in advancing their careers and competencies in national and international research communities.",
+   "url": "https://www.fundsforngos.org/how-to-apply/academy-research-fellowship-program-finland/",
+   "updatedAt": "2026-10-17"
+  }
  }
 ]
