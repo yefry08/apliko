@@ -9953,5 +9953,121 @@
    "url": "https://www.fundsforngos.org/how-to-apply/academy-research-fellowship-program-finland/",
    "updatedAt": "2026-10-17"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94884",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/18/ceu-yehuda-elkana-fellowship-2027-fully-funded-phd-in-higher-education-policy-in-austria/",
+  "title": "CEU Yehuda Elkana Fellowship 2027: Fully Funded PhD in Higher Education Policy in Austria",
+  "publishedAt": "2026-10-18T07:59:11+00:00",
+  "fetchedAt": "2026-10-18T14:20:58+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-ceu-yehuda-elkana-fellowship-2027",
+   "slug": "ceu-yehuda-elkana-fellowship-2027",
+   "name": "CEU Yehuda Elkana Fellowship 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca",
+    "Fellowship"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "doctorado",
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Austria"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-15"
+   },
+   "notes": "The Central European University (CEU) Yehuda Elkana Fellowship offers an exciting opportunity for early-career scholars interested in pursuing doctoral research related to higher education policy.",
+   "url": "https://opportunitiesforyouth.org/2026/10/18/ceu-yehuda-elkana-fellowship-2027-fully-funded-phd-in-higher-education-policy-in-austria/",
+   "applyUrl": "https://elkana.ceu.edu/article/2026-10-05/applications-open-elkana-fellowship",
+   "updatedAt": "2026-10-18"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94877",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/18/research-innovation-for-climate-rich-hub-2026-climate-ai-innovation-support-and-potential-grants-of-up-to-200000/",
+  "title": "Research & Innovation for Climate (RICH) Hub 2026: Climate AI Innovation Support and Potential Grants of Up to $200,000",
+  "publishedAt": "2026-10-18T06:17:15+00:00",
+  "fetchedAt": "2026-10-18T14:20:58+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-research-innovation-for-climate-rich-hub-2026",
+   "slug": "research-innovation-for-climate-rich-hub-2026",
+   "name": "Research & Innovation for Climate (RICH) Hub 2026",
+   "sponsor": "Research & Innovation for Climate (RICH) Hub",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "parcial",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "continua"
+   },
+   "notes": "The Research & Innovation for Climate (RICH) Hub is inviting expressions of interest from innovators developing artificial intelligence (AI) and data-driven technologies that address climate change and strengthen climate resilience across Africa.",
+   "url": "https://opportunitiesforyouth.org/2026/10/18/research-innovation-for-climate-rich-hub-2026-climate-ai-innovation-support-and-potential-grants-of-up-to-200000/",
+   "updatedAt": "2026-10-18"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=94872",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/18/communications-lead-for-the-16-days-of-activism-campaign-2026-roma-feminist-collective-opens-applications/",
+  "title": "Communications Lead for the 16 Days of Activism Campaign 2026: Roma Feminist Collective Opens Applications",
+  "publishedAt": "2026-10-18T04:53:28+00:00",
+  "fetchedAt": "2026-10-18T14:20:58+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-communications-lead-for-the-16-days-of-activism-campaign-2026",
+   "slug": "communications-lead-for-the-16-days-of-activism-campaign-2026",
+   "name": "Communications Lead for the 16 Days of Activism Campaign 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Periodismo"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-25"
+   },
+   "notes": "The Roma Feminist Collective is seeking a Communications Lead to support its upcoming 16 Days of Activism campaign, an initiative focused on raising awareness of gender-based violence, amplifying the experiences of Roma women, and promoting accountability and social change.",
+   "url": "https://opportunitiesforyouth.org/2026/10/18/communications-lead-for-the-16-days-of-activism-campaign-2026-roma-feminist-collective-opens-applications/",
+   "updatedAt": "2026-10-18"
+  }
  }
 ]
