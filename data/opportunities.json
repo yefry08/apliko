@@ -16357,6 +16357,188 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-plant-based-school-food-program-school-event-coordinator",
+  "slug": "plant-based-school-food-program-school-event-coordinator",
+  "name": "Plant-Based School Food Program – School Event Coordinator",
+  "sponsor": "High Impact Professionals (HIP)",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Bienestar animal",
+   "Altruismo eficaz"
+  ],
+  "levels": [],
+  "destinations": [
+   "Canadá"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Ontario, Canada. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-25"
+  },
+  "notes": "Volunteer role coordinating school events that introduce students and educators to plant-based protein foods through taste tests and teacher sessions.\n\n- Coordinate event schedules, checklists, supply lists, and volunteer assignments with schools\n- Organize taste-test materials, sample deliveries, and student feedback after events\n- Receive mentorship from the program founder and build a portfolio of completed work\n- Help shape plant-based options in Canada’s new National School Food Program from the start",
+  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.9e5gmqhmq8kc",
+  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.9e5gmqhmq8kc",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-plant-based-school-food-program-procurement-industry-partnerships-advisor",
+  "slug": "plant-based-school-food-program-procurement-industry-partnerships-advisor",
+  "name": "Plant-Based School Food Program – Procurement & Industry Partnerships Advisor",
+  "sponsor": "High Impact Professionals (HIP)",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Bienestar animal",
+   "Altruismo eficaz"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Canadá"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (Canada). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-25"
+  },
+  "notes": "Volunteer advisor role connecting food companies, suppliers, and school food partners to bring plant-based protein foods into school meals.\n\n- Build relationships with manufacturers, distributors, and school food partners\n- Gather product details like pricing, pack sizes, availability, and ordering options\n- Identify school purchasing barriers and use student taste-test feedback to guide follow-up\n- Help shape Canada’s new National School Food Program from the start",
+  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.dtoyxpky9enw",
+  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.dtoyxpky9enw",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-plant-based-school-food-program-fundraising-operations-lead",
+  "slug": "plant-based-school-food-program-fundraising-operations-lead",
+  "name": "Plant-Based School Food Program – Fundraising & Operations Lead",
+  "sponsor": "High Impact Professionals (HIP)",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Bienestar animal",
+   "Altruismo eficaz"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Canadá"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (Canada). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-25"
+  },
+  "notes": "Volunteer role strengthening the funding and operations of a new plant-forward school food program bringing plant-based proteins into Canadian schools.\n\n- Identify grants and funders, and help prepare proposals and funder updates\n- Build a simple funding pipeline, deadline calendar, and budget tracking systems\n- Work closely with the founder to turn priorities into clear next steps\n- Flexible 3–5 hours per week, with possible paid contract work later",
+  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.0",
+  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.0",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-swarm-alignment-hackathon-apart-research",
+  "slug": "swarm-alignment-hackathon-apart-research",
+  "name": "Swarm Alignment Hackathon · Apart Research",
+  "sponsor": "Apart Research",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Concurso"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Los Angeles, CA / Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-06"
+  },
+  "notes": "A three-day hackathon where participants build and test tools for multi-agent AI safety research.\n\n- Choose a research track and develop a project solo or in teams\n- Build sandboxes, evaluations, monitors, attacks, defences, or forensic tools\n- Get researcher talks, office hours, feedback, and expert judging\n- Submit a short report and code for continuation opportunities and prizes",
+  "url": "https://apartresearch.com/sprints/swarm-alignment-2026?utm_source=3106dr",
+  "applyUrl": "https://apartresearch.com/sprints/swarm-alignment-2026?utm_source=3106dr",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-humanitas-fellowship-syntony",
+  "slug": "humanitas-fellowship-syntony",
+  "name": "Humanitas Fellowship · Syntony",
+  "sponsor": "Syntony",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad y relaciones internacionales",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "An eight-month research fellowship for independent work on AI’s human consequences, with mentoring toward a publishable output.\n\n- Research AI safety through human rights, law, policy, or social science\n- Develop an original paper, policy analysis, or methodological study\n- Receive mentoring and feedback as the project develops\n- Explore topics like AI misuse, synthetic media, and catastrophic risks",
+  "url": "https://www.syntonyresearch.ai/work/humanitas-fellowship/",
+  "applyUrl": "https://www.syntonyresearch.ai/work/humanitas-fellowship/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-expression-of-interest-the-midas-project",
+  "slug": "expression-of-interest-the-midas-project",
+  "name": "Expression of Interest · The Midas Project",
+  "sponsor": "The Midas Project",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Tiempo completo",
+   "Voluntariado"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Submit an expression of interest to join a watchdog nonprofit’s work monitoring AI companies and advocating for responsible AI development.\n\n- Investigations, policy analysis, and public advocacy on AI company safety practices\n- Track whether developers follow their own stated safety policies\n- Publish scorecards, reports, and open letters for regulators, investors, and the public",
+  "url": "https://tally.so/r/GxMP2j",
+  "applyUrl": "https://tally.so/r/GxMP2j",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-organization-builders-program-successif",
   "slug": "organization-builders-program-successif",
   "name": "Organization Builders Program · Successif",
@@ -17510,37 +17692,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-wmd-non-proliferation-disarmament-in-an-era-of-technological-convergence",
-  "slug": "wmd-non-proliferation-disarmament-in-an-era-of-technological-convergence",
-  "name": "WMD Non-Proliferation & Disarmament in an Era of Technological Convergence",
-  "sponsor": "Stockholm International Peace Research Institute (SIPRI)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Seguridad y relaciones internacionales",
-   "Seguridad nuclear"
-  ],
-  "levels": [],
-  "destinations": [
-   "Europa",
-   "Suecia"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Stockholm, Sweden. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-19"
-  },
-  "notes": "An intensive online course on WMD non-proliferation and disarmament, exploring technical foundations, governance, and emerging technology risks through expert-led sessions and discussion.\n\n- Scientific foundations of nuclear, chemical, and biological weapons\n- Treaties, institutions, verification, and compliance mechanisms\n- Emerging technologies, technological convergence, and evolving WMD risks\n- Case-based discussions, expert presentations, and direct engagement with instructors",
-  "url": "https://web103.reachmee.com/ext/I021/1690/job?site=7&lang=UK&validator=9c16162aeec1b1c78db51d0c3e4163a1&ref=https%3A%2F%2Fwww.sipri.org%2F&job_id=147",
-  "applyUrl": "https://web103.reachmee.com/ext/I021/1690/job?site=7&lang=UK&validator=9c16162aeec1b1c78db51d0c3e4163a1&ref=https%3A%2F%2Fwww.sipri.org%2F&job_id=147",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-fellowship-field-epidemiology-or-public-health-microbiology-cohort-2027",
   "slug": "fellowship-field-epidemiology-or-public-health-microbiology-cohort-2027",
   "name": "Fellowship, Field Epidemiology or Public Health Microbiology (Cohort 2027)",
@@ -17632,36 +17783,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-learner-aixanimals-course-sentient-futures",
-  "slug": "learner-aixanimals-course-sentient-futures",
-  "name": "Learner, AIxAnimals Course · Sentient Futures",
-  "sponsor": "Sentient Futures",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas",
-   "Bienestar animal"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-19"
-  },
-  "notes": "Join a guided fellowship exploring how AI affects animals, and turn the learning into a concrete project or career plan.\n\n- Attend weekly structured discussions on AI, animal welfare, and advocacy\n- Examine precision livestock farming, interspecies communication, and genetic welfare\n- Assess AI applications in alternative proteins and long-term animal futures\n- Develop and refine a project pitch or career strategy with feedback",
-  "url": "https://www.sentientfutures.ai/courses/aixanimals/",
-  "applyUrl": "https://www.sentientfutures.ai/courses/aixanimals/",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-technical-ai-safety-project-sprint",
   "slug": "technical-ai-safety-project-sprint",
   "name": "Technical AI Safety Project Sprint",
@@ -17748,36 +17869,6 @@
   "notes": "A three-day summit on steering transformative AI and emerging technologies toward the welfare of animals and potentially sentient artificial minds.\n\n- Cross-field talks on ethics, consciousness, governance, and animal welfare\n- Structured 1-on-1 matchmaking with collaborators and mentors\n- Attendee-led unconference sessions and workshops\n- No prior expertise required",
   "url": "https://www.sentientfutures.ai/summit/",
   "applyUrl": "https://www.sentientfutures.ai/summit/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-fellowship-for-ending-bioweapons",
-  "slug": "fellowship-for-ending-bioweapons",
-  "name": "Fellowship for Ending Bioweapons",
-  "sponsor": "The Council on Strategic Risks (CSR)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Seguridad y relaciones internacionales",
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-19"
-  },
-  "notes": "Engage in a 10-month biosecurity fellowship focused on understanding and reducing biological weapons risks through expert mentorship, convenings, and written work.\n\n- Join virtual sessions with mentors on biological weapons risks and biosecurity norms\n- Attend three in-person experiential learning trips and a tabletop scenario exercise\n- Interact with current and former government leaders and public- and private-sector innovators\n- Produce written products and participate in events and workshops tied to fellowship goals",
-  "url": "https://councilonstrategicrisks.org/2026/09/25/call-for-applications-fellowship-for-ending-bioweapons-2027/",
-  "applyUrl": "https://councilonstrategicrisks.org/2026/09/25/call-for-applications-fellowship-for-ending-bioweapons-2027/",
   "updatedAt": "2026-10-01"
  },
  {
@@ -18704,36 +18795,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-fellowship-fall-2026-iliad",
-  "slug": "fellowship-fall-2026-iliad",
-  "name": "Fellowship (Fall 2026) · Iliad",
-  "sponsor": "Iliad",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos",
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Berkeley, CA. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-19"
-  },
-  "notes": "Conduct applied mathematical research on AI alignment, developing new research directions and a proposal with support from established mentors.\n\n- Build on existing expertise in mathematics, physics, computer science, or related fields\n- Collaborate with mentors experienced in mathematics and AI alignment\n- Develop a research proposal for follow-on funding or research opportunities",
-  "url": "https://www.iliad.ac/fellowship",
-  "applyUrl": "https://www.iliad.ac/fellowship",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-college-ea-meetups-everywhere-call-for-organizers",
   "slug": "college-ea-meetups-everywhere-call-for-organizers",
   "name": "College EA Meetups Everywhere: Call For Organizers",
@@ -18911,66 +18972,6 @@
   "notes": "Apply for funding to support research or projects that advance safe and beneficial transformative AI.\n\n- Supports work on AI safety, governance, and technical research\n- Open to individuals, academics, and organizations\n- Flexible funding for high-impact, scalable projects\n- Prioritizes projects with potential for global positive impact",
   "url": "https://funds.effectivealtruism.org/funds/transformative-ai",
   "applyUrl": "https://funds.effectivealtruism.org/funds/transformative-ai",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-research-associate-graduate-center-for-global-security-research-spring-2027",
-  "slug": "research-associate-graduate-center-for-global-security-research-spring-2027",
-  "name": "Research Associate Graduate, Center for Global Security Research (Spring 2027)",
-  "sponsor": "Lawrence Livermore National Laboratory (LLNL) ",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Seguridad nuclear",
-   "Seguridad y relaciones internacionales"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Livermore, CA. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-19"
-  },
-  "notes": "Support the Office of the Director in global security initiatives as an entry-level associate or intern.  \n- Contribute to projects addressing national and international security challenges  \n- Collaborate with multidisciplinary teams on research and analysis  \n- Gain exposure to high-impact policy and technical work  \n- Develop professional skills in a mission-driven environment",
-  "url": "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990014540385",
-  "applyUrl": "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990014540385",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-research-associate-center-for-global-security-research-spring-2027",
-  "slug": "research-associate-center-for-global-security-research-spring-2027",
-  "name": "Research Associate, Center for Global Security Research (Spring 2027)",
-  "sponsor": "Lawrence Livermore National Laboratory (LLNL) ",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Seguridad nuclear",
-   "Seguridad y relaciones internacionales"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Livermore, CA. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-19"
-  },
-  "notes": "Conduct supervised independent research on global security while contributing to ongoing research activities and professional development.\n\n- Research topics may include nuclear deterrence, nonproliferation, cybersecurity, biosecurity, and emerging technologies\n- Contribute to literature reviews, bibliographies, workshop reports, and other research\n- Attend seminars and workshops, then present findings and prepare a final report",
-  "url": "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990014540256",
-  "applyUrl": "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990014540256",
   "updatedAt": "2026-10-01"
  },
  {
@@ -23036,5 +23037,105 @@
   "url": "https://opportunitiesforyouth.org/2026/10/16/call-for-experts-salto-participation-and-information-resource-centre-opens-applications-for-p%c2%b2-dossiers-on-democratic-participation/",
   "applyUrl": "https://forms.cloud.microsoft/e/kSvtzhF1i0",
   "updatedAt": "2026-10-16"
+ },
+ {
+  "id": "rss-jack-kent-cooke-foundation-scholarships-2026-2027",
+  "slug": "jack-kent-cooke-foundation-scholarships-2026-2027",
+  "name": "Jack Kent Cooke Foundation Scholarships 2026–2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Beca",
+   "Premio"
+  ],
+  "areas": [
+   "Educación"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "parcial",
+  "citizenship": "global",
+  "citizenshipRaw": "ility rules for their chosen programme rather than assume that applications are open worldwide",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-04"
+  },
+  "notes": "The Jack Kent Cooke Foundation Scholarships provide educational funding and academic support to exceptionally promising students who demonstrate strong academic potential and financial need.",
+  "url": "https://opportunitiesforyouth.org/2026/10/19/jack-kent-cooke-foundation-scholarships-2026-2027-eligibility-award-benefits-application-deadlines-and-how-to-apply/",
+  "applyUrl": "https://apply.commonapp.org/login",
+  "updatedAt": "2026-10-19"
+ },
+ {
+  "id": "rss-youth-ecopreneur-programme-yeco-2026-27",
+  "slug": "youth-ecopreneur-programme-yeco-2026-27",
+  "name": "Youth Ecopreneur Programme (YECO) 2026/27",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Derecho",
+   "Negocios",
+   "Medio ambiente",
+   "Artes"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "the programme describes the bootcamp as globally open",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-22"
+  },
+  "notes": "Young entrepreneurs developing innovative solutions to climate change, land degradation, environmental sustainability, and green business challenges have an opportunity to access international support through the Youth Ecopreneur Programme (YECO) 2026/27 . Implemented by the International Trade Centre’s (ITC) Ye!",
+  "url": "https://opportunitiesforyouth.org/2026/10/19/apply-for-the-youth-ecopreneur-awardsprize-of-5000-and-funding-to-participate-in-world-export-development-forum/",
+  "applyUrl": "https://social.yecommunity.com/topics/49027/page/apply-now",
+  "updatedAt": "2026-10-19"
+ },
+ {
+  "id": "rss-usglc-internship-program-2026-2027",
+  "slug": "usglc-internship-program-2026-2027",
+  "name": "USGLC Internship Program 2026–2027",
+  "sponsor": "U.S. Global Leadership Coalition (USGLC)",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship",
+   "Internship"
+  ],
+  "areas": [
+   "Políticas públicas",
+   "Medio ambiente",
+   "Educación",
+   "Artes"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "international applicants should also independently verify any applicable u",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-10-19"
+  },
+  "notes": "The U.S. Global Leadership Coalition (USGLC) is inviting ambitious college students, graduate students and recent graduates to apply for its internship program, offering opportunities to gain practical professional experience in government relations, outreach, policy and communications.",
+  "url": "https://opportunitiesforyouth.org/2026/10/19/usglc-internship-program-2026-2027-paid-internship-opportunities-in-government-relations-policy-outreach-and-communications/",
+  "updatedAt": "2026-10-19"
  }
 ]
