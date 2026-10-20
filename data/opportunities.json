@@ -16357,10 +16357,129 @@
   "updatedAt": "2026-09-23"
  },
  {
-  "id": "ea-plant-based-school-food-program-school-event-coordinator",
-  "slug": "plant-based-school-food-program-school-event-coordinator",
-  "name": "Plant-Based School Food Program – School Event Coordinator",
-  "sponsor": "High Impact Professionals (HIP)",
+  "id": "ea-non-trivial-fellowship-non-trivial",
+  "slug": "non-trivial-fellowship-non-trivial",
+  "name": "Non-Trivial Fellowship · Non-trivial",
+  "sponsor": "Non-trivial",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Altruismo eficaz",
+   "Investigación de prioridades globales"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-04"
+  },
+  "notes": "An online fellowship where teenagers pursue impactful research projects on major global problems with structured guidance and support.\n\n- Research foundations to identify pressing problems\n- Weekly guidance, mentorship, and collaboration with fellows\n- Support for independent projects across science, policy, and philosophy\n- Opportunities for project funding and scholarships",
+  "url": "https://www.non-trivial.org/",
+  "applyUrl": "https://www.non-trivial.org/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-career-planning-course-high-impact-medicine-hi-med",
+  "slug": "career-planning-course-high-impact-medicine-hi-med",
+  "name": "Career Planning Course · High Impact Medicine (Hi-Med)",
+  "sponsor": "High Impact Medicine (Hi-Med)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Curso"
+  ],
+  "areas": [
+   "Bioseguridad y salud pública",
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-07"
+  },
+  "notes": "A six-week online career planning course for doctors and medical students to explore impactful career paths through facilitated small-group sessions.\n\n- Explore values, impact, career frameworks, and longer-term options\n- Narrow a long list of paths into a ranked shortlist\n- Plan next steps with group discussion and a visiting speaker\n- Receive a certificate, follow-up meetings, and optional 1:1 mentoring",
+  "url": "https://www.highimpactmedicine.org/career-planning",
+  "applyUrl": "https://www.highimpactmedicine.org/career-planning",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-global-burden-of-disease-fellow",
+  "slug": "global-burden-of-disease-fellow",
+  "name": "Global Burden of Disease Fellow",
+  "sponsor": "Institute for Health Metrics and Evaluation (IHME)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Seattle, WA. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-21"
+  },
+  "notes": "A cohort-based postdoctoral fellowship where early-career researchers help produce Global Burden of Disease estimates through analysis, training, and publications.\n\n- Intensive Boot Camp plus journal clubs, seminars, and research roundtables\n- Rotate across IHME research teams working on GBD analyses\n- Build and refine statistical models and complex datasets in R or Python\n- Co-author papers, present research, and receive mentorship and writing support",
+  "url": "https://www.healthdata.org/about/careers/job-openings/global-burden-disease-gbd-fellow-0",
+  "applyUrl": "https://www.healthdata.org/about/careers/job-openings/global-burden-disease-gbd-fellow-0",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-syntony-engineering-fellowship",
+  "slug": "syntony-engineering-fellowship",
+  "name": "Syntony Engineering Fellowship",
+  "sponsor": "Syntony",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea",
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote / Durham, NC. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "A selective fellowship where participants tackle a defined AI evaluation or governance engineering project and produce a usable technical artifact.\n\n- Regular founder collaboration on project scope and technical choices\n- Independent prototype or research-engineering work between working sessions\n- Projects in evaluation infrastructure, agent testing, and risk data pipelines\n- Publicly discussable artifacts when confidentiality and IP terms allow",
+  "url": "https://www.syntonyresearch.ai/work/engineering-fellowship/",
+  "applyUrl": "https://www.syntonyresearch.ai/work/engineering-fellowship/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-plant-based-school-food-program-fundraising-operations-lead",
+  "slug": "plant-based-school-food-program-fundraising-operations-lead",
+  "name": "Plant-Based School Food Program – Fundraising & Operations Lead",
+  "sponsor": "Jason Fonger Education Services",
   "source": "voluntariado",
   "sourceName": "EA Opportunities Board (effectivealtruism.org)",
   "types": [
@@ -16372,25 +16491,26 @@
   ],
   "levels": [],
   "destinations": [
+   "En línea",
    "Canadá"
   ],
   "funding": "varia",
   "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Ontario, Canada. Revisa los requisitos en la convocatoria.",
+  "citizenshipRaw": "Ubicación: Remote (Canada). Revisa los requisitos en la convocatoria.",
   "deadline": {
    "kind": "exacta",
    "date": "2026-10-25"
   },
-  "notes": "Volunteer role coordinating school events that introduce students and educators to plant-based protein foods through taste tests and teacher sessions.\n\n- Coordinate event schedules, checklists, supply lists, and volunteer assignments with schools\n- Organize taste-test materials, sample deliveries, and student feedback after events\n- Receive mentorship from the program founder and build a portfolio of completed work\n- Help shape plant-based options in Canada’s new National School Food Program from the start",
-  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.9e5gmqhmq8kc",
-  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.9e5gmqhmq8kc",
+  "notes": "Volunteer role strengthening the funding and operations of a new plant-forward school food program bringing plant-based proteins into Canadian schools.\n\n- Identify grants and funders, and help prepare proposals and funder updates\n- Build a simple funding pipeline, deadline calendar, and budget tracking systems\n- Work closely with the founder to turn priorities into clear next steps\n- Flexible 3–5 hours per week, with possible paid contract work later",
+  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.0",
+  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.0",
   "updatedAt": "2026-10-01"
  },
  {
   "id": "ea-plant-based-school-food-program-procurement-industry-partnerships-advisor",
   "slug": "plant-based-school-food-program-procurement-industry-partnerships-advisor",
   "name": "Plant-Based School Food Program – Procurement & Industry Partnerships Advisor",
-  "sponsor": "High Impact Professionals (HIP)",
+  "sponsor": "Jason Fonger Education Services",
   "source": "voluntariado",
   "sourceName": "EA Opportunities Board (effectivealtruism.org)",
   "types": [
@@ -16418,10 +16538,10 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-plant-based-school-food-program-fundraising-operations-lead",
-  "slug": "plant-based-school-food-program-fundraising-operations-lead",
-  "name": "Plant-Based School Food Program – Fundraising & Operations Lead",
-  "sponsor": "High Impact Professionals (HIP)",
+  "id": "ea-plant-based-school-food-program-school-event-coordinator",
+  "slug": "plant-based-school-food-program-school-event-coordinator",
+  "name": "Plant-Based School Food Program – School Event Coordinator",
+  "sponsor": "Jason Fonger Education Services",
   "source": "voluntariado",
   "sourceName": "EA Opportunities Board (effectivealtruism.org)",
   "types": [
@@ -16433,19 +16553,18 @@
   ],
   "levels": [],
   "destinations": [
-   "En línea",
    "Canadá"
   ],
   "funding": "varia",
   "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (Canada). Revisa los requisitos en la convocatoria.",
+  "citizenshipRaw": "Ubicación: Ontario, Canada. Revisa los requisitos en la convocatoria.",
   "deadline": {
    "kind": "exacta",
    "date": "2026-10-25"
   },
-  "notes": "Volunteer role strengthening the funding and operations of a new plant-forward school food program bringing plant-based proteins into Canadian schools.\n\n- Identify grants and funders, and help prepare proposals and funder updates\n- Build a simple funding pipeline, deadline calendar, and budget tracking systems\n- Work closely with the founder to turn priorities into clear next steps\n- Flexible 3–5 hours per week, with possible paid contract work later",
-  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.0",
-  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.0",
+  "notes": "Volunteer role coordinating school events that introduce students and educators to plant-based protein foods through taste tests and teacher sessions.\n\n- Coordinate event schedules, checklists, supply lists, and volunteer assignments with schools\n- Organize taste-test materials, sample deliveries, and student feedback after events\n- Receive mentorship from the program founder and build a portfolio of completed work\n- Help shape plant-based options in Canada’s new National School Food Program from the start",
+  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.9e5gmqhmq8kc",
+  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.9e5gmqhmq8kc",
   "updatedAt": "2026-10-01"
  },
  {
