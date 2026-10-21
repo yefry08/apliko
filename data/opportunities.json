@@ -16357,6 +16357,93 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-board-member-scale-welfare",
+  "slug": "board-member-scale-welfare",
+  "name": "Board Member · Scale Welfare",
+  "sponsor": "Scale Welfare",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "Join the inaugural board overseeing strategy, governance, and financial performance for an early-stage fish welfare charity.\n\n- Review budgets, finances, and organisational performance\n- Hold co-founders accountable to goals and responsibilities\n- Provide strategic input and high-level oversight\n- Treasurer role supports compliance and US bank account setup",
+  "url": "https://docs.google.com/document/d/1_rg1mr836ETYBhawutEb9A3GZxu2ih_61U0DaXHpi00/edit?tab=t.0#heading=h.s4s49gh3bxh7",
+  "applyUrl": "https://docs.google.com/document/d/1_rg1mr836ETYBhawutEb9A3GZxu2ih_61U0DaXHpi00/edit?tab=t.0#heading=h.s4s49gh3bxh7",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-drug-design-for-global-health-dd4gh",
+  "slug": "drug-design-for-global-health-dd4gh",
+  "name": "Drug Design for Global Health (dd4gh)",
+  "sponsor": "Medicines for Malaria Venture",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Proyecto independiente"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "An AI-powered drug discovery platform where global health researchers design, evaluate, and prioritize new molecules for diseases such as malaria and tuberculosis.\n\n- Generate and assess compound ideas using pre-trained AI models\n- Analyze datasets and predict promising compounds for laboratory testing\n- Use active learning workflows that improve with new experimental data\n- Access web-based tools, onboarding, demos, and tutorials",
+  "url": "https://www.mmv.org/drug-design-global-health-dd4gh",
+  "applyUrl": "https://www.mmv.org/drug-design-global-health-dd4gh",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-ea-summit-seattle-2026",
+  "slug": "ea-summit-seattle-2026",
+  "name": "EA Summit: Seattle 2026",
+  "sponsor": "Seattle Effective Altruists",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Evento"
+  ],
+  "areas": [
+   "Altruismo eficaz"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Seattle, WA. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-21"
+  },
+  "notes": "A one-day conference where attendees explore effective altruism and identify practical next steps for careers, donations, and time.\n\n- Introductory sessions on effective altruism ideas and applications\n- Talks and discussions on major global challenges and solutions\n- Skill-building workshops for increasing impact\n- Networking and advice from people in impactful roles",
+  "url": "https://www.effectivealtruism.org/ea-global/events/ea-summit-seattle-2026",
+  "applyUrl": "https://www.effectivealtruism.org/ea-global/events/ea-summit-seattle-2026",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-non-trivial-fellowship-non-trivial",
   "slug": "non-trivial-fellowship-non-trivial",
   "name": "Non-Trivial Fellowship · Non-trivial",
@@ -16800,7 +16887,7 @@
    "kind": "exacta",
    "date": "2026-11-01"
   },
-  "notes": "A 15-week fellowship for doing AI safety or governance research with mentor guidance and structured support.\n\n- Weekly 1-on-1 mentorship with established researchers\n- Research management to scope projects and navigate blockers\n- Workshops and Q&A sessions with domain experts\n- Full-time research project leading to papers, briefs, or other outputs",
+  "notes": "A 15-week, full-time, in-person AI safety and governance research fellowship in London, running 18 January to 30 April 2027.\n\n- £15,000–£18,000 stipend (£18,000 for senior fellows), plus travel to London and compute\n- £1,800/month towards housing if you live outside London; weekday lunch and dinner included\n- Weekly 1-on-1s with a dedicated mentor, plus support from a Pivotal research manager\n- Join a cohort of about 40 fellows at the LISA co-working space\n- Workshops and Q&A sessions with leading domain experts",
   "url": "http://ai.pivo.tl/?ref=80k",
   "applyUrl": "http://ai.pivo.tl/?ref=80k",
   "updatedAt": "2026-10-01"
@@ -18289,35 +18376,6 @@
   "notes": "Funding for programs and events on global catastrophic risks, effective altruism, biosecurity, forecasting, and related areas.\n\n- Supports fellowships, scholarships, internships, residencies, courses, and conferences\n- Open to both in-person and online activities, at any career stage\n- Individual one-off programs and organizations running programs both eligible\n- Rolling assessment, with most decisions within three months",
   "url": "https://coefficientgiving.org/funds/global-catastrophic-risks-opportunities/funding-for-programs-and-events-on-global-catastrophic-risk-effective-altruism-and-other-topics/",
   "applyUrl": "https://coefficientgiving.org/funds/global-catastrophic-risks-opportunities/funding-for-programs-and-events-on-global-catastrophic-risk-effective-altruism-and-other-topics/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-mentee-magnify-mentoring",
-  "slug": "mentee-magnify-mentoring",
-  "name": "Mentee · Magnify Mentoring",
-  "sponsor": "Magnify Mentoring",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Asesoría"
-  ],
-  "areas": [
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-20"
-  },
-  "notes": "Global mentorship program matching mentees with experienced mentors to support high-impact career goals.\n\n- Monthly 60-90 minute one-on-one sessions with an experienced mentor for six months\n- Optional discussion prompts guide conversations toward career goals and skill development\n- Access to a Slack community, networking events, and expert-led training sessions\n- Best suited for mentees with clear goals and monthly availability",
-  "url": "https://www.magnifymentoring.org/mentee",
-  "applyUrl": "https://www.magnifymentoring.org/mentee",
   "updatedAt": "2026-10-01"
  },
  {
@@ -23256,5 +23314,38 @@
   "notes": "The U.S. Global Leadership Coalition (USGLC) is inviting ambitious college students, graduate students and recent graduates to apply for its internship program, offering opportunities to gain practical professional experience in government relations, outreach, policy and communications.",
   "url": "https://opportunitiesforyouth.org/2026/10/19/usglc-internship-program-2026-2027-paid-internship-opportunities-in-government-relations-policy-outreach-and-communications/",
   "updatedAt": "2026-10-19"
+ },
+ {
+  "id": "rss-foreign-policy-for-america-nextgen-initiative-2027",
+  "slug": "foreign-policy-for-america-nextgen-initiative-2027",
+  "name": "Foreign Policy for America NextGen Initiative 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Tecnología",
+   "Políticas públicas",
+   "Economía",
+   "Artes"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "international applicants should not assume eligibility without checking with fp4a",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Are you a young professional, policy expert, activist, or emerging leader interested in international relations, diplomacy, national security, democracy, or global development?",
+  "url": "https://opportunitiesforyouth.org/2026/10/21/foreign-policy-for-america-nextgen-initiative-2027-apply-for-a-leadership-programme-for-young-foreign-policy-leaders-aged-25-35/",
+  "updatedAt": "2026-10-21"
  }
 ]

@@ -10588,5 +10588,452 @@
    "url": "https://www.fundsforngos.org/how-to-apply/low-value-grant-for-ppps-and-ppcps-in-sorong-indonesia/",
    "updatedAt": "2026-10-19"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=95234",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
+  "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
+  "publishedAt": "2026-10-21T15:40:19+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-george-moore-scholars-programme-2026",
+   "slug": "george-moore-scholars-programme-2026",
+   "name": "George Moore Scholars Programme 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "maestria",
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Irlanda",
+    "Estados Unidos",
+    "Canadá"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-03"
+   },
+   "notes": "The George Moore Scholars Programme 2026 offers an opportunity for academically talented students and recent graduates from across the island of Ireland to pursue a master’s degree at leading universities in the United States, Canada, the United Kingdom, and other European countries.",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
+   "applyUrl": "https://www.mindaclient.com/clientportal/index.php?g=21dc0c3c-d482-11e9-9f25-0cc47a828785",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=95231",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/ph-d-in-aging-studies-at-the-university-of-south-florida-usf-usa-application-guide-for-fall-2027/",
+  "title": "Ph.D. in Aging Studies at the University of South Florida (USF), USA: Application Guide for Fall 2027",
+  "publishedAt": "2026-10-21T15:10:16+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-ph-d-in-aging-studies-at-the-university-of-south-florida-usf-usa",
+   "slug": "ph-d-in-aging-studies-at-the-university-of-south-florida-usf-usa",
+   "name": "Ph.D. in Aging Studies at the University of South Florida (USF), USA",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Salud",
+    "Políticas públicas",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "doctorado"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-11"
+   },
+   "notes": "The Ph.D. in Aging Studies at the University of South Florida (USF) offers an interdisciplinary doctoral research training opportunity for students interested in aging, health and well-being, caregiving, dementia, public policy, long-term care, and the social and psychological aspects of growing older.",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/ph-d-in-aging-studies-at-the-university-of-south-florida-usf-usa-application-guide-for-fall-2027/",
+   "applyUrl": "https://admissions.usf.edu/application",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=95219",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/womens-economic-empowerment-in-transport-research-grants-2026-apply-for-150000-200000-in-funding/",
+  "title": "Women’s Economic Empowerment in Transport Research Grants 2026: Apply for £150,000–£200,000 in Funding",
+  "publishedAt": "2026-10-21T14:20:37+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa; no admite dominicanos (also strongly encourages applications led by women researchers and researchers based in africa, south asia, and southeast asia).",
+  "oportunidad": {
+   "id": "rss-women-s-economic-empowerment-in-transport-research-grants-2026",
+   "slug": "women-s-economic-empowerment-in-transport-research-grants-2026",
+   "name": "Women’s Economic Empowerment in Transport Research Grants 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Políticas públicas",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "also strongly encourages applications led by women researchers and researchers based in africa, south asia, and southeast asia",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-20"
+   },
+   "notes": "The Research Initiative for Data and Evidence (RIDE) has announced an open call for research proposals on Women’s Economic Empowerment (WEE) in Transport , offering substantial research funding to eligible universities, research institutes, and research consortia worldwide.",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/womens-economic-empowerment-in-transport-research-grants-2026-apply-for-150000-200000-in-funding/",
+   "applyUrl": "https://ride.transport-links.com/open-call-womens-economic-empowerment-in-transport/",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=54265",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/foreign-policy-for-america-nextgen-initiative-2027-apply-for-a-leadership-programme-for-young-foreign-policy-leaders-aged-25-35/",
+  "title": "Foreign Policy for America NextGen Initiative 2027: Apply for a Leadership Programme for Young Foreign Policy Leaders Aged 25–35",
+  "publishedAt": "2026-10-21T14:01:29+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "aprobada",
+  "motivo": "Aprobada sola: fellowship abierta a dominicanos, cierra el 2026-11-30.",
+  "oportunidad": {
+   "id": "rss-foreign-policy-for-america-nextgen-initiative-2027",
+   "slug": "foreign-policy-for-america-nextgen-initiative-2027",
+   "name": "Foreign Policy for America NextGen Initiative 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Tecnología",
+    "Políticas públicas",
+    "Economía",
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "international applicants should not assume eligibility without checking with fp4a",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "Are you a young professional, policy expert, activist, or emerging leader interested in international relations, diplomacy, national security, democracy, or global development?",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/foreign-policy-for-america-nextgen-initiative-2027-apply-for-a-leadership-programme-for-young-foreign-policy-leaders-aged-25-35/",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=66048",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/",
+  "title": "SI Scholarship for Global Professionals 2027/2028 in Sweden: Fully Funded Master’s Scholarship Worth SEK 12,000 Monthly",
+  "publishedAt": "2026-10-21T12:13:46+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-si-scholarship-for-global-professionals-2027-2028-in-sweden",
+   "slug": "si-scholarship-for-global-professionals-2027-2028-in-sweden",
+   "name": "SI Scholarship for Global Professionals 2027/2028 in Sweden",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Medio ambiente",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Suecia"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "it supports international students who demonstrate professional experience, leadership potential, and a commitment to contributing to",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-15"
+   },
+   "notes": "The Swedish Institute (SI) Scholarship for Global Professionals 2027/2028 offers international professionals an opportunity to pursue a fully funded master’s degree at a Swedish university.",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=95203",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/research-fellows-program-2026-2027-apply-for-a-nine-month-research-fellowship-on-higher-education-transformation-in-africa/",
+  "title": "Research Fellows Program 2026–2027: Apply for a Nine-Month Research Fellowship on Higher Education Transformation in Africa",
+  "publishedAt": "2026-10-21T10:47:28+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "descartada",
+  "motivo": "No admite dominicanos (the african focus of the research does not, by itself, establish that only african nationals may apply).",
+  "oportunidad": {
+   "id": "rss-research-fellows-program-2026-2027",
+   "slug": "research-fellows-program-2026-2027",
+   "name": "Research Fellows Program 2026–2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship",
+    "Investigación"
+   ],
+   "areas": [
+    "Economía",
+    "Negocios",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "the african focus of the research does not, by itself, establish that only african nationals may apply",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-30"
+   },
+   "notes": "The Research Fellows Program 2026–2027 offers a research-focused opportunity to explore how higher education institutions across Africa can initiate, implement, and sustain meaningful systems-level transformation.",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/research-fellows-program-2026-2027-apply-for-a-nine-month-research-fellowship-on-higher-education-transformation-in-africa/",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=64885",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/new-york-city-urban-fellows-program-2026-2027-how-to-apply-eligibility-stipend-and-key-dates/",
+  "title": "New York City Urban Fellows Program 2027–2028: Paid Nine-Month Fellowship in Public Policy and City Government",
+  "publishedAt": "2026-10-21T10:14:44+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-new-york-city-urban-fellows-program-2027-2028",
+   "slug": "new-york-city-urban-fellows-program-2027-2028",
+   "name": "New York City Urban Fellows Program 2027–2028",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "cognised does not, by itself, establish that only us citizens may apply or that international applicants are eligible",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The New York City Urban Fellows Program 2027–2028 is offering an opportunity for eligible applicants to gain practical experience in public administration, urban policy, and local government through a nine-month fellowship sponsored by the City of New York and administered by the New York City Department of Citywide Ad",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/new-york-city-urban-fellows-program-2026-2027-how-to-apply-eligibility-stipend-and-key-dates/",
+   "applyUrl": "https://airtable.com/appQqnkPr7Krj3COw/pagLtmdU1C2cZVVQN/form",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=95193",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/unesco-science-for-crisis-response-and-solutions-research-continuity-grants-for-africa-2026-apply-for-up-to-us2000-in-research-funding/",
+  "title": "UNESCO Science for Crisis Response and Solutions Research Continuity Grants for Africa 2026: Apply for Up to US$2,000 in Research Funding",
+  "publishedAt": "2026-10-21T10:01:19+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa; no admite dominicanos (applications are open to eligible researchers from african countries, with particular encouragement for women scientists, researchers under 40, researchers from least d).",
+  "oportunidad": {
+   "id": "rss-unesco-science-for-crisis-response-and-solutions-research-continuity-grants-for-",
+   "slug": "unesco-science-for-crisis-response-and-solutions-research-continuity-grants-for-",
+   "name": "UNESCO Science for Crisis Response and Solutions Research Continuity Grants for Africa 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Ciencias",
+    "Artes"
+   ],
+   "levels": [
+    "doctorado",
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "applications are open to eligible researchers from african countries, with particular encouragement for women scientists, researchers under 40, researchers from least d",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-15"
+   },
+   "notes": "Are you an African researcher whose natural-science research has been interrupted by armed conflict, a natural disaster, or a biological hazard?",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/unesco-science-for-crisis-response-and-solutions-research-continuity-grants-for-africa-2026-apply-for-up-to-us2000-in-research-funding/",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=95188",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/undp-uganda-icca-gsi-phase-ii-call-for-proposals-2026-up-to-44000-grant-for-indigenous-and-community-based-organisations/",
+  "title": "UNDP Uganda ICCA-GSI Phase II Call for Proposals 2026: Up to $44,000 Grant for Indigenous and Community-Based Organisations",
+  "publishedAt": "2026-10-21T08:02:30+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-undp-uganda-icca-gsi-phase-ii-call-for-proposals-2026",
+   "slug": "undp-uganda-icca-gsi-phase-ii-call-for-proposals-2026",
+   "name": "UNDP Uganda ICCA-GSI Phase II Call for Proposals 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Políticas públicas",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "parcial",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-10-30"
+   },
+   "notes": "The United Nations Development Programme (UNDP) Uganda, through the Global Environment Facility Small Grants Programme (GEF-SGP), has announced a call for proposals inviting eligible indigenous Ugandan non-governmental organisations (NGOs), community-based organisations (CBOs), and civil society organisations (CSOs) to",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/undp-uganda-icca-gsi-phase-ii-call-for-proposals-2026-up-to-44000-grant-for-indigenous-and-community-based-organisations/",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=95181",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/10/21/ocean-legal-fellowship-needs-assessment-survey-2026-opportunity-for-early-career-lawyers-in-ocean-coastal-and-climate-law/",
+  "title": "Ocean Legal Fellowship Needs Assessment Survey 2026: Opportunity for Early-Career Lawyers in Ocean, Coastal, and Climate Law",
+  "publishedAt": "2026-10-21T07:21:23+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-ocean-legal-fellowship-needs-assessment-survey-2026",
+   "slug": "ocean-legal-fellowship-needs-assessment-survey-2026",
+   "name": "Ocean Legal Fellowship Needs Assessment Survey 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Derecho",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [
+    "maestria",
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "global south",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Are you an early-career lawyer, recent law graduate, or Master of Laws (LL.M.) student interested in ocean conservation, coastal protection, climate change, and environmental law?",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/ocean-legal-fellowship-needs-assessment-survey-2026-opportunity-for-early-career-lawyers-in-ocean-coastal-and-climate-law/",
+   "updatedAt": "2026-10-21"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/turning-business-potential-into-progress-funding-and-growth-opportunities/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/turning-business-potential-into-progress-funding-and-growth-opportunities/",
+  "title": "Turning Business Potential into Progress: Funding and Growth Opportunities",
+  "publishedAt": "2026-10-21T05:10:50+00:00",
+  "fetchedAt": "2026-10-21T15:51:40+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-turning-business-potential-into-progress",
+   "slug": "turning-business-potential-into-progress",
+   "name": "Turning Business Potential into Progress",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Negocios",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-12"
+   },
+   "notes": "[October 2026] Explore grants, startup accelerators, business competitions, and funding opportunities that help entrepreneurs launch ventures, grow businesses, and scale their operations. Review eligibility criteria and deadlines to find opportunities that match your business goals.",
+   "url": "https://www.fundsforngos.org/how-to-apply/turning-business-potential-into-progress-funding-and-growth-opportunities/",
+   "updatedAt": "2026-10-21"
+  }
  }
 ]
