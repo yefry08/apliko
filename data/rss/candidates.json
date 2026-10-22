@@ -11035,5 +11035,112 @@
    "url": "https://www.fundsforngos.org/how-to-apply/turning-business-potential-into-progress-funding-and-growth-opportunities/",
    "updatedAt": "2026-10-21"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/rfas-inner-and-central-tien-shan-conservation-grant-kyrgyzstan/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/rfas-inner-and-central-tien-shan-conservation-grant-kyrgyzstan/",
+  "title": "RFAs: Inner and Central Tien Shan Conservation Grant (Kyrgyzstan)",
+  "publishedAt": "2026-10-22T08:47:51+00:00",
+  "fetchedAt": "2026-10-22T15:48:50+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-rfas-inner-and-central-tien-shan-conservation-grant-kyrgyzstan",
+   "slug": "rfas-inner-and-central-tien-shan-conservation-grant-kyrgyzstan",
+   "name": "RFAs: Inner and Central Tien Shan Conservation Grant (Kyrgyzstan)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-05"
+   },
+   "notes": "The Global Environment Facility (GEF) and the United Nations Development Programme (UNDP) Small Grants Programme (SGP) are inviting proposals from NGOs and community groups in Kyrgyzstan. This initiative focuses on conserving the ecosystems of the Inner and Central Tien Shan through local community efforts.",
+   "url": "https://www.fundsforngos.org/how-to-apply/rfas-inner-and-central-tien-shan-conservation-grant-kyrgyzstan/",
+   "updatedAt": "2026-10-22"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/without-borders-media-fellowship-for-humanitarian-health-journalism/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/without-borders-media-fellowship-for-humanitarian-health-journalism/",
+  "title": "Without Borders Media Fellowship for Humanitarian Health Journalism",
+  "publishedAt": "2026-10-22T08:46:48+00:00",
+  "fetchedAt": "2026-10-22T15:48:50+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-without-borders-media-fellowship-for-humanitarian-health-journalism",
+   "slug": "without-borders-media-fellowship-for-humanitarian-health-journalism",
+   "name": "Without Borders Media Fellowship for Humanitarian Health Journalism",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Salud",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Without Borders Media Fellowship, offered by Médecins Sans Frontières (Doctors Without Borders), invites journalists, photographers, filmmakers, and digital media influencers to join its 2026 cohort. This fellowship encourages in-depth humanitarian and health-related reporting in the South Asia region.",
+   "url": "https://www.fundsforngos.org/how-to-apply/without-borders-media-fellowship-for-humanitarian-health-journalism/",
+   "updatedAt": "2026-10-22"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/apply-for-small-grants-programme-2026/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/apply-for-small-grants-programme-2026/",
+  "title": "Apply for Small Grants Programme 2026",
+  "publishedAt": "2026-10-22T08:44:47+00:00",
+  "fetchedAt": "2026-10-22T15:48:50+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-apply-for-small-grants-programme-2026",
+   "slug": "apply-for-small-grants-programme-2026",
+   "name": "Apply for Small Grants Programme 2026",
+   "sponsor": "Lloyd’s Register Foundation",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Lloyd’s Register Foundation is offering the Small Grants Programme 2026, aimed at supporting projects that align with its mission of enhancing the safety of life and property. This opportunity is designed to provide financial backing to eligible organizations for projects that contribute to this goal.",
+   "url": "https://www.fundsforngos.org/how-to-apply/apply-for-small-grants-programme-2026/",
+   "updatedAt": "2026-10-22"
+  }
  }
 ]
