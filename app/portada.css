@@ -803,6 +803,72 @@ html:has(.case-overlay[open]) {
   75% { transform: rotate(3deg); }
 }
 
+/* ------------------------------------------------------------------ team */
+
+.team {
+  margin-top: 96px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.team-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.team-photo {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  aspect-ratio: 1;
+  margin-bottom: 16px;
+  overflow: hidden;
+  border-radius: 20px;
+  background: #f1edff;
+}
+
+.team-photo img {
+  object-fit: cover;
+}
+
+.team-photo span {
+  font-family: var(--serif);
+  font-size: 4rem;
+  color: var(--cobalt);
+}
+
+.team-card h3 {
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.team-role {
+  margin-top: 2px;
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+}
+
+.team-link {
+  margin-top: 10px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--cobalt);
+  text-decoration: none;
+}
+
+.team-link:hover {
+  text-decoration: underline;
+}
+
 /* ------------------------------------------------------------------ sign up */
 
 .signup-section {
@@ -1157,8 +1223,18 @@ html:has(.case-overlay[open]) {
     padding: 28px 24px;
   }
 
-  .signup-section {
+  .signup-section,
+  .team {
     margin-top: 56px;
+  }
+
+  .team-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 32px;
+  }
+
+  .team-photo {
+    max-width: 280px;
   }
 
   .signup-benefits {

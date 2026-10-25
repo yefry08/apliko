@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { DeadlineMarquee } from "@/components/deadline-marquee";
 import { deadlineText } from "@/components/opportunity-bits";
@@ -8,6 +9,7 @@ import { SiteFooter } from "@/components/site-chrome";
 import { HeroScene } from "@/components/three/hero-scene";
 import { LazyGlobe } from "@/components/three/lazy-scenes";
 import { AREAS } from "@/lib/areas";
+import { TEAM } from "@/lib/equipo";
 import { COORDS } from "@/lib/geo";
 import {
   closingSoon,
@@ -222,6 +224,31 @@ export default function Home() {
               ))}
             </ol>
           </div>
+        </section>
+
+        <section className="team" id="equipo" aria-labelledby="team-title">
+          <div className="section-header">
+            <h2 id="team-title">Equipo</h2>
+            <p>Las personas detrás de ApliKo.</p>
+          </div>
+          <ul className="team-grid" role="list">
+            {TEAM.map((m) => (
+              <li key={m.name} className="team-card">
+                <div className="team-photo">
+                  {m.photo ? (
+                    <Image src={m.photo} alt={`Foto de ${m.name}`} fill sizes="(max-width: 619px) 100vw, 33vw" />
+                  ) : (
+                    <span aria-hidden="true">{m.initials}</span>
+                  )}
+                </div>
+                <h3>{m.name}</h3>
+                <p className="team-role">{m.role}</p>
+                <a className="team-link" href={m.linkedin} target="_blank" rel="noopener noreferrer">
+                  LinkedIn ↗<span className="sr-only"> de {m.name}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
         </section>
 
         <RegistroSection />

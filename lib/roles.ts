@@ -7,24 +7,26 @@ export type Role = "usuario" | "admin" | "superadmin";
 const superadminEmail = () => process.env.SUPERADMIN_EMAIL?.trim().toLowerCase() || null;
 
 /**
- * Neon Auth copies each account to neon_auth.users_sync. The super admin is the account whose email
- * matches SUPERADMIN_EMAIL and is verified: an unverified match could be anyone who typed that email.
+ * Roles go by email: SUPERADMIN_EMAIL for the super admin, public.admin_emails for admins (so someone can be
+ * named before they have an account). Neon Auth copies each account to neon_auth.users_sync, and the email
+ * only counts once it is verified: unverified, it could be anyone who typed it.
  */
 export async function roleOf(userId: string): Promise<Role> {
   const sql = getSql();
   if (!sql) return "usuario";
-  const email = superadminEmail();
-  const [account, granted] = await Promise.all([
-    email
-      ? sql`select 1 from neon_auth.users_sync
-            where id = ${userId} and deleted_at is null and lower(email) = ${email}
-              and (raw_json->>'primary_email_verified')::boolean`
-      : Promise.resolve([]),
-    sql`select role from public.user_roles where user_id = ${userId}`,
-  ]);
-  if (account.length > 0) return "superadmin";
-  return granted[0]?.role === "admin" ? "admin" : "usuario";
+  const [account] = await sql`
+    select lower(u.email) as email,
+      exists (select 1 from public.admin_emails a where a.email = lower(u.email)) as admin
+    from neon_auth.users_sync u
+    where u.id = ${userId} and u.deleted_at is null
+      and coalesce((u.raw_json->>'primary_email_verified')::boolean, false)`;
+  if (!account?.email) return "usuario";
+  if (account.email === superadminEmail()) return "superadmin";
+  return account.admin ? "admin" : "usuario";
 }
+
+export const isSuperadminEmail = (email: string | null | undefined) =>
+  Boolean(email) && email!.trim().toLowerCase() === superadminEmail();
 
 /** The signed-in user's id and role, or null without a valid session. */
 export async function sessionRole(request: Request): Promise<{ userId: string; role: Role } | null> {

@@ -22,6 +22,8 @@ interface AdminData {
   me: string;
   stats: { accounts: number; verified: number; newThisWeek: number; anonymous: number; withSaved: number; withProfile: number };
   users: AdminUser[];
+  /** Admin invitations by email; active once that email signs in verified. */
+  admins: { email: string; since: string; active: boolean }[];
 }
 
 const ROLE_LABEL: Record<Role, string> = { usuario: "Usuario", admin: "Admin", superadmin: "Super admin" };
@@ -35,8 +37,9 @@ export function AdminPanel() {
   const [data, setData] = useState<AdminData | null>(null);
   const [error, setError] = useState<"forbidden" | "failed" | null>(null);
   const [query, setQuery] = useState("");
-  const [busyId, setBusyId] = useState<string | null>(null);
+  const [busy, setBusy] = useState<string | null>(null);
   const [notice, setNotice] = useState("");
+  const [newAdmin, setNewAdmin] = useState("");
 
   const fetchAdmin = useCallback(async (): Promise<AdminData | "forbidden" | "failed" | null> => {
     const token = await getToken();
@@ -83,21 +86,25 @@ export function AdminPanel() {
   if (error === "failed") return <p className="text-coral">No pudimos cargar el panel. Recarga la página.</p>;
   if (!data) return <p className="text-muted-foreground">Cargando…</p>;
 
-  const setAdmin = async (target: AdminUser, admin: boolean) => {
+  const setAdmin = async (email: string, admin: boolean) => {
     const token = await getToken();
-    if (!token) return;
-    setBusyId(target.id);
+    if (!token) return false;
+    setBusy(email);
     setNotice("");
     const res = await fetch("/api/admin", {
       method: "POST",
       headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
-      body: JSON.stringify({ userId: target.id, admin }),
+      body: JSON.stringify({ email, admin }),
     }).catch(() => null);
     const body = res ? ((await res.json().catch(() => ({}))) as { error?: string }) : {};
-    setBusyId(null);
-    if (!res?.ok) return setNotice(body.error ?? "No se pudo cambiar el rol.");
-    setNotice(admin ? `${target.email} ahora es admin.` : `${target.email} ya no es admin.`);
+    setBusy(null);
+    if (!res?.ok) {
+      setNotice(body.error ?? "No se pudo cambiar el rol.");
+      return false;
+    }
+    setNotice(admin ? `${email} ahora es admin.` : `${email} ya no es admin.`);
     apply(await fetchAdmin());
+    return true;
   };
 
   const q = query.trim().toLowerCase();
@@ -130,6 +137,67 @@ export function AdminPanel() {
       <p className="-mt-4 text-xs text-muted-foreground">
         Sin contar {data.stats.anonymous} sesiones anónimas: visitas sin cuenta que Neon Auth registra por su cuenta.
       </p>
+
+      <section className="flex flex-col gap-4" aria-labelledby="admins-title">
+        <h2 id="admins-title" className="font-display text-3xl">
+          Admins
+        </h2>
+        <p className="max-w-2xl text-sm text-muted-foreground">
+          Un admin se nombra por email. Se activa cuando esa persona entra a ApliKo con ese email ya verificado (con Google
+          lo está desde el primer día).
+        </p>
+        <ul className="flex flex-col divide-y rounded-2xl border" role="list">
+          {data.admins.map((a) => (
+            <li key={a.email} className="flex flex-wrap items-center justify-between gap-3 px-4 py-3 text-sm">
+              <span className="font-medium">{a.email}</span>
+              <span className="flex items-center gap-3">
+                <span className={a.active ? "text-larimar" : "text-muted-foreground"}>
+                  {a.active ? "Activo" : "Pendiente: todavía no entra"}
+                </span>
+                {data.role === "superadmin" && (
+                  <button
+                    type="button"
+                    disabled={busy === a.email}
+                    onClick={() => setAdmin(a.email, false)}
+                    className="rounded-full border px-3 py-1 text-xs hover:border-coral hover:text-coral disabled:opacity-50"
+                  >
+                    Quitar
+                  </button>
+                )}
+              </span>
+            </li>
+          ))}
+          {data.admins.length === 0 && <li className="px-4 py-3 text-sm text-muted-foreground">Todavía no hay admins.</li>}
+        </ul>
+        {data.role === "superadmin" && (
+          <form
+            className="flex flex-wrap items-end gap-3"
+            onSubmit={async (e) => {
+              e.preventDefault();
+              if (await setAdmin(newAdmin.trim().toLowerCase(), true)) setNewAdmin("");
+            }}
+          >
+            <label className="flex flex-col gap-1.5">
+              <span className="eyebrow">Nuevo admin</span>
+              <input
+                type="email"
+                required
+                value={newAdmin}
+                onChange={(e) => setNewAdmin(e.target.value)}
+                placeholder="correo@gmail.com"
+                className="h-10 w-72 max-w-full rounded-lg border bg-card px-3 text-sm outline-none focus-visible:border-larimar focus-visible:ring-2 focus-visible:ring-larimar/30"
+              />
+            </label>
+            <button
+              type="submit"
+              disabled={busy !== null}
+              className="h-10 rounded-full bg-primary px-5 text-sm font-medium text-primary-foreground disabled:opacity-60"
+            >
+              Hacer admin
+            </button>
+          </form>
+        )}
+      </section>
 
       <section className="flex flex-col gap-4" aria-labelledby="users-title">
         <div className="flex flex-wrap items-end justify-between gap-3">
@@ -185,12 +253,11 @@ export function AdminPanel() {
                       <span className={u.role === "usuario" ? "text-muted-foreground" : "font-medium text-larimar"}>
                         {ROLE_LABEL[u.role]}
                       </span>
-                      {data.role === "superadmin" && u.role !== "superadmin" && u.id !== data.me && (
+                      {data.role === "superadmin" && u.role !== "superadmin" && u.id !== data.me && u.email && (
                         <button
                           type="button"
-                          disabled={busyId === u.id || (!u.verified && u.role === "usuario")}
-                          title={!u.verified && u.role === "usuario" ? "Necesita verificar su email primero" : undefined}
-                          onClick={() => setAdmin(u, u.role !== "admin")}
+                          disabled={busy === u.email}
+                          onClick={() => setAdmin(u.email!, u.role !== "admin")}
                           className="rounded-full border px-3 py-1 text-xs hover:border-larimar hover:text-larimar disabled:opacity-50 disabled:hover:border-border disabled:hover:text-inherit"
                         >
                           {u.role === "admin" ? "Quitar admin" : "Hacer admin"}

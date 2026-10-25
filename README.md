@@ -99,9 +99,12 @@ Cómo encaja:
   y `TURNSTILE_SECRET_KEY` se apaga solo. En desarrollo, `.env.development.local` usa las claves de prueba de Cloudflare.
   Limitación: el registro va del navegador directo a Neon Auth, así que Turnstile frena bots que usan el formulario, no
   a uno que llame a la API de Neon Auth por su cuenta. Lo que impide que esas cuentas sirvan es pedir el email verificado.
-- Roles (`lib/roles.ts`): `usuario`, `admin` y `superadmin`. El super admin es la cuenta cuyo email verificado es
-  `SUPERADMIN_EMAIL`; los admins están en la tabla `user_roles` (`db/migrations/0003_roles.sql`, ya ejecutado en Neon).
-  `app/admin` muestra cuentas y estadísticas a admins; solo el super admin nombra o quita admins (`app/api/admin`).
+- Roles (`lib/roles.ts`): `usuario`, `admin` y `superadmin`, siempre por email verificado. El super admin es
+  `SUPERADMIN_EMAIL`; los admins están en la tabla `admin_emails` (`db/migrations/0004_admin_emails.sql`, ya ejecutado
+  en Neon), así se puede nombrar a alguien antes de que tenga cuenta. `app/admin` muestra cuentas y estadísticas a
+  admins; solo el super admin nombra o quita admins (`app/api/admin`). La tabla `user_roles` de `0003_roles.sql` quedó
+  sin uso.
+- Equipo de la portada: `lib/equipo.ts` y las fotos en `public/equipo/` (cuadradas, WebP).
   Las cuentas salen de `neon_auth.users_sync`, la copia que Neon Auth mantiene en la base; las sesiones anónimas no cuentan.
 
 ### Correos de la cuenta con Gmail (gratis)
