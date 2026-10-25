@@ -23433,5 +23433,40 @@
   "notes": "The Atlantic Council GeoEconomics Center Spring 2027 Young Global Professionals Program offers an opportunity for university students and recent graduates interested in international economics, finance, public policy, and global affairs to gain practical professional experience in Washington, DC.",
   "url": "https://opportunitiesforyouth.org/2026/10/24/atlantic-council-geoeconomics-center-spring-2027-internship-paid-young-global-professionals-program-in-washington-dc/",
   "updatedAt": "2026-10-24"
+ },
+ {
+  "id": "rss-atlantic-council-eurasia-center-spring-2027-young-global-professionals-program",
+  "slug": "atlantic-council-eurasia-center-spring-2027-young-global-professionals-program",
+  "name": "Atlantic Council Eurasia Center Spring 2027 Young Global Professionals Program",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Internship"
+  ],
+  "areas": [
+   "Políticas públicas",
+   "Economía",
+   "Negocios",
+   "Seguridad"
+  ],
+  "levels": [
+   "maestria",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "international applicants should contact the recruitment team if they need clarification about work authorization, immigratio",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-08"
+  },
+  "notes": "The Atlantic Council Eurasia Center Spring 2027 Young Global Professionals Program offers an exciting opportunity for university students, graduate students, and recent graduates interested in international affairs, geopolitics, foreign policy, research, and transatlantic relations.",
+  "url": "https://opportunitiesforyouth.org/2026/10/25/atlantic-council-eurasia-center-spring-2027-young-global-professionals-program-paid-internship-in-the-usa/",
+  "applyUrl": "https://www.paycomonline.net/v4/ats/web.php/portal/1B8B05965A36F1ED6E136AA0A0907656/jobs/222540",
+  "updatedAt": "2026-10-25"
  }
 ]
