@@ -30,4 +30,11 @@ export const TEAM: Member[] = [
     photo: "/equipo/yira-tavarez.webp",
     initials: "YT",
   },
+  {
+    name: "Marco Reyes",
+    role: "CTO",
+    linkedin: "https://www.linkedin.com/in/marcoantreyes",
+    photo: "/equipo/marco-reyes.webp",
+    initials: "MR",
+  },
 ];

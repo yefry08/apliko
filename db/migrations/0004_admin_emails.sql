@@ -7,8 +7,9 @@ create table if not exists public.admin_emails (
   granted_at timestamptz not null default now()
 );
 
--- Equipo de ApliKo: María J. Colas (COO) y Yira Tavarez Espinal (CFO).
+-- Equipo de ApliKo: María J. Colas (COO), Yira Tavarez Espinal (CFO) y Marco Reyes (CTO).
 insert into public.admin_emails (email, granted_by) values
   ('majocolas17@gmail.com', 'superadmin'),
-  ('tavarezyira@gmail.com', 'superadmin')
+  ('tavarezyira@gmail.com', 'superadmin'),
+  ('marcoreyes2050@gmail.com', 'superadmin')
 on conflict (email) do nothing;

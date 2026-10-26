@@ -811,7 +811,8 @@ html:has(.case-overlay[open]) {
 
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  /* Everyone on one row on wide screens, however many people the team has. */
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   gap: 24px;
   margin: 0;
   padding: 0;
@@ -1229,12 +1230,12 @@ html:has(.case-overlay[open]) {
   }
 
   .team-grid {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 32px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px 16px;
   }
 
-  .team-photo {
-    max-width: 280px;
+  .team-card h3 {
+    font-size: 1.2rem;
   }
 
   .signup-benefits {

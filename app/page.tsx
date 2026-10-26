@@ -236,7 +236,7 @@ export default function Home() {
               <li key={m.name} className="team-card">
                 <div className="team-photo">
                   {m.photo ? (
-                    <Image src={m.photo} alt={`Foto de ${m.name}`} fill sizes="(max-width: 619px) 100vw, 33vw" />
+                    <Image src={m.photo} alt={`Foto de ${m.name}`} fill sizes="(max-width: 619px) 50vw, 20vw" />
                   ) : (
                     <span aria-hidden="true">{m.initials}</span>
                   )}
