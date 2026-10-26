@@ -16357,6 +16357,122 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-research-support-ai-alignment-foundation",
+  "slug": "research-support-ai-alignment-foundation",
+  "name": "Research Support · AI Alignment Foundation",
+  "sponsor": "AI Alignment Foundation",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Research support for alignment researchers and experts from other fields pursuing new AI alignment ideas.\n\n- Funds ideas not covered by current institutional funding\n- Provides dedicated engineering teams to move concepts toward published results\n- Supports high-risk, high-reward projects and new research directions\n- Welcomes interdisciplinary ideas from fields like neuroscience, mathematics, and physics",
+  "url": "https://www.aialignmentfoundation.org/approach/apply",
+  "applyUrl": "https://www.aialignmentfoundation.org/approach/apply",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-incubator-week-bluedot-impact",
+  "slug": "incubator-week-bluedot-impact",
+  "name": "Incubator Week · BlueDot Impact",
+  "sponsor": "BlueDot Impact",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: San Francisco, CA. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-16"
+  },
+  "notes": "A five-day, in-person incubator programme in San Francisco, running November 16–20 for people ready to build in AI safety and related catastrophic-risk fields.\n\n- Up to $200k in grants if your pitch is backed\n- All expenses paid\n- Build threat models, interventions, and a funding pitch with cohort feedback\n- Includes expert calls and assumption-testing throughout the week",
+  "url": "https://bluedot.org/programs/incubator-week",
+  "applyUrl": "https://bluedot.org/programs/incubator-week",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-global-health-and-development-fund",
+  "slug": "global-health-and-development-fund",
+  "name": "Global Health and Development Fund",
+  "sponsor": "Effective Altruism Funds",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "A funding opportunity for projects that improve health or economic empowerment in the world’s poorest regions.\n\n- Funds direct healthcare and preventive health measures\n- Supports income-raising services and economic development\n- Can fund government policy design and implementation assistance\n- Also backs higher-risk opportunities expected to outperform GiveWell top charities",
+  "url": "https://funds.effectivealtruism.org/funds/global-development",
+  "applyUrl": "https://funds.effectivealtruism.org/funds/global-development",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-intern-machine-learning-research-summer-2027",
+  "slug": "intern-machine-learning-research-summer-2027",
+  "name": "Intern, Machine Learning Research (Summer 2027)",
+  "sponsor": "Scale",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: New York, NY / San Francisco, CA. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Work on frontier ML research and production systems, owning shipped or published projects in areas like model safety, reasoning, evaluation, and post-training.\n\n- Measure dangerous capabilities of frontier models and conduct preparedness research\n- Develop benchmarks, scalable oversight protocols, and synthetic human-in-the-loop data methods\n- Improve production models through retraining, hyperparameter searches, and deployment\n- Research reinforcement learning, post-training, and agentic methods for high-stakes applications\n- Summer 2027 internship with May/June start dates",
+  "url": "https://scale.com/careers/4735665005",
+  "applyUrl": "https://scale.com/careers/4735665005",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-fellows-ai-safety-and-security",
   "slug": "fellows-ai-safety-and-security",
   "name": "Fellows, AI Safety and Security",
@@ -16771,98 +16887,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-plant-based-school-food-program-fundraising-operations-lead",
-  "slug": "plant-based-school-food-program-fundraising-operations-lead",
-  "name": "Plant-Based School Food Program – Fundraising & Operations Lead",
-  "sponsor": "Jason Fonger Education Services",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Voluntariado"
-  ],
-  "areas": [
-   "Bienestar animal",
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "Canadá"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (Canada). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-25"
-  },
-  "notes": "Volunteer role strengthening the funding and operations of a new plant-forward school food program bringing plant-based proteins into Canadian schools.\n\n- Identify grants and funders, and help prepare proposals and funder updates\n- Build a simple funding pipeline, deadline calendar, and budget tracking systems\n- Work closely with the founder to turn priorities into clear next steps\n- Flexible 3–5 hours per week, with possible paid contract work later",
-  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.0",
-  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.0",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-plant-based-school-food-program-procurement-industry-partnerships-advisor",
-  "slug": "plant-based-school-food-program-procurement-industry-partnerships-advisor",
-  "name": "Plant-Based School Food Program – Procurement & Industry Partnerships Advisor",
-  "sponsor": "Jason Fonger Education Services",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Voluntariado"
-  ],
-  "areas": [
-   "Bienestar animal",
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "Canadá"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (Canada). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-25"
-  },
-  "notes": "Volunteer advisor role connecting food companies, suppliers, and school food partners to bring plant-based protein foods into school meals.\n\n- Build relationships with manufacturers, distributors, and school food partners\n- Gather product details like pricing, pack sizes, availability, and ordering options\n- Identify school purchasing barriers and use student taste-test feedback to guide follow-up\n- Help shape Canada’s new National School Food Program from the start",
-  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.dtoyxpky9enw",
-  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.dtoyxpky9enw",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-plant-based-school-food-program-school-event-coordinator",
-  "slug": "plant-based-school-food-program-school-event-coordinator",
-  "name": "Plant-Based School Food Program – School Event Coordinator",
-  "sponsor": "Jason Fonger Education Services",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Voluntariado"
-  ],
-  "areas": [
-   "Bienestar animal",
-   "Altruismo eficaz"
-  ],
-  "levels": [],
-  "destinations": [
-   "Canadá"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Ontario, Canada. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-25"
-  },
-  "notes": "Volunteer role coordinating school events that introduce students and educators to plant-based protein foods through taste tests and teacher sessions.\n\n- Coordinate event schedules, checklists, supply lists, and volunteer assignments with schools\n- Organize taste-test materials, sample deliveries, and student feedback after events\n- Receive mentorship from the program founder and build a portfolio of completed work\n- Help shape plant-based options in Canada’s new National School Food Program from the start",
-  "url": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.9e5gmqhmq8kc",
-  "applyUrl": "https://docs.google.com/document/d/1tCVD7vaGkDzzP3hngTVOB7ckklIgTggroCa72yrs6Zg/edit?tab=t.9e5gmqhmq8kc",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-swarm-alignment-hackathon-apart-research",
   "slug": "swarm-alignment-hackathon-apart-research",
   "name": "Swarm Alignment Hackathon · Apart Research",
@@ -17101,36 +17125,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-global-health-strategy-intern-path",
-  "slug": "global-health-strategy-intern-path",
-  "name": "Global Health Strategy Intern · PATH",
-  "sponsor": "PATH",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Salud global y desarrollo"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Washington, DC / Remote (US). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-26"
-  },
-  "notes": "Support PATH’s multilateral development bank strategy by researching health projects and identifying funding opportunities in priority countries.\n\n- Collect data on MDB-funded health projects in selected geographies\n- Build a library of health priorities, activities, and opportunities\n- Summarize funding trends from desk research and stakeholder engagement\n- Review funding portals with the project manager to spot opportunities",
-  "url": "https://path.wd1.myworkdayjobs.com/en-US/External/job/Global-Health-Strategy-Intern_JR2844",
-  "applyUrl": "https://path.wd1.myworkdayjobs.com/en-US/External/job/Global-Health-Strategy-Intern_JR2844",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-funding-strep-a-rheumatic-heart-disease-vaccine-development",
   "slug": "funding-strep-a-rheumatic-heart-disease-vaccine-development",
   "name": "Funding: Strep A/Rheumatic Heart Disease Vaccine Development",
@@ -17366,36 +17360,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-public-policy-and-communications-intern",
-  "slug": "public-policy-and-communications-intern",
-  "name": "Public Policy and Communications Intern",
-  "sponsor": "Innovations for Poverty Action",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Salud global y desarrollo"
-  ],
-  "levels": [],
-  "destinations": [
-   "Latinoamérica y el Caribe",
-   "Colombia"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Colombia. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-26"
-  },
-  "notes": "Support evidence-based public policy communications through research synthesis, strategic messaging, and communication products.\n\n- Plan and monitor communication activities and outputs\n- Draft briefs, technical notes, presentations, and policy materials\n- Summarize research evidence for technical and non-technical audiences\n- Create content for social media and other communication channels",
-  "url": "https://poverty-action.org/practicante-de-politicas-publicas-y-comunicacion",
-  "applyUrl": "https://poverty-action.org/practicante-de-politicas-publicas-y-comunicacion",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-ai-safety-essentials-fellowship",
   "slug": "ai-safety-essentials-fellowship",
   "name": "AI Safety Essentials Fellowship",
@@ -17570,36 +17534,6 @@
   "notes": "An 8-week introductory course on effective altruism with weekly readings, discussions, and facilitated exploration of how to do more good.\n\n- Explore core EA ideas like impact, global poverty, and animal welfare\n- Complete weekly readings, podcasts, or videos before small-group discussions\n- Discuss career impact, donations, pandemics, climate change, and other priorities\n- Get guidance from facilitators and connect with alumni for next steps",
   "url": "https://www.effectivealtruism.org/courses/introductory-program",
   "applyUrl": "https://www.effectivealtruism.org/courses/introductory-program",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-litigation-program-fellow-2027-2029",
-  "slug": "litigation-program-fellow-2027-2029",
-  "name": "Litigation Program Fellow (2027-2029)",
-  "sponsor": "Animal Legal Defense Fund",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Bienestar animal"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (US). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-25"
-  },
-  "notes": "A two-year litigation fellowship where recent law graduates manage strategic animal protection cases and develop impact litigation skills.\n\n- Conduct legal research, filings, and day-to-day case management\n- Participate in motions practice, appearances, and legal arguments\n- Develop new cases and novel legal theories and strategies\n- Draft amicus briefs and coordinate with pro bono and local counsel",
-  "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537097",
-  "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537097",
   "updatedAt": "2026-10-01"
  },
  {
@@ -17812,36 +17746,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-better-futures-fellowship-european-network-for-ai-safety-enais",
-  "slug": "better-futures-fellowship-european-network-for-ai-safety-enais",
-  "name": "Better Futures Fellowship · European Network for AI Safety (ENAIS)",
-  "sponsor": "European Network for AI Safety (ENAIS)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Altruismo eficaz",
-   "Investigación de prioridades globales"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-25"
-  },
-  "notes": "A 9-week fellowship on better-futures work, combining facilitated discussions with a public research or fieldbuilding project.\n\n- Five weekly discussion sessions using Better Futures research\n- Four-week project phase producing a public output\n- Small cohorts with a trained facilitator and shared discussion doc\n- Support through weekly sessions and a community Slack channel",
-  "url": "https://lavish-raft-3ec.notion.site/AI-Safety-Collab-21ecc955fe3380729a53d88a300966e4?pvs=74",
-  "applyUrl": "https://lavish-raft-3ec.notion.site/AI-Safety-Collab-21ecc955fe3380729a53d88a300966e4?pvs=74",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-legal-advisor-asia-accountability-initiative-aai",
   "slug": "legal-advisor-asia-accountability-initiative-aai",
   "name": "Legal Advisor · Asia Accountability Initiative (AAI)",
@@ -17898,36 +17802,6 @@
   "notes": "Volunteer role writing letters to Illinois newspaper editors to share your views on animal and environmental issues.\n\n- Write letters to the editors of Illinois newspapers\n- Voice your opinion through local newspaper outreach\n- Support advocacy efforts through public letter writing",
   "url": "https://cratefreeusa.org/volunteer#role-letter-writers",
   "applyUrl": "https://cratefreeusa.org/volunteer#role-letter-writers",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-2027-brains-fellowship-speculative-technologies",
-  "slug": "2027-brains-fellowship-speculative-technologies",
-  "name": "2027 Brains Fellowship · Speculative Technologies",
-  "sponsor": "Speculative Technologies",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Gobernanza y decisiones institucionales",
-   "Investigación de prioridades globales"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-26"
-  },
-  "notes": "A four-month fellowship helping scientists develop coordinated research programs and prepare to lead, launch, or fund ambitious research efforts.\n\n- One-on-one mentorship from DARPA, ARPA, and research program leaders\n- Training to scope, refine, and communicate coordinated research ideas\n- Small group discussions, fireside chats, and peer community\n- In-person showcase to present ideas to potential funders and employers",
-  "url": "https://spec.tech/brains",
-  "applyUrl": "https://spec.tech/brains",
   "updatedAt": "2026-10-01"
  },
  {
@@ -18045,65 +17919,6 @@
   "notes": "Funding for research and incubation on wildlife technology problems affecting both animal welfare and human interests.\n\n- Rodent fertility control solutions safer, humane, and effective\n- Welfare indicators for wild animals across broad taxonomic groups\n- Wildlife vaccination for diseases affecting animals, people, or livelihoods",
   "url": "https://wildlifetech.org/",
   "applyUrl": "https://wildlifetech.org/",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-legal-intern-program-for-animals",
-  "slug": "legal-intern-program-for-animals",
-  "name": "Legal Intern, Program for Animals",
-  "sponsor": "Mercy for Animals",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Bienestar animal"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "A paid summer legal internship supporting farmed animal protection work through campaigns, litigation, and policy projects.\n\n- Research federal, state, and local laws and draft memoranda\n- Work directly with attorneys on high-impact legal projects\n- Weekly virtual meetings with supervisors and fellow interns\n- Educational sessions with investigations, campaigns, policy, and organizing teams",
-  "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&source=CC2&lang=en_US&selectedMenuKey=CurrentOpenings&jobId=558569&_ga=2.28751996.1152443147.1791182219-1965807046.1753674741",
-  "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&source=CC2&lang=en_US&selectedMenuKey=CurrentOpenings&jobId=558569&_ga=2.28751996.1152443147.1791182219-1965807046.1753674741",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-fellowship-field-epidemiology-or-public-health-microbiology-cohort-2027",
-  "slug": "fellowship-field-epidemiology-or-public-health-microbiology-cohort-2027",
-  "name": "Fellowship, Field Epidemiology or Public Health Microbiology (Cohort 2027)",
-  "sponsor": "European Centre for Disease Prevention and Control (ECDC)",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Bioseguridad y salud pública"
-  ],
-  "levels": [],
-  "destinations": [
-   "Europa",
-   "Suecia"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Stockholm, Sweden. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-26"
-  },
-  "notes": "A fellowship programme in field epidemiology or public health microbiology combining training with practical experience at European surveillance, control, and laboratory sites.\n\n- Field epidemiology training in surveillance and communicable disease control\n- Public health microbiology training in laboratories with public health functions\n- Practical experience at national, regional, and consortium training sites\n- Knowledge transfer and cross-border public health capacity building",
-  "url": "https://www.ecdc.europa.eu/en/about-ecdc/work-ecdc/call-application-ecdc-fellowship-programme-epiet-and-euphem-paths-eu-track",
-  "applyUrl": "https://www.ecdc.europa.eu/en/about-ecdc/work-ecdc/call-application-ecdc-fellowship-programme-epiet-and-euphem-paths-eu-track",
   "updatedAt": "2026-10-01"
  },
  {
@@ -21469,37 +21284,6 @@
   "notes": "Volunteer with The Midas Project to support AI accountability and responsible technology development.\n\n- Contribute by researching, fact-checking, and sharing findings to advance the mission.\n- Flexible commitment: volunteer a few hours or provide long-term support.\n- Play a key role in ensuring AI benefits everyone.\n- Share your details to be contacted about ways you can help.",
   "url": "https://www.themidasproject.com/volunteer",
   "applyUrl": "https://www.themidasproject.com/volunteer",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-research-intern-wisconsin-project-on-nuclear-arms-control",
-  "slug": "research-intern-wisconsin-project-on-nuclear-arms-control",
-  "name": "Research Intern · Wisconsin Project on Nuclear Arms Control",
-  "sponsor": "Wisconsin Project on Nuclear Arms Control",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Seguridad nuclear",
-   "Seguridad y relaciones internacionales"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos",
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Washington, USA. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-25"
-  },
-  "notes": "An internship for students interested in open-source research on global proliferation and sanctions evasion networks.\n- Work on real-world investigations into weapons of mass destruction supply chains\n- Build skills using trade databases and open-source intelligence tools\n- Collaborate with a small, nonpartisan team advancing nonproliferation policy\n- Foreign language skills (Mandarin, Farsi, Arabic) and technical knowledge valued\n\nThis text was generated by AI. If you notice any inconsistencies, please let us know using this [form](https://airtable.com/appngKrXQ99QHsAo4/shrrnPHkHnhTQNA4u)",
-  "url": "https://www.wisconsinproject.org/about-us/employment/",
-  "applyUrl": "https://www.wisconsinproject.org/about-us/employment/",
   "updatedAt": "2026-10-01"
  },
  {

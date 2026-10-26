@@ -12469,5 +12469,386 @@
    "applyUrl": "https://vitalvoices.zoom.us/meeting/register/8s1SHwiARO-4j5_EYnvIUg",
    "updatedAt": "2026-10-25"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/call-for-proposals-innovative-small-satellite-missions-uk/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/call-for-proposals-innovative-small-satellite-missions-uk/",
+  "title": "Call for Proposals: Innovative Small-Satellite Missions (UK)",
+  "publishedAt": "2026-10-26T06:18:58+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-innovative-small-satellite-missions-uk",
+   "slug": "innovative-small-satellite-missions-uk",
+   "name": "Innovative Small-Satellite Missions (UK)",
+   "sponsor": "UK Research and Innovation (UKRI)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Economía",
+    "Medio ambiente",
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-25"
+   },
+   "notes": "The UK Research and Innovation (UKRI) is inviting expressions of interest for participation in a sandpit event aimed at developing innovative small satellite Earth observation mission concepts.",
+   "url": "https://www.fundsforngos.org/how-to-apply/call-for-proposals-innovative-small-satellite-missions-uk/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/funding-a-more-peaceful-future-through-peacebuilding-initiatives/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/funding-a-more-peaceful-future-through-peacebuilding-initiatives/",
+  "title": "Funding a More Peaceful Future Through Peacebuilding Initiatives",
+  "publishedAt": "2026-10-26T05:48:00+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-funding-a-more-peaceful-future-through-peacebuilding-initiatives",
+   "slug": "funding-a-more-peaceful-future-through-peacebuilding-initiatives",
+   "name": "Funding a More Peaceful Future Through Peacebuilding Initiatives",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-15"
+   },
+   "notes": "[October 2026] Explore funding opportunities, grants, fellowships, awards, and research programmes supporting peacebuilding, conflict resolution, and peaceful societies.",
+   "url": "https://www.fundsforngos.org/how-to-apply/funding-a-more-peaceful-future-through-peacebuilding-initiatives/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-bridging-the-digital-divide-in-rural-communities/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-bridging-the-digital-divide-in-rural-communities/",
+  "title": "A Sample Grant Proposal on “Bridging the Digital Divide in Rural Communities”",
+  "publishedAt": "2026-10-26T04:03:26+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-bridging-the-digital-divide-in-rural-communities",
+   "slug": "a-sample-grant-proposal-on-bridging-the-digital-divide-in-rural-communities",
+   "name": "A Sample Grant Proposal on “Bridging the Digital Divide in Rural Communities”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Tecnología",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The digital divide refers to the gap between those who have easy access to the internet and modern information technology and those who do not. In rural communities, this divide is particularly pronounced, affecting everything from education to healthcare and economic opportunities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-bridging-the-digital-divide-in-rural-communities/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-combating-human-trafficking-through-prevention-and-survivor-support-2/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-combating-human-trafficking-through-prevention-and-survivor-support-2/",
+  "title": "A Sample Grant Proposal on “Combating Human Trafficking through Prevention and Survivor Support”",
+  "publishedAt": "2026-10-26T04:03:15+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-combating-human-trafficking-through-prevention-and-su",
+   "slug": "a-sample-grant-proposal-on-combating-human-trafficking-through-prevention-and-su",
+   "name": "A Sample Grant Proposal on “Combating Human Trafficking through Prevention and Survivor Support”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Human trafficking is a pervasive issue that affects millions of individuals worldwide, transcending borders and impacting communities in profound ways.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-combating-human-trafficking-through-prevention-and-survivor-support-2/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-providing-education-and-livelihood-support-for-refugees/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-providing-education-and-livelihood-support-for-refugees/",
+  "title": "A Sample Grant Proposal on “Providing Education and Livelihood Support for Refugees”",
+  "publishedAt": "2026-10-26T04:03:03+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-providing-education-and-livelihood-support-for-refuge",
+   "slug": "a-sample-grant-proposal-on-providing-education-and-livelihood-support-for-refuge",
+   "name": "A Sample Grant Proposal on “Providing Education and Livelihood Support for Refugees”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación",
+    "Migración"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In today’s rapidly changing world, the intersection of education and livelihood opportunities is more critical than ever. Many communities, particularly in developing regions, face significant barriers to accessing quality education and sustainable employment.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-providing-education-and-livelihood-support-for-refugees/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-promoting-disability-inclusive-education-and-employment/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-promoting-disability-inclusive-education-and-employment/",
+  "title": "A Sample Grant Proposal on “Promoting Disability-Inclusive Education and Employment”",
+  "publishedAt": "2026-10-26T04:02:47+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-promoting-disability-inclusive-education-and-employme",
+   "slug": "a-sample-grant-proposal-on-promoting-disability-inclusive-education-and-employme",
+   "name": "A Sample Grant Proposal on “Promoting Disability-Inclusive Education and Employment”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Disability-inclusive education and employment are essential components of a fair and equitable society. They ensure that individuals with disabilities have equal access to learning opportunities and job markets, allowing them to contribute meaningfully to their communities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-promoting-disability-inclusive-education-and-employment/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-strengthening-community-preparedness-for-natural-disasters-2/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-strengthening-community-preparedness-for-natural-disasters-2/",
+  "title": "A Sample Grant Proposal on “Strengthening Community Preparedness for Natural Disasters”",
+  "publishedAt": "2026-10-26T04:02:33+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-strengthening-community-preparedness-for-natural-disa",
+   "slug": "a-sample-grant-proposal-on-strengthening-community-preparedness-for-natural-disa",
+   "name": "A Sample Grant Proposal on “Strengthening Community Preparedness for Natural Disasters”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In recent years, the importance of community-driven initiatives has gained significant traction. These initiatives often address local issues that may be overlooked by larger organizations or government entities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-strengthening-community-preparedness-for-natural-disasters-2/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-reducing-plastic-pollution-through-community-waste-management/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-reducing-plastic-pollution-through-community-waste-management/",
+  "title": "A Sample Grant Proposal on “Reducing Plastic Pollution through Community Waste Management”",
+  "publishedAt": "2026-10-26T04:02:25+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-reducing-plastic-pollution-through-community-waste-ma",
+   "slug": "a-sample-grant-proposal-on-reducing-plastic-pollution-through-community-waste-ma",
+   "name": "A Sample Grant Proposal on “Reducing Plastic Pollution through Community Waste Management”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Plastic pollution has become one of the most pressing environmental issues of our time. With millions of tons of plastic waste generated each year, the consequences are far-reaching and alarming.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-reducing-plastic-pollution-through-community-waste-management/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-expanding-community-based-mental-health-support/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-expanding-community-based-mental-health-support/",
+  "title": "A Sample Grant Proposal on “Expanding Community-Based Mental Health Support”",
+  "publishedAt": "2026-10-26T04:02:18+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-expanding-community-based-mental-health-support",
+   "slug": "a-sample-grant-proposal-on-expanding-community-based-mental-health-support",
+   "name": "A Sample Grant Proposal on “Expanding Community-Based Mental Health Support”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Community-based mental health support is an approach that emphasizes the importance of local resources and relationships in addressing mental health issues. Rather than relying solely on institutional care, this model encourages individuals to seek help within their own communities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-expanding-community-based-mental-health-support/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-improving-maternal-and-child-health-in-underserved-communities/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-improving-maternal-and-child-health-in-underserved-communities/",
+  "title": "A Sample Grant Proposal on “Improving Maternal and Child Health in Underserved Communities”",
+  "publishedAt": "2026-10-26T04:02:06+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-improving-maternal-and-child-health-in-underserved-co",
+   "slug": "a-sample-grant-proposal-on-improving-maternal-and-child-health-in-underserved-co",
+   "name": "A Sample Grant Proposal on “Improving Maternal and Child Health in Underserved Communities”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In the realm of public health, addressing maternal and child health challenges is paramount. This grant proposal aims to secure funding for a comprehensive project designed to improve health outcomes for mothers and their children in underserved communities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-improving-maternal-and-child-health-in-underserved-communities/",
+   "updatedAt": "2026-10-26"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-protecting-biodiversity-through-community-led-conservation/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-protecting-biodiversity-through-community-led-conservation/",
+  "title": "A Sample Grant Proposal on “Protecting Biodiversity through Community-Led Conservation”",
+  "publishedAt": "2026-10-26T04:01:49+00:00",
+  "fetchedAt": "2026-10-26T17:09:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-protecting-biodiversity-through-community-led-conserv",
+   "slug": "a-sample-grant-proposal-on-protecting-biodiversity-through-community-led-conserv",
+   "name": "A Sample Grant Proposal on “Protecting Biodiversity through Community-Led Conservation”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Community-led conservation is an approach that empowers local communities to take charge of their natural resources and ecosystems. This model recognizes that those who live closest to the land often have the most intimate knowledge of its intricacies and challenges.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-protecting-biodiversity-through-community-led-conservation/",
+   "updatedAt": "2026-10-26"
+  }
  }
 ]
