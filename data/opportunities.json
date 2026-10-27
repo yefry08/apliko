@@ -16357,6 +16357,124 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-transformative-ai-fund-effective-altruism-funds",
+  "slug": "transformative-ai-fund-effective-altruism-funds",
+  "name": "Transformative AI Fund · Effective Altruism Funds",
+  "sponsor": "Effective Altruism Funds",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Funding for individuals, new organizations, and new projects working on transformative AI, especially early-stage efforts to reduce catastrophic risks from advanced AI.\n\n- Early-stage grants are typically in the $10k-$150k range, and rarely exceed $300k\n- Funds technical research, policy analysis, forecasting, advocacy, and demonstration projects\n- Supports training, field-building, and infrastructure for people addressing transformative AI\n- Also welcomes projects on flourishing futures and digital sentience",
+  "url": "https://funds.effectivealtruism.org/funds/transformative-ai",
+  "applyUrl": "https://funds.effectivealtruism.org/funds/transformative-ai",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-seed-grants-bluedot-impact",
+  "slug": "seed-grants-bluedot-impact",
+  "name": "Seed Grants · BlueDot Impact",
+  "sponsor": "BlueDot Impact",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Bioseguridad y salud pública",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Funding for founders starting a new AI safety or biosecurity project or organization, supporting the first 6–12 months of work.\n\n- $20k-$200k for 6-12 months\n- Can fund living costs, compute, tools, equipment, and travel\n- For testing an idea, building an early version, and finding collaborators or users\n- Includes introductions to follow-on funders, advisers, hires, and early users",
+  "url": "https://bluedot.org/grants/seed",
+  "applyUrl": "https://bluedot.org/grants/seed",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-animal-welfare-fund-effective-altruism-funds",
+  "slug": "animal-welfare-fund-effective-altruism-funds",
+  "name": "Animal Welfare Fund · Effective Altruism Funds",
+  "sponsor": "Effective Altruism Funds",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "A pooled fund supporting high-impact animal welfare projects worldwide, especially for farmed and neglected animals.\n\n- Funds corporate welfare campaigns and policy advocacy in the Global South\n- Supports aquatic animal welfare, including shrimp and fish farming improvements\n- Backs work on humane slaughter, neglected species, and wild animal suffering\n- Makes grants through global outreach, rigorous evaluation, and strategic collaboration\n- Funds both organizations and individuals worldwide",
+  "url": "https://funds.effectivealtruism.org/funds/animal-welfare",
+  "applyUrl": "https://funds.effectivealtruism.org/funds/animal-welfare",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-ai-x-epistemics-research-sprint",
+  "slug": "ai-x-epistemics-research-sprint",
+  "name": "AI x Epistemics Research Sprint",
+  "sponsor": "Apart Research",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Concurso"
+  ],
+  "areas": [
+   "Gobernanza y decisiones institucionales",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "A 3-day online research sprint on AI for epistemics, running Nov 13 - 15, 2026.\n\n- Free to join\n- $2,000 in cash prizes across all tracks\n- Selected teams can continue through a follow-up fellowship with mentorship and publication support\n- Teams of one to five build a benchmark, tool, product or study\n- Four tracks: model evals, trust infrastructure, epistemic products, and an open track",
+  "url": "https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15",
+  "applyUrl": "https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-research-support-ai-alignment-foundation",
   "slug": "research-support-ai-alignment-foundation",
   "name": "Research Support · AI Alignment Foundation",
@@ -16503,64 +16621,6 @@
   "notes": "A 4-month, full-time research fellowship in AI safety or security, based in London or Berkeley or remotely from the UK, US, or Canada.\n\n- Weekly stipend of 3,850 USD / 2,310 GBP / 4,300 CAD + benefits\n- Funding for compute (~$15k/month) and other research expenses\n- Direct mentorship from researchers, plus access to a shared workspace\n- Empirical projects using external infrastructure, aiming for a public output such as a paper\n- Topics include scalable oversight, adversarial robustness, interpretability, AI welfare, and AI security research",
   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
   "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-cbt-lab-free-mental-wellbeing-productivity-programme-apply-as-a-participant",
-  "slug": "cbt-lab-free-mental-wellbeing-productivity-programme-apply-as-a-participant",
-  "name": "CBT Lab: Free Mental Wellbeing & Productivity Programme (Apply as a Participant)",
-  "sponsor": "Rethink Wellbeing",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Salud mental y bienestar"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-27"
-  },
-  "notes": "A 12-week online peer-support programme where small groups learn evidence-based CBT tools to boost productivity and wellbeing and protect against anxiety, depression and stress.\n\n- Refundable motivational deposit of $200, or $50 for participants from lower-income countries\n- Deposit returned after attending 8 of 9 sessions and completing required surveys\n- Peer groups of 4-6, led by trained volunteer facilitators\n- Eight weekly 90-minute sessions, then habit-building weeks and a week 12 reunion\n- Slack community with CBT expert channels and a support chatbot; 4-6 hours weekly recommended",
-  "url": "https://shareitly.com/click?redirect=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSemKtBLXzb6yEN_Gn9O7FvFvQMAhKYMl-g23sb0BoLMBa-MEg%2Fviewform&dID=1790236463295&hashId=9be6dbfdf216ad2d291ae398d0709c46b50521afc539f392a90410698d5ab27ed27014&linkName=Apply%20as%20a%20participant%20within%20~%2030%20min",
-  "applyUrl": "https://shareitly.com/click?redirect=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSemKtBLXzb6yEN_Gn9O7FvFvQMAhKYMl-g23sb0BoLMBa-MEg%2Fviewform&dID=1790236463295&hashId=9be6dbfdf216ad2d291ae398d0709c46b50521afc539f392a90410698d5ab27ed27014&linkName=Apply%20as%20a%20participant%20within%20~%2030%20min",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-cbt-lab-facilitator-support-mental-wellbeing-in-high-impact-communities",
-  "slug": "cbt-lab-facilitator-support-mental-wellbeing-in-high-impact-communities",
-  "name": "CBT Lab Facilitator: Support Mental Wellbeing in High-Impact Communities",
-  "sponsor": "Rethink Wellbeing",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Voluntariado"
-  ],
-  "areas": [
-   "Salud mental y bienestar"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-10-27"
-  },
-  "notes": "Lead weekly online CBT-based peer groups for people in high-impact careers across a 12-week volunteer programme in Winter 2026.\n\n- 10-15 hours of training and preparation before the programme\n- Bespoke facilitator training, materials, guides, and a completion certificate\n- Ongoing supervision via 1:1s, twice-monthly supervision circles, and expert support\n- Facilitate a peer group of 4-6 participants across 9 online sessions\n- Support participants in Slack and prepare weekly materials and exercises",
-  "url": "https://shareitly.com/click?redirect=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfzq7OD7T072MUREYs__tAs2L_uCUZnJz0JcuUw-TEoYKqCOg%2Fviewform%3Fusp%3Ddialog&dID=1790236463295&hashId=9be6dbfdf216ad2d291ae398d0709c46b50521afc539f392a90410698d5ab27ed27014&linkName=Or%20train%20for%20free%20to%20be%20a%20volunteer%20facilitator%20within%20~%2025min",
-  "applyUrl": "https://shareitly.com/click?redirect=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfzq7OD7T072MUREYs__tAs2L_uCUZnJz0JcuUw-TEoYKqCOg%2Fviewform%3Fusp%3Ddialog&dID=1790236463295&hashId=9be6dbfdf216ad2d291ae398d0709c46b50521afc539f392a90410698d5ab27ed27014&linkName=Or%20train%20for%20free%20to%20be%20a%20volunteer%20facilitator%20within%20~%2025min",
   "updatedAt": "2026-10-01"
  },
  {
@@ -19021,35 +19081,6 @@
   "notes": "Support malnourished children and families by volunteering your skills to help deliver impactful health and nutrition programs.\n\n- Collaborate with local teams to improve child health outcomes\n- Contribute to program design, monitoring, or evaluation\n- Flexible, remote-friendly roles for diverse skill sets",
   "url": "https://taimaka.org/work-with-us#role-volunteer",
   "applyUrl": "https://taimaka.org/work-with-us#role-volunteer",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-transformative-ai-fund-centre-for-effective-altruism-cea",
-  "slug": "transformative-ai-fund-centre-for-effective-altruism-cea",
-  "name": "Transformative AI Fund · Centre for Effective Altruism (CEA)",
-  "sponsor": "Centre for Effective Altruism (CEA)",
-  "source": "financiamiento",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "Apply for funding to support research or projects that advance safe and beneficial transformative AI.\n\n- Supports work on AI safety, governance, and technical research\n- Open to individuals, academics, and organizations\n- Flexible funding for high-impact, scalable projects\n- Prioritizes projects with potential for global positive impact",
-  "url": "https://funds.effectivealtruism.org/funds/transformative-ai",
-  "applyUrl": "https://funds.effectivealtruism.org/funds/transformative-ai",
   "updatedAt": "2026-10-01"
  },
  {
@@ -22142,7 +22173,7 @@
   "id": "ea-volunteer-opportunity-communication-support",
   "slug": "volunteer-opportunity-communication-support",
   "name": "Volunteer opportunity: Communication support",
-  "sponsor": "Novah",
+  "sponsor": "NOVAH (No Violence At Home)",
   "source": "voluntariado",
   "sourceName": "EA Opportunities Board (effectivealtruism.org)",
   "types": [
