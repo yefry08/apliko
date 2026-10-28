@@ -34,3 +34,13 @@ export async function sessionRole(request: Request): Promise<{ userId: string; r
   if (!userId) return null;
   return { userId, role: await roleOf(userId) };
 }
+
+/** Email (lowercase) and name of an account, and whether the email is verified. Null if there is no account. */
+export async function accountOf(userId: string): Promise<{ email: string | null; name: string | null; verified: boolean } | null> {
+  const sql = getSql();
+  if (!sql) return null;
+  const [row] = await sql`
+    select lower(email) as email, name, coalesce((raw_json->>'primary_email_verified')::boolean, false) as verified
+    from neon_auth.users_sync where id = ${userId} and deleted_at is null`;
+  return row ? { email: row.email ?? null, name: row.name ?? null, verified: Boolean(row.verified) } : null;
+}

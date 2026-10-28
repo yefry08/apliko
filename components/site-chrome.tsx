@@ -16,8 +16,11 @@ export function SiteHeader() {
           <Link href="/becas" className="hover:text-foreground">
             Becas
           </Link>
-          <Link href="/becas?perfil=rd" className="hidden hover:text-foreground sm:inline">
+          <Link href="/becas?perfil=rd" className="hidden hover:text-foreground lg:inline">
             ¿Soy elegible?
+          </Link>
+          <Link href="/asesorias" className="hidden hover:text-foreground sm:inline">
+            Asesorías
           </Link>
           <Link href="/mis-becas" className="inline-flex items-center hover:text-foreground">
             Mis becas

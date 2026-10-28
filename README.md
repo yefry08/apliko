@@ -107,6 +107,20 @@ Cómo encaja:
 - Equipo de la portada: `lib/equipo.ts` y las fotos en `public/equipo/` (cuadradas, WebP).
   Las cuentas salen de `neon_auth.users_sync`, la copia que Neon Auth mantiene en la base; las sesiones anónimas no cuentan.
 
+### Asesorías 1-1 (USD 9, 30 minutos)
+
+- `app/asesorias`: el usuario elige asesor del equipo y un horario libre (desde 24 h antes hasta 14 días), y reserva
+  con su cuenta (email verificado). Queda "pendiente de pago" y apartada 48 h (o hasta 2 h antes de la sesión).
+- Pago por Payoneer, a mano: una cuenta normal de Payoneer no tiene API. El asesor recibe un correo y en `app/admin`
+  ve la reserva; le envía al usuario una solicitud de pago desde Payoneer, y cuando llega pega su enlace de Google Meet
+  y la marca pagada. Se confirma y al usuario le llega el enlace. Sin pago a tiempo, el horario se libera solo.
+- Lógica en `lib/asesorias.ts`; tablas `availability` y `bookings` (`db/migrations/0005_asesorias.sql`, ya ejecutado).
+  Cada asesor guarda su disponibilidad semanal en `/admin`, en hora de RD. Los asesores y sus emails están en
+  `lib/asesores.ts`, que solo corre en el servidor: el navegador nunca recibe esos correos.
+- Correos (`lib/correo.ts`, Gmail con `GMAIL_USER` y `GMAIL_APP_PASSWORD`): al reservar (usuario y asesor), al
+  confirmar y al cancelar. El cron diario de Vercel (`vercel.json` → `app/api/cron/recordatorios`) libera reservas
+  vencidas y manda el recordatorio del día antes. `CRON_SECRET` lo protege.
+
 ### Correos de la cuenta con Gmail (gratis)
 
 Neon Auth manda los correos de verificación y de contraseña nueva. Para que salgan desde tu Gmail en vez del remitente

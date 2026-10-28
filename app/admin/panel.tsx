@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
 import { useAuth, type Role } from "@/components/auth-provider";
+import { AdminAsesorias } from "./asesorias";
 
 interface AdminUser {
   id: string;
@@ -137,6 +138,8 @@ export function AdminPanel() {
       <p className="-mt-4 text-xs text-muted-foreground">
         Sin contar {data.stats.anonymous} sesiones anónimas: visitas sin cuenta que Neon Auth registra por su cuenta.
       </p>
+
+      <AdminAsesorias getToken={getToken} superadmin={data.role === "superadmin"} />
 
       <section className="flex flex-col gap-4" aria-labelledby="admins-title">
         <h2 id="admins-title" className="font-display text-3xl">

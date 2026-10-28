@@ -9,7 +9,7 @@ import { SiteFooter } from "@/components/site-chrome";
 import { HeroScene } from "@/components/three/hero-scene";
 import { LazyGlobe } from "@/components/three/lazy-scenes";
 import { AREAS } from "@/lib/areas";
-import { TEAM } from "@/lib/equipo";
+import { SESSION, TEAM } from "@/lib/equipo";
 import { COORDS } from "@/lib/geo";
 import {
   closingSoon,
@@ -103,6 +103,9 @@ export default function Home() {
             </li>
             <li>
               <Link href="/mis-becas">Mis becas</Link>
+            </li>
+            <li>
+              <Link href="/asesorias">Asesorías</Link>
             </li>
             <li>
               <Link href="/mi-perfil">Mi perfil</Link>
@@ -229,7 +232,12 @@ export default function Home() {
         <section className="team" id="equipo" aria-labelledby="team-title">
           <div className="section-header">
             <h2 id="team-title">Equipo</h2>
-            <p>Las personas detrás de ApliKo.</p>
+            <p>
+              Las personas detrás de ApliKo. Reserva {SESSION.minutes} minutos con cualquiera por USD {SESSION.priceUsd}.{" "}
+              <Link href="/asesorias" className="text-larimar hover:underline">
+                Asesorías 1-1 ↗
+              </Link>
+            </p>
           </div>
           <ul className="team-grid" role="list">
             {TEAM.map((m) => (
