@@ -13257,5 +13257,115 @@
    "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-strengthening-community-resilience-to-misinformation-through-media-literacy/",
    "updatedAt": "2026-10-27"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/apply-for-roy-scrivner-memorial-research-grant-united-states/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/apply-for-roy-scrivner-memorial-research-grant-united-states/",
+  "title": "Apply for Roy Scrivner Memorial Research Grant (United States)",
+  "publishedAt": "2026-10-28T09:07:22+00:00",
+  "fetchedAt": "2026-10-28T17:02:01+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-apply-for-roy-scrivner-memorial-research-grant-united-states",
+   "slug": "apply-for-roy-scrivner-memorial-research-grant-united-states",
+   "name": "Apply for Roy Scrivner Memorial Research Grant (United States)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Investigación"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [
+    "maestria"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-25"
+   },
+   "notes": "The Roy Scrivner Memorial Research Grant, offered by the American Psychological Foundation (APF), aims to support graduate students researching LGBTQIA+ family psychology and therapy.",
+   "url": "https://www.fundsforngos.org/how-to-apply/apply-for-roy-scrivner-memorial-research-grant-united-states/",
+   "updatedAt": "2026-10-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/applications-open-for-disability-inclusive-communication-materials-for-children-and-adolescents-program-vietnam/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/applications-open-for-disability-inclusive-communication-materials-for-children-and-adolescents-program-vietnam/",
+  "title": "Applications Open for Disability-Inclusive Communication Materials for Children and Adolescents Program (Vietnam)",
+  "publishedAt": "2026-10-28T09:06:32+00:00",
+  "fetchedAt": "2026-10-28T17:02:01+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-applications-open-for-disability-inclusive-communication-materials-for-children-",
+   "slug": "applications-open-for-disability-inclusive-communication-materials-for-children-",
+   "name": "Applications Open for Disability-Inclusive Communication Materials for Children and Adolescents Program (Vietnam)",
+   "sponsor": "UNICEF Viet Nam",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-01"
+   },
+   "notes": "UNICEF Viet Nam is inviting proposals from local agencies or institutions to adapt and develop communication materials aimed at raising awareness and influencing behavior change regarding access to services for children and adolescents with disabilities. The deadline for submission is 1 November 2026.",
+   "url": "https://www.fundsforngos.org/how-to-apply/applications-open-for-disability-inclusive-communication-materials-for-children-and-adolescents-program-vietnam/",
+   "updatedAt": "2026-10-28"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/apply-now-for-fortis-fellowship-for-new-fortis-society-members/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/apply-now-for-fortis-fellowship-for-new-fortis-society-members/",
+  "title": "Apply now for Fortis Fellowship for New Fortis Society Members",
+  "publishedAt": "2026-10-28T09:05:38+00:00",
+  "fetchedAt": "2026-10-28T17:02:01+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-apply-now-for-fortis-fellowship-for-new-fortis-society-members",
+   "slug": "apply-now-for-fortis-fellowship-for-new-fortis-society-members",
+   "name": "Apply now for Fortis Fellowship for New Fortis Society Members",
+   "sponsor": "Fortis Fellowship, a prestigious opportunity for emerging leaders from humble backgrounds,",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-08"
+   },
+   "notes": "The Fortis Fellowship, a prestigious opportunity for emerging leaders from humble backgrounds, is now accepting applications for its 2027 cohort. Offered by the Fortis Society, this five-month fellowship includes mentorship, professional workshops, and culminates in the Fortis Summit in Medellín.",
+   "url": "https://www.fundsforngos.org/how-to-apply/apply-now-for-fortis-fellowship-for-new-fortis-society-members/",
+   "updatedAt": "2026-10-28"
+  }
  }
 ]
