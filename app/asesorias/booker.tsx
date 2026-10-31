@@ -40,7 +40,7 @@ const STATUS: Record<MyBooking["status"], { label: string; className: string }> 
 };
 
 export function Booker({ advisors, leadHours, windowDays }: { advisors: AdvisorCard[]; leadHours: number; windowDays: number }) {
-  const { configured, user, loading, getToken } = useAuth();
+  const { configured, user, loading, getToken, role } = useAuth();
   const [advisor, setAdvisor] = useState<string | null>(null);
   const [slots, setSlots] = useState<string[] | null>(null);
   const [day, setDay] = useState<string | null>(null);
@@ -130,6 +130,15 @@ export function Booker({ advisors, leadHours, windowDays }: { advisors: AdvisorC
 
   return (
     <div className="flex flex-col gap-10">
+      {(role === "admin" || role === "superadmin") && (
+        <p className="rounded-2xl border border-larimar bg-larimar/5 p-4 text-sm">
+          Eres parte del equipo. Pon tus horarios y confirma tus reservas en{" "}
+          <Link href="/admin#asesorias" className="font-medium text-larimar hover:underline">
+            Admin › Asesorías
+          </Link>
+          .
+        </p>
+      )}
       <section className="flex flex-col gap-4" aria-labelledby="pick-title">
         <h2 id="pick-title" className="font-display text-3xl">
           1. Elige con quién

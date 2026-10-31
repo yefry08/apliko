@@ -35,7 +35,7 @@ export const inputClass =
   "h-11 rounded-lg border bg-card px-3 outline-none placeholder:text-muted-foreground focus-visible:border-larimar focus-visible:ring-2 focus-visible:ring-larimar/30";
 
 export function LoginForm({ mode }: { mode: "entrar" | "crear" }) {
-  const { configured, user, signOut } = useAuth();
+  const { configured, user, signOut, role } = useAuth();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [busy, setBusy] = useState(false);
@@ -75,6 +75,11 @@ export function LoginForm({ mode }: { mode: "entrar" | "crear" }) {
           </p>
         )}
         <div className="flex flex-wrap gap-3">
+          {(role === "admin" || role === "superadmin") && (
+            <Link href="/admin" className="rounded-full bg-larimar px-5 py-2.5 text-sm font-medium text-background">
+              Panel de admin
+            </Link>
+          )}
           <Link href="/mis-becas" className="rounded-full bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground">
             Ir a Mis becas
           </Link>

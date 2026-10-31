@@ -34,10 +34,11 @@ export function RegistroSection() {
   );
 }
 
-/** "Crear cuenta" en el menú de la portada, solo sin sesión. */
+/** "Crear cuenta" en el menú de la portada sin sesión; "Admin" o "Mi cuenta" con ella. */
 export function RegistroNavLink() {
-  const { configured, user, loading } = useAuth();
+  const { configured, user, loading, role } = useAuth();
   if (!configured || loading) return null;
+  if (role === "admin" || role === "superadmin") return <Link href="/admin">Admin</Link>;
   if (user) return <Link href="/entrar">Mi cuenta</Link>;
   return <Link href="/registro">Crear cuenta</Link>;
 }

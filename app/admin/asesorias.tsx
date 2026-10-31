@@ -61,6 +61,7 @@ export function AdminAsesorias({ getToken, superadmin }: { getToken: () => Promi
   const [meet, setMeet] = useState<Record<string, string>>({});
   const [notice, setNotice] = useState("");
   const [busy, setBusy] = useState(false);
+  const [failed, setFailed] = useState(false);
 
   const call = useCallback(
     async (method: "GET" | "PUT" | "POST", body?: unknown) => {
@@ -88,9 +89,12 @@ export function AdminAsesorias({ getToken, superadmin }: { getToken: () => Promi
   useEffect(() => {
     let active = true;
     call("GET").then((r) => {
-      if (active && r?.ok && r.json) {
+      if (!active) return;
+      if (r?.ok && r.json) {
         setData({ ...r.json, loadedAt: Date.now() });
         setRanges(r.json.availability);
+      } else {
+        setFailed(true);
       }
     });
     return () => {
@@ -100,7 +104,13 @@ export function AdminAsesorias({ getToken, superadmin }: { getToken: () => Promi
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  if (!data) return <p className="text-muted-foreground">Cargando asesorías…</p>;
+  if (!data) {
+    return failed ? (
+      <p className="text-coral">No pudimos cargar las asesorías. Recarga la página.</p>
+    ) : (
+      <p className="text-muted-foreground">Cargando asesorías…</p>
+    );
+  }
 
   const act = async (body: unknown, done: string) => {
     setBusy(true);
@@ -126,7 +136,7 @@ export function AdminAsesorias({ getToken, superadmin }: { getToken: () => Promi
   const past = data.bookings.filter((b) => !upcoming.includes(b));
 
   return (
-    <section className="flex flex-col gap-6" aria-labelledby="asesorias-title">
+    <section className="flex scroll-mt-24 flex-col gap-6" id="asesorias" aria-labelledby="asesorias-title">
       <div className="flex flex-col gap-2">
         <h2 id="asesorias-title" className="font-display text-3xl">
           Asesorías
