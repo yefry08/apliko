@@ -14033,5 +14033,109 @@
    "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-building-financial-resilience-among-underserved-communities-2/",
    "updatedAt": "2026-10-30"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/cfas-people-and-capability-program-capacity-r2-australia/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/cfas-people-and-capability-program-capacity-r2-australia/",
+  "title": "CFAs: People and Capability Program – Capacity R2 (Australia)",
+  "publishedAt": "2026-10-30T10:03:47+00:00",
+  "fetchedAt": "2026-10-31T15:58:06+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-people-and-capability-program-capacity-r2-australia",
+   "slug": "people-and-capability-program-capacity-r2-australia",
+   "name": "People and Capability Program – Capacity R2 (Australia)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Australia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The AgriFutures Australia People & Capability Program – Capacity R2 is a grant opportunity aimed at enhancing the skills and capabilities of individuals in the agricultural sector. This program, powered by SmartyGrants, is currently accepting applications until 27 November 2026.",
+   "url": "https://www.fundsforngos.org/how-to-apply/cfas-people-and-capability-program-capacity-r2-australia/",
+   "updatedAt": "2026-10-31"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/stream-1-health-and-development-participation-grant-in-australia/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/stream-1-health-and-development-participation-grant-in-australia/",
+  "title": "Stream 1: Health and Development Participation Grant in Australia",
+  "publishedAt": "2026-10-30T09:57:39+00:00",
+  "fetchedAt": "2026-10-31T15:58:06+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-stream-1-health-and-development-participation-grant-in-australia",
+   "slug": "stream-1-health-and-development-participation-grant-in-australia",
+   "name": "Stream 1: Health and Development Participation Grant in Australia",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Australia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The 2027 Health and Development Participation (HDP) Grant is designed to provide financial support to early childhood education and care providers in New South Wales, Australia.",
+   "url": "https://www.fundsforngos.org/how-to-apply/stream-1-health-and-development-participation-grant-in-australia/",
+   "updatedAt": "2026-10-31"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/applications-open-for-tfl-audience-design-fund-2027/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/applications-open-for-tfl-audience-design-fund-2027/",
+  "title": "Applications open for TFL Audience Design Fund 2027",
+  "publishedAt": "2026-10-30T09:56:11+00:00",
+  "fetchedAt": "2026-10-31T15:58:06+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-applications-open-for-tfl-audience-design-fund-2027",
+   "slug": "applications-open-for-tfl-audience-design-fund-2027",
+   "name": "Applications open for TFL Audience Design Fund 2027",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-13"
+   },
+   "notes": "The TorinoFilmLab (TFL) Audience Design Fund 2027 provides financial support to internationally co-produced films in the post-production stage, aiming to enhance audience engagement and outreach strategies. Two grants of €45,000 each are available. The application deadline is 13 January 2027.",
+   "url": "https://www.fundsforngos.org/how-to-apply/applications-open-for-tfl-audience-design-fund-2027/",
+   "updatedAt": "2026-10-31"
+  }
  }
 ]
