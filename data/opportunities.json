@@ -16357,6 +16357,156 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-graduate-professional-security-and-technology-programme",
+  "slug": "graduate-professional-security-and-technology-programme",
+  "name": "Graduate Professional, Security and Technology Programme",
+  "sponsor": "United Nations Institute for Disarmament Research (UNIDIR)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad y relaciones internacionales",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "En línea",
+   "Suiza"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Geneva, Switzerland / Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-11"
+  },
+  "notes": "Assist with research, events, drafting, outreach, and coordination for a six-month, full-time graduate professional placement in security and technology, starting 4 January 2027.\n\n- Under supervision, support research outputs for the Science, Technology and Innovation Workstream\n- Organize meetings, seminars, and workshops; draft official documents and programme materials\n- Assist outreach and partnership activities; attend conferences and brief colleagues verbally and in writing\n- Contribute to administrative, communication, and coordination tasks across the programme\n- 6 months, with the possibility of extension; starting date: 4 January 2027 (negotiable)",
+  "url": "https://unidir.org/job/graduate-professional-security-and-technology-programme-261029/",
+  "applyUrl": "https://unidir.org/job/graduate-professional-security-and-technology-programme-261029/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-technical-ai-governance-dphil-studentship",
+  "slug": "technical-ai-governance-dphil-studentship",
+  "name": "Technical AI Governance DPhil Studentship",
+  "sponsor": "AI Governance Initiative (AIGI), University of Oxford",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Oxford, UK. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-06"
+  },
+  "notes": "A doctoral studentship for October 2027 entry focused on technical AI governance research at the intersection of AI, engineering, computer science, and public policy.\n\n- Conduct technical research with direct governance impact\n- Supervision and collaboration with faculty in Computer Science and Engineering\n- Topics include compute oversight, privacy-preserving transparency, model evaluation, and standards development\n- Two routes available, including a direct DPhil route linked to specific studentship projects",
+  "url": "https://aigi.ox.ac.uk/technical-ai-governance-programme/",
+  "applyUrl": "https://aigi.ox.ac.uk/technical-ai-governance-programme/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-graduate-professional-horizon-scanning-security-and-technology-programme",
+  "slug": "graduate-professional-horizon-scanning-security-and-technology-programme",
+  "name": "Graduate Professional, Horizon Scanning, Security and Technology Programme",
+  "sponsor": "United Nations Institute for Disarmament Research (UNIDIR)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad y relaciones internacionales",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-11"
+  },
+  "notes": "Support horizon scanning on science and technology developments relevant to disarmament and arms control through research, analysis, drafting, and project coordination.\n\n- Conduct continuous horizon scanning and keep project databases up to date\n- Support analysis of science and technology implications for disarmament and arms control\n- Assist with drafting project outputs, briefings, and stakeholder communications\n- Support events, meetings, and day-to-day administrative and coordination tasks\n- Temporary role for 6 months, with the possibility of extension; starts as soon as possible (negotiable)",
+  "url": "https://unidir.org/job/graduate-professional-horizon-scanning-security-and-technology-programme-261029/",
+  "applyUrl": "https://unidir.org/job/graduate-professional-horizon-scanning-security-and-technology-programme-261029/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-summer-research-fellowship-eu-law",
+  "slug": "summer-research-fellowship-eu-law",
+  "name": "Summer Research Fellowship, EU Law",
+  "sponsor": "Institute for Law & AI (LawAI)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Cambridge, UK. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-29"
+  },
+  "notes": "A full-time research fellowship in EU AI law and policy, running 28 June 2027 to 3 September 2027, mainly in person in Cambridge, UK.\n\n- £1,000 weekly stipend; exceptional candidates may be eligible for higher amounts\n- £7,000 relocation and housing stipend for full-duration relocation; Convening Week travel, accommodation, and meals covered if eligible\n- Close mentorship from research staff and affiliates, plus career planning resources\n- Legal research, reports or law review articles, and possible advising for policymakers, government, and private-sector organisations",
+  "url": "https://law-ai.org/srf-eu/",
+  "applyUrl": "https://law-ai.org/srf-eu/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-fellowship-geopolitics-of-artificial-intelligence",
+  "slug": "fellowship-geopolitics-of-artificial-intelligence",
+  "name": "Fellowship, Geopolitics of Artificial Intelligence",
+  "sponsor": "Center for International Security and Cooperation (CISAC)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad y relaciones internacionales",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Stanford, CA. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-02"
+  },
+  "notes": "A one-year, project-specific postdoctoral policy fellowship researching the geopolitics of AI.\n\n- Supervised by Prof. Colin Kahl and Andrew Grotto\n- Conduct original research on AI competition with China and allied strategy\n- Analyze AI diffusion and development ecosystems in middle-powers and emerging economies\n- Assess policy tools for trustworthy AI innovation, diffusion, and export\n- Help develop, write, and publish policy-relevant work with faculty and researchers",
+  "url": "https://cisac.fsi.stanford.edu/content/cisac-fellowship-program",
+  "applyUrl": "https://cisac.fsi.stanford.edu/content/cisac-fellowship-program",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-fellowship-fall-2026-iliad",
   "slug": "fellowship-fall-2026-iliad",
   "name": "Fellowship (Fall 2026) · Iliad",
