@@ -58,11 +58,13 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
 - `lib/cv.ts`: lee el CV en PDF en el navegador (PDF.js) y llena Mi perfil con reglas simples, sin IA ni servidor:
   datos de contacto, experiencia, proyectos, estudios, cursos, idiomas, premios, habilidades y el resumen. Para probarlo
   con un PDF local: `npx tsx scripts/probar-cv.ts ruta/al/cv.pdf`.
-- `lib/areas.ts`: las 8 áreas (colores de carpeta y tarjeta, y la regla que decide qué oportunidad entra en cada una).
-  Las usan la portada y el filtro "Área" del catálogo (`/becas?area=clima`).
+- `lib/areas.ts`: las 13 áreas (colores de carpeta y tarjeta, su representante del equipo y la regla que decide qué
+  oportunidad entra en cada una). Las usan la portada y el filtro "Área" del catálogo (`/becas?area=clima`).
 - `components/portada/keycaps.tsx`: el logotipo ApliKo en teclas. Cada tecla es un área (las dos últimas toman
-  la forma de la tecla enter y la tecla lateral) y lleva al catálogo filtrado.
-- `components/portada/area-explorer.tsx`: la lista de áreas, la caja con las 8 carpetas y el diálogo nativo.
+  la forma de la tecla enter y la tecla lateral) y lleva al catálogo filtrado; las áreas que sobran van en una fila de
+  teclas F.
+- `components/portada/area-explorer.tsx`: la lista de áreas, la caja con una carpeta por área (su posición se calcula
+  con `folderSpot`) y el diálogo nativo, con el representante del área.
   La caja es `public/assets/opportunities-box.svg`, usada dos veces: detrás de las carpetas y, recortada, delante.
   Las máscaras `clip-path` de `portada.css` dependen de la geometría de ese SVG (lienzo cuadrado de 800 px).
 - `components/three/hero-scene.tsx`: el arte del hero. En pantallas de 1024 px o más, la escena de Spline con fondo
@@ -143,8 +145,9 @@ Gmail permite unos 500 correos al día, de sobra para estos avisos.
 - Neon Auth: el dominio de producción está en la lista de dominios de confianza. Si cambias de dominio,
   agrégalo en Neon > Auth o el acceso con Google/GitHub fallará al volver.
 - Catálogo automático: el workflow `.github/workflows/actualizar-catalogo.yml` corre en GitHub Actions
-  todos los días a las 7:00 a. m. (hora de Santo Domingo). Trae becas nuevas de los feeds RSS
-  (`scripts/ingest_rss.py`) y del EA Opportunities Board (`scripts/actualizar_ea.py`), regenera el
+  dos veces al día, a las 7:00 a. m. y 7:00 p. m. (hora de Santo Domingo). Trae becas nuevas de los feeds RSS
+  (`scripts/ingest_rss.py`), del EA Opportunities Board (`scripts/actualizar_ea.py`) y las competencias abiertas de
+  YouNoodle (`scripts/actualizar_younoodle.py`; salta las que ya están curadas en `financiamiento.json`), regenera el
   catálogo y, si cambió, hace commit y push; Vercel publica. Se puede correr a mano desde la pestaña
   Actions > "Actualizar catálogo" > "Run workflow". La tarea de Windows "Apliko - becas RSS"
   (`scripts/rss-semanal.cmd`) hacía lo mismo solo con RSS y solo con la computadora encendida.

@@ -4,7 +4,7 @@ export interface Member {
   slug: string;
   name: string;
   role: string;
-  linkedin: string;
+  linkedin?: string;
   /** Square photo in public/equipo/; without one the card shows the initials. */
   photo?: string;
   initials: string;
@@ -42,6 +42,12 @@ export const TEAM: Member[] = [
     linkedin: "https://www.linkedin.com/in/marcoantreyes",
     photo: "/equipo/marco-reyes.webp",
     initials: "MR",
+  },
+  {
+    slug: "jeralvi-mendoza",
+    name: "Jeralvi Mendoza",
+    role: "Representante",
+    initials: "JM",
   },
 ];
 

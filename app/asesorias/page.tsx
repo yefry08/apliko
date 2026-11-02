@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { SiteFooter, SiteHeader } from "@/components/site-chrome";
 import { ADVISORS } from "@/lib/asesores";
 import { LEAD_HOURS, WINDOW_DAYS } from "@/lib/asesorias";
@@ -40,7 +41,10 @@ export default function AsesoriasPage() {
             </li>
           ))}
         </ol>
-        <Booker advisors={advisors} leadHours={LEAD_HOURS} windowDays={WINDOW_DAYS} />
+        {/* Booker reads ?asesor= with useSearchParams, which needs a boundary on a static page. */}
+        <Suspense fallback={null}>
+          <Booker advisors={advisors} leadHours={LEAD_HOURS} windowDays={WINDOW_DAYS} />
+        </Suspense>
       </main>
       <SiteFooter />
     </>

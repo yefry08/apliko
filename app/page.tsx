@@ -9,6 +9,7 @@ import { SiteFooter } from "@/components/site-chrome";
 import { HeroScene } from "@/components/three/hero-scene";
 import { LazyGlobe } from "@/components/three/lazy-scenes";
 import { AREAS } from "@/lib/areas";
+import { ADVISORS } from "@/lib/asesores";
 import { SESSION, TEAM } from "@/lib/equipo";
 import { COORDS } from "@/lib/geo";
 import {
@@ -64,10 +65,21 @@ export default function Home() {
   const soon = closingSoon(5);
   const open = sortForDisplay(opportunities.filter((o) => statusOf(o) !== "cerrada"));
 
-  const areas: AreaSummary[] = AREAS.map(({ matches, ...area }) => {
+  const areas: AreaSummary[] = AREAS.map(({ matches, rep, ...area }) => {
     const inArea = open.filter(matches);
+    const member = rep ? TEAM.find((m) => m.slug === rep) : undefined;
     return {
       ...area,
+      representative: member
+        ? {
+            slug: member.slug,
+            name: member.name,
+            role: member.role,
+            photo: member.photo,
+            initials: member.initials,
+            bookable: ADVISORS.some((a) => a.slug === member.slug),
+          }
+        : null,
       count: inArea.length,
       upcoming: inArea
         .filter((o) => o.deadline.kind === "exacta")
@@ -156,7 +168,10 @@ export default function Home() {
 
         <header className="portfolio-heading" id="areas">
           <h2>Oportunidades por área</h2>
-          <p>Ocho carpetas, una por área. Ábrela para ver qué cierra pronto y entrar al catálogo filtrado.</p>
+          <p>
+            {AREAS.length} carpetas, una por área, cada una con alguien del equipo a cargo. Ábrela para ver qué cierra pronto
+            y entrar al catálogo filtrado.
+          </p>
         </header>
 
         <AreaExplorer areas={areas} />
@@ -251,9 +266,18 @@ export default function Home() {
                 </div>
                 <h3>{m.name}</h3>
                 <p className="team-role">{m.role}</p>
-                <a className="team-link" href={m.linkedin} target="_blank" rel="noopener noreferrer">
-                  LinkedIn ↗<span className="sr-only"> de {m.name}</span>
-                </a>
+                {AREAS.some((a) => a.rep === m.slug) && (
+                  <p className="team-division">
+                    {AREAS.filter((a) => a.rep === m.slug)
+                      .map((a) => a.title)
+                      .join(", ")}
+                  </p>
+                )}
+                {m.linkedin && (
+                  <a className="team-link" href={m.linkedin} target="_blank" rel="noopener noreferrer">
+                    LinkedIn ↗<span className="sr-only"> de {m.name}</span>
+                  </a>
+                )}
               </li>
             ))}
           </ul>

@@ -258,7 +258,7 @@ html:has(.case-overlay[open]) {
   border-radius: 16px;
   background: var(--key);
   box-shadow: 0 var(--edge) 0 var(--navy);
-  color: var(--navy);
+  color: var(--key-ink, var(--navy));
   text-decoration: none;
   transition:
     translate 120ms ease,
@@ -286,7 +286,40 @@ html:has(.case-overlay[open]) {
   letter-spacing: 0.08em;
   line-height: 1.2;
   text-transform: uppercase;
-  color: rgba(24, 32, 58, 0.64);
+  color: var(--key-ink-soft, rgba(24, 32, 58, 0.64));
+}
+
+/* Function row: the areas past the word, as small F-keys across the top of the keyboard. */
+.keycaps-fn {
+  display: flex;
+  flex: 1 1 100%;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.keycap--fn {
+  --edge: 4px;
+  flex: 1 1 120px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  min-height: 0;
+  padding: 8px 12px;
+  border-width: 2px;
+  border-radius: 10px;
+}
+
+.keycap--fn:hover,
+.keycap--fn:focus-visible {
+  --edge: 1px;
+  translate: 0 3px;
+}
+
+.keycap--fn .keycap-glyph {
+  font-size: 0.9rem;
+  letter-spacing: 0;
 }
 
 /* Enter key: wider, with the glyph in the corner a real one uses. The cap keeps it from
@@ -469,7 +502,7 @@ html:has(.case-overlay[open]) {
   padding: 0;
   border: 0;
   background: transparent;
-  color: var(--navy);
+  color: var(--folder-ink, var(--navy));
   font: inherit;
   text-align: left;
   cursor: pointer;
@@ -478,16 +511,8 @@ html:has(.case-overlay[open]) {
   transition: transform 0.35s ease;
 }
 
-/* Eight files, front (01) to back (08), stepping up and to the right. Tabs alternate
-   position so every label stays readable above the file in front of it. */
-.folder-1 { --x: 10%;   --y: 21%;   --z: 8; --tab-x: 0%; }
-.folder-2 { --x: 12.3%; --y: 17.5%; --z: 7; --tab-x: 26%; }
-.folder-3 { --x: 14.6%; --y: 14%;   --z: 6; --tab-x: 52%; }
-.folder-4 { --x: 16.9%; --y: 10.5%; --z: 5; --tab-x: 12%; }
-.folder-5 { --x: 19.2%; --y: 7%;    --z: 4; --tab-x: 38%; }
-.folder-6 { --x: 21.5%; --y: 3.5%;  --z: 3; --tab-x: 0%; }
-.folder-7 { --x: 23.8%; --y: 0%;    --z: 2; --tab-x: 26%; }
-.folder-8 { --x: 26.1%; --y: -3.5%; --z: 1; --tab-x: 52%; }
+/* Each file's --x, --y, --z and --tab-x come from folderSpot() in area-explorer.tsx: front to back,
+   stepping up and to the right, spread over the box whatever the number of areas. */
 
 .archive:hover .project-folder,
 .archive[data-open] .project-folder {
@@ -498,7 +523,8 @@ html:has(.case-overlay[open]) {
 .archive .project-folder:focus-visible,
 .archive .project-folder[data-active] {
   --lift: -48px;
-  z-index: 9;
+  /* Above every other file, still below the box front (20). */
+  z-index: 19;
 }
 
 .folder-tab {
@@ -534,8 +560,7 @@ html:has(.case-overlay[open]) {
 }
 
 /* A tab flush with the left edge leaves a square corner under it. */
-.folder-1 .folder-face,
-.folder-6 .folder-face {
+.folder--flush .folder-face {
   border-top-left-radius: 0;
 }
 
@@ -858,6 +883,13 @@ html:has(.case-overlay[open]) {
   color: var(--ink-muted);
 }
 
+.team-division {
+  margin-top: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--cobalt);
+}
+
 .team-link {
   margin-top: 10px;
   font-size: 0.85rem;
@@ -1059,6 +1091,51 @@ html:has(.case-overlay[open]) {
   font-weight: 500;
 }
 
+.case-rep {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.case-rep-photo {
+  display: grid;
+  flex: 0 0 56px;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  overflow: hidden;
+  border-radius: 50%;
+  background: #f1edff;
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  color: var(--cobalt);
+}
+
+.case-rep-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.case-rep strong {
+  display: block;
+  font-size: 1rem;
+}
+
+.case-rep-role {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+}
+
+.case-rep-link {
+  display: inline-block;
+  margin-top: 4px;
+  color: var(--cobalt);
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+
 /* ------------------------------------------------------------------ responsive */
 
 @media (max-width: 1023px) {
@@ -1097,6 +1174,11 @@ html:has(.case-overlay[open]) {
     flex-basis: 92px;
     min-height: 114px;
   }
+
+  .keycap--fn {
+    flex-basis: 140px;
+    min-height: 0;
+  }
 }
 
 @media (max-width: 619px) {
@@ -1122,6 +1204,13 @@ html:has(.case-overlay[open]) {
     min-height: 94px;
     padding: 11px 10px 10px;
     border-radius: 13px;
+  }
+
+  .keycap--fn {
+    flex-basis: 140px;
+    min-height: 0;
+    padding: 7px 10px;
+    border-radius: 9px;
   }
 
   .keycap-label {

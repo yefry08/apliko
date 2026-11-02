@@ -13,8 +13,18 @@ export interface AreaSummary {
   description: string;
   covers: string;
   folderColor: string;
+  ink?: string;
   cardColor: string;
   numberColor: string;
+  representative: {
+    slug: string;
+    name: string;
+    role: string;
+    photo?: string;
+    initials: string;
+    /** Takes paid 1-1 sessions at /asesorias. */
+    bookable: boolean;
+  } | null;
   count: number;
   upcoming: { slug: string; name: string; sponsor?: string; deadline: string }[];
 }
@@ -34,6 +44,27 @@ function Arrow() {
       <path d="M4.5 11.5 11.5 4.5M6 4.5h5.5V10" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
+}
+
+/** Tab offsets cycle so every label stays readable above the file in front of it. */
+const TAB_X = [0, 26, 52, 12, 38];
+
+/**
+ * Where file i of n sits in the box: front (first) to back (last), stepping up and to the right across the
+ * same span the box artwork was drawn for, however many areas there are.
+ */
+function folderSpot(i: number, n: number) {
+  const step = n > 1 ? i / (n - 1) : 0;
+  const tabX = TAB_X[i % TAB_X.length];
+  return {
+    flush: tabX === 0,
+    style: {
+      "--x": `${10 + 16.1 * step}%`,
+      "--y": `${21 - 24.5 * step}%`,
+      "--z": n - i,
+      "--tab-x": `${tabX}%`,
+    },
+  };
 }
 
 /**
@@ -111,12 +142,18 @@ export function AreaExplorer({ areas }: { areas: AreaSummary[] }) {
                 <button
                   key={a.id}
                   type="button"
-                  className={`project-folder folder-${i + 1}`}
+                  className={`project-folder${folderSpot(i, areas.length).flush ? " folder--flush" : ""}`}
                   data-project={a.id}
                   data-active={active === a.id ? "" : undefined}
                   aria-haspopup="dialog"
                   aria-label={`Abrir la carpeta ${a.title}: ${a.count} oportunidades abiertas`}
-                  style={{ "--folder": a.folderColor } as CSSProperties}
+                  style={
+                    {
+                      ...folderSpot(i, areas.length).style,
+                      "--folder": a.folderColor,
+                      ...(a.ink ? { "--folder-ink": a.ink } : {}),
+                    } as CSSProperties
+                  }
                   onClick={(e) => open(a.id, e.currentTarget)}
                   {...hoverProps(a.id)}
                 >
@@ -173,6 +210,33 @@ export function AreaExplorer({ areas }: { areas: AreaSummary[] }) {
                   <h3>Qué incluye</h3>
                   <p>{current.covers}</p>
                 </section>
+
+                {current.representative && (
+                  <section className="case-section">
+                    <h3>Representante</h3>
+                    <div className="case-rep">
+                      <span className="case-rep-photo">
+                        {current.representative.photo ? (
+                          // eslint-disable-next-line @next/next/no-img-element -- tiny avatar inside a portal dialog
+                          <img src={current.representative.photo} alt="" width={56} height={56} />
+                        ) : (
+                          <span aria-hidden="true">{current.representative.initials}</span>
+                        )}
+                      </span>
+                      <span>
+                        <strong>{current.representative.name}</strong>
+                        <span className="case-rep-role">
+                          {current.representative.role} · {current.title}
+                        </span>
+                        {current.representative.bookable && (
+                          <Link href={`/asesorias?asesor=${current.representative.slug}`} className="case-rep-link">
+                            Reserva una asesoría 1-1 ↗
+                          </Link>
+                        )}
+                      </span>
+                    </div>
+                  </section>
+                )}
 
                 <section className="case-section">
                   <h3>Cierran pronto</h3>

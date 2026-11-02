@@ -1,11 +1,11 @@
-# Actualiza el catálogo todos los días, en la nube y gratis (GitHub Actions):
-# trae becas nuevas de los feeds RSS y del EA Opportunities Board, regenera
+# Actualiza el catálogo dos veces al día, en la nube y gratis (GitHub Actions):
+# trae becas nuevas de los feeds RSS, del EA Opportunities Board y de YouNoodle, regenera
 # data/opportunities.json y, si cambió, lo sube a main. Vercel despliega solo.
 name: Actualizar catálogo
 
 on:
   schedule:
-    - cron: "0 11 * * *" # 7:00 a. m. en Santo Domingo
+    - cron: "0 11,23 * * *" # 7:00 a. m. y 7:00 p. m. en Santo Domingo
   workflow_dispatch: # botón "Run workflow" para correrlo a mano
 
 permissions:
@@ -37,6 +37,9 @@ jobs:
         # Si la página cambia y falla, el resto del catálogo se actualiza igual.
         run: python scripts/actualizar_ea.py || echo "::warning::No se pudo actualizar el EA Opportunities Board"
 
+      - name: YouNoodle
+        run: python scripts/actualizar_younoodle.py || echo "::warning::No se pudo actualizar YouNoodle"
+
       # import-data.ts solo usa Node y tipos: basta tsx, sin instalar todo el sitio.
       - name: Regenerar el catálogo
         run: npx --yes tsx@4 scripts/import-data.ts
@@ -44,7 +47,7 @@ jobs:
       - name: Publicar si cambió
         # El autor es la cuenta de Vercel, para que Vercel despliegue el commit.
         run: |
-          git add data/opportunities.json data/rss/candidates.json data/raw/ea-oportunidades.json
+          git add data/opportunities.json data/rss/candidates.json data/raw/ea-oportunidades.json data/raw/younoodle.json
           if git diff --cached --quiet; then
             echo "Sin cambios en el catálogo."
             exit 0

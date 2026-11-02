@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { useAuth } from "@/components/auth-provider";
 import { SESSION } from "@/lib/equipo";
@@ -41,7 +42,9 @@ const STATUS: Record<MyBooking["status"], { label: string; className: string }> 
 
 export function Booker({ advisors, leadHours, windowDays }: { advisors: AdvisorCard[]; leadHours: number; windowDays: number }) {
   const { configured, user, loading, getToken, role } = useAuth();
-  const [advisor, setAdvisor] = useState<string | null>(null);
+  // /asesorias?asesor=slug (from an area's representative) opens with that person picked.
+  const requested = useSearchParams().get("asesor");
+  const [advisor, setAdvisor] = useState<string | null>(() => (advisors.some((a) => a.slug === requested) ? requested : null));
   const [slots, setSlots] = useState<string[] | null>(null);
   const [day, setDay] = useState<string | null>(null);
   const [slot, setSlot] = useState<string | null>(null);
@@ -71,6 +74,22 @@ export function Booker({ advisors, leadHours, windowDays }: { advisors: AdvisorC
     };
   }, [user, loadMine]);
 
+  useEffect(() => {
+    if (!advisor) return;
+    let active = true;
+    fetch(`/api/asesorias?asesor=${encodeURIComponent(advisor)}`)
+      .then((res) => (res.ok ? (res.json() as Promise<{ slots: string[] }>) : { slots: [] }))
+      .then(({ slots }) => {
+        if (!active) return;
+        setSlots(slots);
+        setDay(slots[0] ? dayKey(slots[0]) : null);
+      })
+      .catch(() => active && setSlots([]));
+    return () => {
+      active = false;
+    };
+  }, [advisor]);
+
   const pick = (slug: string) => {
     setAdvisor(slug);
     setSlots(null);
@@ -78,13 +97,6 @@ export function Booker({ advisors, leadHours, windowDays }: { advisors: AdvisorC
     setSlot(null);
     setError("");
     setBooked(null);
-    fetch(`/api/asesorias?asesor=${encodeURIComponent(slug)}`)
-      .then((res) => (res.ok ? (res.json() as Promise<{ slots: string[] }>) : { slots: [] }))
-      .then(({ slots }) => {
-        setSlots(slots);
-        setDay(slots[0] ? dayKey(slots[0]) : null);
-      })
-      .catch(() => setSlots([]));
   };
 
   const days = useMemo(() => {

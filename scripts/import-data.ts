@@ -552,6 +552,49 @@ function readEa(): Opportunity[] {
   });
 }
 
+interface YounoodleRow {
+  name: string;
+  identifier: string;
+  /** ISO date in the program's own time zone. */
+  deadline: string;
+  url: string;
+  description: string;
+}
+
+/**
+ * Competencias abiertas de YouNoodle (scripts/actualizar_younoodle.py, cada día). Las que ya están curadas en
+ * financiamiento.json con la misma URL se saltan: la ficha curada trae requisitos en español.
+ */
+function readYounoodle(curatedUrls: Set<string>): Opportunity[] {
+  const file = path.join(RAW, "younoodle.json");
+  if (!existsSync(file)) return [];
+  const rows = JSON.parse(readFileSync(file, "utf8")) as YounoodleRow[];
+  return rows
+    .filter((r) => !curatedUrls.has(r.url))
+    .map((r) => {
+      const slug = slugify(r.name);
+      return {
+        id: `yn-${slug}`,
+        slug,
+        name: r.name,
+        source: "financiamiento",
+        sourceName: "YouNoodle (apply.younoodle.com)",
+        types: ["Competencia"],
+        areas: ["Emprendimiento"],
+        levels: [],
+        destinations: ["Mundial"],
+        funding: "varia",
+        citizenship: "ver-notas",
+        citizenshipRaw: "Revisa en la convocatoria quién puede postular: muchas son solo para un país o una universidad.",
+        deadline: { kind: "exacta", date: r.deadline },
+        notes: r.description || undefined,
+        url: r.url,
+        applyUrl: r.url,
+        updatedAt: new Date().toISOString().slice(0, 10),
+      } satisfies Opportunity;
+    });
+}
+
 function main() {
   // De los feeds RSS (scripts/ingest_rss.py) solo entran las candidatas aprobadas.
   const rssFile = path.join(process.cwd(), "data", "rss", "candidates.json");
@@ -560,7 +603,18 @@ function main() {
         .filter((c) => c.estado === "aprobada")
         .map((c) => c.oportunidad)
     : [];
-  const all = [...readInternational(), ...readBecas(), ...readFinanciamiento(), ...readStartups(), ...readVoluntariado(), ...readEa(), ...approved];
+  const financiamiento = readFinanciamiento();
+  const curatedUrls = new Set(financiamiento.map((o) => o.url).filter((u): u is string => Boolean(u)));
+  const all = [
+    ...readInternational(),
+    ...readBecas(),
+    ...financiamiento,
+    ...readStartups(),
+    ...readVoluntariado(),
+    ...readEa(),
+    ...readYounoodle(curatedUrls),
+    ...approved,
+  ];
   const seen = new Set<string>();
   const unique = all.filter((o) => {
     let slug = o.slug;
