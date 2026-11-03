@@ -145,9 +145,14 @@ Gmail permite unos 500 correos al día, de sobra para estos avisos.
 - Neon Auth: el dominio de producción está en la lista de dominios de confianza. Si cambias de dominio,
   agrégalo en Neon > Auth o el acceso con Google/GitHub fallará al volver.
 - Catálogo automático: el workflow `.github/workflows/actualizar-catalogo.yml` corre en GitHub Actions
-  dos veces al día, a las 7:00 a. m. y 7:00 p. m. (hora de Santo Domingo). Trae becas nuevas de los feeds RSS
-  (`scripts/ingest_rss.py`), del EA Opportunities Board (`scripts/actualizar_ea.py`) y las competencias abiertas de
-  YouNoodle (`scripts/actualizar_younoodle.py`; salta las que ya están curadas en `financiamiento.json`), regenera el
+  dos veces al día, a las 7:00 a. m. y 7:00 p. m. (hora de Santo Domingo). Trae:
+  - becas nuevas de los feeds RSS (`scripts/ingest_rss.py`, lista en `FEEDS`: Opportunities for Youth, fundsforNGOs,
+    Opportunity Desk, Scholars4Dev, Opportunities Corners, ICTP y SGAC);
+  - el EA Opportunities Board (`scripts/actualizar_ea.py`);
+  - las competencias abiertas de YouNoodle (`scripts/actualizar_younoodle.py`; salta las ya curadas en `financiamiento.json`);
+  - las escuelas y fellowships de matemáticas de CIMPA con postulación abierta (`scripts/actualizar_cimpa.py`).
+
+  Luego regenera el
   catálogo y, si cambió, hace commit y push; Vercel publica. Se puede correr a mano desde la pestaña
   Actions > "Actualizar catálogo" > "Run workflow". La tarea de Windows "Apliko - becas RSS"
   (`scripts/rss-semanal.cmd`) hacía lo mismo solo con RSS y solo con la computadora encendida.

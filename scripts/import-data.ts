@@ -24,6 +24,14 @@ const split = (s = "") =>
     .filter(Boolean);
 
 const COUNTRY_ES: Record<string, string> = {
+  Benin: "Benín",
+  Pakistan: "Pakistán",
+  Thailand: "Tailandia",
+  Uzbekistan: "Uzbekistán",
+  Algeria: "Argelia",
+  Morocco: "Marruecos",
+  Ethiopia: "Etiopía",
+  Tunisia: "Túnez",
   "United States": "Estados Unidos",
   Germany: "Alemania",
   "United Kingdom": "Reino Unido",
@@ -595,6 +603,72 @@ function readYounoodle(curatedUrls: Set<string>): Opportunity[] {
     });
 }
 
+interface CimpaRow {
+  name: string;
+  url: string;
+  country: string;
+  city: string;
+  level: string;
+  type: string;
+  free: boolean;
+  dates: string;
+  starts: string | null;
+  deadline: string;
+  description: string;
+}
+
+function cimpaLevels(level: string): Level[] {
+  const l = level.toLowerCase();
+  if (/master or higher|master and above/.test(l)) return ["maestria", "doctorado"];
+  const out: Level[] = [];
+  if (/licen|bachelor|undergrad/.test(l)) out.push("pregrado");
+  if (/master/.test(l)) out.push("maestria");
+  if (/phd|doctor/.test(l)) out.push("doctorado");
+  if (/post-?doc|researcher/.test(l)) out.push("profesional");
+  return out.length ? out : ["maestria", "doctorado"];
+}
+
+/** Escuelas de investigación y fellowships de matemáticas de CIMPA (scripts/actualizar_cimpa.py, cada día). */
+function readCimpa(): Opportunity[] {
+  const file = path.join(RAW, "cimpa.json");
+  if (!existsSync(file)) return [];
+  const rows = JSON.parse(readFileSync(file, "utf8")) as CimpaRow[];
+  return rows.map((r) => {
+    const slug = slugify(`CIMPA ${r.name}`);
+    const fellowship = /fellowship/i.test(r.type);
+    const place = COUNTRY_ES[r.country] ?? r.country;
+    return {
+      id: `cimpa-${slug}`,
+      slug,
+      name: fellowship ? `${r.name} (CIMPA Fellowship)` : `Escuela CIMPA: ${r.name}`,
+      sponsor: "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+      source: "becas",
+      sourceName: "CIMPA (cimpa.info)",
+      types: [fellowship ? "Fellowship de investigación" : "Escuela de investigación"],
+      areas: ["Matemáticas"],
+      levels: cimpaLevels(r.level),
+      destinations: [place || "Mundial"],
+      funding: r.free ? "parcial" : "varia",
+      amount: r.free
+        ? "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular."
+        : undefined,
+      citizenship: "paises-elegibles",
+      citizenshipRaw: [
+        r.level ? `Nivel: ${r.level}.` : "",
+        r.dates ? `Fechas: ${r.dates}${r.city ? `, ${r.city}` : ""}.` : "",
+        "CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+      ]
+        .filter(Boolean)
+        .join(" "),
+      deadline: { kind: "exacta", date: r.deadline },
+      notes: r.description || undefined,
+      url: r.url,
+      applyUrl: "https://applications.cimpa.info/",
+      updatedAt: new Date().toISOString().slice(0, 10),
+    } satisfies Opportunity;
+  });
+}
+
 function main() {
   // De los feeds RSS (scripts/ingest_rss.py) solo entran las candidatas aprobadas.
   const rssFile = path.join(process.cwd(), "data", "rss", "candidates.json");
@@ -613,6 +687,7 @@ function main() {
     ...readVoluntariado(),
     ...readEa(),
     ...readYounoodle(curatedUrls),
+    ...readCimpa(),
     ...approved,
   ];
   const seen = new Set<string>();

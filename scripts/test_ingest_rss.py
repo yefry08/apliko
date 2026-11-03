@@ -55,8 +55,13 @@ class Eligibility(unittest.TestCase):
     def test_dominican_listed(self):
         self.check("Eligible countries include Mexico, Dominican Republic and Peru.", "si")
 
-    def test_developing_needs_review(self):
-        self.check("For researchers from low- and middle-income countries.", "no-claro", "paises-elegibles")
+    def test_developing_includes_dr(self):
+        # República Dominicana es país en desarrollo de ingreso medio alto; la ficha igual dice "revisa requisitos".
+        self.check("For researchers from low- and middle-income countries.", "si", "paises-elegibles")
+        self.check("Open to students from developing countries.", "si", "paises-elegibles")
+
+    def test_least_developed_only_needs_review(self):
+        self.check("Only for least developed countries; also developing countries partners.", "no-claro", "ver-notas")
 
     def test_silent(self):
         self.check("A great program for young leaders.", "no-claro", "ver-notas")
@@ -113,6 +118,11 @@ class Decisions(unittest.TestCase):
     def test_org_grants_and_digests(self):
         self.assertEqual(self.state(item("Rapid Response Grant for Grassroots Organizations", "Funding for NGOs."))["estado"], "descartada")
         self.assertEqual(self.state(item("30+ Fresh Global Grants for Young People", "A list."))["estado"], "descartada")
+        self.assertEqual(self.state(item("Top 10 Scholarships in Netherlands for International Students", "A list."))["estado"], "descartada")
+
+    def test_africa_only(self):
+        c = self.state(item("WAAW Foundation Scholarship 2027 for Female College Students in Africa", "For students. Deadline: 30 November 2026."))
+        self.assertEqual(c["estado"], "descartada")
 
     def test_senior_researchers(self):
         c = self.state(item("Research Fellowships 2027", "Funding for experienced researchers at UK universities. Deadline: 1 December 2026."))

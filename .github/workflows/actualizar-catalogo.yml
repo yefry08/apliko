@@ -1,5 +1,5 @@
 # Actualiza el catálogo dos veces al día, en la nube y gratis (GitHub Actions):
-# trae becas nuevas de los feeds RSS, del EA Opportunities Board y de YouNoodle, regenera
+# trae becas nuevas de los feeds RSS, del EA Opportunities Board, de YouNoodle y de CIMPA, regenera
 # data/opportunities.json y, si cambió, lo sube a main. Vercel despliega solo.
 name: Actualizar catálogo
 
@@ -40,6 +40,9 @@ jobs:
       - name: YouNoodle
         run: python scripts/actualizar_younoodle.py || echo "::warning::No se pudo actualizar YouNoodle"
 
+      - name: CIMPA (escuelas de matemáticas)
+        run: python scripts/actualizar_cimpa.py || echo "::warning::No se pudo actualizar CIMPA"
+
       # import-data.ts solo usa Node y tipos: basta tsx, sin instalar todo el sitio.
       - name: Regenerar el catálogo
         run: npx --yes tsx@4 scripts/import-data.ts
@@ -47,7 +50,7 @@ jobs:
       - name: Publicar si cambió
         # El autor es la cuenta de Vercel, para que Vercel despliegue el commit.
         run: |
-          git add data/opportunities.json data/rss/candidates.json data/raw/ea-oportunidades.json data/raw/younoodle.json
+          git add data/opportunities.json data/rss/candidates.json data/raw/ea-oportunidades.json data/raw/younoodle.json data/raw/cimpa.json
           if git diff --cached --quiet; then
             echo "Sin cambios en el catálogo."
             exit 0

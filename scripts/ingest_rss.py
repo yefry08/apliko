@@ -34,6 +34,13 @@ CANDIDATES = ROOT / "data" / "rss" / "candidates.json"
 FEEDS = [
     ("Opportunities for Youth", "https://opportunitiesforyouth.org/feed/"),
     ("fundsforNGOs", "https://fundsforngos.org/feed/"),
+    ("Opportunity Desk", "https://opportunitydesk.org/feed/"),
+    ("Scholars4Dev", "https://www.scholars4dev.com/feed/"),
+    ("Opportunities Corners", "https://opportunitiescorners.com/feed/"),
+    # Ciencia y espacio. Las escuelas de matemáticas de CIMPA tienen su propio lector (actualizar_cimpa.py):
+    # su feed casi no trae texto.
+    ("ICTP", "https://www.ictp.it/rss.xml"),
+    ("Space Generation Advisory Council", "https://spacegeneration.org/feed"),
 ]
 
 CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}encoded"
@@ -75,8 +82,12 @@ def fetch(url: str) -> str:
 
 
 def parse_feed(xml: str, feed: str) -> list[dict]:
+    # Some WordPress sites print a stray warning or plugin output after </rss>, which breaks the XML parser.
+    end = xml.rfind("</rss>")
+    if end >= 0:
+        xml = xml[: end + len("</rss>")]
     items = []
-    for it in ET.fromstring(xml).iter("item"):
+    for it in ET.fromstring(xml.strip()).iter("item"):
         link = (it.findtext("link") or "").strip()
         body_html = it.findtext(CONTENT_NS) or it.findtext("description") or ""
         published = None
@@ -162,7 +173,10 @@ FOR_ORGS = (
     r"\bcall for proposals\b", r"\binvites? (research )?proposals\b", r"\bcfps?\b", r"\bcfas?\b",
     r"\bnominations?\b", r"\beligible organi[sz]ations\b", r"\bfunding for (ngos|organi[sz]ations|projects)\b",
 )
-DIGEST = (r"^\d+\+?\s", r"\bnewsletter\b", r"\bopportunities for (young people|youth)$", r"\bround[- ]?up\b")
+DIGEST = (
+    r"^\d+\+?\s", r"^top \d+", r"^the \d+ best\b", r"\bnewsletter\b", r"\bopportunities for (young people|youth)$",
+    r"\bround[- ]?up\b", r"^(fully funded )?scholarships for international students$",
+)
 
 MONTHS = {m: i for i, m in enumerate(
     ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"], 1)}
@@ -235,7 +249,9 @@ def eligibility(text: str) -> tuple[str, str, str | None]:
         r"\beuropean (citizens|nationals|professionals)\b", r"eligible (european|african|eu|commonwealth) countries",
         r"from across (europe|africa)\b",
         r"(citizens?|nationals?) of (ebrd|oecd|commonwealth|nato) (member )?(countries|states)",
-        r"\bafrican (citizens|nationals|youth|researchers|students|countries)\b", r"\bafrica[- ]based\b",
+        r"\bafrican (citizens|nationals|youth|researchers|students|countries|female|women|journalists|scientists|entrepreneurs|leaders|professionals)\b",
+        r"\bafrica[- ]based\b", r"\bfor (young )?africans?\b", r"\bafrica scholarships?\b",
+        r"\b(students|youth|women|leaders|entrepreneurs|scientists) (in|from) africa\b",
         r"(citizens?|nationals?|residents?) of (india|nigeria|kenya|ghana|pakistan|bangladesh|canada|australia|the uk|the united kingdom|denmark|the netherlands)\b",
         r"must be (a )?(canadian|european|african|indian|australian|british|danish) ",
         r"(based|residing|living) in (the )?(eu|europe|africa|india|canada|denmark|australia|the uk)\b",
@@ -263,9 +279,11 @@ def eligibility(text: str) -> tuple[str, str, str | None]:
         return "no", "eeuu-residente", snippet(r"permanent residents?")
     if re.search(r"(must be|only|open to) (a )?(u\.?s\.?|united states) citizens?|citizens of the united states", t):
         return "no", "solo-eeuu", snippet(r"u\.?s\.? citizens?|citizens of the united states")
+    # República Dominicana es país en desarrollo, de ingreso medio alto y elegible para la AOD (ODA): estas
+    # convocatorias la incluyen casi siempre. Cada una publica su lista, así que la ficha dice "revisa requisitos".
     developing = r"developing countries|low-?\s*(and|&)\s*middle[- ]income|\blmics?\b|global south|oda[- ]eligible"
-    if re.search(developing, t):
-        return "no-claro", "paises-elegibles", snippet(developing)
+    if re.search(developing, t) and not re.search(r"\b(only|exclusively) (for |from )?(least developed|low[- ]income)\b", t):
+        return "si", "paises-elegibles", snippet(developing)
     return "no-claro", "ver-notas", None
 
 
@@ -300,8 +318,13 @@ def detect_levels(t: str) -> list[str]:
 AREAS = [
     ("Periodismo", r"journalis|reporting|storytell"),
     ("Salud", r"medic|health|clinical|nursing"),
+    ("Inteligencia artificial", r"artificial intelligence|\bai\b|machine learning|deep learning"),
+    ("Software", r"software|programming|hackathon|computer science|cybersecurity"),
+    ("Ciencia de datos", r"data science|data analytics|big data|bioinformatics"),
+    ("Matemáticas", r"mathemat|\bmaths?\b|statistics|olympiad"),
+    ("Espacio", r"\bspace (science|technology|industry|agency|sector|engineering)|aerospace|astronom|astrophys|satellite|\bnasa\b|\besa\b|planetary"),
     ("Ingeniería", r"engineering"),
-    ("Tecnología", r"computer science|artificial intelligence|\bai\b|software|data science|technology"),
+    ("Tecnología", r"technology"),
     ("Derecho", r"\blaw\b|legal"),
     ("Políticas públicas", r"public policy|policy|governance|diplomacy"),
     ("Economía", r"economics|economic|finance"),
@@ -404,7 +427,8 @@ def classify(item: dict, today: date, auto_approve: bool, fetched_at: str) -> di
     for_orgs = has(head, *FOR_ORGS) or has(fold(text[:800]), *FOR_ORGS)
     digest = has(fold(title), *DIGEST) or "newsletter" in fold(" ".join(item["categories"]))
 
-    open_rd, citizenship, citizenship_raw = eligibility(text)
+    # The title often says who it is for ("… for Female Students in Africa").
+    open_rd, citizenship, citizenship_raw = eligibility(f"{title}.\n{text}")
     kind, deadline = find_deadline(text)
 
     reasons = []
