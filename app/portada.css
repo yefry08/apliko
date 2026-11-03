@@ -22,7 +22,8 @@ html:has(.case-overlay[open]) {
   width: 100%;
   min-height: 100svh;
   padding: 12px 5% 32px;
-  background: #ffffff;
+  /* The body's scroll tint shows through (components/scroll-tint.tsx). */
+  background: transparent;
 }
 
 .portfolio [id] {
@@ -58,7 +59,8 @@ html:has(.case-overlay[open]) {
   min-height: 72px;
   padding: 16px 0;
   margin-bottom: 67px;
-  background: #ffffff;
+  background: var(--page-tint, #ffffff);
+  transition: background-color 0.25s linear;
   border-bottom: 1px solid var(--line);
 }
 

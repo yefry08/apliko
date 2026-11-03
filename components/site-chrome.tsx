@@ -1,10 +1,11 @@
 import Link from "next/link";
 import { AccountLink } from "./account-link";
 import { SavedCount } from "./save-button";
+import { LazyRubik } from "./three/lazy-scenes";
 
 export function SiteHeader() {
   return (
-    <header className="sticky top-0 z-30 border-b bg-background/90 backdrop-blur">
+    <header className="sticky top-0 z-30 border-b bg-[color-mix(in_srgb,var(--page-tint,#fff)_90%,transparent)] backdrop-blur">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
         <Link href="/" className="font-display text-2xl leading-none tracking-tight sm:text-3xl">
           ApliKo<span className="text-larimar">.</span>
@@ -39,7 +40,7 @@ export function SiteHeader() {
 export function SiteFooter() {
   return (
     <footer className="mt-auto border-t">
-      <div className="mx-auto grid max-w-7xl gap-6 px-4 py-10 text-sm text-muted-foreground sm:px-6 md:grid-cols-[1fr_auto]">
+      <div className="mx-auto grid max-w-7xl items-start gap-8 px-4 py-10 text-sm text-muted-foreground sm:px-6 md:grid-cols-[1fr_auto]">
         <div className="flex max-w-2xl flex-col gap-2">
           <p className="font-display text-lg text-foreground">
             ApliKo<span className="text-larimar">*</span>
@@ -53,7 +54,10 @@ export function SiteFooter() {
             revisadas cada semana.
           </p>
         </div>
-        <p className="font-mono text-xs md:text-right">Hecho para estudiantes dominicanos y latinos</p>
+        <div className="flex flex-col items-center gap-3 md:items-end">
+          <LazyRubik />
+          <p className="font-mono text-xs md:text-right">Hecho para estudiantes dominicanos y latinos</p>
+        </div>
       </div>
     </footer>
   );

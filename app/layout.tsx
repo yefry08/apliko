@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, JetBrains_Mono } from "next/font/google";
 import { AuthProvider } from "@/components/auth-provider";
+import { ScrollTint } from "@/components/scroll-tint";
 import "./globals.css";
 
 // Satoshi (the body face) is not on Google Fonts; it loads from Fontshare in <head> below.
@@ -24,6 +25,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700&display=swap" />
       </head>
       <body className="flex min-h-full flex-col">
+        <ScrollTint />
         <AuthProvider>{children}</AuthProvider>
       </body>
     </html>

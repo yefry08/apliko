@@ -86,6 +86,9 @@
   }
   body {
     @apply bg-background text-foreground;
+    /* Soft tint that follows the scroll (components/scroll-tint.tsx); white until it loads. */
+    background-color: var(--page-tint, var(--background));
+    transition: background-color 0.25s linear;
   }
   html {
     @apply font-sans;
