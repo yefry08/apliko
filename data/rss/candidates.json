@@ -16108,5 +16108,635 @@
    "url": "https://spacegeneration.org/pioneer-award-2026-bram-de-winter",
    "updatedAt": "2026-11-03"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/nominations-open-for-iwt-challenge-fund-main-grants-united-kingdom/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/nominations-open-for-iwt-challenge-fund-main-grants-united-kingdom/",
+  "title": "Nominations open for IWT Challenge Fund Main Grants (United Kingdom)",
+  "publishedAt": "2026-11-03T09:25:15+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-nominations-open-for-iwt-challenge-fund-main-grants-united-kingdom",
+   "slug": "nominations-open-for-iwt-challenge-fund-main-grants-united-kingdom",
+   "name": "Nominations open for IWT Challenge Fund Main Grants (United Kingdom)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Derecho",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Illegal Wildlife Trade (IWT) Challenge Fund offers Main grants ranging from £75,000 to £600,000 to support innovative projects tackling illegal wildlife trade and poverty. These grants focus on projects that provide proof of concept for new interventions over a period of 1 to 3 years.",
+   "url": "https://www.fundsforngos.org/how-to-apply/nominations-open-for-iwt-challenge-fund-main-grants-united-kingdom/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/call-for-ukrainian-non-profit-organisations-to-join-future-humanitarian-and-recovery-initiatives/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/call-for-ukrainian-non-profit-organisations-to-join-future-humanitarian-and-recovery-initiatives/",
+  "title": "Call for Ukrainian Non-Profit Organisations to Join Future Humanitarian and Recovery Initiatives",
+  "publishedAt": "2026-11-03T09:19:37+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-call-for-ukrainian-non-profit-organisations-to-join-future-humanitarian-and-reco",
+   "slug": "call-for-ukrainian-non-profit-organisations-to-join-future-humanitarian-and-reco",
+   "name": "Call for Ukrainian Non-Profit Organisations to Join Future Humanitarian and Recovery Initiatives",
+   "sponsor": "ASB Ukraine",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-29"
+   },
+   "notes": "ASB Ukraine is calling for applications from Ukrainian non-profit organizations interested in potential collaboration in the fields of humanitarian aid and recovery. The submission deadline is 29 January 2027. This initiative aims to identify potential partner organizations for future projects.",
+   "url": "https://www.fundsforngos.org/how-to-apply/call-for-ukrainian-non-profit-organisations-to-join-future-humanitarian-and-recovery-initiatives/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/vv-avav-2026-public-grants-for-scientific-research-and-technological-innovation-slovakia/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/vv-avav-2026-public-grants-for-scientific-research-and-technological-innovation-slovakia/",
+  "title": "VV AVaV 2026: Public Grants for Scientific Research and Technological Innovation (Slovakia)",
+  "publishedAt": "2026-11-03T09:15:04+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-vv-avav-2026",
+   "slug": "vv-avav-2026",
+   "name": "VV AVaV 2026",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-08"
+   },
+   "notes": "The VV AVaV 2026 is an open call for proposals by the Slovak Research and Development Agency, inviting applications for applied research and development projects across various scientific and technical disciplines. This initiative aims to support innovation and scientific advancement.",
+   "url": "https://www.fundsforngos.org/how-to-apply/vv-avav-2026-public-grants-for-scientific-research-and-technological-innovation-slovakia/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-flexible-education-and-childcare-support-for-women/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-flexible-education-and-childcare-support-for-women/",
+  "title": "A Sample Grant Proposal on “Flexible Education and Childcare Support for Women”",
+  "publishedAt": "2026-11-03T05:04:35+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-flexible-education-and-childcare-support-for-women",
+   "slug": "a-sample-grant-proposal-on-flexible-education-and-childcare-support-for-women",
+   "name": "A Sample Grant Proposal on “Flexible Education and Childcare Support for Women”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In today’s fast-paced world, the need for flexible education and childcare support has become increasingly evident. Families are juggling multiple responsibilities, from work commitments to personal obligations, making it challenging to find a balance that accommodates both their professional and parental roles.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-flexible-education-and-childcare-support-for-women/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-scholarships-mentoring-and-learning-materials-for-girls/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-scholarships-mentoring-and-learning-materials-for-girls/",
+  "title": "A Sample Grant Proposal on “Scholarships, Mentoring and Learning Materials for Girls”",
+  "publishedAt": "2026-11-03T05:03:53+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-scholarships-mentoring-and-learning-materials-for-gir",
+   "slug": "a-sample-grant-proposal-on-scholarships-mentoring-and-learning-materials-for-gir",
+   "name": "A Sample Grant Proposal on “Scholarships, Mentoring and Learning Materials for Girls”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Economía",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "education is a fundamental right, yet millions of girls around the world face significant barriers that prevent them from accessing quality education",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Education is a fundamental right, yet millions of girls around the world face significant barriers that prevent them from accessing quality education. These barriers can range from socio-economic challenges to cultural norms that prioritize boys’ education over girls’.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-scholarships-mentoring-and-learning-materials-for-girls/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-training-teachers-to-create-inclusive-classrooms/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-training-teachers-to-create-inclusive-classrooms/",
+  "title": "A Sample Grant Proposal on “Training Teachers to Create Inclusive Classrooms”",
+  "publishedAt": "2026-11-03T05:03:35+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-training-teachers-to-create-inclusive-classrooms",
+   "slug": "a-sample-grant-proposal-on-training-teachers-to-create-inclusive-classrooms",
+   "name": "A Sample Grant Proposal on “Training Teachers to Create Inclusive Classrooms”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In today’s educational landscape, the push for inclusive classrooms has gained significant momentum.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-training-teachers-to-create-inclusive-classrooms/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-mother-tongue-literacy-for-indigenous-and-minority-women/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-mother-tongue-literacy-for-indigenous-and-minority-women/",
+  "title": "A Sample Grant Proposal on “Mother Tongue Literacy for Indigenous and Minority Women”",
+  "publishedAt": "2026-11-03T05:02:52+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-mother-tongue-literacy-for-indigenous-and-minority-wo",
+   "slug": "a-sample-grant-proposal-on-mother-tongue-literacy-for-indigenous-and-minority-wo",
+   "name": "A Sample Grant Proposal on “Mother Tongue Literacy for Indigenous and Minority Women”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Mother tongue literacy refers to the ability to read and write in one’s native language. This concept is particularly significant for indigenous and minority communities, where language is not just a means of communication but also a vessel for culture, identity, and heritage.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-mother-tongue-literacy-for-indigenous-and-minority-women/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-leadership-and-life-skills-education-for-adolescent-girls/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-leadership-and-life-skills-education-for-adolescent-girls/",
+  "title": "A Sample Grant Proposal on “Leadership and Life Skills Education for Adolescent Girls”",
+  "publishedAt": "2026-11-03T05:02:37+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-leadership-and-life-skills-education-for-adolescent-g",
+   "slug": "a-sample-grant-proposal-on-leadership-and-life-skills-education-for-adolescent-g",
+   "name": "A Sample Grant Proposal on “Leadership and Life Skills Education for Adolescent Girls”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Leadership and life skills education plays a crucial role in shaping the future of young individuals, particularly in today’s rapidly changing world.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-leadership-and-life-skills-education-for-adolescent-girls/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-targeted-learning-support-for-girls-in-secondary-school/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-targeted-learning-support-for-girls-in-secondary-school/",
+  "title": "A Sample Grant Proposal on “Targeted Learning Support for Girls in Secondary School”",
+  "publishedAt": "2026-11-03T05:01:53+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-targeted-learning-support-for-girls-in-secondary-scho",
+   "slug": "a-sample-grant-proposal-on-targeted-learning-support-for-girls-in-secondary-scho",
+   "name": "A Sample Grant Proposal on “Targeted Learning Support for Girls in Secondary School”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [
+    "secundaria"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "been a growing recognition of the unique educational challenges faced by girls around the world",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In recent years, there has been a growing recognition of the unique educational challenges faced by girls around the world. Targeted learning support for girls aims to address these challenges by providing tailored resources and interventions that cater specifically to their needs.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-targeted-learning-support-for-girls-in-secondary-school/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179849",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/03/home-grown-solutions-agribusiness-accelerator-2027/",
+  "title": "Home-Grown Solutions Agribusiness Accelerator 2027",
+  "publishedAt": "2026-11-03T11:52:45+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-home-grown-solutions-agribusiness-accelerator-2027",
+   "slug": "home-grown-solutions-agribusiness-accelerator-2027",
+   "name": "Home-Grown Solutions Agribusiness Accelerator 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Negocios"
+   ],
+   "levels": [],
+   "destinations": [
+    "Nueva Zelanda"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-18"
+   },
+   "notes": "Deadline: November 18, 2026 Applications are open for the Home-Grown Solutions Agribusiness Accelerator 2027.",
+   "url": "https://opportunitydesk.org/2026/11/03/home-grown-solutions-agribusiness-accelerator-2027/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179844",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/03/harvard-pollman-fellowship-in-real-estate-and-urban-development-2027/",
+  "title": "Harvard Pollman Fellowship in Real Estate and Urban Development 2027 (up to $55,000)",
+  "publishedAt": "2026-11-03T06:18:00+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-harvard-pollman-fellowship-in-real-estate-and-urban-development-2027-up-to-55-00",
+   "slug": "harvard-pollman-fellowship-in-real-estate-and-urban-development-2027-up-to-55-00",
+   "name": "Harvard Pollman Fellowship in Real Estate and Urban Development 2027 (up to $55,000)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-18"
+   },
+   "notes": "Deadline: February 18, 2027 Applications are open for the Harvard Pollman Fellowship in Real Estate and Urban Development 2027. Established in 2002 through the generous gift of Harold A.",
+   "url": "https://opportunitydesk.org/2026/11/03/harvard-pollman-fellowship-in-real-estate-and-urban-development-2027/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179840",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/03/loreal-unesco-for-women-in-science-us-program-2027/",
+  "title": "L’Oréal-UNESCO for Women in Science US Program 2027 (up to $75,000)",
+  "publishedAt": "2026-11-03T05:25:00+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-l-oreal-unesco-for-women-in-science-us-program-2027-up-to-75-000",
+   "slug": "l-oreal-unesco-for-women-in-science-us-program-2027-up-to-75-000",
+   "name": "L’Oréal-UNESCO for Women in Science US Program 2027 (up to $75,000)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Ciencias"
+   ],
+   "levels": [],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-12"
+   },
+   "notes": "Deadline: February 12, 2027 Applications are open for the L’Oréal-UNESCO for Women in Science US Program 2027. L’Oréal USA partners with the American Association for the Advancement of Science (AAAS) to manage the program’s application and peer-review process.",
+   "url": "https://opportunitydesk.org/2026/11/03/loreal-unesco-for-women-in-science-us-program-2027/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179839",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/03/mastercard-foundation-edtech-fellowship-uganda-cohort-2/",
+  "title": "Mastercard Foundation EdTech Fellowship Uganda Cohort 2",
+  "publishedAt": "2026-11-03T05:25:00+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-mastercard-foundation-edtech-fellowship-uganda-cohort-2",
+   "slug": "mastercard-foundation-edtech-fellowship-uganda-cohort-2",
+   "name": "Mastercard Foundation EdTech Fellowship Uganda Cohort 2",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Negocios",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-26"
+   },
+   "notes": "Deadline: November 26, 2026 Applications are open for the Mastercard Foundation EdTech Fellowship Uganda Cohort 2.",
+   "url": "https://opportunitydesk.org/2026/11/03/mastercard-foundation-edtech-fellowship-uganda-cohort-2/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179831",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/03/pan-african-re-insurance-journalism-awards-2027/",
+  "title": "Pan-African Re/Insurance Journalism Awards 2027",
+  "publishedAt": "2026-11-03T05:18:00+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-pan-african-re-insurance-journalism-awards-2027",
+   "slug": "pan-african-re-insurance-journalism-awards-2027",
+   "name": "Pan-African Re/Insurance Journalism Awards 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Periodismo"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-31"
+   },
+   "notes": "Deadline: January 31, 2027 Applications are open for the Pan-African Re/Insurance Journalism Awards 2027. Sponsored by Continental Reinsurance, the pan-African (Re)Insurance Journalism Awards recognise the outstanding work of journalists reporting on (re)insurance from across the continent.",
+   "url": "https://opportunitydesk.org/2026/11/03/pan-african-re-insurance-journalism-awards-2027/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179852",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/03/backing-international-small-restaurants-grant-program-2026/",
+  "title": "Backing International Small Restaurants Grant Program 2026",
+  "publishedAt": "2026-11-03T01:16:00+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-backing-international-small-restaurants-grant-program-2026",
+   "slug": "backing-international-small-restaurants-grant-program-2026",
+   "name": "Backing International Small Restaurants Grant Program 2026",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-16"
+   },
+   "notes": "Deadline: November 16, 2026 Applications are open for the Backing International Small Restaurants Grant Program 2026. The International Downtown Association Foundation recognizes that small restaurants are vital to thriving communities.",
+   "url": "https://opportunitydesk.org/2026/11/03/backing-international-small-restaurants-grant-program-2026/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27744",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/finnish-dinner-date-2027/",
+  "title": "Finnish Dinner Date 2027 in Finland (Fully Funded Trip)",
+  "publishedAt": "2026-11-03T14:49:36+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-finnish-dinner-date-2027-in-finland-fully-funded-trip",
+   "slug": "finnish-dinner-date-2027-in-finland-fully-funded-trip",
+   "name": "Finnish Dinner Date 2027 in Finland (Fully Funded Trip)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Finlandia"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "the finnish dinner date invites single travellers from around the world to experience finnish food, culture, traditions, and hospitality through a unique […] the post finn",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Would you like to visit Finland in 2027 for a unique cultural and culinary experience? Applications are now open for the Finnish Dinner Date 2027, an exciting international initiative launched by Visit Finland.",
+   "url": "https://opportunitiescorners.com/finnish-dinner-date-2027/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27741",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/purdue-university-summer-fellowship-2027/",
+  "title": "Purdue University Summer Fellowship 2027 in USA (Fully Funded)",
+  "publishedAt": "2026-11-03T12:20:49+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-purdue-university-summer-fellowship-2027-in-usa-fully-funded",
+   "slug": "purdue-university-summer-fellowship-2027-in-usa-fully-funded",
+   "name": "Purdue University Summer Fellowship 2027 in USA (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [
+    "pregrado",
+    "maestria"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "ndergraduate students enrolled at universities in the united states, as well as international students studying outside the united states",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Get ready for one of the best fully funded summer research programs! Applications are now open for the Purdue University Summer Undergraduate Research Fellowship (SURF) 2027.",
+   "url": "https://opportunitiescorners.com/purdue-university-summer-fellowship-2027/",
+   "updatedAt": "2026-11-03"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27737",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/nus-amgen-scholars-program-2027/",
+  "title": "NUS Amgen Scholars Program 2027 in Singapore (Fully Funded Internship)",
+  "publishedAt": "2026-11-03T10:48:44+00:00",
+  "fetchedAt": "2026-11-03T18:20:39+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-nus-amgen-scholars-program-2027-in-singapore-fully-funded-internship",
+   "slug": "nus-amgen-scholars-program-2027-in-singapore-fully-funded-internship",
+   "name": "NUS Amgen Scholars Program 2027 in Singapore (Fully Funded Internship)",
+   "sponsor": "NUS",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Internship"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Singapur"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Applications are now open for the NUS Amgen Scholars Program 2027 in Singapore, a fully funded summer internship in Singapore. This prestigious opportunity offers an 8-week internship at NUS, running from May 31 to July 30, 2027.",
+   "url": "https://opportunitiescorners.com/nus-amgen-scholars-program-2027/",
+   "updatedAt": "2026-11-03"
+  }
  }
 ]
