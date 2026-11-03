@@ -16616,6 +16616,36 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-how-will-ai-affect-developing-countries",
+  "slug": "how-will-ai-affect-developing-countries",
+  "name": "How Will AI Affect Developing Countries?",
+  "sponsor": "In Development, Asterisk",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Concurso"
+  ],
+  "areas": [
+   "Salud global y desarrollo",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-31"
+  },
+  "notes": "An essay contest for 2,000 to 5,000-word English essays on how transformative AI will affect low- and middle-income countries.\n\n- Winner (1): $10,000 per essay + publication in print and online\n- Runner-Ups (2): $5,000 per essay + online publication\n- Honorable Mentions (2): $2,000 per essay\n- Additional $2,500 prize for the best essay by an African national\n- Topics include labor markets, policy, conflict, health, politics, and development impacts of AI",
+  "url": "https://indevelopmentmag.com/how-will-ai-affect-developing-countries/",
+  "applyUrl": "https://indevelopmentmag.com/how-will-ai-affect-developing-countries/",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-graduate-professional-security-and-technology-programme",
   "slug": "graduate-professional-security-and-technology-programme",
   "name": "Graduate Professional, Security and Technology Programme",
@@ -21766,5 +21796,36 @@
   "url": "https://opportunitiesforyouth.org/2026/10/25/atlantic-council-eurasia-center-spring-2027-young-global-professionals-program-paid-internship-in-the-usa/",
   "applyUrl": "https://www.paycomonline.net/v4/ats/web.php/portal/1B8B05965A36F1ED6E136AA0A0907656/jobs/222540",
   "updatedAt": "2026-10-25"
+ },
+ {
+  "id": "rss-adlerbert-study-scholarships-at-chalmers-university-of-technology",
+  "slug": "adlerbert-study-scholarships-at-chalmers-university-of-technology",
+  "name": "Adlerbert Study Scholarships at Chalmers University of Technology",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Tecnología",
+   "Educación"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Suecia"
+  ],
+  "funding": "varia",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "t chalmers number of scholarships: 4 scholarships target group: citizens of 143 developing countries",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-15"
+  },
+  "notes": "Chalmers University of Technology Masters Degree Deadline: 15 Jan 2027 (annual) Study in: Sweden Course starts August 2027 Brief description: The Alderbert Study Scholarships offers scholarships to students who are citizens of one of 143 countries.",
+  "url": "https://www.scholars4dev.com/2026/10/06/adlerbert-study-scholarships-at-chalmers-university-of-technology/",
+  "applyUrl": "https://www.chalmers.se/en/education/application-and-admission/scholarships-for-fee-paying-students/how-to-apply-for-a-scholarship/",
+  "updatedAt": "2026-11-03"
  }
 ]
