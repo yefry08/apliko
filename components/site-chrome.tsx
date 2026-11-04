@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { AccountLink } from "./account-link";
 import { SavedCount } from "./save-button";
-import { LazyRubik } from "./three/lazy-scenes";
+import { LazySplineCubes } from "./three/lazy-scenes";
 
 export function SiteHeader() {
   return (
@@ -55,7 +55,7 @@ export function SiteFooter() {
           </p>
         </div>
         <div className="flex flex-col items-center gap-3 md:items-end">
-          <LazyRubik />
+          <LazySplineCubes />
           <p className="font-mono text-xs md:text-right">Hecho para estudiantes dominicanos y latinos</p>
         </div>
       </div>

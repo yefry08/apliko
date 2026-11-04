@@ -4,6 +4,7 @@ import { useReducedMotion } from "framer-motion";
 import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
+import { JengaLoader } from "@/components/jenga-loader";
 import type { GlobeDestination } from "./globe-scene";
 
 const GlobeScene = dynamic(() => import("./globe-scene"), {
@@ -13,11 +14,24 @@ const GlobeScene = dynamic(() => import("./globe-scene"), {
 
 const RubikScene = dynamic(() => import("./rubik-scene"), {
   ssr: false,
-  loading: () => <RubikPlaceholder />,
+  loading: () => (
+    <div className="grid aspect-square w-full max-w-[480px] place-items-center">
+      <JengaLoader size={150} label="Armando el cubo…" />
+    </div>
+  ),
 });
 
-function RubikPlaceholder() {
-  return <div className="h-[200px] w-[200px] rounded-2xl bg-muted/40" aria-hidden="true" />;
+const SplineCubes = dynamic(() => import("./spline-cubes").then((m) => m.SplineCubes), {
+  ssr: false,
+  loading: () => <FooterPlaceholder />,
+});
+
+function FooterPlaceholder() {
+  return (
+    <div className="grid h-[280px] w-[280px] place-items-center" aria-hidden="true">
+      <JengaLoader size={110} />
+    </div>
+  );
 }
 
 function GlobePlaceholder() {
@@ -55,10 +69,15 @@ function useNearViewport<T extends Element>(once = false) {
   return [ref, near] as const;
 }
 
-/** The footer's Rubik's cube: three.js loads only once the footer comes near the screen, and stays mounted. */
-export function LazyRubik() {
+/** The portada hero's playable Rubik's cube (a Jenga tower while three.js loads). */
+export function HeroRubik() {
+  return <RubikScene large />;
+}
+
+/** The footer's blue Spline cubes: they load only once the footer comes near the screen, and stay mounted. */
+export function LazySplineCubes() {
   const [ref, near] = useNearViewport<HTMLDivElement>(true);
-  return <div ref={ref}>{near ? <RubikScene /> : <RubikPlaceholder />}</div>;
+  return <div ref={ref}>{near ? <SplineCubes /> : <FooterPlaceholder />}</div>;
 }
 
 export function LazyGlobe({ destinations }: { destinations: GlobeDestination[] }) {

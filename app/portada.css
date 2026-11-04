@@ -199,39 +199,11 @@ html:has(.case-overlay[open]) {
   color: var(--ink-muted);
 }
 
-.hero-scene {
-  position: relative;
-  aspect-ratio: 1 / 1;
-  max-height: 600px;
+/* The playable Rubik's cube (components/three/rubik-scene.tsx); a Jenga tower while it loads. */
+.hero-cube {
+  display: flex;
+  justify-content: center;
   width: 100%;
-  overflow: hidden;
-}
-
-.hero-scene__fallback,
-.hero-scene__spline {
-  position: absolute;
-  inset: 0;
-}
-
-.hero-scene__fallback[data-waiting] {
-  opacity: 0.35;
-}
-
-.hero-scene__spline {
-  opacity: 0;
-  transition: opacity 1s ease;
-}
-
-.hero-scene__spline[data-loaded] {
-  opacity: 1;
-}
-
-/* The Spline scene has a fixed-size frame: centre it rather than stretch it. */
-.hero-scene__spline canvas {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  translate: -50% -50%;
 }
 
 /* ------------------------------------------------------------------ keycaps */
@@ -1145,7 +1117,7 @@ html:has(.case-overlay[open]) {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  .hero-scene {
+  .hero-cube {
     max-width: 480px;
     justify-self: center;
   }
@@ -1344,8 +1316,7 @@ html:has(.case-overlay[open]) {
 
 @media (prefers-reduced-motion: reduce) {
   .keycap,
-  .project-folder,
-  .hero-scene__spline {
+  .project-folder {
     transition: none;
   }
 

@@ -6,8 +6,7 @@ import { AreaExplorer, type AreaSummary } from "@/components/portada/area-explor
 import { Keycaps } from "@/components/portada/keycaps";
 import { RegistroNavLink, RegistroSection } from "@/components/registro";
 import { SiteFooter } from "@/components/site-chrome";
-import { HeroScene } from "@/components/three/hero-scene";
-import { LazyGlobe } from "@/components/three/lazy-scenes";
+import { HeroRubik, LazyGlobe } from "@/components/three/lazy-scenes";
 import { AREAS } from "@/lib/areas";
 import { ADVISORS } from "@/lib/asesores";
 import { SESSION, TEAM } from "@/lib/equipo";
@@ -163,7 +162,9 @@ export default function Home() {
               </div>
             </dl>
           </div>
-          <HeroScene />
+          <div className="hero-cube">
+            <HeroRubik />
+          </div>
         </header>
 
         <header className="portfolio-heading" id="areas">

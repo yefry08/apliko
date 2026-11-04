@@ -67,8 +67,12 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
   con `folderSpot`) y el diálogo nativo, con el representante del área.
   La caja es `public/assets/opportunities-box.svg`, usada dos veces: detrás de las carpetas y, recortada, delante.
   Las máscaras `clip-path` de `portada.css` dependen de la geometría de ese SVG (lienzo cuadrado de 800 px).
-- `components/three/hero-scene.tsx`: el arte del hero. En pantallas de 1024 px o más, la escena de Spline con fondo
-  transparente (`spline-canvas.tsx` fuerza WebGL); en móvil o con movimiento reducido, la escena 3D propia.
+- `components/three/rubik-scene.tsx` + `rubik-cube.ts`: el cubo de Rubik jugable del hero. `rubik-cube.ts` es la lógica
+  (piezas, giros, si está resuelto) sin React, para probarla aparte; la escena solo la dibuja.
+- `components/three/spline-cubes.tsx`: los cubos azules de Spline en el footer, que cargan al acercarse. En pantallas de
+  1024 px o más, la escena de Spline con fondo transparente y escalada a la caja (`spline-canvas.tsx` fuerza WebGL); en
+  móvil o con movimiento reducido, la escena 3D propia.
+- `components/jenga-loader.tsx`: la torre de Jenga que se arma mientras cargan las escenas 3D.
 - `components/three/`: globo con rutas y escena flotante (React Three Fiber, carga diferida).
 - `components/deadline-marquee.tsx`: carrusel continuo con las 5 oportunidades que cierran antes.
 - `lib/store.ts`: becas guardadas, etapa de cada postulación y perfil, en `localStorage` (clave `apliko:v1`).

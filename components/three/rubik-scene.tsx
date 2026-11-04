@@ -2,7 +2,8 @@
 
 import { OrbitControls, RoundedBox } from "@react-three/drei";
 import { Canvas, useFrame } from "@react-three/fiber";
-import { memo, useCallback, useState } from "react";
+import { memo, useCallback, useRef, useState, useSyncExternalStore } from "react";
+import type * as THREE from "three";
 import { CubeController, FACES, type Axis, type Face, type Turn } from "./rubik-cube";
 
 /**
@@ -61,7 +62,34 @@ const Cube = memo(function Cube({
   );
 });
 
-export default function RubikScene() {
+/** On touch screens a drag must scroll the page, so the view turns by itself instead of with OrbitControls. */
+function useCoarsePointer() {
+  return useSyncExternalStore(
+    (onChange) => {
+      const mq = window.matchMedia("(pointer: coarse)");
+      mq.addEventListener("change", onChange);
+      return () => mq.removeEventListener("change", onChange);
+    },
+    () => window.matchMedia("(pointer: coarse)").matches,
+    () => false,
+  );
+}
+
+function Spin({ children }: { children: React.ReactNode }) {
+  const group = useRef<THREE.Group>(null);
+  useFrame((_, delta) => {
+    if (group.current) group.current.rotation.y += delta * 0.35;
+  });
+  return (
+    <group ref={group} rotation={[0.35, 0.6, 0]}>
+      {children}
+    </group>
+  );
+}
+
+/** `large` fills its container (the portada hero); otherwise a compact 200 px cube. */
+export default function RubikScene({ large = false }: { large?: boolean }) {
+  const coarse = useCoarsePointer();
   const [cube] = useState(() => new CubeController());
   const [moves, setMoves] = useState(0);
   const [scrambled, setScrambled] = useState(false);
@@ -112,9 +140,9 @@ export default function RubikScene() {
   };
 
   return (
-    <div className="flex flex-col items-center gap-3">
+    <div className="flex w-full flex-col items-center gap-3">
       <div
-        className="h-[200px] w-[200px] cursor-grab rounded-2xl outline-none focus-visible:ring-2 focus-visible:ring-larimar active:cursor-grabbing"
+        className={`${large ? "aspect-square w-full max-w-[480px]" : "h-[200px] w-[200px]"} ${coarse ? "" : "cursor-grab active:cursor-grabbing"} rounded-2xl outline-none focus-visible:ring-2 focus-visible:ring-larimar`}
         tabIndex={0}
         role="application"
         aria-label="Cubo de Rubik. Arrastra para girarlo; las letras U, D, R, L, F y B giran una cara y con Mayús al revés."
@@ -124,8 +152,16 @@ export default function RubikScene() {
           <ambientLight intensity={0.9} />
           <directionalLight position={[5, 8, 6]} intensity={1.4} />
           <directionalLight position={[-6, -4, -5]} intensity={0.5} />
-          <Cube cube={cube} onTurnDone={onTurnDone} />
-          <OrbitControls enableZoom={false} enablePan={false} rotateSpeed={0.8} />
+          {coarse ? (
+            <Spin>
+              <Cube cube={cube} onTurnDone={onTurnDone} />
+            </Spin>
+          ) : (
+            <>
+              <Cube cube={cube} onTurnDone={onTurnDone} />
+              <OrbitControls enableZoom={false} enablePan={false} rotateSpeed={0.8} />
+            </>
+          )}
         </Canvas>
       </div>
       <div className="grid grid-cols-6 gap-1" role="group" aria-label="Girar caras">
@@ -136,7 +172,7 @@ export default function RubikScene() {
               type="button"
               onClick={() => turn(f, prime)}
               aria-label={`Girar la cara ${FACE_NAMES[f]} ${prime ? "al revés" : "en sentido del reloj"}`}
-              className="h-7 w-8 rounded-md border font-mono text-xs text-foreground hover:border-larimar hover:text-larimar"
+              className={`${large ? "h-9 w-11 text-sm" : "h-7 w-8 text-xs"} rounded-md border bg-card font-mono text-foreground hover:border-larimar hover:text-larimar`}
             >
               {f}
               {prime ? "′" : ""}
