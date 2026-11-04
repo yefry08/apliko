@@ -7804,6 +7804,227 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "bec-ibrahim-leadership-fellowships-2027",
+  "slug": "ibrahim-leadership-fellowships-2027",
+  "name": "Ibrahim Leadership Fellowships 2027",
+  "sponsor": "Mo Ibrahim Foundation",
+  "source": "becas",
+  "types": [
+   "Fellowship profesional"
+  ],
+  "areas": [
+   "Liderazgo",
+   "Políticas públicas",
+   "Desarrollo económico"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Estipendio de USD 100,000 por 12 meses",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo nacionales de países africanos. Tres fellows trabajan 12 meses en la oficina ejecutiva del Banco Africano de Desarrollo (Abiyán), la CEPA de la ONU (Adís Abeba) o el International Trade Centre (Ginebra). Se postula en el sitio de cada institución.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-20"
+  },
+  "url": "https://mo.ibrahim.foundation/fellowships",
+  "applyUrl": "https://mo.ibrahim.foundation/fellowships",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-internet-society-fellowship-program-2027",
+  "slug": "internet-society-fellowship-program-2027",
+  "name": "Internet Society Fellowship Program 2027",
+  "sponsor": "Internet Society",
+  "source": "becas",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Gobernanza de internet",
+   "Tecnología",
+   "Políticas públicas"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "parcial",
+  "amount": "Mentoría y hasta USD 5,000 para un proyecto propio",
+  "citizenship": "global",
+  "citizenshipRaw": "Profesionales y entusiastas de internet de cualquier país. Primero hay que terminar los módulos de formación previa antes del 22 de noviembre; después llega el enlace para postular, que cierra el 18 de diciembre. El proyecto se ejecuta de junio a noviembre de 2027.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-22"
+  },
+  "url": "https://www.internetsociety.org/fellowship/",
+  "applyUrl": "https://www.internetsociety.org/fellowship/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-yenching-academy-scholars-2027",
+  "slug": "yenching-academy-scholars-2027",
+  "name": "Yenching Academy Scholars 2027",
+  "sponsor": "Yenching Academy, Universidad de Pekín",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Estudios de China",
+   "Relaciones internacionales",
+   "Economía"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "China"
+  ],
+  "funding": "completa",
+  "amount": "Matrícula, alojamiento, estipendio mensual, vuelo de ida y vuelta y gastos de estudio de campo",
+  "citizenship": "global",
+  "citizenshipRaw": "Maestría en Estudios de China en la Universidad de Pekín para candidatos internacionales, con ingreso en septiembre de 2027. Cierra el 30 de noviembre a las 9:00 de Pekín, que en RD es el 29 de noviembre a las 9:00 p. m.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-29"
+  },
+  "url": "https://yenchingacademy.pku.edu.cn/",
+  "applyUrl": "https://yenchingacademy.pku.edu.cn/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-anzisha-venture-building-fellowship-2027",
+  "slug": "anzisha-venture-building-fellowship-2027",
+  "name": "Anzisha Venture Building Fellowship 2027",
+  "sponsor": "Anzisha Prize (African Leadership Academy y Mastercard Foundation)",
+  "source": "becas",
+  "types": [
+   "Fellowship de emprendimiento"
+  ],
+  "areas": [
+   "Emprendimiento"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado"
+  ],
+  "destinations": [
+   "Sudáfrica"
+  ],
+  "funding": "varia",
+  "amount": "Acompañamiento de varios años, mentoría, cursos y acceso a premios",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo emprendedores jóvenes (de 15 a 22 años) con ciudadanía de un país africano.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La convocatoria difundida dice 10 de noviembre de 2026; confírmalo en anzisha.org"
+  },
+  "url": "https://anzisha.org/fellowship/",
+  "applyUrl": "https://anzisha.org/fellowship/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-epfl-ai-center-and-swiss-ai-initiative-postdoctoral-fellowships",
+  "slug": "epfl-ai-center-and-swiss-ai-initiative-postdoctoral-fellowships",
+  "name": "EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships",
+  "sponsor": "EPFL AI Center y Swiss AI Initiative",
+  "source": "becas",
+  "types": [
+   "Posdoctorado"
+  ],
+  "areas": [
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Suiza"
+  ],
+  "funding": "completa",
+  "amount": "Contrato de posdoctorado en EPFL (Lausana) para investigar en IA con su profesorado",
+  "citizenship": "global",
+  "citizenshipRaw": "Investigadores jóvenes con doctorado, de cualquier país, que quieran trabajar con profesores de EPFL en investigación de IA. Tercera convocatoria; cierra el 9 de noviembre a las 17:00 (hora de Europa central).",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-09"
+  },
+  "url": "https://www.epfl.ch/research/funding/epfl-programmes/ai-center/",
+  "applyUrl": "https://www.epfl.ch/research/funding/epfl-programmes/ai-center/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-cifar-global-scholars-2027-2029",
+  "slug": "cifar-global-scholars-2027-2029",
+  "name": "CIFAR Global Scholars 2027-2029",
+  "sponsor": "CIFAR (Canadian Institute for Advanced Research)",
+  "source": "becas",
+  "types": [
+   "Programa de investigación"
+  ],
+  "areas": [
+   "Ciencias naturales",
+   "Ciencias sociales",
+   "Humanidades"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Canadá"
+  ],
+  "funding": "parcial",
+  "amount": "CAD 100,000 para investigación en dos años, mentoría y formación en liderazgo",
+  "citizenship": "global",
+  "citizenshipRaw": "Investigadores de cualquier país en su primer puesto independiente después del doctorado (empezado entre el 1 de julio de 2022 y el 31 de diciembre de 2026). Los posdoctorados no califican. Cierra el 4 de noviembre a las 12:00 de Toronto.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-04"
+  },
+  "url": "https://cifar.ca/next-generation/global-scholars/",
+  "applyUrl": "https://cifar.ca/next-generation/global-scholars/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-equality-fund-journalism-fellowship-2026",
+  "slug": "equality-fund-journalism-fellowship-2026",
+  "name": "Equality Fund Journalism Fellowship 2026",
+  "sponsor": "Equality Fund",
+  "source": "becas",
+  "types": [
+   "Fellowship de periodismo"
+  ],
+  "areas": [
+   "Periodismo",
+   "Género"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "estipendio",
+  "amount": "Estipendio de CAD 4,000",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Periodistas con al menos tres años de experiencia que viven e informan en países receptores de ayuda oficial al desarrollo (AOD), como República Dominicana. Cubren soluciones locales a crisis globales con enfoque de género, en inglés. Se eligen 5. Cierra el 8 de noviembre a las 11:00 p. m. de Toronto.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-08"
+  },
+  "url": "https://equalityfund.ca/en/posts/application-journalism-fellowship",
+  "applyUrl": "https://equalityfund.ca/en/posts/application-journalism-fellowship",
+  "updatedAt": "2026-09-23"
+ },
+ {
   "id": "fin-wellcome-prize-for-mental-health-science",
   "slug": "wellcome-prize-for-mental-health-science",
   "name": "Wellcome Prize for Mental Health Science",
@@ -12327,6 +12548,39 @@
   },
   "url": "https://apply.younoodle.com/showcase/competition/start3_program",
   "applyUrl": "https://apply.younoodle.com/showcase/competition/start3_program",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-d-prize-global-competition-2026-2027",
+  "slug": "d-prize-global-competition-2026-2027",
+  "name": "D-Prize Global Competition 2026-2027",
+  "sponsor": "D-Prize",
+  "source": "financiamiento",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Pobreza",
+   "Desarrollo"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 20,000 para lanzar el proyecto",
+  "citizenship": "global",
+  "citizenshipRaw": "Emprendedores y organizaciones nacientes de cualquier país que quieran distribuir soluciones probadas contra la pobreza; se anima en especial a quienes son de países de ingresos bajos y medios. Inscripción gratis. Plazo regular 15 de noviembre y prórroga hasta el 6 de diciembre (medianoche, hora del Pacífico).",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "url": "https://www.d-prize.org/",
+  "applyUrl": "https://www.d-prize.org/",
   "updatedAt": "2026-09-18"
  },
  {
