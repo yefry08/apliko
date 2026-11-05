@@ -17451,5 +17451,78 @@
    "url": "https://spacegeneration.org/sgac-is-looking-for-a-reports-editor",
    "updatedAt": "2026-11-04"
   }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179884",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/04/fes-young-leaders-programme-2027/",
+  "title": "Friedrich Ebert Foundation (FES) Young Leaders Program 2027",
+  "publishedAt": "2026-11-04T21:37:05+00:00",
+  "fetchedAt": "2026-11-05T03:22:43+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-friedrich-ebert-foundation-fes-young-leaders-program-2027",
+   "slug": "friedrich-ebert-foundation-fes-young-leaders-program-2027",
+   "name": "Friedrich Ebert Foundation (FES) Young Leaders Program 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-10"
+   },
+   "notes": "Deadline: December 10, 2026 Applications are open for the Friedrich Ebert Foundation (FES) Young Leaders Programme 2027. The programme is an initiative dedicated to strengthening the political participation of young men and women engaged in civil society, trade unions and political parties in Cameroon.",
+   "url": "https://opportunitydesk.org/2026/11/04/fes-young-leaders-programme-2027/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179883",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/04/ceps-heinrich-boll-stiftung-climate-leadership-programme-2027/",
+  "title": "CEPS & Heinrich Böll Stiftung Climate Leadership Programme 2027 (Fully-funded)",
+  "publishedAt": "2026-11-04T21:11:22+00:00",
+  "fetchedAt": "2026-11-05T03:22:43+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-ceps-heinrich-boll-stiftung-climate-leadership-programme-2027-fully-funded",
+   "slug": "ceps-heinrich-boll-stiftung-climate-leadership-programme-2027-fully-funded",
+   "name": "CEPS & Heinrich Böll Stiftung Climate Leadership Programme 2027 (Fully-funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Negocios",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-10"
+   },
+   "notes": "Deadline: November 10, 2026 Applications are open for the CEPS & Heinrich Böll Stiftung Climate Leadership Programme 2027.",
+   "url": "https://opportunitydesk.org/2026/11/04/ceps-heinrich-boll-stiftung-climate-leadership-programme-2027/",
+   "updatedAt": "2026-11-05"
+  }
  }
 ]
