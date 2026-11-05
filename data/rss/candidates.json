@@ -17524,5 +17524,795 @@
    "url": "https://opportunitydesk.org/2026/11/04/ceps-heinrich-boll-stiftung-climate-leadership-programme-2027/",
    "updatedAt": "2026-11-05"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/apply-for-youth-ai4sdgs-impact-challenge-grant-in-asia-pacific/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/apply-for-youth-ai4sdgs-impact-challenge-grant-in-asia-pacific/",
+  "title": "Apply for Youth AI4SDGs Impact Challenge Grant in Asia-Pacific",
+  "publishedAt": "2026-11-05T09:27:32+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-apply-for-youth-ai4sdgs-impact-challenge-grant-in-asia-pacific",
+   "slug": "apply-for-youth-ai4sdgs-impact-challenge-grant-in-asia-pacific",
+   "name": "Apply for Youth AI4SDGs Impact Challenge Grant in Asia-Pacific",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Inteligencia artificial",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Indonesia",
+    "Singapur"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The United Nations Development Programme (UNDP) and Tencent Charity Foundation have launched the Youth AI4SDGs Impact Challenge.",
+   "url": "https://www.fundsforngos.org/how-to-apply/apply-for-youth-ai4sdgs-impact-challenge-grant-in-asia-pacific/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/rfas-circular-industry-support-program-for-egyptian-smes/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/rfas-circular-industry-support-program-for-egyptian-smes/",
+  "title": "RFAs: Circular Industry Support Program for Egyptian SMEs",
+  "publishedAt": "2026-11-05T09:23:29+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-rfas-circular-industry-support-program-for-egyptian-smes",
+   "slug": "rfas-circular-industry-support-program-for-egyptian-smes",
+   "name": "RFAs: Circular Industry Support Program for Egyptian SMEs",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Negocios",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Egipto"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Circular Industry Support Program for Egyptian SMEs, also known as Tadweer, is aimed at empowering startups and small to medium-sized enterprises (SMEs) operating in the circular economy and sustainability sectors.",
+   "url": "https://www.fundsforngos.org/how-to-apply/rfas-circular-industry-support-program-for-egyptian-smes/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/uk-netherlands-co-innovation-for-quantum-technology-2026/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/uk-netherlands-co-innovation-for-quantum-technology-2026/",
+  "title": "UK-Netherlands Co-Innovation for Quantum Technology 2026",
+  "publishedAt": "2026-11-05T09:23:01+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-uk-netherlands-co-innovation-for-quantum-technology-2026",
+   "slug": "uk-netherlands-co-innovation-for-quantum-technology-2026",
+   "name": "UK-Netherlands Co-Innovation for Quantum Technology 2026",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Tecnología",
+    "Negocios",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Reino Unido",
+    "Países Bajos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The UK-Netherlands Co-Innovation for Quantum Technology 2026 is a funding opportunity provided by Innovate UK, part of UK Research and Innovation (UKRI).",
+   "url": "https://www.fundsforngos.org/how-to-apply/uk-netherlands-co-innovation-for-quantum-technology-2026/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-ai-powered-learning-support-for-children-in-underserved-communities/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-ai-powered-learning-support-for-children-in-underserved-communities/",
+  "title": "A Sample Grant Proposal on “AI-Powered Learning Support for Children in Underserved Communities”",
+  "publishedAt": "2026-11-05T04:28:35+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-ai-powered-learning-support-for-children-in-underserv",
+   "slug": "a-sample-grant-proposal-on-ai-powered-learning-support-for-children-in-underserv",
+   "name": "A Sample Grant Proposal on “AI-Powered Learning Support for Children in Underserved Communities”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Inteligencia artificial",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Artificial Intelligence (AI) is transforming various sectors, and education is no exception. AI-powered learning support systems are emerging as powerful tools that can enhance educational experiences, particularly for underserved communities.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-ai-powered-learning-support-for-children-in-underserved-communities/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-empowering-women-and-girls-through-ai-literacy-and-digital-skills/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-empowering-women-and-girls-through-ai-literacy-and-digital-skills/",
+  "title": "A Sample Grant Proposal on “Empowering Women and Girls through AI Literacy and Digital Skills”",
+  "publishedAt": "2026-11-05T04:27:49+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-empowering-women-and-girls-through-ai-literacy-and-di",
+   "slug": "a-sample-grant-proposal-on-empowering-women-and-girls-through-ai-literacy-and-di",
+   "name": "A Sample Grant Proposal on “Empowering Women and Girls through AI Literacy and Digital Skills”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Inteligencia artificial",
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In today’s rapidly evolving digital landscape, the empowerment of women and girls has never been more crucial. As technology continues to shape our world, those who lack digital skills risk being left behind. This gap not only affects individual opportunities but also stifles broader societal progress.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-empowering-women-and-girls-through-ai-literacy-and-digital-skills/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-using-ai-to-improve-early-detection-of-crop-diseases-for-smallholder-farmers/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-using-ai-to-improve-early-detection-of-crop-diseases-for-smallholder-farmers/",
+  "title": "A Sample Grant Proposal on “Using AI to Improve Early Detection of Crop Diseases for Smallholder Farmers”",
+  "publishedAt": "2026-11-05T04:27:39+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-using-ai-to-improve-early-detection-of-crop-diseases-",
+   "slug": "a-sample-grant-proposal-on-using-ai-to-improve-early-detection-of-crop-diseases-",
+   "name": "A Sample Grant Proposal on “Using AI to Improve Early Detection of Crop Diseases for Smallholder Farmers”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Inteligencia artificial",
+    "Tecnología",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In recent years, the agricultural sector has faced numerous challenges, particularly in developing regions where smallholder farmers struggle with crop diseases. This grant proposal aims to secure funding for an innovative AI-based detection system designed to identify and manage crop diseases effectively.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-using-ai-to-improve-early-detection-of-crop-diseases-for-smallholder-farmers/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-ai-assisted-disaster-early-warning-and-community-preparedness/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-ai-assisted-disaster-early-warning-and-community-preparedness/",
+  "title": "A Sample Grant Proposal on “AI-Assisted Disaster Early Warning and Community Preparedness”",
+  "publishedAt": "2026-11-05T04:26:51+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-ai-assisted-disaster-early-warning-and-community-prep",
+   "slug": "a-sample-grant-proposal-on-ai-assisted-disaster-early-warning-and-community-prep",
+   "name": "A Sample Grant Proposal on “AI-Assisted Disaster Early Warning and Community Preparedness”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Inteligencia artificial",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In recent years, the integration of artificial intelligence (AI) into disaster management has emerged as a game-changer. AI-assisted disaster early warning systems are designed to enhance the accuracy and timeliness of alerts, ultimately saving lives and minimizing damage.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-ai-assisted-disaster-early-warning-and-community-preparedness/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-bridging-language-barriers-through-ai-translation-of-essential-community-information/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-bridging-language-barriers-through-ai-translation-of-essential-community-information/",
+  "title": "A Sample Grant Proposal on “Bridging Language Barriers through AI Translation of Essential Community Information”",
+  "publishedAt": "2026-11-05T04:26:37+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-bridging-language-barriers-through-ai-translation-of-",
+   "slug": "a-sample-grant-proposal-on-bridging-language-barriers-through-ai-translation-of-",
+   "name": "A Sample Grant Proposal on “Bridging Language Barriers through AI Translation of Essential Community Information”",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Inteligencia artificial",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Language barriers can significantly hinder effective communication within communities. When individuals cannot understand one another, it creates gaps in access to essential services, information, and social cohesion. This issue is particularly pressing in diverse communities where multiple languages are spoken.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-bridging-language-barriers-through-ai-translation-of-essential-community-information/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179943",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/growing-your-business-with-venture-funding-5-practical-steps-for-entrepreneurs/",
+  "title": "Growing Your Business with Venture Funding: 5 Practical Steps for Entrepreneurs",
+  "publishedAt": "2026-11-05T16:33:20+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-growing-your-business-with-venture-funding",
+   "slug": "growing-your-business-with-venture-funding",
+   "name": "Growing Your Business with Venture Funding",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Negocios",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Starting a business is exciting, but growing it into a successful and sustainable enterprise often requires more than a great idea, determination, and hard work. Many entrepreneurs struggle to access the financial resources needed to expand their operations, develop new products, hire employees, or reach new markets.",
+   "url": "https://opportunitydesk.org/2026/11/05/growing-your-business-with-venture-funding-5-practical-steps-for-entrepreneurs/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179931",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/how-to-ace-your-scholarship-interview-12-tips-to-help-you-stand-out/",
+  "title": "How to Ace Your Scholarship Interview: 12 Tips to Help You Stand Out",
+  "publishedAt": "2026-11-05T16:02:24+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-how-to-ace-your-scholarship-interview",
+   "slug": "how-to-ace-your-scholarship-interview",
+   "name": "How to Ace Your Scholarship Interview",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Beca"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Getting shortlisted for a scholarship interview is an exciting achievement. It means that out of hundreds or even thousands of applicants, the selection committee has seen something promising in your application and wants to learn more about you. However, getting invited for an interview is only half the journey.",
+   "url": "https://opportunitydesk.org/2026/11/05/how-to-ace-your-scholarship-interview-12-tips-to-help-you-stand-out/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179914",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/university-of-vienna-faculty-of-law-fellowship-programme-summer-2027/",
+  "title": "University of Vienna Faculty of Law Fellowship Programme – Summer 2027",
+  "publishedAt": "2026-11-05T14:51:21+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-university-of-vienna-faculty-of-law-fellowship-programme-summer-2027",
+   "slug": "university-of-vienna-faculty-of-law-fellowship-programme-summer-2027",
+   "name": "University of Vienna Faculty of Law Fellowship Programme – Summer 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Derecho"
+   ],
+   "levels": [
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Austria"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "Deadline: November 30, 2026 Applications are open for the University of Vienna Faculty of Law Fellowship Programme – Summer 2027. The programme aims to promote international academic exchange and foster collaboration between international fellows and members of the faculty.",
+   "url": "https://opportunitydesk.org/2026/11/05/university-of-vienna-faculty-of-law-fellowship-programme-summer-2027/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179915",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/21-hot-job-opportunities-currently-open-november-5-2026/",
+  "title": "21 Hot Job Opportunities Currently Open – November 5, 2026",
+  "publishedAt": "2026-11-05T14:38:36+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "Es un boletín o una lista de varias oportunidades.",
+  "oportunidad": {
+   "id": "rss-21-hot-job-opportunities-currently-open-november-5-2026",
+   "slug": "21-hot-job-opportunities-currently-open-november-5-2026",
+   "name": "21 Hot Job Opportunities Currently Open – November 5, 2026",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "1. Gender & Education Consultant – UNICEF, Amman/Remote, Jordan UNICEF is recruiting a Gender & Education Consultant to advance gender equality in and through education.",
+   "url": "https://opportunitydesk.org/2026/11/05/21-hot-job-opportunities-currently-open-november-5-2026/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179898",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/young-security-conference-fellowship-2026/",
+  "title": "Young Security Conference (YSC) Fellowship 2026",
+  "publishedAt": "2026-11-05T14:29:01+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-young-security-conference-ysc-fellowship-2026",
+   "slug": "young-security-conference-ysc-fellowship-2026",
+   "name": "Young Security Conference (YSC) Fellowship 2026",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship",
+    "Conferencia"
+   ],
+   "areas": [
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-11"
+   },
+   "notes": "Deadline: November 11, 2026 Applications are open for the Young Security Conference (YSC) Fellowship 2026. The Young Security Conference (YSC) Fellowship offers an exceptional opportunity to participate in high-level debates shaping contemporary European and transatlantic security architecture.",
+   "url": "https://opportunitydesk.org/2026/11/05/young-security-conference-fellowship-2026/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179903",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/15-global-scholarship-opportunities-currently-open-november-5-2026/",
+  "title": "15 Global Scholarship Opportunities Currently Open – November 5, 2026",
+  "publishedAt": "2026-11-05T14:09:17+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "Es un boletín o una lista de varias oportunidades.",
+  "oportunidad": {
+   "id": "rss-15-global-scholarship-opportunities-currently-open-november-5-2026",
+   "slug": "15-global-scholarship-opportunities-currently-open-november-5-2026",
+   "name": "15 Global Scholarship Opportunities Currently Open – November 5, 2026",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Ciencias"
+   ],
+   "levels": [
+    "pregrado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "1. WAAW Foundation Scholarship 2027 for Female College Students in AfricaThe WAAW Foundation Scholarship supports female university students of African origin who are studying STEM-related courses at universities or colleges in Africa.",
+   "url": "https://opportunitydesk.org/2026/11/05/15-global-scholarship-opportunities-currently-open-november-5-2026/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179897",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/ix-wai-early-career-development-grant-2027/",
+  "title": "IX-WAI Early Career Development Grant 2027 (up to £1,000)",
+  "publishedAt": "2026-11-05T13:48:36+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-ix-wai-early-career-development-grant-2027-up-to-1-000",
+   "slug": "ix-wai-early-career-development-grant-2027-up-to-1-000",
+   "name": "IX-WAI Early Career Development Grant 2027 (up to £1,000)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Conferencia"
+   ],
+   "areas": [
+    "Inteligencia artificial"
+   ],
+   "levels": [
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-04"
+   },
+   "notes": "Deadline: January 4, 2027 Applications are open for the IX-WAI Early Career Development Grant 2027. The I-X Women in AI Network (IX-WAI) provides Early Career Development Grants of up to £1,000 to women and non-binary individuals who are currently working in AI or wish to enter the field.",
+   "url": "https://opportunitydesk.org/2026/11/05/ix-wai-early-career-development-grant-2027/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179896",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/sais-livestock-investment-readiness-programme-2027/",
+  "title": "SAIS Livestock Investment Readiness Programme 2027 (up to €15,000)",
+  "publishedAt": "2026-11-05T13:13:12+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-sais-livestock-investment-readiness-programme-2027-up-to-15-000",
+   "slug": "sais-livestock-investment-readiness-programme-2027-up-to-15-000",
+   "name": "SAIS Livestock Investment Readiness Programme 2027 (up to €15,000)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Tecnología"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-15"
+   },
+   "notes": "Deadline: November 15, 2026 Are you an African start-up building a technology-driven venture in dairy or aquaculture? Are you ready to scale your impact and attract investment? Apply for the SAIS Livestock Investment Readiness Programme 2027.",
+   "url": "https://opportunitydesk.org/2026/11/05/sais-livestock-investment-readiness-programme-2027/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179891",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/crassh-visiting-fellowships-for-scholars-from-the-global-south-2027/",
+  "title": "CRASSH Visiting Fellowships for Scholars from the Global South 2027 (Funded)",
+  "publishedAt": "2026-11-05T12:23:09+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-crassh-visiting-fellowships-for-scholars-from-the-global-south-2027-funded",
+   "slug": "crassh-visiting-fellowships-for-scholars-from-the-global-south-2027-funded",
+   "name": "CRASSH Visiting Fellowships for Scholars from the Global South 2027 (Funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "global south",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-22"
+   },
+   "notes": "Deadline: January 22, 2027 Applications are open for the CRASSH Visiting Fellowships for Scholars from the Global South 2027.",
+   "url": "https://opportunitydesk.org/2026/11/05/crassh-visiting-fellowships-for-scholars-from-the-global-south-2027/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=179890",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/05/ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-2027/",
+  "title": "ILO Writing Competitions on Safe Labour Migration in East and Horn of Africa 2027",
+  "publishedAt": "2026-11-05T09:55:31+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-202",
+   "slug": "ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-202",
+   "name": "ILO Writing Competitions on Safe Labour Migration in East and Horn of Africa 2027",
+   "sponsor": "International Labour Organization (ILO)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Periodismo",
+    "Migración"
+   ],
+   "levels": [],
+   "destinations": [
+    "Kenia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-25"
+   },
+   "notes": "Deadline: November 25, 2026 Applications are open for the ILO Writing Competitions on Safe Labour Migration in East and Horn of Africa 2027.",
+   "url": "https://opportunitydesk.org/2026/11/05/ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-2027/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27766",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/mcw-young-leaders-fellowship-2027/",
+  "title": "MCW Young Leaders Fellowship 2027 in USA (Fully Funded)",
+  "publishedAt": "2026-11-05T16:58:24+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-mcw-young-leaders-fellowship-2027-in-usa-fully-funded",
+   "slug": "mcw-young-leaders-fellowship-2027-in-usa-fully-funded",
+   "name": "MCW Young Leaders Fellowship 2027 in USA (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "10-day fully funded exchange program in the united states for young people from around the world",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Applications are now open for the MCW Young Leaders Fellowship 2027, a 10-day fully funded exchange program in the United States for young people from around the world.",
+   "url": "https://opportunitiescorners.com/mcw-young-leaders-fellowship-2027/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27761",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/oung-security-conference-in-germany/",
+  "title": "Young Security Conference 2026/2027 in Germany (Fully Funded)",
+  "publishedAt": "2026-11-05T12:25:26+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-young-security-conference-2026-2027-in-germany-fully-funded",
+   "slug": "young-security-conference-2026-2027-in-germany-fully-funded",
+   "name": "Young Security Conference 2026/2027 in Germany (Fully Funded)",
+   "sponsor": "This fully funded international fellowship",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Conferencia"
+   ],
+   "areas": [
+    "Derecho",
+    "Políticas públicas",
+    "Economía",
+    "Ciencias"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Alemania"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Applications are now open for the Young Security Conference 2026/2027 in Munich, Germany.",
+   "url": "https://opportunitiescorners.com/oung-security-conference-in-germany/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27758",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/santa-fe-institute-summer-program-2027/",
+  "title": "Santa Fe Institute Summer Program 2027 in USA (Fully Funded)",
+  "publishedAt": "2026-11-05T11:11:25+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-santa-fe-institute-summer-program-2027-in-usa-fully-funded",
+   "slug": "santa-fe-institute-summer-program-2027-in-usa-fully-funded",
+   "name": "Santa Fe Institute Summer Program 2027 in USA (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Programa de verano"
+   ],
+   "areas": [],
+   "levels": [
+    "pregrado"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "he sfi undergraduate complexity research (ucr) program welcomes candidates from around the world",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The applications are now open for the Santa Fe Institute UCR Program 2027. It is a Fully Funded 10-week residential program for participants to work on research projects under the guidance of Mentors. The SFI Undergraduate Complexity Research (UCR) program welcomes candidates from around the world.",
+   "url": "https://opportunitiescorners.com/santa-fe-institute-summer-program-2027/",
+   "updatedAt": "2026-11-05"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27612",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/global-debate-championship-2026-in-malaysia/",
+  "title": "Global Debate Championship 2026 in Malaysia (Fully Funded)",
+  "publishedAt": "2026-11-05T01:15:31+00:00",
+  "fetchedAt": "2026-11-05T18:38:37+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-global-debate-championship-2026-in-malaysia-fully-funded",
+   "slug": "global-debate-championship-2026-in-malaysia-fully-funded",
+   "name": "Global Debate Championship 2026 in Malaysia (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [],
+   "areas": [
+    "Políticas públicas"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Applications are open for the Global Debate Championship 2026 – Harvard Merdeka Edition in Kuala Lumpur, Malaysia.",
+   "url": "https://opportunitiescorners.com/global-debate-championship-2026-in-malaysia/",
+   "updatedAt": "2026-11-05"
+  }
  }
 ]
