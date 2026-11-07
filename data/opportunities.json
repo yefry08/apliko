@@ -18499,36 +18499,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-bootcamp-ai-security-2027",
-  "slug": "bootcamp-ai-security-2027",
-  "name": "Bootcamp, AI Security (2027)",
-  "sponsor": "AI Security Bootcamp",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas",
-   "Seguridad informática"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: San Francisco, CA. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-07"
-  },
-  "notes": "A 7-day, in-person bootcamp in San Francisco, running Jan 10-16, 2027, for security professionals securing emerging AI systems.\n\n- Free to attend\n- Tuition, accommodation, meals during programme hours, and materials are fully covered; need-based travel support available\n- Cohort of 20 participants\n- Lectures, demos, guest speakers, and red/blue team exercises across AI threat modelling, LLM, infrastructure, weight, and hardware security",
-  "url": "https://aisb.dev/2027/jan/san-francisco/",
-  "applyUrl": "https://aisb.dev/2027/jan/san-francisco/",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-intern-programs-winter-spring-2027",
   "slug": "intern-programs-winter-spring-2027",
   "name": "Intern, Programs (Winter / Spring 2027)",

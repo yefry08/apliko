@@ -19432,5 +19432,77 @@
    "url": "https://opportunitydesk.org/2026/11/07/call-for-judges-join-the-od-impact-challenge-2026-global-judging-panel/",
    "updatedAt": "2026-11-07"
   }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27788",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/asia-foundation-development-fellows-program-2027/",
+  "title": "Asia Foundation Development Fellows Program 2027 (Fully Funded)",
+  "publishedAt": "2026-11-07T10:56:06+00:00",
+  "fetchedAt": "2026-11-07T16:47:35+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-asia-foundation-development-fellows-program-2027-fully-funded",
+   "slug": "asia-foundation-development-fellows-program-2027-fully-funded",
+   "name": "Asia Foundation Development Fellows Program 2027 (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Applications are now open for the Asia Foundation Development Fellows 2027, a prestigious, fully funded international leadership fellowship for young professionals from Asia and the Pacific.",
+   "url": "https://opportunitiescorners.com/asia-foundation-development-fellows-program-2027/",
+   "updatedAt": "2026-11-07"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27784",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/nusuk-app-challenge-2026/",
+  "title": "Nusuk App Challenge 2026 – Win a FREE Umrah Trip",
+  "publishedAt": "2026-11-07T08:54:44+00:00",
+  "fetchedAt": "2026-11-07T16:47:35+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-nusuk-app-challenge-2026-win-a-free-umrah-trip",
+   "slug": "nusuk-app-challenge-2026-win-a-free-umrah-trip",
+   "name": "Nusuk App Challenge 2026 – Win a FREE Umrah Trip",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Arabia Saudita"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "a wonderful opportunity for muslims around the world! applications are open for the nusuk app challenge 2026, a saudi arabia-based competition offering",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "A wonderful opportunity for Muslims around the world! Applications are open for the Nusuk App Challenge 2026, a Saudi Arabia-based competition offering participants a chance to win a FREE Umrah trip for themselves and one companion.",
+   "url": "https://opportunitiescorners.com/nusuk-app-challenge-2026/",
+   "updatedAt": "2026-11-07"
+  }
  }
 ]
