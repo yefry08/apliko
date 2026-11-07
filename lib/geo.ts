@@ -9,6 +9,7 @@ export const COORDS: Record<string, [number, number]> = {
   Chile: [-35.7, -71.5],
   Bolivia: [-16.3, -63.6],
   Uruguay: [-32.5, -55.8],
+  Paraguay: [-23.4, -58.4],
   Colombia: [4.6, -74.1],
   "El Salvador": [13.79, -88.9],
   Benín: [9.31, 2.32],

@@ -8025,6 +8025,234 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "bec-woxsen-ai-research-centre-research-fellowship-ia-y-ciencias-sociales",
+  "slug": "woxsen-ai-research-centre-research-fellowship-ia-y-ciencias-sociales",
+  "name": "Woxsen AI Research Centre Research Fellowship (IA y ciencias sociales)",
+  "sponsor": "AI Research Centre, Woxsen University",
+  "source": "becas",
+  "types": [
+   "Fellowship de investigación"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Ciencias sociales",
+   "Ciencias del comportamiento"
+  ],
+  "levels": [
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "Honoraria y sin pago: no hay estipendio, salario, viaje ni visa. Ofrece afiliación, revisión editorial y publicación",
+  "citizenship": "global",
+  "citizenshipRaw": "Investigadores de cualquier país que sean candidatos a doctorado o ya tengan doctorado. Quien solo tiene licenciatura, maestría de cursos o está terminando un MPhil no califica. Es remota y no remunerada.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "url": "https://www.aircwou.in/research-fellowship",
+  "applyUrl": "https://www.aircwou.in/research-fellowship",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-zerve-ai-co-research-fellowship",
+  "slug": "zerve-ai-co-research-fellowship",
+  "name": "Zerve AI Co-Research Fellowship",
+  "sponsor": "Zerve",
+  "source": "becas",
+  "types": [
+   "Fellowship de investigación"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Ciencia de datos",
+   "Investigación"
+  ],
+  "levels": [
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "Decenas de miles de dólares en créditos de cómputo e IA, apoyo técnico y de investigación, sin costo",
+  "citizenship": "global",
+  "citizenshipRaw": "Estudiantes de doctorado, investigadores de la industria, independientes y equipos (cada persona postula por su cuenta) con investigación original, estudios de reproducción o revisiones sistemáticas que usen IA. Revisan de forma continua y responden en 7 días. La investigación sigue siendo tuya.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://research.zerve.ai/fellowship",
+  "applyUrl": "https://research.zerve.ai/fellowship",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-claude-corps-2027",
+  "slug": "claude-corps-2027",
+  "name": "Claude Corps 2027",
+  "sponsor": "CodePath y Anthropic",
+  "source": "becas",
+  "types": [
+   "Fellowship profesional"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Tecnología",
+   "Impacto social"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Puesto de tiempo completo en una organización anfitriona, sesiones de cohorte y horas de consulta con ingenieros de Anthropic",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Solo para quien ya tiene permiso de trabajo en EE. UU.: no patrocinan visas (tampoco el paso de F-1/OPT a H-1B). Mayores de 18 y dispuestos a mudarse dentro de EE. UU. para trabajar presencial. Tercera cohorte desde finales de agosto de 2027; revisan de forma continua hasta el 31 de enero de 2027.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-31"
+  },
+  "url": "https://job-boards.greenhouse.io/claudecorps/jobs/4402649009",
+  "applyUrl": "https://job-boards.greenhouse.io/claudecorps/jobs/4402649009",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-ai-fluency-for-nonprofits-anthropic-y-givingtuesday",
+  "slug": "ai-fluency-for-nonprofits-anthropic-y-givingtuesday",
+  "name": "AI Fluency for Nonprofits (Anthropic y GivingTuesday)",
+  "sponsor": "Anthropic y GivingTuesday, en Coursera",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Organizaciones sin fines de lucro"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "completa",
+  "amount": "Gratis: todas las funciones del curso están disponibles sin pagar",
+  "citizenship": "global",
+  "citizenshipRaw": "Para cualquier persona, sobre todo equipos de organizaciones sin fines de lucro que quieren usar la IA bien. A tu ritmo, en inglés.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.coursera.org/learn/ai-fluency-for-nonprofits",
+  "applyUrl": "https://www.coursera.org/learn/ai-fluency-for-nonprofits",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-ai-fluency-framework-foundations-anthropic",
+  "slug": "ai-fluency-framework-foundations-anthropic",
+  "name": "AI Fluency: Framework & Foundations (Anthropic)",
+  "sponsor": "Anthropic, en Coursera",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "completa",
+  "amount": "Gratis: todas las funciones del curso están disponibles sin pagar",
+  "citizenship": "global",
+  "citizenshipRaw": "Para cualquier persona. Enseña a decidir qué trabajo hacer con IA y cuál por tu cuenta, y a colaborar con ella con criterio. A tu ritmo, en inglés.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.coursera.org/learn/ai-fluency-framework-foundations",
+  "applyUrl": "https://www.coursera.org/learn/ai-fluency-framework-foundations",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-generative-ai-for-beginners-microsoft",
+  "slug": "generative-ai-for-beginners-microsoft",
+  "name": "Generative AI for Beginners (Microsoft)",
+  "sponsor": "Microsoft",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Software"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "completa",
+  "amount": "Gratis y de código abierto: 21 lecciones en GitHub",
+  "citizenship": "global",
+  "citizenshipRaw": "Para cualquier persona que quiera empezar a construir aplicaciones con IA generativa. A tu ritmo y gratis.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "applyUrl": "https://github.com/microsoft/generative-ai-for-beginners",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-practical-deep-learning-for-coders-fast-ai",
+  "slug": "practical-deep-learning-for-coders-fast-ai",
+  "name": "Practical Deep Learning for Coders (fast.ai)",
+  "sponsor": "fast.ai",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Machine learning"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "completa",
+  "amount": "Gratis: 9 lecciones de unos 90 minutos y el libro gratis en línea",
+  "citizenship": "global",
+  "citizenshipRaw": "Para quien ya programa (basta un año de experiencia, idealmente en Python) y tiene matemáticas de secundaria. No hace falta hardware especial: usa recursos gratis como Kaggle Notebooks. En inglés.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://course.fast.ai/",
+  "applyUrl": "https://course.fast.ai/",
+  "updatedAt": "2026-09-23"
+ },
+ {
   "id": "fin-wellcome-prize-for-mental-health-science",
   "slug": "wellcome-prize-for-mental-health-science",
   "name": "Wellcome Prize for Mental Health Science",
@@ -12581,6 +12809,401 @@
   },
   "url": "https://www.d-prize.org/",
   "applyUrl": "https://www.d-prize.org/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-start-up-chile-big-13",
+  "slug": "start-up-chile-big-13",
+  "name": "Start-Up Chile BIG 13",
+  "sponsor": "Start-Up Chile (CORFO)",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Startups",
+   "Innovación"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Chile"
+  ],
+  "funding": "varia",
+  "amount": "Financiamiento sin participación accionaria, cowork gratis, descuentos y apoyo con la visa",
+  "citizenship": "global",
+  "citizenshipRaw": "Startups de base tecnológica, innovadoras, escalables y de alto impacto, de cualquier país y en cualquier etapa. El programa se hace en Chile y ayudan con la visa. Cierra el 24 de noviembre a la 1:00 p. m. de Chile (GMT-3), que en RD son las 12:00 del mediodía.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-24"
+  },
+  "url": "https://startupchile.org/en/apply/",
+  "applyUrl": "https://startupchile.org/en/apply/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-bndes-garagem-3-edicion-ciclo-3",
+  "slug": "bndes-garagem-3-edicion-ciclo-3",
+  "name": "BNDES Garagem, 3.ª edición, ciclo 3",
+  "sponsor": "BNDES (Banco Nacional de Desenvolvimento Econômico e Social)",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Impacto social",
+   "Medio ambiente"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Brasil"
+  ],
+  "funding": "varia",
+  "amount": "Aceleración, especialistas y conexión con el BNDES para hasta 100 startups",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Startups con soluciones innovadoras para desafíos sociales y ambientales de Brasil. El módulo de Tracción pide facturación de R$ 250 mil a R$ 16 millones en los últimos 12 meses. Inscripciones del 28 de octubre al 30 de noviembre de 2026 a las 23:59 (Brasilia); se eligen hasta 100 startups y el programa empieza el 15 de febrero de 2027. Lee el edital para ver si aceptan negocios de fuera de Brasil.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "url": "https://garagem.bndes.gov.br/inscreva-se/",
+  "applyUrl": "https://garagem.bndes.gov.br/inscreva-se/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-parallel18-p18-generacion-15",
+  "slug": "parallel18-p18-generacion-15",
+  "name": "Parallel18 (P18), Generación 15",
+  "sponsor": "Parallel18",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Startups",
+   "Inversión"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Puerto Rico"
+  ],
+  "funding": "varia",
+  "amount": "Inversión de USD 100,000 por startup y currículo completo de aceleración",
+  "citizenship": "global",
+  "citizenshipRaw": "Programa internacional para startups innovadoras de cualquier país con 3 años de operación o menos, de cualquier industria. Hay que vivir en Puerto Rico durante el programa. Se eligen hasta 18 startups.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Las postulaciones reabren en 2027; únete a la lista de espera de la Generación 15"
+  },
+  "url": "https://parallel18.com/p18/",
+  "applyUrl": "https://parallel18.com/p18/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-emprelatam-aceleracion-enero-2027",
+  "slug": "emprelatam-aceleracion-enero-2027",
+  "name": "Emprelatam, aceleración enero 2027",
+  "sponsor": "Emprelatam",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Startups"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "Aceleración equity-free y beneficios de aliados por más de USD 180,000",
+  "citizenship": "latam",
+  "citizenshipRaw": "Aceleradora sin participación accionaria (equity-free) para fundadores de Latinoamérica. El programa EPA es para startups pre-seed con ingresos que buscan product-market fit, acelerar ventas o levantar capital.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Postulaciones tempranas abiertas; la cohorte empieza el 13 de enero de 2027"
+  },
+  "url": "https://emprelatam.com/aplica",
+  "applyUrl": "https://emprelatam.com/aplica",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-alas-the-next-gen-builder",
+  "slug": "alas-the-next-gen-builder",
+  "name": "ALAS The Next Gen Builder",
+  "sponsor": "ALAS (Latin American Startup Alliance)",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inteligencia artificial",
+   "Startups"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional",
+   "pregrado"
+  ],
+  "destinations": [
+   "Brasil"
+  ],
+  "funding": "varia",
+  "amount": "Formación en emprendimiento e IA, mentoría, red de inversionistas y Demo Day en Web Summit Rio 2027",
+  "citizenship": "latam",
+  "citizenshipRaw": "Programa de seis meses para fundadores que construyen con IA en los 34 países de América Latina y el Caribe: fundadores solos, primerizos, dueños de negocio, estudiantes, investigadores y desarrolladores. Selección de septiembre a noviembre de 2026, arranque en diciembre y Demo Day en Web Summit Rio en junio de 2027.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Selección de septiembre a noviembre de 2026; postula cuanto antes"
+  },
+  "url": "https://thenextgen.alas.global/",
+  "applyUrl": "https://thenextgen.alas.global/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-reto-zapopan-2027",
+  "slug": "reto-zapopan-2027",
+  "name": "Reto Zapopan 2027",
+  "sponsor": "Gobierno de Zapopan",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Startups",
+   "Innovación"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "México"
+  ],
+  "funding": "varia",
+  "amount": "MXN 825,000 en premios a fondo perdido y hasta MXN 350,000 en crédito",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Aceleradora del Gobierno de Zapopan (Jalisco, México) para startups de base tecnológica, en etapa de ideación o de escalamiento, sin costo ni participación accionaria. La convocatoria 2026 cerró el 20 de junio; hay preregistro para la edición de 2027. Revisa en las bases si aceptan startups de fuera de México.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Cerrada; preregistro abierto para la edición de 2027"
+  },
+  "url": "https://www.retozapopan.com.mx/convocatoria",
+  "applyUrl": "https://www.retozapopan.com.mx/convocatoria",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-startup-peru-proinnovate",
+  "slug": "startup-peru-proinnovate",
+  "name": "StartUp Perú (ProInnóvate)",
+  "sponsor": "ProInnóvate, Gobierno del Perú",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Innovación"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Perú"
+  ],
+  "funding": "varia",
+  "amount": "Cofinanciamiento no reembolsable para emprendimientos innovadores",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Concursos de cofinanciamiento del Programa Nacional de Desarrollo Tecnológico e Innovación para emprendimientos innovadores en Perú. La convocatoria más reciente cerró y la próxima está por anunciarse.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Cerrada; la próxima convocatoria está por anunciarse"
+  },
+  "url": "https://startup.proinnovate.gob.pe/concursos/",
+  "applyUrl": "https://startup.proinnovate.gob.pe/concursos/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-impacto-2030-incubadora-de-impact-hub-medellin",
+  "slug": "impacto-2030-incubadora-de-impact-hub-medellin",
+  "name": "Impacto 2030, incubadora de Impact Hub Medellín",
+  "sponsor": "Impact Hub Medellín",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Impacto social",
+   "Sostenibilidad"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Colombia"
+  ],
+  "funding": "con-costo",
+  "amount": "Talleres, 3 mentorías 1 a 1, Pitch Day y certificado (costo COP 250,000)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Incubadora virtual de 6 semanas para emprendimientos en etapa temprana ubicados en Colombia, con impacto social o ambiental alineado con los ODS (sobre todo 6, 12, 13, 14 y 15). Tiene costo: COP 250,000. Convocatoria cerrada; la próxima está por anunciarse.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Cerrada; la próxima convocatoria está por anunciarse"
+  },
+  "url": "https://medellin.impacthub.net/incubadora-de-empresas",
+  "applyUrl": "https://medellin.impacthub.net/incubadora-de-empresas",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-aceleracion-foodrise",
+  "slug": "aceleracion-foodrise",
+  "name": "Aceleración FoodRise",
+  "sponsor": "FoodRise",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Agrotecnología",
+   "Alimentos"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Argentina",
+   "Chile",
+   "Paraguay",
+   "Uruguay"
+  ],
+  "funding": "varia",
+  "amount": "Pilotos con empresas de la industria y acceso a inversión regional",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Aceleración para startups de agrifoodtech del Cono Sur (Argentina, Chile, Paraguay y Uruguay), con pilotos en la industria y conexión con inversión regional. La próxima convocatoria está por anunciarse.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La próxima convocatoria está por anunciarse"
+  },
+  "url": "https://aceleracion.foodrisehub.com/",
+  "applyUrl": "https://aceleracion.foodrisehub.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-mozilla-foundation-human-scale-ai-incubator",
+  "slug": "mozilla-foundation-human-scale-ai-incubator",
+  "name": "Mozilla Foundation Human-Scale AI Incubator",
+  "sponsor": "Mozilla Foundation",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Tecnología cívica",
+   "Impacto social"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "Subvención sin participación accionaria de USD 300,000, coaching y red de Mozilla",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Siete proyectos que pongan en práctica los principios de la IA a escala humana, con fin benéfico y beneficio público. Hay que poder recibir legalmente una subvención de Mozilla Foundation. La cohorte dura 12 meses desde abril de 2027. Cierra el 20 de noviembre a las 11:59 p. m. del Pacífico (en RD, 3:59 a. m. del 21 de noviembre).",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-20"
+  },
+  "url": "https://mozillafoundation.tfaforms.net/f/humanscaleai",
+  "applyUrl": "https://mozillafoundation.tfaforms.net/f/humanscaleai",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-rethink-ireland-ai-for-good-fund",
+  "slug": "rethink-ireland-ai-for-good-fund",
+  "name": "Rethink Ireland AI for Good Fund",
+  "sponsor": "Rethink Ireland",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para organizaciones"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Impacto social"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Irlanda"
+  ],
+  "funding": "varia",
+  "amount": "Hasta EUR 15,000 por organización y programa de acompañamiento",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo organizaciones sin fines de lucro de Irlanda, con un proyecto innovador en el contexto irlandés. Se eligen 30 para un acelerador de adopción de IA. Cierra el 9 de noviembre de 2026.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-09"
+  },
+  "url": "https://rethinkireland.ie/current_fund/ai-for-good-fund/",
+  "applyUrl": "https://rethinkireland.ie/current_fund/ai-for-good-fund/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-tarbell-institutional-grants",
+  "slug": "tarbell-institutional-grants",
+  "name": "Tarbell Institutional Grants",
+  "sponsor": "Tarbell Center for AI Journalism",
+  "source": "financiamiento",
+  "types": [
+   "Fondos para organizaciones"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Periodismo",
+   "Medios"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "De USD 50,000 a más de USD 500,000 por medio",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Subvenciones directas a medios para ampliar su cobertura de la IA, con independencia editorial total. Prefieren medios con audiencia influyente y buen historial; solo evalúan a fondo las propuestas que probablemente financien. Esta ronda cierra el 11 de diciembre de 2026.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-11"
+  },
+  "url": "https://www.tarbellcenter.org/institutional-grants",
+  "applyUrl": "https://www.tarbellcenter.org/institutional-grants",
   "updatedAt": "2026-09-18"
  },
  {
