@@ -8414,6 +8414,272 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "bec-rd-inteligente-programa-nacional-de-alfabetizacion-en-ia",
+  "slug": "rd-inteligente-programa-nacional-de-alfabetizacion-en-ia",
+  "name": "RD Inteligente (Programa Nacional de Alfabetización en IA)",
+  "sponsor": "ITLA, con el respaldo del Gobierno dominicano",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "Gratis: inscripción, contenido y certificado del ITLA",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Para cualquier dominicano, sin conocimientos previos. Un tramo común de 10 horas (qué es la IA, cómo hablarle, desconfiar bien, privacidad, engaños con IA y un caso real) y después una ruta propia según tu sector. Te registras con tu cédula y un correo; no piden datos bancarios.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://rdinteligente.do/",
+  "applyUrl": "https://rdinteligente.do/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-talento-digital-2026-indotel-y-bid",
+  "slug": "talento-digital-2026-indotel-y-bid",
+  "name": "Talento Digital 2026 (INDOTEL y BID)",
+  "sponsor": "INDOTEL, con el respaldo del BID",
+  "source": "becas",
+  "types": [
+   "Beca de formación"
+  ],
+  "areas": [
+   "Software",
+   "Inteligencia artificial",
+   "Ciencia de datos",
+   "Ciberseguridad",
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "Beca 100% gratis: cursos virtuales de 4 semanas (más de 80 horas) y certificación de industria o insignia digital",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Dos rutas: empleabilidad (desarrollo web, IA, datos, nube o ciberseguridad, con conexión a empresas empleadoras) y emprendimiento (mercadeo, ventas, finanzas y escalabilidad). Te inscribes con tu cédula en el sitio; meta de más de 30,000 estudiantes.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Convocatoria 2026 abierta; no publican fecha de cierre"
+  },
+  "url": "https://talentodigital.do/",
+  "applyUrl": "https://talentodigital.do/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-talentup-rd-micm-bid-google-cloud-y-cisco",
+  "slug": "talentup-rd-micm-bid-google-cloud-y-cisco",
+  "name": "TalentUp RD (MICM, BID, Google Cloud y Cisco)",
+  "sponsor": "Ministerio de Industria, Comercio y Mipymes (MICM), BID, Google Cloud y Cisco Networking Academy",
+  "source": "becas",
+  "types": [
+   "Beca de formación"
+  ],
+  "areas": [
+   "Computación en la nube",
+   "Inteligencia artificial",
+   "Ciberseguridad",
+   "Ciencia de datos"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional",
+   "docente"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "15,000 becas 100% gratis con certificaciones internacionales de Google Cloud",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Track 1, certificados de Google Cloud (40 a 50 horas, 10 por semana): pide bases de Linux, SQL y programación. Track 2, Líder de IA generativa de Google Cloud (8 a 10 horas): mayores de 18 años, sin saber programar. El Track 3, con cursos de Cisco Networking Academy, viene próximamente.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Inscripciones abiertas; no publican fecha de cierre"
+  },
+  "url": "https://talentup.micm.gob.do/",
+  "applyUrl": "https://talentup.micm.gob.do/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-soy-digital-alfabetizacion-digital-basica",
+  "slug": "soy-digital-alfabetizacion-digital-basica",
+  "name": "Soy Digital (alfabetización digital básica)",
+  "sponsor": "Gobierno de la República Dominicana",
+  "source": "becas",
+  "types": [
+   "Formación"
+  ],
+  "areas": [
+   "Habilidades digitales"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "Gratis y con certificación oficial",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Jornadas presenciales en las comunidades de las 32 provincias. Un diagnóstico te ubica en uno de cuatro niveles (de inicial a avanzado) y aprendes habilidades para el trabajo, los trámites y la vida diaria. Instituciones y organizaciones pueden aliarse para llevarlo a su comunidad.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.soydigital.gob.do/",
+  "applyUrl": "https://www.soydigital.gob.do/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-especializacion-en-ia-y-machine-learning-de-equality-ai-60-000-becas-de-la-feria",
+  "slug": "especializacion-en-ia-y-machine-learning-de-equality-ai-60-000-becas-de-la-feria",
+  "name": "Especialización en IA y Machine Learning de Equality AI (60,000 becas de la Feria Nacional STEM)",
+  "sponsor": "Equality AI (Equality Academy), anunciada en la Feria Nacional STEM",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Machine learning",
+   "Software"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "60,000 becas gratis: 5 cursos con clases grabadas, laboratorios, evaluaciones y certificados",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Para jóvenes y adultos dominicanos: estudiantes de secundaria y universitarios, profesionales y cualquier persona que quiera entrar al sector tecnológico. No pide saber programar. Virtual y a tu ritmo: Python, fundamentos de IA, aprendizaje supervisado y no supervisado, algoritmos avanzados, redes neuronales, sistemas recomendadores y aprendizaje por refuerzo. Es formación complementaria: no sustituye una carrera ni garantiza empleo.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Registro abierto; la formación empieza el 15 de diciembre de 2026"
+  },
+  "url": "https://www.equality.academy/cursos",
+  "applyUrl": "https://www.equality.academy/cursos",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-diplomado-en-ciberseguridad-ciberdefensa-y-proteccion-de-datos-cncs",
+  "slug": "diplomado-en-ciberseguridad-ciberdefensa-y-proteccion-de-datos-cncs",
+  "name": "Diplomado en Ciberseguridad, Ciberdefensa y Protección de Datos (CNCS)",
+  "sponsor": "Centro Nacional de Ciberseguridad (CNCS) con PUCMM, UNICARIBE, ITLA, INTEC y UCE",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Ciberseguridad"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "Gratis: 5 cursos con certificado universitario cada uno y certificado del diplomado completo",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Para estudiantes universitarios, técnicos, servidores públicos y cualquier persona del país con conocimientos básicos de informática. Virtual y sin horarios en la Academia CNCS. Cursos: fundamentos (PUCMM), riesgos y gobierno (UNICARIBE), redes y Zero Trust (ITLA), criptografía (INTEC) y seguridad ofensiva y ciberdefensa (UCE).",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://cncs.gob.do/academia-cncs/",
+  "applyUrl": "https://cncs.gob.do/academia-cncs/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-diplomado-en-ciberseguridad-y-ciberdefensa-unade-ministerio-de-defensa",
+  "slug": "diplomado-en-ciberseguridad-y-ciberdefensa-unade-ministerio-de-defensa",
+  "name": "Diplomado en Ciberseguridad y Ciberdefensa (UNADE, Ministerio de Defensa)",
+  "sponsor": "Universidad Nacional para la Defensa (UNADE), Ministerio de Defensa",
+  "source": "becas",
+  "types": [
+   "Formación"
+  ],
+  "areas": [
+   "Ciberseguridad",
+   "Seguridad y defensa"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "Diplomado para civiles y militares en la Escuela de Graduados de Altos Estudios Estratégicos (EGAEE)",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Abierto a civiles y militares. Ediciones anteriores cubrieron inteligencia de amenazas, hacking ético y pruebas de penetración, análisis de vulnerabilidades, marco legal dominicano, respuesta a incidentes, Red Team y Blue Team, e IA para la defensa. Confirma costo y requisitos con la UNADE.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La IX edición fue del 21 de julio al 25 de septiembre de 2026; la próxima está por anunciarse"
+  },
+  "url": "https://unade.edu.do/unade-inaugura-el-ix-diplomado-en-ciberseguridad-y-ciberdefensa-para-fortalecer-las-capacidades-estrategicas-del-pais/",
+  "applyUrl": "https://unade.edu.do/unade-inaugura-el-ix-diplomado-en-ciberseguridad-y-ciberdefensa-para-fortalecer-las-capacidades-estrategicas-del-pais/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-maestria-en-ciberseguridad-y-ciberdefensa-unade-ministerio-de-defensa",
+  "slug": "maestria-en-ciberseguridad-y-ciberdefensa-unade-ministerio-de-defensa",
+  "name": "Maestría en Ciberseguridad y Ciberdefensa (UNADE, Ministerio de Defensa)",
+  "sponsor": "Universidad Nacional para la Defensa (UNADE), Ministerio de Defensa",
+  "source": "becas",
+  "types": [
+   "Programa de posgrado"
+  ],
+  "areas": [
+   "Ciberseguridad",
+   "Seguridad y defensa",
+   "Ciencia de datos"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "Maestría de la EGAEE en protección de infraestructuras críticas, riesgo cibernético e inteligencia",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Para civiles y militares con título de grado legalizado por el MESCyT. Piden acta de nacimiento, cédula, récord de notas, carta de recomendación o solicitud al ministro de las FF. AA., currículum y certificado médico; los civiles de nuevo ingreso, además, el de no antecedentes penales.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Admisiones abiertas; confirma fechas y costo con la UNADE"
+  },
+  "url": "https://unade.edu.do/ofertas-academicas/maestria-en-ciberseguridad-y-ciberdefensa/",
+  "applyUrl": "https://unade.edu.do/ofertas-academicas/maestria-en-ciberseguridad-y-ciberdefensa/",
+  "updatedAt": "2026-09-23"
+ },
+ {
   "id": "fin-wellcome-prize-for-mental-health-science",
   "slug": "wellcome-prize-for-mental-health-science",
   "name": "Wellcome Prize for Mental Health Science",
