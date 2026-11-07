@@ -1,0 +1,29 @@
+{
+ "ultimo_id": 51,
+ "convocatorias": [
+  {
+   "id": 51,
+   "name": "Convocatoria Ingeniería Agronómica Ministerio de Agricultura x UNPHU",
+   "tipo": "Nacionales",
+   "dirigido": "Bachilleres",
+   "offers": 2,
+   "opens": "2026-10-26",
+   "deadline": "2026-11-30",
+   "general": "Cumplir con los requisitos y el proceso de admisión vigentes de la UNPHU. Cumplir con el perfil de ingreso definido para la carrera solicitada. Formalizar satisfactoriamente el proceso de admisión. Formalizar la solicitud de beca mediante el formulario y la documentación correspondiente.",
+   "academic": "Requisitos Específicos Ser dominicano/a. Ser estudiantes de nuevo ingreso al programa solicitado. No poseer una carrera universitaria previa. Haber completado los estudios de bachillerato. Poseer un promedio general de bachillerato igual o superior a 85 puntos sobre 100. Tener entre 16 y 25 años de edad al momento de la postulación. No aplica para estudiantes transferidos de otras universidades.",
+   "url": "https://becas.gob.do/convocatorias/51"
+  },
+  {
+   "id": 50,
+   "name": "Generación STEAM 2.0",
+   "tipo": "Internacionales",
+   "dirigido": "Todos",
+   "offers": 527,
+   "opens": "2026-11-10",
+   "deadline": "2026-12-15",
+   "general": "Convocatoria de Becas Nacionales e Internacionales dedicada a las carreras STEAM.",
+   "academic": "Ser dominicano, con residencia permanente en República Dominicana. Ser joven con edad entre 15 a 35 años. Bachiller graduado con un índice académico mínimo de 80 en la escala de cero a 100 o de 3 en la escala de cero a cuatro. Record de calificaciones legalizado por el Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT). Copia de Título legalizada por el Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT). Certificación de carta de grado, emitida por el MESCyT. Una (1) foto 2×2. Fotocopia de la Cédula de Identidad y Electoral (ambos lados). Fotocopia del Pasaporte (primera página y visas, si tiene). Currículum Vitae. Carta de solicitud explicando las razones por las cuales entiende que debe ser beneficiado/a con una beca. Explique todas las razones que considere necesarias incluyendo méritos académicos, sociales, deportivos, de liderazgo, entre otros, además…",
+   "url": "https://becas.gob.do/convocatorias/50"
+  }
+ ]
+}

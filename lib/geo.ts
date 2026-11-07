@@ -4,6 +4,7 @@ export const COORDS: Record<string, [number, number]> = {
   Canadá: [56.1, -106.3],
   México: [23.6, -102.5],
   "Puerto Rico": [18.2, -66.5],
+  "República Dominicana": [18.74, -70.16],
   Brasil: [-14.2, -51.9],
   Argentina: [-38.4, -63.6],
   Chile: [-35.7, -71.5],

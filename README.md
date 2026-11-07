@@ -154,7 +154,9 @@ Gmail permite unos 500 correos al día, de sobra para estos avisos.
     Opportunity Desk, Scholars4Dev, Opportunities Corners, ICTP y SGAC);
   - el EA Opportunities Board (`scripts/actualizar_ea.py`);
   - las competencias abiertas de YouNoodle (`scripts/actualizar_younoodle.py`; salta las ya curadas en `financiamiento.json`);
-  - las escuelas y fellowships de matemáticas de CIMPA con postulación abierta (`scripts/actualizar_cimpa.py`).
+  - las escuelas y fellowships de matemáticas de CIMPA con postulación abierta (`scripts/actualizar_cimpa.py`);
+  - las convocatorias abiertas o por abrir de Beca tu Futuro (becas.gob.do), la plataforma de becas del MESCyT
+    (`scripts/actualizar_becastufuturo.py`). Entran con la regla `solo-rd`: elegibles para quien vive en RD.
 
   Luego regenera el
   catálogo y, si cambió, hace commit y push; Vercel publica. Se puede correr a mano desde la pestaña

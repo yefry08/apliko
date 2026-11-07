@@ -24,6 +24,7 @@ export type CitizenshipRule =
   | "no-eeuu" // non-U.S. citizens only
   | "global" // open to all nationalities
   | "latam" // explicitly Latin America / Iberoamerica
+  | "solo-rd" // Dominican citizens only (some accept the diaspora)
   | "paises-elegibles" // list of eligible countries, must check
   | "ver-notas"; // international, but the notes add conditions
 

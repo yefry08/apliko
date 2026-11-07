@@ -8253,6 +8253,167 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "bec-programa-de-pasantias-del-poder-judicial-2026",
+  "slug": "programa-de-pasantias-del-poder-judicial-2026",
+  "name": "Programa de Pasantías del Poder Judicial 2026",
+  "sponsor": "Poder Judicial de la República Dominicana",
+  "source": "becas",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Derecho",
+   "Administración pública"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "Pasantía de 6 meses, a tiempo parcial o completo, en el sistema de justicia",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Estudiantes universitarios de término y recién graduados de nacionalidad dominicana, mayores de 18 años, con índice académico de 80 (3.0) o más. Los documentos se envían por correo electrónico (la dirección está en la convocatoria oficial) hasta el viernes 13 de noviembre de 2026.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-13"
+  },
+  "url": "https://transparencia.poderjudicial.gob.do/documentos/PDF/concursos/CONC_programa_de_pasantias_2026_pj.pdf",
+  "applyUrl": "https://transparencia.poderjudicial.gob.do/documentos/PDF/concursos/CONC_programa_de_pasantias_2026_pj.pdf",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-becas-internacionales-del-mescyt-convocatoria-anual",
+  "slug": "becas-internacionales-del-mescyt-convocatoria-anual",
+  "name": "Becas Internacionales del MESCyT (convocatoria anual)",
+  "sponsor": "MESCyT",
+  "source": "becas",
+  "types": [
+   "Beca internacional"
+  ],
+  "areas": [
+   "STEAM",
+   "Ciencia y tecnología",
+   "Educación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Cientos de becas en universidades de otros países (la de 2026 tuvo 768 ofertas)",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Para ciudadanos dominicanos, en igualdad de condiciones. Se postula en la plataforma Beca tu Futuro (becas.gob.do) con la cédula; las convocatorias recientes priorizan carreras STEM y STEAM.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Anual: la XXII convocatoria cerró el 19 de febrero de 2026; la próxima se publica en becas.gob.do"
+  },
+  "url": "https://mescyt.gob.do/becas/internacionales/",
+  "applyUrl": "https://mescyt.gob.do/becas/internacionales/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-becas-nacionales-del-mescyt-convocatoria-anual",
+  "slug": "becas-nacionales-del-mescyt-convocatoria-anual",
+  "name": "Becas Nacionales del MESCyT (convocatoria anual)",
+  "sponsor": "MESCyT",
+  "source": "becas",
+  "types": [
+   "Beca nacional"
+  ],
+  "areas": [
+   "STEAM",
+   "Educación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "Becas en universidades dominicanas (la de 2026 tuvo 493 ofertas)",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Para bachilleres y profesionales dominicanos de escasos recursos y probada capacidad académica, en todo el país. Se postula en Beca tu Futuro (becas.gob.do).",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Anual: la de 2026 cerró el 8 de marzo; la próxima se publica en becas.gob.do"
+  },
+  "url": "https://mescyt.gob.do/becas/nacionales/",
+  "applyUrl": "https://mescyt.gob.do/becas/nacionales/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-fulbright-para-dominicanos-maestria-y-doctorado-en-ee-uu",
+  "slug": "fulbright-para-dominicanos-maestria-y-doctorado-en-ee-uu",
+  "name": "Fulbright para dominicanos (maestría y doctorado en EE. UU.)",
+  "sponsor": "Embajada de EE. UU. en Santo Domingo y MESCyT",
+  "source": "becas",
+  "types": [
+   "Beca de posgrado"
+  ],
+  "areas": [
+   "Todas las áreas"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado",
+   "docente"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Programa insignia de intercambio del gobierno de EE. UU.",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Profesionales dominicanos que quieren hacer posgrado en EE. UU.; hay una vía para candidatos independientes (con el MESCyT) y otra para profesores universitarios nominados por su institución.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Cerrada (la última estuvo abierta hasta mayo de 2026); la próxima está por anunciarse"
+  },
+  "url": "https://do.usembassy.gov/es/programa-fulbright/",
+  "applyUrl": "https://do.usembassy.gov/es/programa-fulbright/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-becas-chevening-para-republica-dominicana",
+  "slug": "becas-chevening-para-republica-dominicana",
+  "name": "Becas Chevening para República Dominicana",
+  "sponsor": "Gobierno del Reino Unido (FCDO)",
+  "source": "becas",
+  "types": [
+   "Beca de maestría"
+  ],
+  "areas": [
+   "Todas las áreas",
+   "Liderazgo"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "completa",
+  "amount": "Maestría de un año en el Reino Unido con matrícula, manutención y vuelos",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Profesionales dominicanos con experiencia laboral y potencial de liderazgo que vuelvan al país al terminar.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La ronda 2027-2028 cerró el 6 de octubre de 2026; suele reabrir en agosto"
+  },
+  "url": "https://www.chevening.org/scholarship/dominican-republic/",
+  "applyUrl": "https://www.chevening.org/scholarship/dominican-republic/",
+  "updatedAt": "2026-09-23"
+ },
+ {
   "id": "fin-wellcome-prize-for-mental-health-science",
   "slug": "wellcome-prize-for-mental-health-science",
   "name": "Wellcome Prize for Mental Health Science",
@@ -13204,6 +13365,107 @@
   },
   "url": "https://www.tarbellcenter.org/institutional-grants",
   "applyUrl": "https://www.tarbellcenter.org/institutional-grants",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-fondocyt-fondo-nacional-de-innovacion-y-desarrollo-cientifico-y-tecnologico",
+  "slug": "fondocyt-fondo-nacional-de-innovacion-y-desarrollo-cientifico-y-tecnologico",
+  "name": "FONDOCYT (Fondo Nacional de Innovación y Desarrollo Científico y Tecnológico)",
+  "sponsor": "MESCyT",
+  "source": "financiamiento",
+  "types": [
+   "Fondos de investigación"
+  ],
+  "areas": [
+   "Investigación",
+   "Ciencia y tecnología",
+   "Innovación"
+  ],
+  "levels": [
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "Financiamiento de proyectos de investigación, desarrollo e innovación",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Proyectos de investigación e innovación de universidades (IES) y centros de investigación dominicanos; las empresas participan solo en consorcio con al menos una IES o centro. La convocatoria 2025-2026 cerró el 31 de marzo de 2026.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Cerrada; la próxima convocatoria está por anunciarse"
+  },
+  "url": "https://mescyt.gob.do/wp-content/uploads/2026/01/Llamado-Convocatoria-FONDOCYT-2025-2026.pdf",
+  "applyUrl": "https://mescyt.gob.do/wp-content/uploads/2026/01/Llamado-Convocatoria-FONDOCYT-2025-2026.pdf",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-premio-nacional-de-la-juventud",
+  "slug": "premio-nacional-de-la-juventud",
+  "name": "Premio Nacional de la Juventud",
+  "sponsor": "Ministerio de la Juventud",
+  "source": "financiamiento",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Juventud",
+   "Liderazgo",
+   "Impacto social"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "Reconocimiento nacional por renglones",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "El mayor reconocimiento del Estado dominicano a jóvenes destacados en distintos renglones, evaluados por comisiones independientes. La 31.ª edición (2026) cerró el 30 de septiembre.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La edición 2026 cerró el 30 de septiembre; la próxima abre en 2027"
+  },
+  "url": "https://juventud.gob.do/inclusion-social-juvenil/premio-nacional-de-la-juventud-2026/",
+  "applyUrl": "https://juventud.gob.do/inclusion-social-juvenil/premio-nacional-de-la-juventud-2026/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-emprendelab-promipyme",
+  "slug": "emprendelab-promipyme",
+  "name": "EmprendeLab (Promipyme)",
+  "sponsor": "Promipyme",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Innovación",
+   "Mipymes"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "Aceleración, acceso a financiamiento, visibilidad en medios y red de innovación",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Programa insignia de innovación y aceleración de Promipyme para proyectos emprendedores de alto potencial en República Dominicana, sobre todo los que tienen barreras para acceder al financiamiento tradicional. La edición 2026 cerró el 12 de julio.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "La edición 2026 cerró el 12 de julio; la próxima está por anunciarse"
+  },
+  "url": "https://promipyme.gob.do/elab",
+  "applyUrl": "https://promipyme.gob.do/elab",
   "updatedAt": "2026-09-18"
  },
  {
@@ -21938,6 +22200,74 @@
   "notes": "External organizer External organizer Jean-François DUPUY Affiliation external organizer INSA Rennes Country external organizer France Email external organizer Jean-Francois.Dupuy@insa-rennes.fr Local Organizer Local organizer Abderrazek KAROUI Affiliation local organizer Faculté des Sciences de Bizerte Email local organizer abderrazek.karoui@fsb.ucar.tn Functional Data Analysis (FDA) has become an important field in statistics, facilitating the study of data in the shape of functions, curves, and surfaces. With applications spanning biomedicine, neuroscience, climate science, and…",
   "url": "https://www.cimpa.info/index.php/en/ecoles/statistical-analysis-functional-data-modeling-and-applications-environment-and-health",
   "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-07"
+ },
+ {
+  "id": "btf-51",
+  "slug": "convocatoria-ingenieria-agronomica-ministerio-de-agricultura-x-unphu",
+  "name": "Convocatoria Ingeniería Agronómica Ministerio de Agricultura x UNPHU",
+  "sponsor": "MESCyT (plataforma Beca tu Futuro)",
+  "source": "becas",
+  "sourceName": "Beca tu Futuro (becas.gob.do)",
+  "types": [
+   "Beca nacional"
+  ],
+  "areas": [
+   "Agricultura"
+  ],
+  "levels": [
+   "pregrado"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "varia",
+  "amount": "2 ofertas de beca en la convocatoria",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Dirigida a: Bachilleres. Requisitos Específicos Ser dominicano/a. Ser estudiantes de nuevo ingreso al programa solicitado. No poseer una carrera universitaria previa. Haber completado los estudios de bachillerato. Poseer un promedio general de bachillerato igual o superior a 85 puntos sobre 100. Tener entre 16 y 25 años de edad al momento de la postulación. No aplica para estudiantes transferidos de otras universidades.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Cumplir con los requisitos y el proceso de admisión vigentes de la UNPHU. Cumplir con el perfil de ingreso definido para la carrera solicitada. Formalizar satisfactoriamente el proceso de admisión. Formalizar la solicitud de beca mediante el formulario y la documentación correspondiente. Se postula en becas.gob.do con tu cédula.",
+  "url": "https://becas.gob.do/convocatorias/51",
+  "applyUrl": "https://becas.gob.do/convocatorias/51",
+  "updatedAt": "2026-11-07"
+ },
+ {
+  "id": "btf-50",
+  "slug": "generacion-steam-2-0",
+  "name": "Generación STEAM 2.0",
+  "sponsor": "MESCyT (plataforma Beca tu Futuro)",
+  "source": "becas",
+  "sourceName": "Beca tu Futuro (becas.gob.do)",
+  "types": [
+   "Becas nacionales e internacionales"
+  ],
+  "areas": [
+   "STEAM",
+   "Ciencia y tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "República Dominicana",
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "527 ofertas de beca en la convocatoria",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Dirigida a: Todos. Ser dominicano, con residencia permanente en República Dominicana. Ser joven con edad entre 15 a 35 años. Bachiller graduado con un índice académico mínimo de 80 en la escala de cero a 100 o de 3 en la escala de cero a cuatro. Record de calificaciones legalizado por el Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT). Copia de Título legalizada por el Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT). Certificación de carta de grado, emitida por el MESCyT. Una (1) foto 2×2. Fotocopia de la Cédula de Identidad y Electoral (ambos lados). Fotocopia del Pasaporte (primera página y visas, si tiene). Currículum Vitae. Carta de solicitud explicando las razones por las cuales entiende que debe ser beneficiado/a con una beca. Explique todas las razones que considere necesarias incluyendo méritos académicos, sociales, deportivos, de liderazgo, entre otros, además…",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-15"
+  },
+  "notes": "Abre el 2026-11-10. Convocatoria de Becas Nacionales e Internacionales dedicada a las carreras STEAM. Se postula en becas.gob.do con tu cédula.",
+  "url": "https://becas.gob.do/convocatorias/50",
+  "applyUrl": "https://becas.gob.do/convocatorias/50",
   "updatedAt": "2026-11-07"
  },
  {

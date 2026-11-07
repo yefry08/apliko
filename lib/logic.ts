@@ -75,6 +75,7 @@ const RULES: Record<CitizenshipRule, Record<Profile, Eligibility>> = {
   "no-eeuu": { rd: "elegible", latam: "elegible", "eeuu-ciudadano": "no-elegible", "eeuu-residente": "revisar", daca: "revisar" },
   global: { rd: "elegible", latam: "elegible", "eeuu-ciudadano": "elegible", "eeuu-residente": "elegible", daca: "revisar" },
   latam: { rd: "elegible", latam: "elegible", "eeuu-ciudadano": "revisar", "eeuu-residente": "revisar", daca: "revisar" },
+  "solo-rd": { rd: "elegible", latam: "no-elegible", "eeuu-ciudadano": "revisar", "eeuu-residente": "revisar", daca: "revisar" },
   "paises-elegibles": { rd: "revisar", latam: "revisar", "eeuu-ciudadano": "revisar", "eeuu-residente": "revisar", daca: "revisar" },
   "ver-notas": { rd: "revisar", latam: "revisar", "eeuu-ciudadano": "revisar", "eeuu-residente": "revisar", daca: "revisar" },
 };
@@ -90,6 +91,7 @@ export const ELIGIBILITY_REASON: Record<CitizenshipRule, string> = {
   "no-eeuu": "Para personas que no son ciudadanas de EE.UU.",
   global: "Abierta a todas las nacionalidades (revisa las notas por edad o área).",
   latam: "Dirigida a Latinoamérica.",
+  "solo-rd": "Solo para dominicanos. Si vives fuera de RD, lee las notas: algunas aceptan a la diáspora y otras piden residir en el país.",
   "paises-elegibles": "Tiene una lista de países elegibles: confírmala en el sitio oficial.",
   "ver-notas": "Abierta internacionalmente, pero con condiciones: lee las notas.",
 };

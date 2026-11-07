@@ -669,6 +669,77 @@ function readCimpa(): Opportunity[] {
   });
 }
 
+/* Beca tu Futuro (becas.gob.do), written by scripts/actualizar_becastufuturo.py. */
+interface BecaTuFuturoRow {
+  id: number;
+  name: string;
+  tipo: string; // "Nacionales" | "Internacionales"
+  dirigido: string; // "Todos", "Bachilleres", …
+  offers: number;
+  opens: string | null;
+  deadline: string;
+  general: string;
+  academic: string;
+  url: string;
+}
+
+const BTF_COUNTRIES: [RegExp, string][] = [
+  [/chile/i, "Chile"],
+  [/corea|koica/i, "Corea del Sur"],
+  [/españa|espana/i, "España"],
+  [/méxico|mexico/i, "México"],
+  [/francia/i, "Francia"],
+  [/jap[oó]n|jica/i, "Japón"],
+  [/taiw[aá]n/i, "Taiwán"],
+];
+
+function btfLevels(r: BecaTuFuturoRow): Level[] {
+  const text = `${r.name} ${r.dirigido}`;
+  if (/doctor/i.test(text) && /maestr/i.test(text)) return ["maestria", "doctorado"];
+  if (/maestr|posgrado|postgrado/i.test(text)) return ["maestria"];
+  if (/doctor/i.test(text)) return ["doctorado"];
+  if (/bachiller|grado|licenciatura|ingenier/i.test(text)) return ["pregrado"];
+  if (/docente|maestros/i.test(text)) return ["docente"];
+  if (/servidor|funcionari|profesional/i.test(text)) return ["profesional"];
+  return ["pregrado", "maestria", "doctorado"];
+}
+
+function readBecasTuFuturo(): Opportunity[] {
+  const file = path.join(RAW, "becas-tu-futuro.json");
+  if (!existsSync(file)) return [];
+  const { convocatorias } = JSON.parse(readFileSync(file, "utf8")) as { convocatorias: BecaTuFuturoRow[] };
+  const today = new Date().toISOString().slice(0, 10);
+  return convocatorias.map((r) => {
+    const slug = slugify(r.name);
+    const international = /internacional/i.test(r.tipo);
+    const both = /nacionales e internacionales/i.test(`${r.general} ${r.name}`);
+    const country = BTF_COUNTRIES.find(([re]) => re.test(r.name))?.[1];
+    const destinations = country ? [country] : both ? ["República Dominicana", "Mundial"] : international ? ["Mundial"] : ["República Dominicana"];
+    const opensLater = r.opens && r.opens > today;
+    return {
+      id: `btf-${r.id}`,
+      slug,
+      name: r.name,
+      sponsor: "MESCyT (plataforma Beca tu Futuro)",
+      source: "becas",
+      sourceName: "Beca tu Futuro (becas.gob.do)",
+      types: [both ? "Becas nacionales e internacionales" : international ? "Beca internacional" : "Beca nacional"],
+      areas: /steam|stem/i.test(r.name) ? ["STEAM", "Ciencia y tecnología"] : /agr[oó]nom|agricult/i.test(r.name) ? ["Agricultura"] : ["Educación"],
+      levels: btfLevels(r),
+      destinations,
+      funding: "varia",
+      amount: r.offers ? `${r.offers} ${r.offers === 1 ? "oferta" : "ofertas"} de beca en la convocatoria` : undefined,
+      citizenship: "solo-rd",
+      citizenshipRaw: [r.dirigido ? `Dirigida a: ${r.dirigido}.` : "", r.academic].filter(Boolean).join(" "),
+      deadline: { kind: "exacta", date: r.deadline },
+      notes: [opensLater ? `Abre el ${r.opens}.` : "", r.general, "Se postula en becas.gob.do con tu cédula."].filter(Boolean).join(" "),
+      url: r.url,
+      applyUrl: r.url,
+      updatedAt: today,
+    } satisfies Opportunity;
+  });
+}
+
 function main() {
   // De los feeds RSS (scripts/ingest_rss.py) solo entran las candidatas aprobadas.
   const rssFile = path.join(process.cwd(), "data", "rss", "candidates.json");
@@ -688,6 +759,7 @@ function main() {
     ...readEa(),
     ...readYounoodle(curatedUrls),
     ...readCimpa(),
+    ...readBecasTuFuturo(),
     ...approved,
   ];
   const seen = new Set<string>();
