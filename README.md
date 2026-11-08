@@ -73,7 +73,7 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
   1024 px o más, la escena de Spline con fondo transparente y escalada a la caja (`spline-canvas.tsx` fuerza WebGL); en
   móvil o con movimiento reducido, la escena 3D propia.
 - `components/jenga-loader.tsx`: la torre de Jenga que se arma mientras cargan las escenas 3D.
-- `components/three/`: globo con rutas y escena flotante (React Three Fiber, carga diferida).
+- `components/three/`: esfera de oportunidades (`tile-sphere.tsx`: un cuadro por oportunidad abierta, las que cierran antes al frente y en rojo; colores en `lib/urgency.ts`), cubo Rubik y escena flotante (React Three Fiber, carga diferida).
 - `components/deadline-marquee.tsx`: carrusel continuo con las 5 oportunidades que cierran antes.
 - `lib/store.ts`: becas guardadas, etapa de cada postulación y perfil, en `localStorage` (clave `apliko:v1`).
 - `lib/ics.ts`: calendario `.ics` con alarmas 7 días y 1 día antes del cierre.

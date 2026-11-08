@@ -6,13 +6,15 @@ import { AreaExplorer, type AreaSummary } from "@/components/portada/area-explor
 import { Keycaps } from "@/components/portada/keycaps";
 import { RegistroNavLink, RegistroSection } from "@/components/registro";
 import { SiteFooter } from "@/components/site-chrome";
-import { HeroRubik, LazyGlobe } from "@/components/three/lazy-scenes";
+import { HeroRubik, LazyTileSphere } from "@/components/three/lazy-scenes";
 import { AREAS } from "@/lib/areas";
 import { ADVISORS } from "@/lib/asesores";
 import { SESSION, TEAM } from "@/lib/equipo";
 import { COORDS } from "@/lib/geo";
+import { LATER, TONES } from "@/lib/urgency";
 import {
   closingSoon,
+  daysLeft,
   destinationCounts,
   eligibilityFor,
   opportunities,
@@ -86,6 +88,16 @@ export default function Home() {
         .map((o) => ({ slug: o.slug, name: o.name, sponsor: o.sponsor, deadline: deadlineText(o) })),
     };
   });
+
+  // Every open opportunity with a closing date, soonest first: the front of the sphere.
+  const tiles = open
+    .flatMap((o) => {
+      const days = daysLeft(o);
+      return days === null || days < 0 ? [] : [{ slug: o.slug, name: o.name, sponsor: o.sponsor, days, date: deadlineText(o) }];
+    })
+    .sort((a, b) => a.days - b.days)
+    .slice(0, 180);
+  const thisWeek = tiles.filter((t) => t.days <= 7).length;
 
   const counts = [...destinationCounts().entries()]
     .filter(([name]) => COORDS[name])
@@ -186,12 +198,29 @@ export default function Home() {
         </section>
 
         <section className="destinations" id="destinos" aria-labelledby="destinations-title">
-          <div className="destinations-globe">
-            <LazyGlobe destinations={counts} />
+          <div
+            className="destinations-globe"
+            role="img"
+            aria-label={`Esfera con ${tiles.length} oportunidades abiertas; ${thisWeek} cierran esta semana.`}
+          >
+            <LazyTileSphere tiles={tiles} />
           </div>
           <div className="destinations-copy">
-            <h2 id="destinations-title">A dónde van</h2>
-            <p>Cada ruta sale de Santo Domingo hacia un país con oportunidades abiertas. Toca un punto del globo para ver sus becas.</p>
+            <h2 id="destinations-title">Lo que cierra pronto, en todo el mundo</h2>
+            <p>
+              Cada cuadro es una de las {tiles.length} oportunidades abiertas y dice cuántos días le quedan. Al frente están las
+              que cierran antes{thisWeek > 0 ? `: ${thisWeek} cierran esta semana` : ""}. Gira la esfera y toca un cuadro para
+              abrirla.
+            </p>
+            <ul className="urgency-legend" role="list">
+              {[...TONES, LATER[0]].map((t) => (
+                <li key={t.label}>
+                  <span className="urgency-swatch" style={{ background: t.bg }} />
+                  {t.label}
+                </li>
+              ))}
+            </ul>
+            <h3 className="destinations-subtitle">Por destino</h3>
             <ol className="destinations-list" role="list">
               {counts.slice(0, 10).map((d) => (
                 <li key={d.name}>

@@ -5,11 +5,11 @@ import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { JengaLoader } from "@/components/jenga-loader";
-import type { GlobeDestination } from "./globe-scene";
+import type { SphereTile } from "./tile-sphere";
 
-const GlobeScene = dynamic(() => import("./globe-scene"), {
+const TileSphere = dynamic(() => import("./tile-sphere"), {
   ssr: false,
-  loading: () => <GlobePlaceholder />,
+  loading: () => <SpherePlaceholder />,
 });
 
 const RubikScene = dynamic(() => import("./rubik-scene"), {
@@ -34,10 +34,10 @@ function FooterPlaceholder() {
   );
 }
 
-function GlobePlaceholder() {
+function SpherePlaceholder() {
   return (
     <div className="flex h-full w-full items-center justify-center" aria-hidden="true">
-      <div className="aspect-square w-[62%] rounded-full bg-[radial-gradient(circle_at_35%_35%,#ffffff,#EDF3FF_70%)] shadow-[0_0_80px_-30px_#3054DE]" />
+      <div className="aspect-square w-[62%] rounded-full bg-[radial-gradient(circle_at_35%_35%,#2A3147,#10141F_70%)] shadow-[0_0_80px_-30px_#E5382E]" />
     </div>
   );
 }
@@ -80,20 +80,17 @@ export function LazySplineCubes() {
   return <div ref={ref}>{near ? <SplineCubes /> : <FooterPlaceholder />}</div>;
 }
 
-export function LazyGlobe({ destinations }: { destinations: GlobeDestination[] }) {
+/** The sphere of open opportunities, soonest to close in front; a tile opens its page. */
+export function LazyTileSphere({ tiles }: { tiles: SphereTile[] }) {
   const router = useRouter();
   const reduce = useReducedMotion();
   const [ref, near] = useNearViewport<HTMLDivElement>();
   return (
     <div ref={ref} className="h-full w-full">
       {near ? (
-        <GlobeScene
-          destinations={destinations}
-          animate={!reduce}
-          onSelect={(name) => router.push(`/becas?destino=${encodeURIComponent(name)}`)}
-        />
+        <TileSphere tiles={tiles} animate={!reduce} onSelect={(slug) => router.push(`/becas/${slug}`)} />
       ) : (
-        <GlobePlaceholder />
+        <SpherePlaceholder />
       )}
     </div>
   );

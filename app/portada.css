@@ -622,6 +622,39 @@ html:has(.case-overlay[open]) {
   color: var(--ink-muted);
 }
 
+.urgency-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.85rem;
+  color: var(--navy);
+}
+
+.urgency-legend li {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.urgency-swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 4px;
+  box-shadow: inset 0 0 0 1px rgb(24 32 58 / 0.18);
+}
+
+.destinations-subtitle {
+  margin: 8px 0 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
 .destinations-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
