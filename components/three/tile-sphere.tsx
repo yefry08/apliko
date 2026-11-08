@@ -93,10 +93,11 @@ function Tile({
   const group = useRef<THREE.Group>(null);
   const tone = toneOf(tile.days, index);
   const face = useMemo(() => faceTexture(tile.days, tone.ink), [tile.days, tone.ink]);
-  const quaternion = useMemo(
-    () => new THREE.Quaternion().setFromUnitVectors(new THREE.Vector3(0, 0, 1), position.clone().normalize()),
-    [position],
-  );
+  // Face outward with the world's "up" kept up, so every tile's number reads upright.
+  const quaternion = useMemo(() => {
+    const m = new THREE.Matrix4().lookAt(position.clone().multiplyScalar(2), position, new THREE.Vector3(0, 1, 0));
+    return new THREE.Quaternion().setFromRotationMatrix(m);
+  }, [position]);
 
   useFrame((_, delta) => {
     const g = group.current;
@@ -157,8 +158,8 @@ function Sphere({ tiles, onSelect, animate }: Required<Omit<TileSphereProps, "on
 
   const placed = useMemo(() => {
     const points = frontFirstPoints(tiles.length);
-    // Tile edge from the average spacing of n points on a unit sphere, leaving a small gap.
-    const base = 0.8 * Math.sqrt((4 * Math.PI) / Math.max(tiles.length, 1));
+    // Tile edge from the average spacing of n points on a unit sphere, leaving a thin gap.
+    const base = 0.9 * Math.sqrt((4 * Math.PI) / Math.max(tiles.length, 1));
     return tiles.map((tile, i) => {
       const spot = i < SPOTLIGHT;
       return {
