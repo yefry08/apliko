@@ -164,8 +164,8 @@ function Sphere({ tiles, onSelect, animate }: Required<Omit<TileSphereProps, "on
       const spot = i < SPOTLIGHT;
       return {
         tile,
-        position: points[i].clone().multiplyScalar(spot ? R * 1.05 : R),
-        size: spot ? base * 1.12 : base,
+        position: points[i].clone().multiplyScalar(spot ? R * 1.04 : R),
+        size: spot ? base * 1.06 : base,
       };
     });
   }, [tiles]);
@@ -233,7 +233,7 @@ export default function TileSphere({ tiles, onSelect, animate = true }: TileSphe
   return (
     <Canvas
       dpr={[1, 1.75]}
-      camera={{ position: [0, 0, 4.2], fov: 38 }}
+      camera={{ position: [0, 0, 3.55], fov: 38 }}
       frameloop={animate ? "always" : "demand"}
       gl={{ antialias: true, alpha: true }}
     >
