@@ -8437,7 +8437,7 @@
   "funding": "completa",
   "amount": "Gratis: inscripción, contenido y certificado del ITLA",
   "citizenship": "solo-rd",
-  "citizenshipRaw": "Para cualquier dominicano, sin conocimientos previos. Un tramo común de 10 horas (qué es la IA, cómo hablarle, desconfiar bien, privacidad, engaños con IA y un caso real) y después una ruta propia según tu sector. Te registras con tu cédula y un correo; no piden datos bancarios.",
+  "citizenshipRaw": "Para cualquier dominicano, también los que viven en el exterior, sin conocimientos previos. Tres niveles: alfabetización (10 horas: qué es la IA, cómo hablarle, desconfiar bien, privacidad, engaños con IA y un caso real), productividad (25 horas) y especialización (60 a 120 horas). Diseñado para estudiantes, profesionales, docentes, emprendedores, servidores públicos y personas con discapacidad. Te registras con tu cédula y un correo; no piden datos bancarios.",
   "deadline": {
    "kind": "continua"
   },
@@ -8575,7 +8575,7 @@
   "funding": "completa",
   "amount": "60,000 becas gratis: 5 cursos con clases grabadas, laboratorios, evaluaciones y certificados",
   "citizenship": "solo-rd",
-  "citizenshipRaw": "Para jóvenes y adultos dominicanos: estudiantes de secundaria y universitarios, profesionales y cualquier persona que quiera entrar al sector tecnológico. No pide saber programar. Virtual y a tu ritmo: Python, fundamentos de IA, aprendizaje supervisado y no supervisado, algoritmos avanzados, redes neuronales, sistemas recomendadores y aprendizaje por refuerzo. Es formación complementaria: no sustituye una carrera ni garantiza empleo.",
+  "citizenshipRaw": "Para jóvenes y adultos dominicanos: estudiantes de secundaria y universitarios, profesionales y cualquier persona que quiera entrar al sector tecnológico. No pide saber programar. Virtual y a tu ritmo: Python, fundamentos de IA, aprendizaje supervisado y no supervisado, algoritmos avanzados, redes neuronales, sistemas recomendadores y aprendizaje por refuerzo. La inscripción de las becas se anunció en somosteam.equality.academy; si ese enlace no abre, entra por equality.academy. Es formación complementaria: no sustituye una carrera ni garantiza empleo.",
   "deadline": {
    "kind": "por-confirmar",
    "label": "Registro abierto; la formación empieza el 15 de diciembre de 2026"
@@ -8777,6 +8777,207 @@
   },
   "url": "https://academia.cncs.gob.do/inicio",
   "applyUrl": "https://academia.cncs.gob.do/inicio",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-hp-life-cursos-gratis-de-negocios-y-habilidades-digitales",
+  "slug": "hp-life-cursos-gratis-de-negocios-y-habilidades-digitales",
+  "name": "HP LIFE (cursos gratis de negocios y habilidades digitales)",
+  "sponsor": "HP Foundation",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Habilidades digitales",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "completa",
+  "amount": "Gratis, con certificado al terminar cada curso",
+  "citizenship": "global",
+  "citizenshipRaw": "Para cualquier persona. Cursos cortos en ocho idiomas, incluido el español, sobre conceptos de negocio y habilidades para el futuro del trabajo; hay cursos nuevos de IA, como planificación estratégica en la era de la IA.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.life-global.org/es",
+  "applyUrl": "https://www.life-global.org/es",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-capacitate-para-el-empleo-fundacion-carlos-slim",
+  "slug": "capacitate-para-el-empleo-fundacion-carlos-slim",
+  "name": "Capacítate para el Empleo (Fundación Carlos Slim)",
+  "sponsor": "Fundación Carlos Slim",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Formación técnica",
+   "Habilidades digitales"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "completa",
+  "amount": "Gratis: cursos, diplomados, especialidades y rutas de aprendizaje con certificado",
+  "citizenship": "global",
+  "citizenshipRaw": "Para el público en general: estudiantes, bachilleres, universitarios, profesionales, emprendedores y personas desempleadas. Solo necesitas internet, un dispositivo y un correo; no piden experiencia ni título.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://capacitateparaelempleo.org/",
+  "applyUrl": "https://capacitateparaelempleo.org/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-infotep-virtual-cursos-gratis-en-linea",
+  "slug": "infotep-virtual-cursos-gratis-en-linea",
+  "name": "INFOTEP Virtual (cursos gratis en línea)",
+  "sponsor": "INFOTEP",
+  "source": "becas",
+  "types": [
+   "Curso en línea gratuito"
+  ],
+  "areas": [
+   "Formación técnica",
+   "Habilidades digitales",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "Cursos virtuales gratis con certificado del INFOTEP",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Oferta virtual del Instituto Nacional de Formación Técnico Profesional en tecnología, IA, marketing digital, administración y emprendimiento, entre otras áreas. Las convocatorias se abren por curso; también hay oferta para dominicanos en el exterior.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://www.infotepvirtual.com/",
+  "applyUrl": "https://www.infotepvirtual.com/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-carreras-4-0-de-infotep-tecnico-en-ciberseguridad-desarrollo-de-apps-y-cloud",
+  "slug": "carreras-4-0-de-infotep-tecnico-en-ciberseguridad-desarrollo-de-apps-y-cloud",
+  "name": "Carreras 4.0 de INFOTEP (técnico en ciberseguridad, desarrollo de apps y cloud)",
+  "sponsor": "INFOTEP",
+  "source": "becas",
+  "types": [
+   "Formación"
+  ],
+  "areas": [
+   "Ciberseguridad",
+   "Software",
+   "Computación en la nube"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "Carreras técnicas del INFOTEP: ciberseguridad (1,170 horas), diseño y desarrollo de aplicaciones (1,020) y cloud computing (550)",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Tener 16 años o más y el título de bachiller (en cualquier modalidad), o haber aprobado el segundo ciclo de secundaria, o una constancia de conclusión de estudios secundarios. Se ofrecen en las direcciones regionales y centros tecnológicos del INFOTEP en todo el país.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Oferta 2026 por dirección regional; consulta la convocatoria de tu regional"
+  },
+  "url": "https://infotep.gob.do/ofertas-2026/carreras-4-0/",
+  "applyUrl": "https://infotep.gob.do/ofertas-2026/carreras-4-0/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-becas-pro-fye-del-infotep-santiago",
+  "slug": "becas-pro-fye-del-infotep-santiago",
+  "name": "Becas PRO-FyE del INFOTEP (Santiago)",
+  "sponsor": "INFOTEP y PRO-FyE",
+  "source": "becas",
+  "types": [
+   "Beca de formación"
+  ],
+  "areas": [
+   "Formación técnica",
+   "Agricultura",
+   "Mecánica",
+   "Electrónica"
+  ],
+  "levels": [
+   "secundaria",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "completa",
+  "amount": "Beca para formación técnica en agricultura, foresta, cocina, mecánica automotriz e industrial, mantenimiento, equipos pesados y electrónica",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Dominicanos de 17 a 29 años que vivan en la provincia de Santiago, que no estén estudiando, no tengan recursos para pagar la formación y tengan disponibilidad de tiempo.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Registro abierto en profye.org; después te citan a prueba y entrevista"
+  },
+  "url": "https://infotep.gob.do/ofertas-2026/becas-pro-fye/",
+  "applyUrl": "https://infotep.gob.do/ofertas-2026/becas-pro-fye/",
+  "updatedAt": "2026-09-23"
+ },
+ {
+  "id": "bec-programa-rd-trabaja-ministerio-de-trabajo-e-infotep",
+  "slug": "programa-rd-trabaja-ministerio-de-trabajo-e-infotep",
+  "name": "Programa RD-Trabaja (Ministerio de Trabajo e INFOTEP)",
+  "sponsor": "Ministerio de Trabajo e INFOTEP",
+  "source": "becas",
+  "types": [
+   "Formación"
+  ],
+  "areas": [
+   "Empleabilidad",
+   "Formación técnica"
+  ],
+  "levels": [
+   "secundaria",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "República Dominicana"
+  ],
+  "funding": "estipendio",
+  "amount": "Capacitación gratis, estipendio para transporte y comida durante la formación y la pasantía, y conexión con prácticas profesionales",
+  "citizenship": "solo-rd",
+  "citizenshipRaw": "Mayores de 18 años que quieran mejorar sus competencias técnicas, socioemocionales y de empleabilidad para conseguir un empleo formal. Los cursos se diseñan según lo que piden las empresas.",
+  "deadline": {
+   "kind": "continua"
+  },
+  "url": "https://infotep.gob.do/ofertas-2026/programa-rd-trabaja/",
+  "applyUrl": "https://infotep.gob.do/ofertas-2026/programa-rd-trabaja/",
   "updatedAt": "2026-09-23"
  },
  {
