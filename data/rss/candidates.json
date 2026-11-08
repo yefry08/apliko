@@ -19504,5 +19504,327 @@
    "url": "https://opportunitiescorners.com/nusuk-app-challenge-2026/",
    "updatedAt": "2026-11-07"
   }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180011",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/",
+  "title": "MCW Global Young Leaders Fellowship 2027 (Funded)",
+  "publishedAt": "2026-11-07T22:14:35+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-mcw-global-young-leaders-fellowship-2027-funded",
+   "slug": "mcw-global-young-leaders-fellowship-2027-funded",
+   "name": "MCW Global Young Leaders Fellowship 2027 (Funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Salud",
+    "Economía",
+    "Educación",
+    "Seguridad"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-03"
+   },
+   "notes": "Deadline: December 3, 2026 Applications are open for the MCW Global Young Leaders Fellowship 2027. The Fellowship Program aims to mobilize young people with the skills and resources needed to create and implement vision plans in the areas of education, health, and economic security.",
+   "url": "https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180010",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/cega-visiting-fellowship-2027-2028/",
+  "title": "Center for Effective Global Action (CEGA) Visiting Fellowship 2027-2028",
+  "publishedAt": "2026-11-07T22:00:09+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados; no admite dominicanos (the center for effective global action (cega) invites african researchers and practitioners interested in developing their skills in impact evaluation to apply for its fello).",
+  "oportunidad": {
+   "id": "rss-center-for-effective-global-action-cega-visiting-fellowship-2027-2028",
+   "slug": "center-for-effective-global-action-cega-visiting-fellowship-2027-2028",
+   "name": "Center for Effective Global Action (CEGA) Visiting Fellowship 2027-2028",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "the center for effective global action (cega) invites african researchers and practitioners interested in developing their skills in impact evaluation to apply for its fello",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-17"
+   },
+   "notes": "Deadline: January 17, 2027 Applications are open for the Center for Effective Global Action (CEGA) Visiting Fellowship 2027-2028.",
+   "url": "https://opportunitydesk.org/2026/11/07/cega-visiting-fellowship-2027-2028/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180027",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/21-hot-job-opportunities-currently-open-november-7-2026/",
+  "title": "21 Hot Job Opportunities Currently Open – November 7, 2026",
+  "publishedAt": "2026-11-07T21:49:45+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "descartada",
+  "motivo": "Es un boletín o una lista de varias oportunidades.",
+  "oportunidad": {
+   "id": "rss-21-hot-job-opportunities-currently-open-november-7-2026",
+   "slug": "21-hot-job-opportunities-currently-open-november-7-2026",
+   "name": "21 Hot Job Opportunities Currently Open – November 7, 2026",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Software"
+   ],
+   "levels": [],
+   "destinations": [
+    "Nigeria"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "1. WASH Specialist, NO-3 – UNICEF, Kaduna, NigeriaUNICEF Nigeria is recruiting a WASH Specialist to support strategic programme planning, development, implementation, monitoring and evaluation from its Kaduna Field Office.",
+   "url": "https://opportunitydesk.org/2026/11/07/21-hot-job-opportunities-currently-open-november-7-2026/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180009",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/humboldt-residency-programme-2027/",
+  "title": "Humboldt Residency Programme 2027 (Funded)",
+  "publishedAt": "2026-11-07T21:47:04+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-humboldt-residency-programme-2027-funded",
+   "slug": "humboldt-residency-programme-2027-funded",
+   "name": "Humboldt Residency Programme 2027 (Funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-14"
+   },
+   "notes": "Deadline: December 14, 2026 Applications are open for the Humboldt Residency Programme 2027.",
+   "url": "https://opportunitydesk.org/2026/11/07/humboldt-residency-programme-2027/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180020",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/10-grants-and-funding-opportunities-currently-open-november-7-2026/",
+  "title": "10 Grants and Funding Opportunities Currently Open – November 7, 2026",
+  "publishedAt": "2026-11-07T21:39:53+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "descartada",
+  "motivo": "Es un boletín o una lista de varias oportunidades.",
+  "oportunidad": {
+   "id": "rss-10-grants-and-funding-opportunities-currently-open-november-7-2026",
+   "slug": "10-grants-and-funding-opportunities-currently-open-november-7-2026",
+   "name": "10 Grants and Funding Opportunities Currently Open – November 7, 2026",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Conferencia"
+   ],
+   "areas": [
+    "Inteligencia artificial"
+   ],
+   "levels": [
+    "doctorado",
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "1. IX-WAI Early Career Development Grant 2027 (up to £1,000)The I-X Women in AI Network Early Career Development Grant supports women and non-binary individuals at Imperial College London who are at Master’s, PhD or postdoctoral level and are interested in artificial intelligence.",
+   "url": "https://opportunitydesk.org/2026/11/07/10-grants-and-funding-opportunities-currently-open-november-7-2026/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180008",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/hurford-youth-fellows-program-2027/",
+  "title": "Hurford Youth Fellows Program 2027 (Funded to the U.S.)",
+  "publishedAt": "2026-11-07T21:34:28+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "aprobada",
+  "motivo": "Aprobada sola: fellowship abierta a dominicanos, cierra el 2026-11-30.",
+  "oportunidad": {
+   "id": "rss-hurford-youth-fellows-program-2027-funded-to-the-u-s",
+   "slug": "hurford-youth-fellows-program-2027-funded-to-the-u-s",
+   "name": "Hurford Youth Fellows Program 2027 (Funded to the U.S.)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "the hurford youth fellows program equips emerging democracy leaders from around the world with the skills, networks, and practical tools to turn youth energy into democratic change",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "Deadline: November 30, 2026 Applications are open for the Hurford Youth Fellows Program 2027. The Hurford Youth Fellows Program equips emerging democracy leaders from around the world with the skills, networks, and practical tools to turn youth energy into democratic change.",
+   "url": "https://opportunitydesk.org/2026/11/07/hurford-youth-fellows-program-2027/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180016",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/how-to-turn-your-passion-into-income-5-practical-ways-to-make-money-doing-what-you-love/",
+  "title": "How to Turn Your Passion into Income: 5 Practical Ways to Make Money Doing What You Love",
+  "publishedAt": "2026-11-07T21:17:25+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-how-to-turn-your-passion-into-income",
+   "slug": "how-to-turn-your-passion-into-income",
+   "name": "How to Turn Your Passion into Income",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Educación",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Have you ever wondered whether something you genuinely enjoy doing could become a source of income? Perhaps you love writing, photography, fashion, cooking, teaching, designing or creating content.",
+   "url": "https://opportunitydesk.org/2026/11/07/how-to-turn-your-passion-into-income-5-practical-ways-to-make-money-doing-what-you-love/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180013",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/how-to-get-a-scholarship-with-a-third-class-degree-7-practical-steps-to-improve-your-chances/",
+  "title": "How to Get a Scholarship with a Third-Class Degree: 7 Practical Steps to Improve Your Chances",
+  "publishedAt": "2026-11-07T21:10:16+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-how-to-get-a-scholarship-with-a-third-class-degree",
+   "slug": "how-to-get-a-scholarship-with-a-third-class-degree",
+   "name": "How to Get a Scholarship with a Third-Class Degree",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Educación"
+   ],
+   "levels": [
+    "pregrado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Graduating with a third-class degree can feel discouraging, especially when you begin searching for scholarships and discover that many opportunities require a first-class or second-class upper degree. For some graduates, this becomes a reason to abandon their dreams of further education.",
+   "url": "https://opportunitydesk.org/2026/11/07/how-to-get-a-scholarship-with-a-third-class-degree-7-practical-steps-to-improve-your-chances/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180012",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/07/arewa-creative-writing-and-advocacy-fellowship-2026-cohort-1/",
+  "title": "Arewa Creative Writing and Advocacy Fellowship (ACWAF) 2026 – Cohort 1",
+  "publishedAt": "2026-11-07T16:49:00+00:00",
+  "fetchedAt": "2026-11-08T02:14:34+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-arewa-creative-writing-and-advocacy-fellowship-acwaf-2026-cohort-1",
+   "slug": "arewa-creative-writing-and-advocacy-fellowship-acwaf-2026-cohort-1",
+   "name": "Arewa Creative Writing and Advocacy Fellowship (ACWAF) 2026 – Cohort 1",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Nigeria"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "Deadline: November 30, 2026 Applications are open for the Arewa Creative Writing and Advocacy Fellowship (ACWAF) 2026. The Arewa Creative Writing and Advocacy Fellowship (ACWAF) is an initiative by the Poetic Wednesdays Initiative, supported by the Nigeria Youth Futures Fund (NYFF).",
+   "url": "https://opportunitydesk.org/2026/11/07/arewa-creative-writing-and-advocacy-fellowship-2026-cohort-1/",
+   "updatedAt": "2026-11-08"
+  }
  }
 ]
