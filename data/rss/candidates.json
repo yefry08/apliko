@@ -19826,5 +19826,128 @@
    "url": "https://opportunitydesk.org/2026/11/07/arewa-creative-writing-and-advocacy-fellowship-2026-cohort-1/",
    "updatedAt": "2026-11-08"
   }
+ },
+ {
+  "guid": "http://www.scholars4dev.com/?p=8909",
+  "feed": "Scholars4Dev",
+  "link": "https://www.scholars4dev.com/scholarships-france-foreign-students/",
+  "title": "Top 10 Scholarships in France for Foreign Students",
+  "publishedAt": "2026-11-08T09:13:38+00:00",
+  "fetchedAt": "2026-11-08T16:58:46+00:00",
+  "estado": "descartada",
+  "motivo": "Es un boletín o una lista de varias oportunidades.",
+  "oportunidad": {
+   "id": "rss-top-10-scholarships-in-france-for-foreign-students",
+   "slug": "top-10-scholarships-in-france-for-foreign-students",
+   "name": "Top 10 Scholarships in France for Foreign Students",
+   "source": "rss",
+   "sourceName": "Scholars4Dev",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Salud",
+    "Ciencias",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "doctorado"
+   ],
+   "destinations": [
+    "Francia"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "com/cofkocof france has become one of the most popular study destinations for international students",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "©iStock.com/cofkocof France has become one of the most popular study destinations for international students. However, study and living costs in France is not always affordable. Although annual tuition fees at public universities is low at €200-€600, it could go as high as €10,000 at private universities.",
+   "url": "https://www.scholars4dev.com/scholarships-france-foreign-students/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27798",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/unil-summer-program-2027/",
+  "title": "UNIL Summer Program 2027 in Switzerland (Fully Funded)",
+  "publishedAt": "2026-11-08T16:31:07+00:00",
+  "fetchedAt": "2026-11-08T16:58:46+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-unil-summer-program-2027-in-switzerland-fully-funded",
+   "slug": "unil-summer-program-2027-in-switzerland-fully-funded",
+   "name": "UNIL Summer Program 2027 in Switzerland (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Programa de verano"
+   ],
+   "areas": [
+    "Salud",
+    "Ciencias"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria"
+   ],
+   "destinations": [
+    "Suiza"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "n eight-week international research opportunity for undergraduate students from around the world who are studying biology, medicine, or related disciplines with a strong focus on biological scienc",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Applications are open for the UNIL Summer Program 2027 at the University of Lausanne (UNIL), Switzerland. This is an eight-week international research opportunity for undergraduate students from around the world who are studying biology, medicine, or related disciplines with a strong focus on biological sciences.",
+   "url": "https://opportunitiescorners.com/unil-summer-program-2027/",
+   "updatedAt": "2026-11-08"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27793",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/stanford-summer-research-program-2027/",
+  "title": "Stanford Summer Research Program 2027 in USA (Fully Funded)",
+  "publishedAt": "2026-11-08T09:44:36+00:00",
+  "fetchedAt": "2026-11-08T16:58:46+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-stanford-summer-research-program-2027-in-usa-fully-funded",
+   "slug": "stanford-summer-research-program-2027-in-usa-fully-funded",
+   "name": "Stanford Summer Research Program 2027 in USA (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Investigación"
+   ],
+   "areas": [
+    "Ingeniería",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "doctorado"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Applications are now open for the Stanford Summer Research Program 2027 in the United States. The Stanford SURF is an eight-week, fully funded summer program designed for undergraduate students interested in pursuing doctoral studies and research careers in engineering.",
+   "url": "https://opportunitiescorners.com/stanford-summer-research-program-2027/",
+   "updatedAt": "2026-11-08"
+  }
  }
 ]

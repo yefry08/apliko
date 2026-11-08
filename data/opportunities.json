@@ -19679,36 +19679,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "ea-ai-safety-essentials-fellowship",
-  "slug": "ai-safety-essentials-fellowship",
-  "name": "AI Safety Essentials Fellowship",
-  "sponsor": "Global AI Youth Network Sub Saharan Africa",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "África"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (Africa). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-08"
-  },
-  "notes": "A 7-week fellowship where participants study AI safety, join facilitated discussions, and develop a capstone or next-step learning pathway.\n\n- Weekly pre-reading and live group calls on AI safety topics\n- Sessions on existential risk, frontier models, alignment, and governance\n- Mentorship from researchers, governance fellows, and peer builders\n- Capstone proposal support and guidance toward fellowships, internships, and micro grants",
-  "url": "https://gainssa.org/initiatives/fellowship",
-  "applyUrl": "https://gainssa.org/initiatives/fellowship",
-  "updatedAt": "2026-10-01"
- },
- {
   "id": "ea-board-member-incl-chair-ea-somalia",
   "slug": "board-member-incl-chair-ea-somalia",
   "name": "Board Member (incl. Chair) · EA Somalia",
@@ -20151,35 +20121,6 @@
   "notes": "Join an informal Effective Altruism community meetup in London for networking and conversation.\n\n- Meet newcomers and experienced EA community members.\n- Explore high-impact careers and effective giving.\n- Low-stakes social event with food, drinks, and discussion.\n- Open to anyone interested in effective altruism.",
   "url": "https://luma.com/1zb536s0",
   "applyUrl": "https://luma.com/1zb536s0",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-technical-ai-safety-project-sprint",
-  "slug": "technical-ai-safety-project-sprint",
-  "name": "Technical AI Safety Project Sprint",
-  "sponsor": "BlueDot Impact",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Curso"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-08"
-  },
-  "notes": "Work with an AI safety expert to complete a technical AI safety research or engineering project and publish a public write-up.\n\n- Extend papers or improve existing research code\n- Share regular progress updates throughout the project\n- Join weekly check-ins with peers and an AI safety expert\n- Publish a blog post and X thread showcasing your work",
-  "url": "https://bluedot.org/courses/technical-ai-safety-project",
-  "applyUrl": "https://bluedot.org/courses/technical-ai-safety-project",
   "updatedAt": "2026-10-01"
  },
  {
@@ -20867,66 +20808,6 @@
   "notes": "Support maternal and neonatal health programs through field coordination, documentation, data support, and engagement with government stakeholders.\n\n- Assist with field visits, data collection, trip reports, and implementation documentation\n- Coordinate meetings and track follow-up actions with government and health partners\n- Support supply chain monitoring and monthly program data reviews\n- Receive direct supervision and mentorship while gaining hands-on implementation experience",
   "url": "https://apply.workable.com/j/E70047D026",
   "applyUrl": "https://apply.workable.com/j/E70047D026",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-fundraiser-marketing-digital-communications",
-  "slug": "fundraiser-marketing-digital-communications",
-  "name": "Fundraiser & Marketing/Digital Communications",
-  "sponsor": "tb.care",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Voluntariado"
-  ],
-  "areas": [
-   "Salud global y desarrollo"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (UK preferred). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-08"
-  },
-  "notes": "Support fundraising and digital communications for a charity providing accessible tuberculosis information to communities affected by TB.\n\n- Research funders and write grant applications and reports\n- Manage fundraising prospects, deadlines, and outcomes\n- Create social media content and support fundraising campaigns\n- Commit approximately 6–10 flexible hours per month",
-  "url": "https://docs.google.com/document/d/1_3FdQsynDUhUo0UpTP2cJbhDud2NrgXEY_cZ1gdb-gU/edit?usp=sharing",
-  "applyUrl": "https://docs.google.com/document/d/1_3FdQsynDUhUo0UpTP2cJbhDud2NrgXEY_cZ1gdb-gU/edit?usp=sharing",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-public-health-communications-officer",
-  "slug": "public-health-communications-officer",
-  "name": "Public Health Communications Officer",
-  "sponsor": "tb.care",
-  "source": "voluntariado",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Voluntariado"
-  ],
-  "areas": [
-   "Salud global y desarrollo"
-  ],
-  "levels": [],
-  "destinations": [
-   "En línea",
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Remote (UK preferred). Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-08"
-  },
-  "notes": "Develop and communicate evidence-based tuberculosis health information for education programmes serving affected communities.\n\n- Adapt materials for low-literacy and cross-cultural audiences\n- Create digital, social, video, audio, and one-page health resources\n- Keep public-facing TB information current and accessible\n- Support outreach to health workers, TB programmes, and funders",
-  "url": "https://docs.google.com/document/d/17oUuo3wAZXCwpRGoRai-4vd4H8umAQqyxghMEfQw5uU/edit?usp=sharing",
-  "applyUrl": "https://docs.google.com/document/d/17oUuo3wAZXCwpRGoRai-4vd4H8umAQqyxghMEfQw5uU/edit?usp=sharing",
   "updatedAt": "2026-10-01"
  },
  {
