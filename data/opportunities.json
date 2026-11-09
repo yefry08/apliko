@@ -18461,6 +18461,246 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-request-for-proposals-incubation",
+  "slug": "request-for-proposals-incubation",
+  "name": "Request for Proposals: Incubation",
+  "sponsor": "Coefficient Giving",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Altruismo eficaz",
+   "Investigación de prioridades globales"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-18"
+  },
+  "notes": "Funding for existing or new incubators and accelerators that launch or scale high-impact organizations in priority cause areas.\n\n- Supports larger or additional cohorts, new geographies or cause areas, and accelerator cohorts\n- Can fund core functions like idea research, founder recruitment, post-launch support, and seed grants\n- Open to existing incubators and accelerators, plus individuals or teams starting new ones\n- Past incubation grants ranged from $20,000 to $7.5 million\n- Most grants under this RFP are expected to last two to three years",
+  "url": "https://coefficientgiving.org/funds/effective-giving-and-careers/request-for-proposals-incubation/",
+  "applyUrl": "https://coefficientgiving.org/funds/effective-giving-and-careers/request-for-proposals-incubation/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-voluntary-evaluator-farmed-animal-welfare-research",
+  "slug": "voluntary-evaluator-farmed-animal-welfare-research",
+  "name": "Voluntary Evaluator, Farmed Animal Welfare Research",
+  "sponsor": "Animal Welfare League",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Bienestar animal"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Review commissioned farmed animal welfare research as a voluntary evaluator, scoring rigor and evidence on remote assignments lasting 2–7 hours, one to three times a year.\n\n- Assess research proposals, economic analyses, and scoping papers using a published scoring rubric\n- Score rigor, correct use of evidence, honesty about uncertainty, and usefulness for standards bodies\n- Join one short panel call where needed and provide brief written comments\n- US$250 token honorarium per completed assessment\n- Early access to research and underlying data, with optional named credit",
+  "url": "https://www.animalwelfareleague.org/blog/call-for-voluntary-evaluators",
+  "applyUrl": "https://www.animalwelfareleague.org/blog/call-for-voluntary-evaluators",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-ai-policy-leaders-programme-talos-network",
+  "slug": "ai-policy-leaders-programme-talos-network",
+  "name": "AI Policy Leaders Programme · Talos Network",
+  "sponsor": "Talos Network",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "Bélgica"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Brussels, Belgium. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-06"
+  },
+  "notes": "A 7-week, part-time European AI governance programme with remote training and a required 1-week in-person summit in Brussels, running 23 Feb 10 Apr 2027.\n\n- €5,000 monthly stipend for optional placements, adjusted to the placement location\n- Travel, accommodation, and breakfast and lunch covered for the Brussels summit\n- Weekly 1:1s with a Programme Lead, plus expert Q&As and tailored introductions\n- Cohort of 10 to 15 experienced professionals\n- Curriculum on frontier AI governance, weekly discussion calls, and an optional competitive placement",
+  "url": "https://www.talosnetwork.org/policy-leaders-programme",
+  "applyUrl": "https://www.talosnetwork.org/policy-leaders-programme",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-talos-fellowship",
+  "slug": "talos-fellowship",
+  "name": "Talos Fellowship",
+  "sponsor": "Talos Network",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (Europe). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-06"
+  },
+  "notes": "A 7-week, part-time AI governance fellowship with a 1-week in-person Summit in Brussels, plus an optional 6-month placement.\n\n- Optional placement pays a monthly stipend of about 3,000\n- Summit travel, accommodation, and breakfast and lunch meal costs are fully covered\n- Two 1:1s with staff, weekly peer calls, and three sessions with a writing advisor\n- Cohort of about 20 fellows\n- Weekly seminars, a published policy assignment, Summit workshops, and optional placement at a think tank or government institution",
+  "url": "https://www.talosnetwork.org/talos-fellowship",
+  "applyUrl": "https://www.talosnetwork.org/talos-fellowship",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-talos-incubator-europe",
+  "slug": "talos-incubator-europe",
+  "name": "Talos Incubator Europe",
+  "sponsor": "Talos Network",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "En línea",
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote (Europe). Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-06"
+  },
+  "notes": "A six-phase AI governance incubator in Europe, running part-time online from 8 March 4 April 2027, then full-time in Brussels, remotely, and London.\n\n- €4,000 monthly stipend, paid throughout the programme and for two months after refinement; first four weeks prorated\n- Travel, accommodation, and breakfast and lunch covered for the in-person sprint and showcase\n- Weekly 1:1s, matched mentors, expert advisors, workshops, introductions, and peer support\n- Cohort of between 10 and 14 founders\n- Co-founder matching, project selection, full-time building, showcase, and seed grant applications in European AI governance",
+  "url": "http://www.talosnetwork.org/talos-incubator-europe",
+  "applyUrl": "http://www.talosnetwork.org/talos-incubator-europe",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-internship-ai-for-protein-design",
+  "slug": "internship-ai-for-protein-design",
+  "name": "Internship, AI for Protein Design",
+  "sponsor": "Lila Sciences",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Bioseguridad y salud pública",
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: San Francisco, CA. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Research generative and predictive models for protein and antibody design in a PhD-level AI for protein engineering internship.\n\n- Analyze experimental datasets to evaluate model outputs and guide design decisions\n- Prototype workflows linking model predictions, candidate prioritization, and wet-lab feedback\n- Build datasets and benchmarks for protein design and broader AI research\n- Share results through code, notebooks, written summaries, and presentations",
+  "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4480337009",
+  "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4480337009",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-research-intern-ai-security",
+  "slug": "research-intern-ai-security",
+  "name": "Research Intern, AI Security",
+  "sponsor": "Exponential Security Labs",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas",
+   "Seguridad informática"
+  ],
+  "levels": [],
+  "destinations": [
+   "Europa",
+   "Alemania"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Tübingen, Germany. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Build and evaluate AI security environments, adversarial agents, and experiments for frontier AI systems.\n\n- Develop security environments, agent training methods, attacks, and defenses\n- Design and run controlled experiments with clear baselines and verifiable outcomes\n- Analyze model behavior and communicate findings to the team\n- Contribute reusable code, evaluations, and research outputs from an ambitious agent security project",
+  "url": "https://expsec.ai/careers/research-intern-ai-security/",
+  "applyUrl": "https://expsec.ai/careers/research-intern-ai-security/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-resident-gen-stream",
+  "slug": "resident-gen-stream",
+  "name": "Resident, Gen Stream",
+  "sponsor": "Gen Stream",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Oxford, UK. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-11"
+  },
+  "notes": "A one-week, in-person AI safety residency in Oxford, running 22–28 November 2026.\n\n- Fully funded\n- Accommodation before the week begins\n- Matched with a mentor and supported by facilitators\n- Cohort of 15 residents\n- Build a real AI safety project, record a demo, present at Demo Day, and make a 30-day plan",
+  "url": "https://genstream.org/",
+  "applyUrl": "https://genstream.org/",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-center-on-long-term-risk-fundamentals-program",
   "slug": "center-on-long-term-risk-fundamentals-program",
   "name": "Center on Long-Term Risk Fundamentals Program",
@@ -21483,35 +21723,6 @@
   "notes": "Free personalized career advising helps experienced professionals transition their expertise toward reducing risks from advanced AI.\n\n- Receive strategic career guidance and practical application support\n- Build connections with relevant communities and fields\n- Access professional training and ongoing personal support\n- Explore how existing expertise can transfer into AI risk reduction",
   "url": "https://www.successif.org/career-advising",
   "applyUrl": "https://www.successif.org/career-advising",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-phd-programme-symbolic-ai-king-s-college-london-imperial-college-london",
-  "slug": "phd-programme-symbolic-ai-king-s-college-london-imperial-college-london",
-  "name": "PhD Programme, Symbolic AI · King's College London, Imperial College London",
-  "sponsor": "King's College London, Imperial College London",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: London, UK. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "por-confirmar",
-   "label": "Sin fecha de cierre publicada"
-  },
-  "notes": "Pursue doctoral research on symbolic AI methods for developing safe and trustworthy AI systems through a structured cohort-based training programme.\n\n- Conduct original research on symbolic AI for AI safety and trustworthiness.\n- Receive interdisciplinary technical, ethics, and transferable skills training.\n- Complete industry projects, internships, hackathons, and public engagement activities.\n- Collaborate with peers, researchers, and industry partners throughout the programme.",
-  "url": "https://safeandtrustedai.org/programme/",
-  "applyUrl": "https://safeandtrustedai.org/programme/",
   "updatedAt": "2026-10-01"
  },
  {
