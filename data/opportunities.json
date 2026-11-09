@@ -8981,6 +8981,42 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "bec-students-on-ice-expeditions-2027",
+  "slug": "students-on-ice-expeditions-2027",
+  "name": "Students on Ice Expeditions 2027",
+  "sponsor": "SOI Foundation (Students on Ice)",
+  "source": "becas",
+  "types": [
+   "Expedición educativa"
+  ],
+  "areas": [
+   "Clima",
+   "Océanos",
+   "Ciencias polares",
+   "Liderazgo"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Canadá"
+  ],
+  "funding": "completa",
+  "amount": "Becas para la mayoría de los cupos; quien no tiene beca paga más de USD 17,450 más el viaje a la ciudad de salida",
+  "citizenship": "global",
+  "citizenshipRaw": "Jóvenes de 14 a 35 años de cualquier país. Expediciones en barco al Ártico, la Antártida y otros lugares junto a científicos, ancianos indígenas, artistas y educadores para aprender sobre el cambio climático. Para optar por beca, márcalo en la misma solicitud antes del 10 de diciembre; no se aceptan solicitudes de beca después.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-10"
+  },
+  "url": "https://soifoundation.org/en/youth/expeditions/application-process-youth/",
+  "applyUrl": "https://soifoundation.org/en/youth/expeditions/application-process-youth/",
+  "updatedAt": "2026-09-23"
+ },
+ {
   "id": "fin-wellcome-prize-for-mental-health-science",
   "slug": "wellcome-prize-for-mental-health-science",
   "name": "Wellcome Prize for Mental Health Science",
@@ -14033,6 +14069,109 @@
   },
   "url": "https://promipyme.gob.do/elab",
   "applyUrl": "https://promipyme.gob.do/elab",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-ocean-culture-storytelling-grants-2027",
+  "slug": "ocean-culture-storytelling-grants-2027",
+  "name": "Ocean Culture Storytelling Grants 2027",
+  "sponsor": "Ocean Culture Life",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Medios",
+   "Océanos",
+   "Clima",
+   "Arte"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Subvenciones de £1,000, £3,000 o £5,000",
+  "citizenship": "global",
+  "citizenshipRaw": "Creadores de cualquier país, solos o en equipo, que cuenten una historia sobre el océano en cualquier formato: cine, fotografía, ensayo, ilustración o audio. Hay que ser miembro de la comunidad Ocean Culture (gratis). La convocatoria cierra el 1 de diciembre a medianoche GMT; en RD conviene enviar a más tardar el 30 de noviembre. Ganadores a más tardar el 31 de enero de 2027.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "url": "https://www.oceanculturelife.com/storytelling-grants",
+  "applyUrl": "https://www.oceanculturelife.com/storytelling-grants",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-young-planet-leaders-quarterly-sponsorship",
+  "slug": "young-planet-leaders-quarterly-sponsorship",
+  "name": "Young Planet Leaders Quarterly Sponsorship",
+  "sponsor": "Young Planet Leaders",
+  "source": "financiamiento",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Clima",
+   "Sostenibilidad",
+   "Justicia social"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "De USD 1,000 a 2,000 por proyecto",
+  "citizenship": "global",
+  "citizenshipRaw": "Jóvenes de 22 años o menos de cualquier país con un proyecto real de clima, sostenibilidad, seguridad alimentaria o justicia social; no hace falta tener una organización registrada y se aceptan proyectos en etapa temprana. Tres patrocinios por ronda; las ventanas abren cada trimestre y los resultados salen unas dos semanas después del cierre. Todo es gratis.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-15"
+  },
+  "url": "https://youngplanetleaders.org/awards-funding",
+  "applyUrl": "https://youngplanetleaders.org/awards-funding",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-learning-planet-youth-design-challenge-2026-27",
+  "slug": "learning-planet-youth-design-challenge-2026-27",
+  "name": "Learning Planet Youth Design Challenge 2026-27",
+  "sponsor": "Learning Planet Institute",
+  "source": "financiamiento",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Clima",
+   "Paz",
+   "Bienestar",
+   "Impacto social"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Formación y mentoría gratis para 60 proyectos y USD 1,000 para cada uno de los 12 embajadores",
+  "citizenship": "global",
+  "citizenshipRaw": "Jóvenes de 15 a 26 años de cualquier país con un proyecto ya en marcha (más allá de la idea) en clima, paz o bienestar. Se presenta en línea. El jurado elige 60 proyectos para formación y mentoría en línea de marzo a junio de 2027, y de ellos 12 embajadores. Cierra el 7 de enero de 2027 a las 23:59 de Europa central (6:59 p. m. en RD).",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-07"
+  },
+  "url": "https://www.learningplanetinstitute.org/en/programs/lp-ydc/",
+  "applyUrl": "https://www.learningplanetinstitute.org/en/programs/lp-ydc/",
   "updatedAt": "2026-09-18"
  },
  {
