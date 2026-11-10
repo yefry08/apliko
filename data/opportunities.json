@@ -14175,6 +14175,1224 @@
   "updatedAt": "2026-09-18"
  },
  {
+  "id": "fin-south-park-commons-founder-fellowship",
+  "slug": "south-park-commons-founder-fellowship",
+  "name": "South Park Commons Founder Fellowship",
+  "sponsor": "South Park Commons Founder Fellowship",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 400,000 al entrar y USD 600,000 más en la siguiente ronda externa",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores técnicos en etapa de idea. Modalidad: SAFE con seguimiento. Participación que toma: 7% al entrar. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.southparkcommons.com/",
+  "applyUrl": "https://www.southparkcommons.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-43north",
+  "slug": "43north",
+  "name": "43North",
+  "sponsor": "43North",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inversión"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 1 millón",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para startups en etapa semilla dispuestas a mudarse a Buffalo (Nueva York). Modalidad: inversión de capital. Participación que toma: 5%. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.43north.org/",
+  "applyUrl": "https://www.43north.org/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-neo-residency",
+  "slug": "neo-residency",
+  "name": "Neo Residency",
+  "sponsor": "Neo Residency",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 750,000 sin tope de valoración para startups y una beca de USD 40,000 para estudiantes",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores técnicos, estudiantes y startups tempranas. Modalidad: SAFE sin tope o beca. Participación que toma: derecho a participar hasta con 5% en la siguiente ronda. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://neo.com/residency",
+  "applyUrl": "https://neo.com/residency",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-hf0-residency",
+  "slug": "hf0-residency",
+  "name": "HF0 Residency",
+  "sponsor": "HF0 Residency",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 1 millón (reportado)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores de IA y software que construyen en San Francisco. Modalidad: residencia con inversión. Participación que toma: alrededor de 5% (reportado). Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.hf0.com/",
+  "applyUrl": "https://www.hf0.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-endless-frontier-labs",
+  "slug": "endless-frontier-labs",
+  "name": "Endless Frontier Labs",
+  "sponsor": "Endless Frontier Labs",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Ciencia",
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Sin financiamiento directo",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para deep tech, ciencia, salud digital y ciencias de la vida. Modalidad: aceleradora de mentoría gratis. Participación que toma: 0%. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://endlessfrontierlabs.com/",
+  "applyUrl": "https://endlessfrontierlabs.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-sequoia-arc",
+  "slug": "sequoia-arc",
+  "name": "Sequoia Arc",
+  "sponsor": "Sequoia Arc",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inversión"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Monto no publicado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores pre-seed y semilla que buscan el respaldo de Sequoia. Modalidad: programa para fundadores con inversión de capital de riesgo. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.sequoiacap.com/arc/",
+  "applyUrl": "https://www.sequoiacap.com/arc/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-ai-grant",
+  "slug": "ai-grant",
+  "name": "AI Grant",
+  "sponsor": "AI Grant",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "USD 250,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para startups de productos nativos de IA. Modalidad: SAFE sin tope. Participación que toma: SAFE sin tope; la dilución depende de la siguiente ronda. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://aigrant.com/",
+  "applyUrl": "https://aigrant.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-the-house-fund-ai-accelerator",
+  "slug": "the-house-fund-ai-accelerator",
+  "name": "The House Fund AI Accelerator",
+  "sponsor": "The House Fund AI Accelerator",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 1 millón",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para startups de IA vinculadas a Berkeley. Modalidad: SAFE. Participación que toma: SAFE de 7% a 10%. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://thehouse.fund/",
+  "applyUrl": "https://thehouse.fund/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-sosv",
+  "slug": "sosv",
+  "name": "SOSV",
+  "sponsor": "SOSV",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Clima",
+   "Ciencia"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 550,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para deep tech, clima, biotecnología, hardware y software. Modalidad: SAFE o inversión pre-seed. Participación que toma: SOSV busca más de 10% de participación en sus cheques promedio. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://sosv.com/",
+  "applyUrl": "https://sosv.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-500-global-accelerator",
+  "slug": "500-global-accelerator",
+  "name": "500 Global Accelerator",
+  "sponsor": "500 Global Accelerator",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inversión"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 150,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores pre-seed y semilla de todo el mundo. Modalidad: inversión de capital. Participación que toma: 6%. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://500.co/",
+  "applyUrl": "https://500.co/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-a16z-speedrun",
+  "slug": "a16z-speedrun",
+  "name": "a16z Speedrun",
+  "sponsor": "a16z Speedrun",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 1 millón (reportado)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para videojuegos, medios interactivos y tecnología de consumo. Modalidad: aceleradora con inversión. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://speedrun.a16z.com/",
+  "applyUrl": "https://speedrun.a16z.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-pearx-pear-vc",
+  "slug": "pearx-pear-vc",
+  "name": "PearX (Pear VC)",
+  "sponsor": "PearX",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "De USD 250,000 a 2 millones (reportado)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores pre-seed de software, consumo y fintech. Modalidad: aceleradora con inversión de riesgo. Participación que toma: términos no del todo públicos. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://pear.vc/pearx/",
+  "applyUrl": "https://pear.vc/pearx/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-accel-atoms",
+  "slug": "accel-atoms",
+  "name": "Accel Atoms",
+  "sponsor": "Accel Atoms",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "India"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 1 a 2 millones",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores tempranos de tecnología en India y el mundo. Modalidad: capital o nota convertible. Participación que toma: términos variables. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://atoms.accel.com/",
+  "applyUrl": "https://atoms.accel.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-first-round-pmf-program",
+  "slug": "first-round-pmf-program",
+  "name": "First Round PMF Program",
+  "sponsor": "First Round PMF Program",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "Programa gratis",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores enfocados en producto que aún no tienen product-market fit. Modalidad: programa gratis para fundadores. Participación que toma: 0% por el programa. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://pmf.firstround.com/",
+  "applyUrl": "https://pmf.firstround.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-village-global-velocity",
+  "slug": "village-global-velocity",
+  "name": "Village Global Velocity",
+  "sponsor": "Village Global Velocity",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "Hasta USD 1 millón",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores de software, marketplaces y negocios de red. Modalidad: programa para fundadores con inversión. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.villageglobal.vc/velocity",
+  "applyUrl": "https://www.villageglobal.vc/velocity",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-seedcamp",
+  "slug": "seedcamp",
+  "name": "Seedcamp",
+  "sponsor": "Seedcamp",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inversión"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "Variable",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Para startups europeas pre-seed y semilla. Modalidad: inversión convertible o de capital. Participación que toma: variable. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://seedcamp.com/",
+  "applyUrl": "https://seedcamp.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-greylock-edge",
+  "slug": "greylock-edge",
+  "name": "Greylock Edge",
+  "sponsor": "Greylock Edge",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "No publicado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores de software empresarial, SaaS y tecnología de consumo. Modalidad: programa para fundadores. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://greylock.com/edge/",
+  "applyUrl": "https://greylock.com/edge/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-afore-capital-founder-in-residence",
+  "slug": "afore-capital-founder-in-residence",
+  "name": "Afore Capital Founder in Residence",
+  "sponsor": "Afore Capital Founder in Residence",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "A la medida",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores antes de la idea o en etapa de idea. Modalidad: residencia con inversión temprana. Participación que toma: a la medida. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.afore.vc/residence",
+  "applyUrl": "https://www.afore.vc/residence",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-launch-accelerator",
+  "slug": "launch-accelerator",
+  "name": "LAUNCH Accelerator",
+  "sponsor": "LAUNCH Accelerator",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Alrededor de USD 125,000 (reportado)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para tecnología general, marketplaces y consumo. Modalidad: inversión de aceleradora. Participación que toma: alrededor de 6% a 7% (reportado). Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://launchaccelerator.co/",
+  "applyUrl": "https://launchaccelerator.co/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-antler",
+  "slug": "antler",
+  "name": "Antler",
+  "sponsor": "Antler",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Varía según el país",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para personas antes de la idea o en etapa de idea, con búsqueda de cofundador. Modalidad: residencia con inversión. Participación que toma: varía según el país. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.antler.co/",
+  "applyUrl": "https://www.antler.co/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-boost-vc",
+  "slug": "boost-vc",
+  "name": "Boost VC",
+  "sponsor": "Boost VC",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "USD 500,000 (reportado históricamente)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para deep tech, cripto, IA, realidad virtual y tecnología de frontera. Modalidad: aceleradora con inversión de riesgo. Participación que toma: 15% (reportado históricamente). Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.boost.vc/",
+  "applyUrl": "https://www.boost.vc/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-venture-kick",
+  "slug": "venture-kick",
+  "name": "Venture Kick",
+  "sponsor": "Venture Kick",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Ciencia"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Suiza"
+  ],
+  "funding": "varia",
+  "amount": "Beca de CHF 10,000 y luego préstamos convertibles de CHF 40,000 y CHF 100,000",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Para startups suizas de ciencia y tecnología y spin-offs universitarios. Modalidad: beca y préstamo convertible. Participación que toma: sin participación al inicio; puede convertirse después. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.venturekick.ch/",
+  "applyUrl": "https://www.venturekick.ch/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-localhost-fellowship",
+  "slug": "localhost-fellowship",
+  "name": "LocalHost Fellowship",
+  "sponsor": "LocalHost Fellowship",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Becas de hasta USD 10,000 e inversiones selectivas de hasta USD 100,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para startups de internet y fundadores tempranos. Modalidad: beca o inversión selectiva. Participación que toma: no publicada para las inversiones. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://localhosthq.com/",
+  "applyUrl": "https://localhosthq.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-conviction-embed",
+  "slug": "conviction-embed",
+  "name": "Conviction Embed",
+  "sponsor": "Conviction Embed",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "De USD 150,000 a 250,000 (reportado antes)",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores de IA. Modalidad: incubadora de IA con inversión. Participación que toma: nota o SAFE sin tope (reportado). Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://embed.conviction.com/",
+  "applyUrl": "https://embed.conviction.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-platanus",
+  "slug": "platanus",
+  "name": "Platanus",
+  "sponsor": "Platanus",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "USD 100,000",
+  "citizenship": "latam",
+  "citizenshipRaw": "Para fundadores técnicos de software de Latinoamérica y el mundo. Modalidad: inversión de aceleradora. Participación que toma: 7% (según un reporte anterior). Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://platan.us/",
+  "applyUrl": "https://platan.us/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-muckerlab",
+  "slug": "muckerlab",
+  "name": "MuckerLab",
+  "sponsor": "MuckerLab",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "De USD 100,000 a 175,000",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para software, marketplaces y negocios de internet. Modalidad: inversión de aceleradora. Participación que toma: de 10% a 15%. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://mucker.com/accelerator",
+  "applyUrl": "https://mucker.com/accelerator",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-founder-institute",
+  "slug": "founder-institute",
+  "name": "Founder Institute",
+  "sponsor": "Founder Institute",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin inversión estándar al inicio",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores en etapa de idea de todo el mundo. Modalidad: aceleradora. Participación que toma: depende de los acuerdos del Equity Collective. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://fi.co/",
+  "applyUrl": "https://fi.co/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-the-residency",
+  "slug": "the-residency",
+  "name": "The Residency",
+  "sponsor": "The Residency",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "No publicado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para tecnología general, software y consumo. Modalidad: residencia. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.livetheresidency.com/",
+  "applyUrl": "https://www.livetheresidency.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-founders-inc",
+  "slug": "founders-inc",
+  "name": "Founders, Inc.",
+  "sponsor": "Founders, Inc.",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Primer cheque de monto no publicado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para constructores en San Francisco, fundadores de IA y software. Modalidad: campus de startups con inversión. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://f.inc/",
+  "applyUrl": "https://f.inc/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-heartfelt",
+  "slug": "heartfelt",
+  "name": "HEARTFELT",
+  "sponsor": "HEARTFELT",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Inversión"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "No publicado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para consumo, software y tecnología general. Modalidad: apoyo de fondo en etapa temprana. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://heartfelt.vc/",
+  "applyUrl": "https://heartfelt.vc/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-unusual-ventures-academy",
+  "slug": "unusual-ventures-academy",
+  "name": "Unusual Ventures Academy",
+  "sponsor": "Unusual Ventures Academy",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "Sin financiamiento directo claro",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para software empresarial y SaaS B2B. Modalidad: academia para fundadores. Participación que toma: probablemente sin participación por la academia. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.unusual.vc/academy",
+  "applyUrl": "https://www.unusual.vc/academy",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-tacklebox",
+  "slug": "tacklebox",
+  "name": "Tacklebox",
+  "sponsor": "Tacklebox",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "No publicado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para validar ideas y dar seguimiento a fundadores. Modalidad: programa estructurado de coaching. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://www.gettacklebox.com/",
+  "applyUrl": "https://www.gettacklebox.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-startupyard",
+  "slug": "startupyard",
+  "name": "StartupYard",
+  "sponsor": "StartupYard",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Europa"
+  ],
+  "funding": "varia",
+  "amount": "No publicado con claridad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para SaaS, software empresarial y productos digitales. Modalidad: aceleradora. Participación que toma: no publicada con claridad. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://startupyard.com/",
+  "applyUrl": "https://startupyard.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-venture-spark",
+  "slug": "venture-spark",
+  "name": "Venture Spark",
+  "sponsor": "Venture Spark",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Tailandia"
+  ],
+  "funding": "varia",
+  "amount": "No publicado con claridad",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Para startups tecnológicas tempranas de Tailandia y la región. Modalidad: aceleradora. Participación que toma: se reporta sin participación para entrar; los seleccionados podrían pagar una cuota. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://venturespark.asia/",
+  "applyUrl": "https://venturespark.asia/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-d2c-insider-elevate",
+  "slug": "d2c-insider-elevate",
+  "name": "D2C Insider Elevate",
+  "sponsor": "D2C Insider Elevate",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Comercio"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "India"
+  ],
+  "funding": "varia",
+  "amount": "Oportunidad de hasta ₹1 crore (reportado)",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Para marcas directas al consumidor y comercio electrónico. Modalidad: aceleradora de crecimiento. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://elevate.d2cinsider.com/",
+  "applyUrl": "https://elevate.d2cinsider.com/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-perplexity-ai-business-fellowship",
+  "slug": "perplexity-ai-business-fellowship",
+  "name": "Perplexity AI Business Fellowship",
+  "sponsor": "Perplexity AI Business Fellowship",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Inteligencia artificial",
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Remoto"
+  ],
+  "funding": "varia",
+  "amount": "No es financiamiento para startups",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para aprender negocios con IA y desarrollarse como fundador. Modalidad: fellowship de formación. Participación que toma: no publicada. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://fellowship.perplexity.ai/",
+  "applyUrl": "https://fellowship.perplexity.ai/",
+  "updatedAt": "2026-09-18"
+ },
+ {
+  "id": "fin-a16z-crypto-startup-school",
+  "slug": "a16z-crypto-startup-school",
+  "name": "a16z crypto Startup School",
+  "sponsor": "a16z crypto Startup School",
+  "source": "financiamiento",
+  "types": [
+   "Aceleradora"
+  ],
+  "areas": [
+   "Emprendimiento",
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Variable",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Para fundadores de cripto y web3. Modalidad: escuela y programa para fundadores. Participación que toma: no publicada con claridad. Montos y participación según una tabla comunitaria de aceleradoras; confírmalos en el sitio oficial.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Por cohortes: revisa la próxima convocatoria en el sitio oficial"
+  },
+  "url": "https://a16zcrypto.com/accelerator/",
+  "applyUrl": "https://a16zcrypto.com/accelerator/",
+  "updatedAt": "2026-09-18"
+ },
+ {
   "id": "sgp-french-tech-rise",
   "slug": "french-tech-rise",
   "name": "French Tech Rise",
