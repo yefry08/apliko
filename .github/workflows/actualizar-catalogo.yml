@@ -46,6 +46,9 @@ jobs:
       - name: Beca tu Futuro (becas del MESCyT)
         run: python scripts/actualizar_becastufuturo.py || echo "::warning::No se pudo actualizar Beca tu Futuro"
 
+      - name: The Possibilists (directorio de oportunidades)
+        run: python scripts/actualizar_possibilists.py || echo "::warning::No se pudo actualizar The Possibilists"
+
       # import-data.ts solo usa Node y tipos: basta tsx, sin instalar todo el sitio.
       - name: Regenerar el catálogo
         run: npx --yes tsx@4 scripts/import-data.ts
@@ -53,7 +56,7 @@ jobs:
       - name: Publicar si cambió
         # El autor es la cuenta de Vercel, para que Vercel despliegue el commit.
         run: |
-          git add data/opportunities.json data/rss/candidates.json data/raw/ea-oportunidades.json data/raw/younoodle.json data/raw/cimpa.json data/raw/becas-tu-futuro.json
+          git add data/opportunities.json data/rss/candidates.json data/raw/ea-oportunidades.json data/raw/younoodle.json data/raw/cimpa.json data/raw/becas-tu-futuro.json data/raw/possibilists.json
           if git diff --cached --quiet; then
             echo "Sin cambios en el catálogo."
             exit 0

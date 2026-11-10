@@ -740,6 +740,131 @@ function readBecasTuFuturo(): Opportunity[] {
   });
 }
 
+/* The Possibilists directory (thepossibilists.org), written by scripts/actualizar_possibilists.py. Only facts are
+   stored there, so the Spanish summary below is built from them. */
+interface PossibilistsRow {
+  id: string;
+  name: string;
+  organization: string;
+  type: string;
+  fundingType: string;
+  isGlobal: boolean;
+  countries: string[];
+  continents: string[];
+  ageMin: number | null;
+  ageMax: number | null;
+  deadline: string | null;
+  deadlineTime: string;
+  deadlineTimezone: string;
+  areas: string[];
+  url: string;
+}
+
+const POSS_TYPE: Record<string, string> = {
+  Fellowship: "Fellowship",
+  Grant: "Fondos",
+  Competition: "Competencia",
+  Award: "Premio",
+  Internship: "Pasantía",
+  Workshop: "Taller",
+  Conference: "Conferencia",
+  Scholarship: "Beca",
+  Other: "Programa",
+};
+const POSS_FUNDING: Record<string, { funding: Funding; text: string }> = {
+  "Fully Funded": { funding: "completa", text: "Totalmente financiado" },
+  "Partially Funded": { funding: "parcial", text: "Financiamiento parcial" },
+  "No Funding": { funding: "varia", text: "Sin dinero directo: el valor está en la formación, la red o la visibilidad" },
+};
+const POSS_PLACE: Record<string, string> = {
+  Kenya: "Kenia",
+  Italy: "Italia",
+  Greece: "Grecia",
+  Denmark: "Dinamarca",
+  Netherlands: "Países Bajos",
+  Rwanda: "Ruanda",
+  Ukraine: "Ucrania",
+  Nigeria: "Nigeria",
+  Ghana: "Ghana",
+  Uganda: "Uganda",
+  Tanzania: "Tanzania",
+  Senegal: "Senegal",
+  Chile: "Chile",
+  "Dominican Republic": "República Dominicana",
+  Africa: "África",
+  Europe: "Europa",
+  Asia: "Asia",
+  "North America": "Norteamérica",
+  Oceania: "Oceanía",
+};
+const placeEs = (p: string) => COUNTRY_ES[p] ?? POSS_PLACE[p] ?? p;
+
+function possLevels(r: PossibilistsRow): Level[] {
+  if (r.ageMax !== null && r.ageMax <= 19) return ["secundaria"];
+  if (r.ageMax !== null && r.ageMax <= 26) return ["pregrado", "recien-graduado"];
+  if (r.type === "Internship") return ["pregrado", "recien-graduado"];
+  if (r.type === "Fellowship") return ["recien-graduado", "profesional"];
+  return ["pregrado", "recien-graduado", "profesional"];
+}
+
+const normUrl = (u: string) => u.toLowerCase().replace(/^https?:\/\/(www\.)?/, "").replace(/[?#].*$/, "").replace(/\/+$/, "");
+
+function readPossibilists(seen: Opportunity[]): Opportunity[] {
+  const file = path.join(RAW, "possibilists.json");
+  if (!existsSync(file)) return [];
+  const rows = JSON.parse(readFileSync(file, "utf8")) as PossibilistsRow[];
+  // Skip what the catalog already has from another source, by link or by name.
+  const urls = new Set(seen.flatMap((o) => [o.url, o.applyUrl]).filter((u): u is string => Boolean(u)).map(normUrl));
+  const names = new Set(seen.map((o) => slugify(o.name)));
+  const today = new Date().toISOString().slice(0, 10);
+  return rows
+    .filter((r) => !urls.has(normUrl(r.url)) && !names.has(slugify(r.name)))
+    .map((r) => {
+      const slug = slugify(r.name);
+      const type = POSS_TYPE[r.type] ?? "Programa";
+      const money = POSS_FUNDING[r.fundingType];
+      const places = r.countries.length > 6 && r.continents.length ? r.continents : r.countries;
+      const destinations = r.isGlobal ? ["Mundial"] : places.length > 6 ? ["Varios países"] : places.map(placeEs);
+      const ages =
+        r.ageMin !== null && r.ageMax !== null
+          ? `De ${r.ageMin} a ${r.ageMax} años.`
+          : r.ageMin !== null
+            ? `Desde los ${r.ageMin} años.`
+            : r.ageMax !== null
+              ? `Hasta los ${r.ageMax} años.`
+              : "";
+      const where = r.isGlobal
+        ? "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria."
+        : `Solo para ${destinations.join(", ")}.`;
+      const closes = r.deadline
+        ? r.deadlineTime
+          ? `La convocatoria cierra a las ${r.deadlineTime} (${r.deadlineTimezone || "UTC"}); la fecha de esta ficha ya está en hora de RD.`
+          : "La fecha de esta ficha ya está en hora de RD."
+        : "Sin fecha de cierre: postulación continua.";
+      return {
+        id: `poss-${slug}`,
+        slug,
+        name: r.name,
+        sponsor: r.organization || undefined,
+        source: ["Grant", "Competition", "Award"].includes(r.type) ? "financiamiento" : "becas",
+        sourceName: "The Possibilists (thepossibilists.org/directory)",
+        types: [type],
+        areas: r.areas,
+        levels: possLevels(r),
+        destinations,
+        funding: money?.funding ?? "varia",
+        amount: money?.text,
+        citizenship: r.isGlobal ? "ver-notas" : "paises-elegibles",
+        citizenshipRaw: [where, ages, "La convocatoria está en inglés; confirma los requisitos en el enlace oficial."].filter(Boolean).join(" "),
+        deadline: r.deadline ? { kind: "exacta", date: r.deadline } : { kind: "continua" },
+        notes: `${type}${r.organization ? ` de ${r.organization}` : ""}. ${money?.text ?? "Financiamiento por confirmar"}. ${closes}`,
+        url: r.url,
+        applyUrl: r.url,
+        updatedAt: today,
+      } satisfies Opportunity;
+    });
+}
+
 function main() {
   // De los feeds RSS (scripts/ingest_rss.py) solo entran las candidatas aprobadas.
   const rssFile = path.join(process.cwd(), "data", "rss", "candidates.json");
@@ -750,7 +875,7 @@ function main() {
     : [];
   const financiamiento = readFinanciamiento();
   const curatedUrls = new Set(financiamiento.map((o) => o.url).filter((u): u is string => Boolean(u)));
-  const all = [
+  const before = [
     ...readInternational(),
     ...readBecas(),
     ...financiamiento,
@@ -762,6 +887,8 @@ function main() {
     ...readBecasTuFuturo(),
     ...approved,
   ];
+  // The Possibilists goes last and skips anything the catalog already has.
+  const all = [...before, ...readPossibilists(before)];
   const seen = new Set<string>();
   const unique = all.filter((o) => {
     let slug = o.slug;

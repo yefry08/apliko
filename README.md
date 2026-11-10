@@ -156,7 +156,10 @@ Gmail permite unos 500 correos al día, de sobra para estos avisos.
   - las competencias abiertas de YouNoodle (`scripts/actualizar_younoodle.py`; salta las ya curadas en `financiamiento.json`);
   - las escuelas y fellowships de matemáticas de CIMPA con postulación abierta (`scripts/actualizar_cimpa.py`);
   - las convocatorias abiertas o por abrir de Beca tu Futuro (becas.gob.do), la plataforma de becas del MESCyT
-    (`scripts/actualizar_becastufuturo.py`). Entran con la regla `solo-rd`: elegibles para quien vive en RD.
+    (`scripts/actualizar_becastufuturo.py`). Entran con la regla `solo-rd`: elegibles para quien vive en RD;
+  - el directorio de The Possibilists (`scripts/actualizar_possibilists.py`): fellowships, fondos, premios y
+    pasantías para jóvenes. Solo se guardan datos (nombre, organización, tipo, fecha, edades, países, enlace); el
+    resumen en español se arma con ellos y se saltan las que el catálogo ya tiene.
 
   Luego regenera el
   catálogo y, si cambió, hace commit y push; Vercel publica. Se puede correr a mano desde la pestaña
