@@ -19679,6 +19679,132 @@
   "updatedAt": "2026-09-23"
  },
  {
+  "id": "ea-trustee-legal-malaria-consortium",
+  "slug": "trustee-legal-malaria-consortium",
+  "name": "Trustee, Legal · Malaria Consortium",
+  "sponsor": "Malaria Consortium",
+  "source": "voluntariado",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Voluntariado"
+  ],
+  "areas": [
+   "Salud global y desarrollo"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos",
+   "Reino Unido",
+   "Europa",
+   "Canadá",
+   "Latinoamérica y el Caribe",
+   "Asia",
+   "África",
+   "Australia",
+   "México",
+   "Medio Oriente"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Global. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "por-confirmar",
+   "label": "Sin fecha de cierre publicada"
+  },
+  "notes": "Provide strategic legal insight to support board governance, compliance, risk management, and decision-making for an international charity.\n\n- Advise on legal and regulatory obligations relevant to board oversight\n- Contribute to governance, risk management, and compliance discussions\n- Help navigate complex legal considerations affecting organisational decisions\n- Support transparent, accountable governance and safeguarding of charity assets\n- Approximate time commitment is two days per month",
+  "url": "https://malariaconsortium.current-vacancies.com/Jobs/Advert/4371462?cid=2061&t=Trustee-Legal",
+  "applyUrl": "https://malariaconsortium.current-vacancies.com/Jobs/Advert/4371462?cid=2061&t=Trustee-Legal",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-s-risk-and-ai-governance-exchange",
+  "slug": "s-risk-and-ai-governance-exchange",
+  "name": "S-risk and AI Governance Exchange",
+  "sponsor": "Center for Reducing Suffering (CRS)",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas",
+   "Otros problemas urgentes"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-22"
+  },
+  "notes": "A 6-week, part-time online working group on s-risk and AI governance, running Mon 11 Jan to Fri 19 Feb 2027.\n\n- Free to join\n- Facilitated by David Veldran and Alistair Stewart\n- Small group with one 90-minute weekly video call, plus short readings or writing\n- Topics include open questions, priority-setting, and potential AI governance interventions to reduce s-risk\n- Optional joint cohort session and a guest session on space governance",
+  "url": "https://centerforreducingsuffering.org/sage/",
+  "applyUrl": "https://centerforreducingsuffering.org/sage/",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-call-for-proposals-ai-for-information-security-fall-2026",
+  "slug": "call-for-proposals-ai-for-information-security-fall-2026",
+  "name": "Call for Proposals, AI for Information Security (Fall 2026)",
+  "sponsor": "Amazon",
+  "source": "financiamiento",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Seguridad informática"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-11"
+  },
+  "notes": "Funds AI research proposals in information security for Principal Investigators, focused on agentic AI, cloud security, malware detection, secure code generation, and related topics.\n\n- One-time unrestricted gifts averaging no more than $80,000 USD\n- AWS Promotional Credits averaging no more than $40,000 USD\n- Training resources, including AWS tutorials and hands-on sessions with scientists and engineers\n- Supports projects on trustworthy agentic AI, threat detection, incident response, vulnerabilities, model security, and reinforcement learning\n- Also funds work on graph anomaly detection, weak supervision, malware analysis, secure code generation, and cloud compliance",
+  "url": "https://www.amazon.science/research-awards/call-for-proposals/ai-for-information-security-call-for-proposals-fall-2026",
+  "applyUrl": "https://www.amazon.science/research-awards/call-for-proposals/ai-for-information-security-call-for-proposals-fall-2026",
+  "updatedAt": "2026-10-01"
+ },
+ {
+  "id": "ea-pathfinder-fellowship-fellows",
+  "slug": "pathfinder-fellowship-fellows",
+  "name": "Pathfinder Fellowship (Fellows)",
+  "sponsor": "Kairos",
+  "source": "becas",
+  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Seguridad de la IA y políticas"
+  ],
+  "levels": [],
+  "destinations": [
+   "En línea"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Ubicación: Remote. Revisa los requisitos en la convocatoria.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-24"
+  },
+  "notes": "A part-time, online fellowship for students leading or founding university AI safety groups, with Spring 2027 programming starting in December.\n\n- Graduate student fellows may receive a stipend; all fellows can get funding for group expenses\n- Funding can cover group activities including compute, speaker events, and pizza\n- Paired with an experienced organizer for weekly mentorship and personalized advice\n- Workshops, Slack, and virtual coffee chats connect fellows with other university organizers\n- Topics include campus outreach, involving graduate students, and facilitating in-person courses",
+  "url": "https://pathfinder.kairos-project.org/?utm_source=ea-opportunities&utm_medium=board&utm_campaign=pathfinder-s27",
+  "applyUrl": "https://pathfinder.kairos-project.org/?utm_source=ea-opportunities&utm_medium=board&utm_campaign=pathfinder-s27",
+  "updatedAt": "2026-10-01"
+ },
+ {
   "id": "ea-request-for-proposals-incubation",
   "slug": "request-for-proposals-incubation",
   "name": "Request for Proposals: Incubation",
@@ -20690,36 +20816,6 @@
   "notes": "Support a congressional fellowship and related programming as a full-time hybrid intern during the winter/spring 2027 semester in Washington, D.C.\n\n- Support fellowship administration, including a 3-week orientation for new fellows in January\n- Help plan events and engagement strategy, including outreach and logistics\n- Attend congressional hearings and events, and track fellow activities and accomplishments\n- Support data infrastructure development and research new program opportunities\n- Early-January start date preferred",
   "url": "https://techcongress.io/programs-intern-2027?utm_source=Policy+Opportunities+for+Technologists+Newsletter&utm_campaign=1963bfcf68-EMAIL_CAMPAIGN_2020_08_24_09_16_COPY_01&utm_medium=email&utm_term=0_341bed4c3f-1963bfcf68-586054720",
   "applyUrl": "https://techcongress.io/programs-intern-2027?utm_source=Policy+Opportunities+for+Technologists+Newsletter&utm_campaign=1963bfcf68-EMAIL_CAMPAIGN_2020_08_24_09_16_COPY_01&utm_medium=email&utm_term=0_341bed4c3f-1963bfcf68-586054720",
-  "updatedAt": "2026-10-01"
- },
- {
-  "id": "ea-intern-communications-winter-spring-2027",
-  "slug": "intern-communications-winter-spring-2027",
-  "name": "Intern, Communications (Winter / Spring 2027)",
-  "sponsor": "TechCongress",
-  "source": "becas",
-  "sourceName": "EA Opportunities Board (effectivealtruism.org)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Gobernanza y decisiones institucionales",
-   "Seguridad de la IA y políticas"
-  ],
-  "levels": [],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Ubicación: Washington, DC. Revisa los requisitos en la convocatoria.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-10"
-  },
-  "notes": "Support communications projects on tech policy and Congress, including storytelling, newsletters, social media, branding, and events during the winter/spring 2027 term.\n\n- Draft fact sheets, blog posts, social campaigns, and press materials about fellows’ legislative impact\n- Produce the monthly jobs newsletter by sourcing roles, writing summaries, and sending editions in MailChimp\n- Help implement new brand guidelines across materials and support website and social content\n- Track fellowship impact data, maintain records, and retrieve information for reporting and materials\n- Support orientation, recruitment events, panels, webinars, and networking events; term runs early January through mid-May",
-  "url": "https://techcongress.io/communications-intern-2027?utm_source=Policy+Opportunities+for+Technologists+Newsletter&utm_campaign=1963bfcf68-EMAIL_CAMPAIGN_2020_08_24_09_16_COPY_01&utm_medium=email&utm_term=0_341bed4c3f-1963bfcf68-586054720",
-  "applyUrl": "https://techcongress.io/communications-intern-2027?utm_source=Policy+Opportunities+for+Technologists+Newsletter&utm_campaign=1963bfcf68-EMAIL_CAMPAIGN_2020_08_24_09_16_COPY_01&utm_medium=email&utm_term=0_341bed4c3f-1963bfcf68-586054720",
   "updatedAt": "2026-10-01"
  },
  {
@@ -23546,6 +23642,34 @@
   "updatedAt": "2026-10-01"
  },
  {
+  "id": "yn-lab-to-market-bridging-innovation-and-entrepreneurship",
+  "slug": "lab-to-market-bridging-innovation-and-entrepreneurship",
+  "name": "Lab to Market: Bridging Innovation and Entrepreneurship",
+  "source": "financiamiento",
+  "sourceName": "YouNoodle (apply.younoodle.com)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Emprendimiento"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa en la convocatoria quién puede postular: muchas son solo para un país o una universidad.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-25"
+  },
+  "notes": "The Lab to Market Initiative seeks to bridge the gap between basic research and entrepreneurship by creating a structured initiative that equips students and researchers with the business skills, mentorship, and industry connections needed to turn their groundbreaking ideas into viable, scalable ventures. Why Join Lab to Market? Lab to Market is back for Cohort 2, bringing you a year of hands-on entrepreneurship training, expert mentorship, global networking, and the chance to turn your big…",
+  "url": "https://apply.younoodle.com/showcase/competition/columbia_venture_competition_2027",
+  "applyUrl": "https://apply.younoodle.com/showcase/competition/columbia_venture_competition_2027",
+  "updatedAt": "2026-11-10"
+ },
+ {
   "id": "cimpa-cimpa-geometric-topology-and-its-friends",
   "slug": "cimpa-geometric-topology-and-its-friends",
   "name": "Geometric topology and its friends (CIMPA Fellowship)",
@@ -25284,6 +25408,39 @@
   "updatedAt": "2026-11-10"
  },
  {
+  "id": "poss-20-an-hour-techcongress-communications-internship",
+  "slug": "20-an-hour-techcongress-communications-internship",
+  "name": "$20 an Hour TechCongress Communications Internship",
+  "sponsor": "TechCongress",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Tecnología"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-11"
+  },
+  "notes": "Pasantía de TechCongress. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://techcongress.io/communications-intern-2027",
+  "applyUrl": "https://techcongress.io/communications-intern-2027",
+  "updatedAt": "2026-11-10"
+ },
+ {
   "id": "poss-dalai-lama-leadership-fellowship-2027-cohort",
   "slug": "dalai-lama-leadership-fellowship-2027-cohort",
   "name": "Dalai Lama Leadership Fellowship (2027 Cohort)",
@@ -26983,6 +27140,39 @@
   "updatedAt": "2026-11-10"
  },
  {
+  "id": "poss-funded-menstrual-equity-youth-fellowship",
+  "slug": "funded-menstrual-equity-youth-fellowship",
+  "name": "Funded Menstrual Equity Youth Fellowship",
+  "sponsor": "Operation Period",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Salud"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. De 18 a 29 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-20"
+  },
+  "notes": "Fellowship de Operation Period. Totalmente financiado. La convocatoria cierra a las 17:00 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.operationperiod.org/yimf",
+  "applyUrl": "https://www.operationperiod.org/yimf",
+  "updatedAt": "2026-11-10"
+ },
+ {
   "id": "poss-paid-undp-rome-climate-and-energy-internship",
   "slug": "paid-undp-rome-climate-and-energy-internship",
   "name": "Paid UNDP Rome Climate and Energy Internship",
@@ -27186,6 +27376,39 @@
   "notes": "Fondos de Digital Promise. Totalmente financiado. La convocatoria cierra a las 23:59 (Etc/GMT+12); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://k12-ai-infrastructure.org/harness-rfp/",
   "applyUrl": "https://k12-ai-infrastructure.org/harness-rfp/",
+  "updatedAt": "2026-11-10"
+ },
+ {
+  "id": "poss-fully-funded-cannes-marketing-fellowship",
+  "slug": "fully-funded-cannes-marketing-fellowship",
+  "name": "Fully Funded Cannes Marketing Fellowship",
+  "sponsor": "Effie LIONS Foundation",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-22"
+  },
+  "notes": "Fellowship de Effie LIONS Foundation. Totalmente financiado. La convocatoria cierra a las 18:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://effielions.org/votf/",
+  "applyUrl": "https://effielions.org/votf/",
   "updatedAt": "2026-11-10"
  },
  {
@@ -27663,6 +27886,39 @@
   "notes": "Fondos de Oxfam Italia. Totalmente financiado. La convocatoria cierra a las 15:00 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://copower.oxfam.it/",
   "applyUrl": "https://copower.oxfam.it/",
+  "updatedAt": "2026-11-10"
+ },
+ {
+  "id": "poss-4-500-map-nonprofit-consulting-fellowship",
+  "slug": "4-500-map-nonprofit-consulting-fellowship",
+  "name": "$4,500 MAP Nonprofit Consulting Fellowship",
+  "sponsor": "Morgridge Family Foundation",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Clima"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-24"
+  },
+  "notes": "Fellowship de Morgridge Family Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Denver); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://morgridgefamilyfoundation.org/morgridge-acceleration-program",
+  "applyUrl": "https://morgridgefamilyfoundation.org/morgridge-acceleration-program",
   "updatedAt": "2026-11-10"
  },
  {
@@ -30070,6 +30326,40 @@
   "updatedAt": "2026-11-10"
  },
  {
+  "id": "poss-10-000-qnx-global-hackathon",
+  "slug": "10-000-qnx-global-hackathon",
+  "name": "$10,000 QNX Global Hackathon",
+  "sponsor": "QNX (BlackBerry Ltd)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-15"
+  },
+  "notes": "Competencia de QNX (BlackBerry Ltd). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 14:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://qnx.devpost.com/",
+  "applyUrl": "https://qnx.devpost.com/",
+  "updatedAt": "2026-11-10"
+ },
+ {
   "id": "poss-18-000-switzer-environmental-fellowship",
   "slug": "18-000-switzer-environmental-fellowship",
   "name": "$18,000 Switzer Environmental Fellowship",
@@ -31246,6 +31536,39 @@
   "updatedAt": "2026-11-10"
  },
  {
+  "id": "poss-600-cooperative-leaders-fellowship",
+  "slug": "600-cooperative-leaders-fellowship",
+  "name": "$600 Cooperative Leaders Fellowship",
+  "sponsor": "Cooperative Development Foundation",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Liderazgo"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "parcial",
+  "amount": "Financiamiento parcial",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-12"
+  },
+  "notes": "Fellowship de Cooperative Development Foundation. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.cdf.coop/cls",
+  "applyUrl": "https://www.cdf.coop/cls",
+  "updatedAt": "2026-11-10"
+ },
+ {
   "id": "poss-stanford-fisher-family-summer-fellowship",
   "slug": "stanford-fisher-family-summer-fellowship",
   "name": "Stanford Fisher Family Summer Fellowship",
@@ -31308,6 +31631,41 @@
   "notes": "Competencia de Diamond Challenge, Horn Entrepreneurship, University of Delaware. Financiamiento parcial. La convocatoria cierra a las 17:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://diamondchallenge.org/competition/",
   "applyUrl": "https://diamondchallenge.org/competition/",
+  "updatedAt": "2026-11-10"
+ },
+ {
+  "id": "poss-from-s-100-000-amplifier-impact-venture-programme",
+  "slug": "from-s-100-000-amplifier-impact-venture-programme",
+  "name": "From S$100,000 Amplifier Impact Venture Programme",
+  "sponsor": "Capital Innovation for Impact (CIIP) and Philanthropy Asia Alliance (PAA)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Programa"
+  ],
+  "areas": [
+   "Clima",
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-15"
+  },
+  "notes": "Programa de Capital Innovation for Impact (CIIP) and Philanthropy Asia Alliance (PAA). Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Singapore); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://ciip.com.sg/programmes/all-programmes/detail/the-amplifier-2026",
+  "applyUrl": "https://ciip.com.sg/programmes/all-programmes/detail/the-amplifier-2026",
   "updatedAt": "2026-11-10"
  },
  {
