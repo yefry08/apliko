@@ -21546,5 +21546,444 @@
    "url": "https://opportunitiescorners.com/rockefeller-university-usa-summer-fellowship-2027/",
    "updatedAt": "2026-11-10"
   }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180112",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/11/anh-academy-science-policy-fellowships-2027-round-3/",
+  "title": "ANH Academy Science-Policy Fellowships 2027 (Round 3)",
+  "publishedAt": "2026-11-11T14:34:39+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-anh-academy-science-policy-fellowships-2027-round-3",
+   "slug": "anh-academy-science-policy-fellowships-2027-round-3",
+   "name": "ANH Academy Science-Policy Fellowships 2027 (Round 3)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Salud",
+    "Políticas públicas",
+    "Medio ambiente",
+    "Ciencias"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-28"
+   },
+   "notes": "Deadline: February 28, 2027 Applications are open for the ANH Academy Science-Policy Fellowships 2027.",
+   "url": "https://opportunitydesk.org/2026/11/11/anh-academy-science-policy-fellowships-2027-round-3/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180111",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/11/harvard-kennedy-school-american-service-fellowship-2027/",
+  "title": "Harvard Kennedy School (HKS) American Service Fellowship 2027 (up to $100,000)",
+  "publishedAt": "2026-11-11T14:03:15+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-harvard-kennedy-school-hks-american-service-fellowship-2027-up-to-100-000",
+   "slug": "harvard-kennedy-school-hks-american-service-fellowship-2027-up-to-100-000",
+   "name": "Harvard Kennedy School (HKS) American Service Fellowship 2027 (up to $100,000)",
+   "sponsor": "Harvard Kennedy School",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-01"
+   },
+   "notes": "Deadline: December 1, 2026 Applications are invited for the Harvard Kennedy School (HKS) American Service Fellowship 2027. The American Service Fellowship offers a full scholarship and a partial living stipend for U.S.",
+   "url": "https://opportunitydesk.org/2026/11/11/harvard-kennedy-school-american-service-fellowship-2027/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180105",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/",
+  "title": "Africa Dyslexia Teacher Fellowship Program 2027",
+  "publishedAt": "2026-11-11T13:30:18+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-africa-dyslexia-teacher-fellowship-program-2027",
+   "slug": "africa-dyslexia-teacher-fellowship-program-2027",
+   "name": "Africa Dyslexia Teacher Fellowship Program 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-20"
+   },
+   "notes": "Deadline: November 20, 2026 Africa Dyslexia Organisation (ADO), in partnership with REED Charitable Foundation, invites passionate and committed teachers across Africa to apply for the Africa Dyslexia Teacher Fellowship Programme 2027.",
+   "url": "https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180106",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/11/pladis-accelerator-programme-2026/",
+  "title": "Pladis Accelerator Programme 2026",
+  "publishedAt": "2026-11-11T07:54:49+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-pladis-accelerator-programme-2026",
+   "slug": "pladis-accelerator-programme-2026",
+   "name": "Pladis Accelerator Programme 2026",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Salud",
+    "Tecnología",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-15"
+   },
+   "notes": "Deadline: January 15, 2027 Applications are open for the Pladis Accelerator Programme 2026.",
+   "url": "https://opportunitydesk.org/2026/11/11/pladis-accelerator-programme-2026/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180096",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/11/afdb-group-shou-scholarship-masters-degree-program-2027/",
+  "title": "African Development Bank Group Shanghai Ocean University Scholarship Masters Degree Program 2027",
+  "publishedAt": "2026-11-11T07:35:56+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-african-development-bank-group-shanghai-ocean-university-scholarship-masters-deg",
+   "slug": "african-development-bank-group-shanghai-ocean-university-scholarship-masters-deg",
+   "name": "African Development Bank Group Shanghai Ocean University Scholarship Masters Degree Program 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Beca"
+   ],
+   "areas": [],
+   "levels": [
+    "maestria"
+   ],
+   "destinations": [
+    "China"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-17"
+   },
+   "notes": "Deadline: November 17, 2026 Applications are open for the African Development Bank Group Shanghai Ocean University Scholarship Masters Degree Program 2027.",
+   "url": "https://opportunitydesk.org/2026/11/11/afdb-group-shou-scholarship-masters-degree-program-2027/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180095",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/11/global-youth-mental-health-research-fellowship-2027/",
+  "title": "Global Youth Mental Health Research Fellowship 2027",
+  "publishedAt": "2026-11-11T06:55:45+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-global-youth-mental-health-research-fellowship-2027",
+   "slug": "global-youth-mental-health-research-fellowship-2027",
+   "name": "Global Youth Mental Health Research Fellowship 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship",
+    "Investigación"
+   ],
+   "areas": [
+    "Salud"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "Deadline: November 30, 2026 Applications are open for the Global Youth Mental Health Research Fellowship 2027. This fellowship is aimed at identifying emerging leaders in child and adolescent mental health in Pakistan.",
+   "url": "https://opportunitydesk.org/2026/11/11/global-youth-mental-health-research-fellowship-2027/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180094",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/11/commonwealth-shared-scholarship-programme-2027-2028/",
+  "title": "Commonwealth Shared Scholarship Programme 2027/2028 to Study in the U.K. (Fully-funded)",
+  "publishedAt": "2026-11-11T06:37:53+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-commonwealth-shared-scholarship-programme-2027-2028-to-study-in-the-u-k-fully-fu",
+   "slug": "commonwealth-shared-scholarship-programme-2027-2028-to-study-in-the-u-k-fully-fu",
+   "name": "Commonwealth Shared Scholarship Programme 2027/2028 to Study in the U.K. (Fully-funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Beca"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-08"
+   },
+   "notes": "Deadline: December 8, 2026 Applications are open for the Commonwealth Shared Scholarship Programme 2027/2028. The Commonwealth Shared Scholarship programme is one of three Master’s programmes offered by the Commonwealth Scholarship Commission.",
+   "url": "https://opportunitydesk.org/2026/11/11/commonwealth-shared-scholarship-programme-2027-2028/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180093",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/11/awf-geospatial-leaders-fellowship-2027/",
+  "title": "African Wildlife Foundation (AWF) Geospatial Leaders Fellowship 2027",
+  "publishedAt": "2026-11-11T06:29:56+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-african-wildlife-foundation-awf-geospatial-leaders-fellowship-2027",
+   "slug": "african-wildlife-foundation-awf-geospatial-leaders-fellowship-2027",
+   "name": "African Wildlife Foundation (AWF) Geospatial Leaders Fellowship 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-14"
+   },
+   "notes": "Deadline: December 14, 2026 Applications are open for the African Wildlife Foundation (AWF) Geospatial Leaders Fellowship 2027.",
+   "url": "https://opportunitydesk.org/2026/11/11/awf-geospatial-leaders-fellowship-2027/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27828",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/one-million-prompters/",
+  "title": "Dubai Government Free AI Course 2026 | One Million Prompters",
+  "publishedAt": "2026-11-11T14:50:41+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-dubai-government-free-ai-course-2026-one-million-prompters",
+   "slug": "dubai-government-free-ai-course-2026-one-million-prompters",
+   "name": "Dubai Government Free AI Course 2026 | One Million Prompters",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [],
+   "areas": [
+    "Inteligencia artificial",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Emiratos Árabes Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "One Million Prompters is the name of a Dubai Government initiative launched to teach one million individuals how to use Artificial Intelligence (AI) effectively.",
+   "url": "https://opportunitiescorners.com/one-million-prompters/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27429",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/young-political-economy-forum-hong-kong-2026/",
+  "title": "Young Political Economy Forum Hong Kong 2026 (Fully Funded)",
+  "publishedAt": "2026-11-11T11:49:25+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-young-political-economy-forum-hong-kong-2026-fully-funded",
+   "slug": "young-political-economy-forum-hong-kong-2026-fully-funded",
+   "name": "Young Political Economy Forum Hong Kong 2026 (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Conferencia"
+   ],
+   "areas": [
+    "Negocios"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Hong Kong"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": ", students, academics, entrepreneurs, researchers, and young professionals from around the world to discuss the future of the global economy",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The applications are now open for the Young Political Economy Forum Hong Kong 2026.",
+   "url": "https://opportunitiescorners.com/young-political-economy-forum-hong-kong-2026/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27824",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/tsinghua-amgen-internship-2027-in-china/",
+  "title": "Tsinghua Amgen Internship 2027 in China (Fully Funded)",
+  "publishedAt": "2026-11-11T11:36:50+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-tsinghua-amgen-internship-2027-in-china-fully-funded",
+   "slug": "tsinghua-amgen-internship-2027-in-china-fully-funded",
+   "name": "Tsinghua Amgen Internship 2027 in China (Fully Funded)",
+   "sponsor": "Tsinghua University",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Internship"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "China"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The applications are now open for the Tsinghua Amgen Internship 2027 in China. The Tsinghua University China Amgen Scholars Program is a Fully Funded 8-week Summer Internship at Tsinghua University. This program is for students to conduct research in a Tsinghua University Lab and gain experience in the sciences.",
+   "url": "https://opportunitiescorners.com/tsinghua-amgen-internship-2027-in-china/",
+   "updatedAt": "2026-11-11"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27821",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/cern-openlab-summer-program-2027/",
+  "title": "CERN OPENLAB Summer Program 2027 in Switzerland (Fully Funded)",
+  "publishedAt": "2026-11-11T09:39:40+00:00",
+  "fetchedAt": "2026-11-11T18:31:41+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-cern-openlab-summer-program-2027-in-switzerland-fully-funded",
+   "slug": "cern-openlab-summer-program-2027-in-switzerland-fully-funded",
+   "name": "CERN OPENLAB Summer Program 2027 in Switzerland (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Programa de verano"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Suiza"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "penlab summer program offers a fully funded, 2-month internship for students of all nationalities",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The applications are now open for the CERN OPENLAB Summer Program 2027. The OPENLAB Summer Program offers a fully funded, 2-month internship for students of all nationalities. There are no citizenship restrictions.",
+   "url": "https://opportunitiescorners.com/cern-openlab-summer-program-2027/",
+   "updatedAt": "2026-11-11"
+  }
  }
 ]

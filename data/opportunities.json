@@ -25274,39 +25274,6 @@
   "updatedAt": "2026-11-08"
  },
  {
-  "id": "poss-20-an-hour-techcongress-communications-internship",
-  "slug": "20-an-hour-techcongress-communications-internship",
-  "name": "$20 an Hour TechCongress Communications Internship",
-  "sponsor": "TechCongress",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Tecnología"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado"
-  ],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-11"
-  },
-  "notes": "Pasantía de TechCongress. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://techcongress.io/communications-intern-2027",
-  "applyUrl": "https://techcongress.io/communications-intern-2027",
-  "updatedAt": "2026-11-11"
- },
- {
   "id": "poss-dalai-lama-leadership-fellowship-2027-cohort",
   "slug": "dalai-lama-leadership-fellowship-2027-cohort",
   "name": "Dalai Lama Leadership Fellowship (2027 Cohort)",
