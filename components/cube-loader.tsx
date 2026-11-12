@@ -22,8 +22,10 @@ const FACES: [keyof typeof styles, string[]][] = [
 
 export function CubeLoader({ size = 120, label = "Cargando…" }: { size?: number; label?: string }) {
   return (
-    <div role="status" aria-label={label} className="flex flex-col items-center gap-5">
-      <div className={styles.loader} style={{ "--size": `${size}px` } as CSSProperties} aria-hidden="true">
+    <div role="status" aria-label={label} className="flex flex-col items-center gap-2">
+      {/* Turned on its diagonal the cube reaches about 1.7 times its edge, so it gets that much room. */}
+      <div style={{ padding: size * 0.35 }} aria-hidden="true">
+        <div className={styles.loader} style={{ "--size": `${size}px` } as CSSProperties}>
         <div className={styles.cube}>
           {FACES.map(([face, colors]) => (
             <div key={face} className={`${styles.face} ${styles[face]}`}>
@@ -32,6 +34,7 @@ export function CubeLoader({ size = 120, label = "Cargando…" }: { size?: numbe
               ))}
             </div>
           ))}
+          </div>
         </div>
       </div>
       <span className="font-mono text-xs text-muted-foreground">{label}</span>

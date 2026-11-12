@@ -12,7 +12,7 @@ const SPLINE_SCENE = process.env.NEXT_PUBLIC_SPLINE_SCENE ?? "https://prod.splin
 const SplineCanvas = dynamic(() => import("./spline-canvas"), { ssr: false });
 const FloatingScene = dynamic(() => import("./floating-scene"), {
   ssr: false,
-  loading: () => <CubeLoader size={90} />,
+  loading: () => <CubeLoader size={70} />,
 });
 
 const DESKTOP = "(min-width: 1024px)";
@@ -61,7 +61,7 @@ export function SplineCubes({ size = 280 }: { size?: number }) {
       )}
       {spline && !app && (
         <div className="absolute inset-0 grid place-items-center">
-          <CubeLoader size={90} label="Cargando los cubos…" />
+          <CubeLoader size={70} label="Cargando los cubos…" />
         </div>
       )}
       {spline && (

@@ -17,7 +17,7 @@ const RubikScene = dynamic(() => import("./rubik-scene"), {
   ssr: false,
   loading: () => (
     <div className="grid aspect-square w-full max-w-[480px] place-items-center">
-      <CubeLoader size={130} label="Armando el cubo…" />
+      <CubeLoader size={110} label="Armando el cubo…" />
     </div>
   ),
 });
@@ -30,7 +30,7 @@ const SplineCubes = dynamic(() => import("./spline-cubes").then((m) => m.SplineC
 function FooterPlaceholder() {
   return (
     <div className="grid h-[280px] w-[280px] place-items-center" aria-hidden="true">
-      <CubeLoader size={90} />
+      <CubeLoader size={70} />
     </div>
   );
 }
