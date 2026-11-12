@@ -4,7 +4,8 @@ import { useReducedMotion } from "framer-motion";
 import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
-import { JengaLoader } from "@/components/jenga-loader";
+import { CubeLoader } from "@/components/cube-loader";
+import { DiceLoader } from "@/components/dice-loader";
 import type { SphereTile } from "./tile-sphere";
 
 const TileSphere = dynamic(() => import("./tile-sphere"), {
@@ -16,7 +17,7 @@ const RubikScene = dynamic(() => import("./rubik-scene"), {
   ssr: false,
   loading: () => (
     <div className="grid aspect-square w-full max-w-[480px] place-items-center">
-      <JengaLoader size={150} label="Armando el cubo…" />
+      <CubeLoader size={130} label="Armando el cubo…" />
     </div>
   ),
 });
@@ -29,15 +30,15 @@ const SplineCubes = dynamic(() => import("./spline-cubes").then((m) => m.SplineC
 function FooterPlaceholder() {
   return (
     <div className="grid h-[280px] w-[280px] place-items-center" aria-hidden="true">
-      <JengaLoader size={110} />
+      <CubeLoader size={90} />
     </div>
   );
 }
 
 function SpherePlaceholder() {
   return (
-    <div className="flex h-full w-full items-center justify-center" aria-hidden="true">
-      <div className="aspect-square w-[62%] rounded-full bg-[radial-gradient(circle_at_35%_35%,#2A3147,#10141F_70%)] shadow-[0_0_80px_-30px_#E5382E]" />
+    <div className="flex h-full w-full items-center justify-center">
+      <DiceLoader size={150} label="Armando la esfera…" />
     </div>
   );
 }
@@ -69,7 +70,7 @@ function useNearViewport<T extends Element>(once = false) {
   return [ref, near] as const;
 }
 
-/** The portada hero's playable Rubik's cube (a Jenga tower while three.js loads). */
+/** The portada hero's playable Rubik's cube (a CSS cube loader while three.js loads). */
 export function HeroRubik() {
   return <RubikScene large />;
 }

@@ -72,7 +72,7 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
 - `components/three/spline-cubes.tsx`: los cubos azules de Spline en el footer, que cargan al acercarse. En pantallas de
   1024 px o más, la escena de Spline con fondo transparente y escalada a la caja (`spline-canvas.tsx` fuerza WebGL); en
   móvil o con movimiento reducido, la escena 3D propia.
-- `components/jenga-loader.tsx`: la torre de Jenga que se arma mientras cargan las escenas 3D.
+- `components/cube-loader.tsx`: el cubo Rubik en CSS que gira mientras cargan las escenas 3D (el cubo de la portada y los del footer). Es una adaptación del loader de lukepadiachy en Uiverse.io (licencia MIT, aviso en `cube-loader.module.css`). `components/dice-loader.tsx`: el dado dentro de un círculo que cambia de color, para las páginas (`app/loading.tsx`) y la esfera; adaptado del loader de Subaashbala en Uiverse.io (MIT, aviso en `dice-loader.module.css`).
 - `components/three/`: esfera de oportunidades (`tile-sphere.tsx`: un cuadro por oportunidad abierta, las que cierran antes al frente y en rojo; colores en `lib/urgency.ts`), cubo Rubik y escena flotante (React Three Fiber, carga diferida).
 - `components/deadline-marquee.tsx`: carrusel continuo con las 5 oportunidades que cierran antes.
 - `lib/store.ts`: becas guardadas, etapa de cada postulación y perfil, en `localStorage` (clave `apliko:v1`).

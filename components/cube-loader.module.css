@@ -1,0 +1,85 @@
+/*
+ * Rubik's cube loader, adapted from "funny-moose-89" by lukepadiachy on Uiverse.io
+ * (https://uiverse.io/lukepadiachy/funny-moose-89). Sized with --size instead of fixed pixels.
+ *
+ * Copyright - 2026 lukepadiachy (🅿️adi)
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+ * documentation files (the "Software"), to deal in the Software without restriction, including without limitation
+ * the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
+ * to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of
+ * the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+ * THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+ * CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+ * IN THE SOFTWARE.
+ */
+
+.loader {
+  width: var(--size);
+  height: var(--size);
+  perspective: calc(var(--size) * 5);
+}
+
+.cube {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  animation: rotate 5s infinite linear;
+}
+
+.face {
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+}
+
+.front {
+  transform: translateZ(calc(var(--size) / 2));
+}
+.back {
+  transform: rotateY(180deg) translateZ(calc(var(--size) / 2));
+}
+.left {
+  transform: rotateY(-90deg) translateZ(calc(var(--size) / 2));
+}
+.right {
+  transform: rotateY(90deg) translateZ(calc(var(--size) / 2));
+}
+.top {
+  transform: rotateX(90deg) translateZ(calc(var(--size) / 2));
+}
+.bottom {
+  transform: rotateX(-90deg) translateZ(calc(var(--size) / 2));
+}
+
+.sticker {
+  width: calc(100% / 3);
+  height: calc(100% / 3);
+  box-sizing: border-box;
+  border: 1px solid #000;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotateX(0deg) rotateY(0deg);
+  }
+  to {
+    transform: rotateX(360deg) rotateY(360deg);
+  }
+}
+
+/* Without motion the cube rests at an angle that still shows three faces. */
+@media (prefers-reduced-motion: reduce) {
+  .cube {
+    animation: none;
+    transform: rotateX(-25deg) rotateY(35deg);
+  }
+}

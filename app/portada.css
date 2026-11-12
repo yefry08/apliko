@@ -199,7 +199,7 @@ html:has(.case-overlay[open]) {
   color: var(--ink-muted);
 }
 
-/* The playable Rubik's cube (components/three/rubik-scene.tsx); a Jenga tower while it loads. */
+/* The playable Rubik's cube (components/three/rubik-scene.tsx); a CSS Rubik's cube loader while it loads. */
 .hero-cube {
   display: flex;
   justify-content: center;

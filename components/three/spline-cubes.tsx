@@ -4,7 +4,7 @@ import type { Application } from "@splinetool/runtime";
 import { useReducedMotion } from "framer-motion";
 import dynamic from "next/dynamic";
 import { useEffect, useRef, useState, useSyncExternalStore } from "react";
-import { JengaLoader } from "@/components/jenga-loader";
+import { CubeLoader } from "@/components/cube-loader";
 
 /** Spline scene (.splinecode URL). NEXT_PUBLIC_SPLINE_SCENE overrides it; set it empty to use only the site's scene. */
 const SPLINE_SCENE = process.env.NEXT_PUBLIC_SPLINE_SCENE ?? "https://prod.spline.design/5UBTi7908RRL5Wdp/scene.splinecode";
@@ -12,7 +12,7 @@ const SPLINE_SCENE = process.env.NEXT_PUBLIC_SPLINE_SCENE ?? "https://prod.splin
 const SplineCanvas = dynamic(() => import("./spline-canvas"), { ssr: false });
 const FloatingScene = dynamic(() => import("./floating-scene"), {
   ssr: false,
-  loading: () => <JengaLoader size={110} />,
+  loading: () => <CubeLoader size={90} />,
 });
 
 const DESKTOP = "(min-width: 1024px)";
@@ -31,7 +31,7 @@ function useIsDesktop() {
 }
 
 /**
- * The blue glass cubes from Spline, in the footer: the Spline scene on large screens (a Jenga tower while it
+ * The blue glass cubes from Spline, in the footer: the Spline scene on large screens (a CSS cube loader while it
  * loads), the site's own lighter scene on phones and with reduced motion. The Spline frame has a fixed size,
  * so once loaded it is scaled down to fit the box.
  */
@@ -61,7 +61,7 @@ export function SplineCubes({ size = 280 }: { size?: number }) {
       )}
       {spline && !app && (
         <div className="absolute inset-0 grid place-items-center">
-          <JengaLoader size={110} label="Cargando los cubos…" />
+          <CubeLoader size={90} label="Cargando los cubos…" />
         </div>
       )}
       {spline && (
