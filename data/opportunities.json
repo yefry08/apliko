@@ -23703,6 +23703,70 @@
   "updatedAt": "2026-11-12"
  },
  {
+  "id": "cimpa-cimpa-from-statistical-inference-to-learning-methods",
+  "slug": "cimpa-from-statistical-inference-to-learning-methods",
+  "name": "Escuela CIMPA: From Statistical Inference to Learning Methods",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Benín"
+  ],
+  "funding": "varia",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Fechas: 15 March, 2027. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "External organizer External organizer Christian PAROISSIN Affiliation external organizer Université de Pau et des Pays de l'Adour Country external organizer France Email external organizer christian.paroissin@univ-pau.fr Local Organizer Local organizer Mintodê Nicodème ATCHADE Affiliation local organizer National University of Sciences, Technologies, Engineering, and Mathematics (UNSTIM) Country local organizer Benin Email local organizer nickpowerabc@gmail.com The school focuses on the progression from classical statistical inference to modern learning methods, emphasizing their interplay…",
+  "url": "https://www.cimpa.info/en/ecoles/statistical-inference-learning-methods",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-12"
+ },
+ {
+  "id": "cimpa-cimpa-symbolic-dynamics-in-connection-with-combinatorics-on-words-number-theory-",
+  "slug": "cimpa-symbolic-dynamics-in-connection-with-combinatorics-on-words-number-theory-",
+  "name": "Escuela CIMPA: Symbolic Dynamics in connection with combinatorics on words, number theory and geometry.",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Pakistán"
+  ],
+  "funding": "varia",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Fechas: 15 March, 2027. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "External organizer External organizer Pierre ARNOUX Affiliation external organizer Université d'Aix-Marseille, Institut de Mathématiques de Marseille Country external organizer France Email external organizer pierre@pierrearnoux.fr Local Organizer Local organizer Shamsa ISHAQ Affiliation local organizer Lahore College for Women University, Lahore (LCWU, Lahore) Country local organizer Pakistan Email local organizer Shamsa.Ishaq@lcwu.edu.pk The school will present three active domains which are recent developments with origin in symbolic dynamics: progresses in the theory of tilings, questions…",
+  "url": "https://www.cimpa.info/en/ecoles/symbolic-dynamics-connection-combinatorics-words-number-theory-and-geometry",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-12"
+ },
+ {
   "id": "cimpa-cimpa-learning-over-structured-high-dimensional-objects-theory-and-complexity",
   "slug": "cimpa-learning-over-structured-high-dimensional-objects-theory-and-complexity",
   "name": "Learning over Structured High-Dimensional Objects: Theory and Complexity (CIMPA Fellowship)",
@@ -23736,70 +23800,6 @@
   "updatedAt": "2026-11-12"
  },
  {
-  "id": "cimpa-cimpa-from-statistical-inference-to-learning-methods",
-  "slug": "cimpa-from-statistical-inference-to-learning-methods",
-  "name": "Escuela CIMPA: From Statistical Inference to Learning Methods",
-  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
-  "source": "becas",
-  "sourceName": "CIMPA (cimpa.info)",
-  "types": [
-   "Escuela de investigación"
-  ],
-  "areas": [
-   "Matemáticas"
-  ],
-  "levels": [
-   "maestria",
-   "doctorado"
-  ],
-  "destinations": [
-   "Benín"
-  ],
-  "funding": "varia",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Fechas: 15 March, 2027. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "External organizer External organizer Christian PAROISSIN Affiliation external organizer Université de Pau et des Pays de l'Adour Country external organizer France Email external organizer christian.paroissin@univ-pau.fr Local Organizer Local organizer Mintodê Nicodème ATCHADE Affiliation local organizer National University of Sciences, Technologies, Engineering, and Mathematics (UNSTIM) Country local organizer Benin Email local organizer nickpowerabc@gmail.com The school focuses on the progression from classical statistical inference to modern learning methods, emphasizing their interplay…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/statistical-inference-learning-methods",
-  "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-12"
- },
- {
-  "id": "cimpa-cimpa-symbolic-dynamics-in-connection-with-combinatorics-on-words-number-theory-",
-  "slug": "cimpa-symbolic-dynamics-in-connection-with-combinatorics-on-words-number-theory-",
-  "name": "Escuela CIMPA: Symbolic Dynamics in connection with combinatorics on words, number theory and geometry.",
-  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
-  "source": "becas",
-  "sourceName": "CIMPA (cimpa.info)",
-  "types": [
-   "Escuela de investigación"
-  ],
-  "areas": [
-   "Matemáticas"
-  ],
-  "levels": [
-   "maestria",
-   "doctorado"
-  ],
-  "destinations": [
-   "Pakistán"
-  ],
-  "funding": "varia",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Fechas: 15 March, 2027. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "External organizer External organizer Pierre ARNOUX Affiliation external organizer Université d'Aix-Marseille, Institut de Mathématiques de Marseille Country external organizer France Email external organizer pierre@pierrearnoux.fr Local Organizer Local organizer Shamsa ISHAQ Affiliation local organizer Lahore College for Women University, Lahore (LCWU, Lahore) Country local organizer Pakistan Email local organizer Shamsa.Ishaq@lcwu.edu.pk The school will present three active domains which are recent developments with origin in symbolic dynamics: progresses in the theory of tilings, questions…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/symbolic-dynamics-connection-combinatorics-words-number-theory-and-geometry",
-  "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-12"
- },
- {
   "id": "cimpa-cimpa-arithmetic-geometry",
   "slug": "cimpa-arithmetic-geometry",
   "name": "Escuela CIMPA: Arithmetic geometry",
@@ -23827,7 +23827,7 @@
    "date": "2027-01-17"
   },
   "notes": "External organizer External organizer Jeroen SIJSLING Affiliation external organizer Ulm University Country external organizer Germany Email external organizer jeroen.sijsling@uni-ulm.de Local Organizer Local organizer Nithi RUNGTANAPIROM Affiliation local organizer Chulalongkorn University Country local organizer Thailand Email local organizer Nithi.R@chula.ac.th Arithmetic geometry lies in the intersection of number theory and algebraic geometry. It involves studying geometric objects such as curves or varieties through an arithmetic lens, e.g. via their rational points. As a research area,…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/arithmetic-geometry",
+  "url": "https://www.cimpa.info/en/ecoles/arithmetic-geometry",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -23859,7 +23859,7 @@
    "date": "2027-01-17"
   },
   "notes": "External organizer External organizer Florence HUBERT Affiliation external organizer Aix-Marseille University Country external organizer France Email external organizer florence.hubert@univ-amu.fr Local Organizer Local organizer Umida BALTAEVA Affiliation local organizer Urgench State University and Khorezm Mamun Academy Country local organizer Uzbekistan Email local organizer umida_baltayeva@mail.ru The school aims to introduce students and young researchers to several important research directions in mathematical biology, with a focus on deterministic mathematical models used to describe…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/deterministic-mathematical-models-biological-processes",
+  "url": "https://www.cimpa.info/en/ecoles/deterministic-mathematical-models-biological-processes",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -23891,7 +23891,7 @@
    "date": "2027-01-23"
   },
   "notes": "External organizer External organizer Vincent PECASTAING Affiliation external organizer Laboratoire J.A. Dieudonné, UMR CNRS 7351 Université Côte d’Azur Country external organizer France Email external organizer vincent.pecastaing@univ-cotedazur.fr Local Organizer Local organizer Rezki CHEMLAL Affiliation local organizer National Higher School of Mathematics Country local organizer Algeria Email local organizer rezki.chemlal@nhsm.edu.dz The general theme of this school lies at the intersection of geometry and dynamics, focusing on the interactions between Riemannian and Lorentzian geometries…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/geometry-and-dynamics",
+  "url": "https://www.cimpa.info/en/ecoles/geometry-and-dynamics",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -23923,7 +23923,7 @@
    "date": "2027-01-31"
   },
   "notes": "External organizer External organizer Dr. Melanie PRAGUE Affiliation external organizer University of Bordeaux Country external organizer France Email external organizer melanie.prague@gmail.com Local Organizer Local organizer Dr. Ramesh GAUTAM Affiliation local organizer Ratna Rajyalaxmi Campus, Tribhuvan University Country local organizer Nepal Email local organizer rgnumberth79@gmail.com The CIMPA School on Mathematical Modeling and Machine Learning for Biomedicine and Public Health will take place from May 31 to June 9, 2027, at Tribhuvan University in Kathmandu, Nepal. This intensive…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/mathematical-modeling-and-machine-learning-biomedicine-and-public-health",
+  "url": "https://www.cimpa.info/en/ecoles/mathematical-modeling-and-machine-learning-biomedicine-and-public-health",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -23955,7 +23955,7 @@
    "date": "2027-02-07"
   },
   "notes": "External organizer External organizer Marie Françoise ROY Affiliation external organizer IRMAR, Université de Rennes 1 Country external organizer France Email external organizer marie-francoise.roy@univ-rennes.fr Local Organizer Local organizer Daouda Niang DIATTA Affiliation local organizer Laboratoire de Mathématiques et Applications, Université Assane Seck de Ziguinchor Country local organizer Senegal Email local organizer dndiatta@unniv-zig.sn <div class=\"tex2jax_process\">Le but de l'atelier collaboratif est de permettre un travail de recherche, dans différents thèmes d'actualité en…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/atelier-collaboratif-en-geometrie-algebre-theorie-des-nombres-et-applications",
+  "url": "https://www.cimpa.info/en/ecoles/atelier-collaboratif-en-geometrie-algebre-theorie-des-nombres-et-applications",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -23987,7 +23987,7 @@
    "date": "2027-02-14"
   },
   "notes": "External organizer External organizer Valérie GARES Affiliation external organizer INRIA Country external organizer France Email external organizer valerie.gares@inria.fr Local Organizer Local organizer Menedore Karimumuryango Affiliation local organizer University of Burundi Country local organizer Burundi Email local organizer kmenedore@gmail.com This school focuses on modern statistical and data science methods to analyze and understand diseases. Topics include the identification of risk factors for a disease, its prevalence and incidence, statistical analysis of historical data, and…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/statistics-health",
+  "url": "https://www.cimpa.info/en/ecoles/statistics-health",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24019,7 +24019,7 @@
    "date": "2027-02-21"
   },
   "notes": "External organizer External organizer Ana BOTERO Affiliation external organizer University of Bielefeld Country external organizer Germany Email external organizer abotero@math.uni-bielefeld.de Local Organizer Local organizer Pedro RIZZO Affiliation local organizer University of Antioquia Country local organizer Colombia Email local organizer pedro.hernandez@udea.edu.co The VI Latin American School on Algebraic Geometry will take place at Universidad de Antioquia, Colombia from June 21st to July 2nd, 2027. This school aims to bring together graduate students, postdoctoral researchers, and…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/algebraic-geometry-vi-elga",
+  "url": "https://www.cimpa.info/en/ecoles/algebraic-geometry-vi-elga",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24051,7 +24051,7 @@
    "date": "2027-02-28"
   },
   "notes": "External organizer External organizer Vlady RAVELOMANANA Affiliation external organizer Université Paris Cité Country external organizer France Email external organizer vlad@irif.fr Local Organizer Local organizer Lova ZAKARIASY Affiliation local organizer Institut Supérieur de Technologie d'Antsiranana Country local organizer Madagascar Email local organizer cimpa.antsiranana@gmail.com Cette école se situe à l'interface des mathématiques fondamentales et de l'informatique théorique. Elle explore comment les outils avancés d'analyse, d'algèbre, de combinatoire et de probabilités nourrissent…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/fondements-mathematiques-de-linformatique",
+  "url": "https://www.cimpa.info/en/ecoles/fondements-mathematiques-de-linformatique",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24083,7 +24083,7 @@
    "date": "2027-02-28"
   },
   "notes": "External organizer External organizer Matteo GATTI Affiliation external organizer CNRS, ECOLE POLYTECHNIQUE, FRANCE Country external organizer France Email external organizer matteo.gatti@polytechnique.fr Local Organizer Local organizer Michael ATAMBO Affiliation local organizer Technical University of Kenya Country local organizer Kenya Email local organizer michael.atambo@tukenya.ac.ke Density Functional Theory (DFT) is a widely used computational method for addressing the quantum-mechanical many-body problem, with applications across fields such as quantum chemistry, materials science,…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/fundamentals-density-functional-theory",
+  "url": "https://www.cimpa.info/en/ecoles/fundamentals-density-functional-theory",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24115,7 +24115,7 @@
    "date": "2027-03-05"
   },
   "notes": "External organizer External organizer Mohamed BOUTAYEB Affiliation external organizer Université de Lorraine Country external organizer France Email external organizer mohamed.boutayeb@univ-lorraine.fr Local Organizer Local organizer El Mehdi LOTFI Affiliation local organizer Faculté des Sciences Ben M'Sick, Université Hassan II de Casablanca Email local organizer Lotfiimehdi@gmail.com Cette école vise à initier les doctorants et jeunes chercheurs aux méthodes modernes de modélisation mathématique et aux outils d’intelligence artificielle (IA), appliqués à des problématiques concrètes en…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/modelisation-mathematiques-et-intelligence-artificielle-au-service-des-sciences-de-la-sante",
+  "url": "https://www.cimpa.info/en/ecoles/modelisation-mathematiques-et-intelligence-artificielle-au-service-des-sciences-de-la-sante",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24147,7 +24147,7 @@
    "date": "2027-03-11"
   },
   "notes": "External organizer External organizer Luis J. ALÍAS LINARES Affiliation external organizer Universidad de Murcia Country external organizer Spain Email external organizer ljalias@um.es Local Organizer Local organizer Dimas TEJADA TEJADA Affiliation local organizer Universidad de El Salvador Country local organizer El Salvador Email local organizer dimas.tejada@ues.edu.sv El programa Modern Techniques in Analysis and Differential Geometry integra dos áreas centrales de las matemáticas modernas: el análisis matemático y la geometría diferencial, con una progresión académica que va desde nivel…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/modern-techniques-analysis-and-differential-geometry",
+  "url": "https://www.cimpa.info/en/ecoles/modern-techniques-analysis-and-differential-geometry",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24179,7 +24179,7 @@
    "date": "2027-03-19"
   },
   "notes": "External organizer External organizer Per ALEXANDERSSON Affiliation external organizer Stockholm University Country external organizer Sweden Email external organizer per.w.alexandersson@gmail.com Local Organizer Local organizer Olivia NABAWANDA Affiliation local organizer Makerere University Country local organizer Uganda Email local organizer nabawandaolivia100@gmail.com The CIMPA School on Algebraic and Enumerative Combinatorics will take place from July 19–30, 2027 at Makerere University in Kampala, Uganda. The school aims to introduce graduate students and early-career researchers to…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/algebraic-and-enumerative-combinatorics",
+  "url": "https://www.cimpa.info/en/ecoles/algebraic-and-enumerative-combinatorics",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24211,7 +24211,7 @@
    "date": "2027-03-19"
   },
   "notes": "External organizer External organizer Stéphane LAUNOIS Affiliation external organizer University of Caen Normandie Country external organizer France Email external organizer stephane.launois@unicaen.fr Local Organizer Local organizer Ardeline Mary BUHPHANG Affiliation local organizer North-Eastern Hill University Country local organizer India Email local organizer ardeline17@gmail.com Flavors of Representation Theory (FoRT) is a two-week workshop focused on contemporary developments in representation theory and its interactions with algebra, geometry, combinatorics, topology, and mathematical…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/flavors-representation-theory",
+  "url": "https://www.cimpa.info/en/ecoles/flavors-representation-theory",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24243,7 +24243,7 @@
    "date": "2027-03-26"
   },
   "notes": "External organizer External organizer Moritz KASSMAN Affiliation external organizer Faculty of Mathematics, Bielefeld University, Germany Country external organizer Germany Email external organizer moritz.kassmann@uni-bielefeld.de Local Organizer Local organizer Tsegaye AYELE Affiliation local organizer Department of Mathematics, Addis Ababa University Country local organizer Ethiopia Email local organizer tsegaye.ayele@aau.edu.et Partial Differential Equations (PDEs) are fundamental tools for modeling natural phenomena across the physical, biological, and social sciences, describing systems…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/modern-perspectives-partial-differential-equations-theory-and-applications",
+  "url": "https://www.cimpa.info/en/ecoles/modern-perspectives-partial-differential-equations-theory-and-applications",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -24308,7 +24308,7 @@
    "date": "2027-07-08"
   },
   "notes": "External organizer External organizer Jean-François DUPUY Affiliation external organizer INSA Rennes Country external organizer France Email external organizer Jean-Francois.Dupuy@insa-rennes.fr Local Organizer Local organizer Abderrazek KAROUI Affiliation local organizer Faculté des Sciences de Bizerte Email local organizer abderrazek.karoui@fsb.ucar.tn Functional Data Analysis (FDA) has become an important field in statistics, facilitating the study of data in the shape of functions, curves, and surfaces. With applications spanning biomedicine, neuroscience, climate science, and…",
-  "url": "https://www.cimpa.info/index.php/en/ecoles/statistical-analysis-functional-data-modeling-and-applications-environment-and-health",
+  "url": "https://www.cimpa.info/en/ecoles/statistical-analysis-functional-data-modeling-and-applications-environment-and-health",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-12"
  },
@@ -25274,37 +25274,37 @@
   "updatedAt": "2026-11-08"
  },
  {
-  "id": "poss-500-to-3-000-financial-inclusion-grants",
-  "slug": "500-to-3-000-financial-inclusion-grants",
-  "name": "$500 to $3,000 Financial Inclusion Grants",
-  "sponsor": "Interledger Foundation",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "id": "rss-university-of-helsinki-tuition-fee-waivers-for-international-master-s-students",
+  "slug": "university-of-helsinki-tuition-fee-waivers-for-international-master-s-students",
+  "name": "University of Helsinki Tuition Fee Waivers for International Master’s Students",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
   "types": [
-   "Fondos"
+   "Beca"
   ],
   "areas": [
-   "Impacto social"
+   "Salud",
+   "Derecho",
+   "Medio ambiente",
+   "Ciencias"
   ],
   "levels": [
    "pregrado",
-   "recien-graduado",
-   "profesional"
+   "maestria"
   ],
   "destinations": [
-   "Mundial"
+   "Finlandia"
   ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "funding": "con-costo",
+  "citizenship": "global",
+  "citizenshipRaw": "ship-programme related scholarships: list of top 5+ scholarships in finland for international students the post university of helsinki tuition fee waivers for international master’s students first appea",
   "deadline": {
    "kind": "exacta",
-   "date": "2026-11-12"
+   "date": "2027-01-19"
   },
-  "notes": "Fondos de Interledger Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://interledger.org/grant/local-impact",
-  "applyUrl": "https://interledger.org/grant/local-impact",
+  "notes": "University of Helsinki\nMasters Degree\nDeadline: 19 Jan 2027 (annual)\nStudy in: Finland\nCourse starts Autumn 2027\nBrief description:\nThe University of Helsinki, Finland’s largest and oldest university, runs a scholarship programme for students from outside the EU/EEA who have to pay tuition fees in its international Mas",
+  "url": "https://www.scholars4dev.com/university-of-helsinki-international-masters-programme-scholarships/",
+  "applyUrl": "https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/tuition-fees-and-scholarship-programme",
   "updatedAt": "2026-11-12"
  },
  {
@@ -25407,39 +25407,6 @@
   "notes": "Conferencia de European Parliament. Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://european-youth-event.europarl.europa.eu/en",
   "applyUrl": "https://european-youth-event.europarl.europa.eu/en",
-  "updatedAt": "2026-11-12"
- },
- {
-  "id": "poss-qs-impact-youth-innovation-challenge",
-  "slug": "qs-impact-youth-innovation-challenge",
-  "name": "QS ImpACT Youth Innovation Challenge",
-  "sponsor": "QS ImpACT",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Competencia"
-  ],
-  "areas": [
-   "Medio ambiente"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado"
-  ],
-  "destinations": [
-   "Reino Unido"
-  ],
-  "funding": "varia",
-  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para Reino Unido. De 18 a 25 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-13"
-  },
-  "notes": "Competencia de QS ImpACT. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfH6CpKALSPP7omHLMiLp7gjxc3oo1fJ1c4H3_GK3DJ0C9ktw/viewform",
-  "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfH6CpKALSPP7omHLMiLp7gjxc3oo1fJ1c4H3_GK3DJ0C9ktw/viewform",
   "updatedAt": "2026-11-12"
  },
  {
@@ -25675,6 +25642,41 @@
   "notes": "Premio de International Telecommunication Union (ITU). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.itu.int/initiatives/gender-equality/gender-champions/",
   "applyUrl": "https://www.itu.int/initiatives/gender-equality/gender-champions/",
+  "updatedAt": "2026-11-12"
+ },
+ {
+  "id": "poss-funded-volunteer-service-placement-abroad",
+  "slug": "funded-volunteer-service-placement-abroad",
+  "name": "Funded Volunteer Service Placement Abroad",
+  "sponsor": "AllPeopleBeHappy",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Medio ambiente",
+   "Género"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "Premio de AllPeopleBeHappy. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://allpeoplebehappy.org/experiences/volunteer-service-award/",
+  "applyUrl": "https://allpeoplebehappy.org/experiences/volunteer-service-award/",
   "updatedAt": "2026-11-12"
  },
  {
@@ -26834,6 +26836,39 @@
   "updatedAt": "2026-11-12"
  },
  {
+  "id": "poss-africa-dyslexia-teacher-fellowship",
+  "slug": "africa-dyslexia-teacher-fellowship",
+  "name": "Africa Dyslexia Teacher Fellowship",
+  "sponsor": "Africa Dyslexia Organisation",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Educación"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-20"
+  },
+  "notes": "Fellowship de Africa Dyslexia Organisation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSdakWdrYiUB14vvICyuzv620h7PvbZTnjT9BNSKFz4GpHqZlQ/viewform",
+  "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdakWdrYiUB14vvICyuzv620h7PvbZTnjT9BNSKFz4GpHqZlQ/viewform",
+  "updatedAt": "2026-11-12"
+ },
+ {
   "id": "poss-funded-menstrual-equity-youth-fellowship",
   "slug": "funded-menstrual-equity-youth-fellowship",
   "name": "Funded Menstrual Equity Youth Fellowship",
@@ -27171,6 +27206,39 @@
   "notes": "Competencia de Stanford Doerr School of Sustainability, Stanford University. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.globalsustainabilitychallenge.org/challenge-details",
   "applyUrl": "https://www.globalsustainabilitychallenge.org/challenge-details",
+  "updatedAt": "2026-11-12"
+ },
+ {
+  "id": "poss-1-000-qs-impact-youth-innovation-challenge",
+  "slug": "1-000-qs-impact-youth-innovation-challenge",
+  "name": "£1,000 QS ImpACT Youth Innovation Challenge",
+  "sponsor": "QS ImpACT",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Medio ambiente"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Reino Unido. De 18 a 25 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-22"
+  },
+  "notes": "Competencia de QS ImpACT. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfH6CpKALSPP7omHLMiLp7gjxc3oo1fJ1c4H3_GK3DJ0C9ktw/viewform",
+  "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfH6CpKALSPP7omHLMiLp7gjxc3oo1fJ1c4H3_GK3DJ0C9ktw/viewform",
   "updatedAt": "2026-11-12"
  },
  {
@@ -28436,6 +28504,73 @@
   "updatedAt": "2026-11-12"
  },
  {
+  "id": "poss-a16z-new-media-fellowship",
+  "slug": "a16z-new-media-fellowship",
+  "name": "a16z New Media Fellowship",
+  "sponsor": "Andreessen Horowitz (a16z)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Periodismo"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Fellowship de Andreessen Horowitz (a16z). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://build.a16z.com/fellowships/new-media",
+  "applyUrl": "https://build.a16z.com/fellowships/new-media",
+  "updatedAt": "2026-11-12"
+ },
+ {
+  "id": "poss-20-000-cleantech-challenge-student-competition",
+  "slug": "20-000-cleantech-challenge-student-competition",
+  "name": "£20,000 Cleantech Challenge Student Competition",
+  "sponsor": "Cleantech Challenge, London Business School",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Medio ambiente"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "parcial",
+  "amount": "Financiamiento parcial",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Competencia de Cleantech Challenge, London Business School. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://thecleantechchallenge.uk/apply",
+  "applyUrl": "https://thecleantechchallenge.uk/apply",
+  "updatedAt": "2026-11-12"
+ },
+ {
   "id": "poss-10-000-terre-de-femmes-international-award",
   "slug": "10-000-terre-de-femmes-international-award",
   "name": "€10,000 Terre de Femmes International Award",
@@ -28468,6 +28603,40 @@
   "notes": "Premio de Yves Rocher Foundation (Fondation Yves Rocher). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Paris); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.yves-rocher-fondation.org/en/how-to-apply-for-the-international-award/",
   "applyUrl": "https://www.yves-rocher-fondation.org/en/how-to-apply-for-the-international-award/",
+  "updatedAt": "2026-11-12"
+ },
+ {
+  "id": "poss-100-personal-essay-call-write-or-die",
+  "slug": "100-personal-essay-call-write-or-die",
+  "name": "$100 Personal Essay Call, Write or Die",
+  "sponsor": "Write or Die (a Chill Subs publication)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Arte y cultura"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-01"
+  },
+  "notes": "Competencia de Write or Die (a Chill Subs publication). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.writeordiemag.com/p/send-us-your-personal-essays-we-pay",
+  "applyUrl": "https://www.writeordiemag.com/p/send-us-your-personal-essays-we-pay",
   "updatedAt": "2026-11-12"
  },
  {
@@ -29548,6 +29717,75 @@
   "notes": "Fellowship de Acumen Academy. Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Kuala_Lumpur); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://fellowship.acumenacademy.org/southeast-asia",
   "applyUrl": "https://fellowship.acumenacademy.org/southeast-asia",
+  "updatedAt": "2026-11-12"
+ },
+ {
+  "id": "poss-5-000-kim-wall-memorial-reporting-grant",
+  "slug": "5-000-kim-wall-memorial-reporting-grant",
+  "name": "$5,000 Kim Wall Memorial Reporting Grant",
+  "sponsor": "International Women's Media Foundation (IWMF)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Periodismo",
+   "Género"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-07"
+  },
+  "notes": "Fondos de International Women's Media Foundation (IWMF). Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.iwmf.org/programs/kim-wall-memorial-fund/",
+  "applyUrl": "https://www.iwmf.org/programs/kim-wall-memorial-fund/",
+  "updatedAt": "2026-11-12"
+ },
+ {
+  "id": "poss-young-security-leaders-lab-in-munich",
+  "slug": "young-security-leaders-lab-in-munich",
+  "name": "Young Security Leaders Lab in Munich",
+  "sponsor": "Aspen Institute Germany, with the Hertie-Stiftung",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Taller"
+  ],
+  "areas": [
+   "Liderazgo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "parcial",
+  "amount": "Financiamiento parcial",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 25 a 40 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-07"
+  },
+  "notes": "Taller de Aspen Institute Germany, with the Hertie-Stiftung. Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.aspeninstitute.de/transatlantic-program/call-for-participants-young-security-leaders-lab-2027/",
+  "applyUrl": "https://www.aspeninstitute.de/transatlantic-program/call-for-participants-young-security-leaders-lab-2027/",
   "updatedAt": "2026-11-12"
  },
  {
@@ -32040,6 +32278,40 @@
   "notes": "Pasantía de National Institutes of Health (NIH), Office of Intramural Training and Education. Financiamiento parcial. La convocatoria cierra a las 12:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.training.nih.gov/research-training/pb/sip/",
   "applyUrl": "https://www.training.nih.gov/research-training/pb/sip/",
+  "updatedAt": "2026-11-12"
+ },
+ {
+  "id": "poss-up-to-200-000-circular-economy-partnership-grant",
+  "slug": "up-to-200-000-circular-economy-partnership-grant",
+  "name": "Up to €200,000 Circular Economy Partnership Grant",
+  "sponsor": "Project SPARK and SWITCH-2-CE (GIZ and Expertise France, for the European Union)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-29"
+  },
+  "notes": "Fondos de Project SPARK and SWITCH-2-CE (GIZ and Expertise France, for the European Union). Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Nairobi); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://project-spark.africa/joint-innovation-facility-circularity-call/",
+  "applyUrl": "https://project-spark.africa/joint-innovation-facility-circularity-call/",
   "updatedAt": "2026-11-12"
  },
  {
