@@ -24829,5 +24829,826 @@
    "url": "https://opportunitiescorners.com/rc-trust-internship-2027/",
    "updatedAt": "2026-11-13"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=66829",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/14/how-to-attend-one-young-world-summit-2026-scholarships-lead2030-challenges-and-fully-funded-opportunities/",
+  "title": "How to Attend the One Young World Summit 2027 in Tokyo: Scholarships, Funding and Applications",
+  "publishedAt": "2026-11-14T01:21:59+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-how-to-attend-the-one-young-world-summit-2027-in-tokyo",
+   "slug": "how-to-attend-the-one-young-world-summit-2027-in-tokyo",
+   "name": "How to Attend the One Young World Summit 2027 in Tokyo",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca",
+    "Conferencia"
+   ],
+   "areas": [
+    "Salud",
+    "Negocios",
+    "Migración"
+   ],
+   "levels": [],
+   "destinations": [
+    "Japón"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "In 2027, One Young World returns to Asia for the first time since Bangkok 2015, with Tokyo set to host the Summit at the Tokyo International Forum.",
+   "url": "https://opportunitiesforyouth.org/2026/11/14/how-to-attend-one-young-world-summit-2026-scholarships-lead2030-challenges-and-fully-funded-opportunities/",
+   "applyUrl": "https://www.oneyoungworld.com/future-summits",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180238",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/13/ucd-iseult-honohan-doctoral-scholarship-2027/",
+  "title": "UCD Iseult Honohan Doctoral Scholarship 2027 (Fully-funded)",
+  "publishedAt": "2026-11-13T19:58:50+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-ucd-iseult-honohan-doctoral-scholarship-2027-fully-funded",
+   "slug": "ucd-iseult-honohan-doctoral-scholarship-2027-fully-funded",
+   "name": "UCD Iseult Honohan Doctoral Scholarship 2027 (Fully-funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Educación"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-15"
+   },
+   "notes": "Deadline: January 15, 2027 Applications are open for the UCD Iseult Honohan Doctoral Scholarship 2027. The scholarship is named after Dr Iseult Honohan, one of the first female PhD graduates from the (then) Department of Ethics and Politics.",
+   "url": "https://opportunitydesk.org/2026/11/13/ucd-iseult-honohan-doctoral-scholarship-2027/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180237",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/13/bayer-foundation-scientific-fellowships-2027/",
+  "title": "Bayer Foundation Scientific Fellowships 2027 (up to €10,000)",
+  "publishedAt": "2026-11-13T19:29:38+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-bayer-foundation-scientific-fellowships-2027-up-to-10-000",
+   "slug": "bayer-foundation-scientific-fellowships-2027-up-to-10-000",
+   "name": "Bayer Foundation Scientific Fellowships 2027 (up to €10,000)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Salud"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Alemania"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-18"
+   },
+   "notes": "Deadline: January 18, 2027 Applications are open for the Bayer Foundation Scientific Fellowships 2027.",
+   "url": "https://opportunitydesk.org/2026/11/13/bayer-foundation-scientific-fellowships-2027/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180229",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/13/us-uk-fulbright-commission-uk-summer-institutes-2027/",
+  "title": "US-UK Fulbright Commission UK Summer Institutes 2027 (Funded)",
+  "publishedAt": "2026-11-13T18:59:06+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-us-uk-fulbright-commission-uk-summer-institutes-2027-funded",
+   "slug": "us-uk-fulbright-commission-uk-summer-institutes-2027-funded",
+   "name": "US-UK Fulbright Commission UK Summer Institutes 2027 (Funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [
+    "pregrado",
+    "maestria"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-02"
+   },
+   "notes": "Deadline: February 2, 2027 Applications are invited for the US-UK Fulbright Commission UK Summer Institutes 2027. The Fulbright UK Summer Institutes are two to four week programmes for US undergraduate students, who have no or very little travel experience outside North America.",
+   "url": "https://opportunitydesk.org/2026/11/13/us-uk-fulbright-commission-uk-summer-institutes-2027/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180215",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/13/od-impact-challenge-2026/",
+  "title": "OD Impact Challenge 2026 for Young Changemakers (Win cash prizes & more)",
+  "publishedAt": "2026-11-13T18:34:34+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-od-impact-challenge-2026-for-young-changemakers-win-cash-prizes-more",
+   "slug": "od-impact-challenge-2026-for-young-changemakers-win-cash-prizes-more",
+   "name": "OD Impact Challenge 2026 for Young Changemakers (Win cash prizes & more)",
+   "sponsor": "This year, we",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Premio"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "this year, we are inviting young changemakers from around the world to showcase how they are driving positive social impact in their communities",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-10"
+   },
+   "notes": "Deadline: December 10, 2026 We are pleased to announce that the Opportunity Desk Impact Challenge (ODIC) 2026 is officially open. This year, we are inviting young changemakers from around the world to showcase how they are driving positive social impact in their communities.",
+   "url": "https://opportunitydesk.org/2026/11/13/od-impact-challenge-2026/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://www.scholars4dev.com/?p=24919",
+  "feed": "Scholars4Dev",
+  "link": "https://www.scholars4dev.com/the-barlett-masters-scholarship-scheme-at-the-university-of-london/",
+  "title": "Bartlett Promise Sub-Saharan Africa Master’s Scholarship at UCL",
+  "publishedAt": "2026-11-13T20:34:00+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "No admite dominicanos (a master’s at the bartlett for nationals and residents of eligible sub-saharan african countries who are in financial need).",
+  "oportunidad": {
+   "id": "rss-bartlett-promise-sub-saharan-africa-master-s-scholarship-at-ucl",
+   "slug": "bartlett-promise-sub-saharan-africa-master-s-scholarship-at-ucl",
+   "name": "Bartlett Promise Sub-Saharan Africa Master’s Scholarship at UCL",
+   "source": "rss",
+   "sourceName": "Scholars4Dev",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Salud",
+    "Economía",
+    "Medio ambiente",
+    "Migración"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "estipendio",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "a master’s at the bartlett for nationals and residents of eligible sub-saharan african countries who are in financial need",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-03-31"
+   },
+   "notes": "University College London Masters Degree Deadline: 31 Mar 2027 Study in: UK Course starts September 2027 Brief description: The Bartlett Promise is the scholarship programme of the Bartlett, UCL’s Faculty of the Built Environment, for students from backgrounds that are underrepresented in the built environment.",
+   "url": "https://www.scholars4dev.com/the-barlett-masters-scholarship-scheme-at-the-university-of-london/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "http://www.scholars4dev.com/?p=14572",
+  "feed": "Scholars4Dev",
+  "link": "https://www.scholars4dev.com/ruth-first-scholarships-for-southern-africans-at-durham-university/",
+  "title": "Ruth First Scholarship for Southern Africans at Durham University",
+  "publishedAt": "2026-11-13T20:31:00+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Ya cerró (2026-02-28).",
+  "oportunidad": {
+   "id": "rss-ruth-first-scholarship-for-southern-africans-at-durham-university",
+   "slug": "ruth-first-scholarship-for-southern-africans-at-durham-university",
+   "name": "Ruth First Scholarship for Southern Africans at Durham University",
+   "source": "rss",
+   "sourceName": "Scholars4Dev",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Salud",
+    "Medio ambiente",
+    "Educación",
+    "Migración"
+   ],
+   "levels": [
+    "maestria"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-02-28"
+   },
+   "notes": "Durham University\nMasters Degree\nDeadline: Feb (annual; last deadline 28 Feb 2026)\nStudy in: UK\nCourse starts September/October\nBrief description:\nThe Ruth First Educational Trust, Durham University and St Chad’s College offer the Ruth First Scholarship to a student from southern Africa from a historically disadvantage",
+   "url": "https://www.scholars4dev.com/ruth-first-scholarships-for-southern-africans-at-durham-university/",
+   "applyUrl": "https://ruthfirsttrust.webspace.durham.ac.uk/how-to-apply/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "http://www.scholars4dev.com/?p=13763",
+  "feed": "Scholars4Dev",
+  "link": "https://www.scholars4dev.com/loughborough-university-graduate-school-development-trust-africa-scholarships/",
+  "title": "Loughborough-Ferguson Trust African Scholarship at Loughborough University",
+  "publishedAt": "2026-11-13T20:31:00+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "No admite dominicanos (this post used to cover the loughborough development trust africa scholarship).",
+  "oportunidad": {
+   "id": "rss-loughborough-ferguson-trust-african-scholarship-at-loughborough-university",
+   "slug": "loughborough-ferguson-trust-african-scholarship-at-loughborough-university",
+   "name": "Loughborough-Ferguson Trust African Scholarship at Loughborough University",
+   "source": "rss",
+   "sourceName": "Scholars4Dev",
+   "types": [
+    "Beca"
+   ],
+   "areas": [],
+   "levels": [
+    "maestria"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "completa",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "this post used to cover the loughborough development trust africa scholarship",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-05-03"
+   },
+   "notes": "Loughborough University Masters Degree Deadline: 3 May 2027 Study in: UK Course starts September 2027 Brief description: Loughborough University offers the Loughborough-Ferguson Trust African Scholarship to exceptional students living in Africa who want to take a postgraduate taught Master’s degree.",
+   "url": "https://www.scholars4dev.com/loughborough-university-graduate-school-development-trust-africa-scholarships/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "http://www.scholars4dev.com/?p=2217",
+  "feed": "Scholars4Dev",
+  "link": "https://www.scholars4dev.com/japan-imf-scholarships-for-asians/",
+  "title": "Japan-IMF Scholarship Program for Asia (JISPA)",
+  "publishedAt": "2026-11-13T20:23:00+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "No admite dominicanos (target group: government officials who are nationals of bangladesh, bhutan, cambodia, india, indonesia, kazakhstan, the kyrgyz republic, lao p).",
+  "oportunidad": {
+   "id": "rss-japan-imf-scholarship-program-for-asia-jispa",
+   "slug": "japan-imf-scholarship-program-for-asia-jispa",
+   "name": "Japan-IMF Scholarship Program for Asia (JISPA)",
+   "source": "rss",
+   "sourceName": "Scholars4Dev",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Políticas públicas",
+    "Economía",
+    "Artes"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Japón"
+   ],
+   "funding": "con-costo",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "target group: government officials who are nationals of bangladesh, bhutan, cambodia, india, indonesia, kazakhstan, the kyrgyz republic, lao p",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-06-01"
+   },
+   "notes": "Japan-IMF\nMaster’s, PhD Degree\nDeadline: 1 Jun 2027 (PhD Track); Master’s Track closed 20 Oct 2026\nStudy in: Japan\nPhD starts Sept/Oct 2027 or April 2028\nBrief description:\nThe Japan-IMF Scholarship Program for Asia (JISPA) is funded by the Government of Japan and run by the IMF Regional Office for Asia and the Pacific",
+   "url": "https://www.scholars4dev.com/japan-imf-scholarships-for-asians/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "http://www.scholars4dev.com/?p=1660",
+  "feed": "Scholars4Dev",
+  "link": "https://www.scholars4dev.com/university-scholarships-for-developing-countries/",
+  "title": "List of Universities that Offer Scholarships for Developing Country Students",
+  "publishedAt": "2026-11-13T19:56:00+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "No admite dominicanos (australia awards scholarships for africa for citizens of eligible african countries).",
+  "oportunidad": {
+   "id": "rss-list-of-universities-that-offer-scholarships-for-developing-country-students",
+   "slug": "list-of-universities-that-offer-scholarships-for-developing-country-students",
+   "name": "List of Universities that Offer Scholarships for Developing Country Students",
+   "source": "rss",
+   "sourceName": "Scholars4Dev",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Tecnología"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "doctorado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "completa",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "australia awards scholarships for africa for citizens of eligible african countries",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "©iStock.com/jgfoto Many universities offer scholarships specifically for students from developing countries, either on behalf of governments and donor agencies or through their own scholarship schemes.",
+   "url": "https://www.scholars4dev.com/university-scholarships-for-developing-countries/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "http://www.scholars4dev.com/?p=1255",
+  "feed": "Scholars4Dev",
+  "link": "https://www.scholars4dev.com/university-scholarships-for-international-students/",
+  "title": "Links to Universities that offer Scholarships for International Students",
+  "publishedAt": "2026-11-13T19:48:00+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-links-to-universities-that-offer-scholarships-for-international-students",
+   "slug": "links-to-universities-that-offer-scholarships-for-international-students",
+   "name": "Links to Universities that offer Scholarships for International Students",
+   "source": "rss",
+   "sourceName": "Scholars4Dev",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Tecnología",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "doctorado"
+   ],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "completa",
+   "citizenship": "global",
+   "citizenshipRaw": "this directory lists 119 universities around the world with scholarships for international students, and links to the university’s own scholarship page or",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "©iStock.com/hidesy Do you want to study abroad with a scholarship from the university itself? Many universities offer scholarships to international students.",
+   "url": "https://www.scholars4dev.com/university-scholarships-for-international-students/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "http://www.scholars4dev.com/?p=8801",
+  "feed": "Scholars4Dev",
+  "link": "https://www.scholars4dev.com/worlds-top-100-universities-international-scholarships/",
+  "title": "Links to Scholarship Programs of the World’s Top 100 Universities",
+  "publishedAt": "2026-11-13T19:19:00+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "No admite dominicanos (eveloping solutions scholarships cover 50% or 100% of master’s tuition fees for students from africa, south asia and selected commonwealth countries).",
+  "oportunidad": {
+   "id": "rss-links-to-scholarship-programs-of-the-world-s-top-100-universities",
+   "slug": "links-to-scholarship-programs-of-the-world-s-top-100-universities",
+   "name": "Links to Scholarship Programs of the World’s Top 100 Universities",
+   "source": "rss",
+   "sourceName": "Scholars4Dev",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Tecnología"
+   ],
+   "levels": [
+    "secundaria",
+    "pregrado",
+    "maestria",
+    "doctorado",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "completa",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "eveloping solutions scholarships cover 50% or 100% of master’s tuition fees for students from africa, south asia and selected commonwealth countries",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "©iStock.com/komisar Do you want to study at one of the world’s top 100 universities? scholars4dev.com gives you an overview of, and links to, the main scholarship programmes for international students at 51 universities ranked in the top 100 of the QS World University Rankings 2027 .",
+   "url": "https://www.scholars4dev.com/worlds-top-100-universities-international-scholarships/",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-spanish-mentoring-program-co-lead-and-coordination-team-members",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-spanish-mentoring-program-co-lead-and-coordination-team-members",
+  "title": "SGAC is looking for a Spanish Mentoring Program — Co-Lead and Coordination Team Members",
+  "publishedAt": "2026-11-11T12:17:50+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-spanish-mentoring-program-co-lead-and-coordination-team-me",
+   "slug": "sgac-is-looking-for-a-spanish-mentoring-program-co-lead-and-coordination-team-me",
+   "name": "SGAC is looking for a Spanish Mentoring Program — Co-Lead and Coordination Team Members",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [],
+   "areas": [
+    "Educación"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "latam",
+   "citizenshipRaw": "rofessional development (epd) platform, serving spanish-speaking members across latin america",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-08"
+   },
+   "notes": "SGAC is looking for three volunteers to join the Spanish Mentoring Program as Co-Lead (1 position) and Coordination Team Members (2 positions).Deadline for applications: 8 January 2027About Project GroupThe Spanish Mentoring Program runs under the SGAC Mentoring Program within the Education & Professional Development (",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-spanish-mentoring-program-co-lead-and-coordination-team-members",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-achieved-orbital-coordination-team-member",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-achieved-orbital-coordination-team-member",
+  "title": "SGAC is looking for a ACHIEVED Orbital — Coordination Team Member",
+  "publishedAt": "2026-11-11T12:10:08+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-achieved-orbital-coordination-team-member",
+   "slug": "sgac-is-looking-for-a-achieved-orbital-coordination-team-member",
+   "name": "SGAC is looking for a ACHIEVED Orbital — Coordination Team Member",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Periodismo",
+    "Ingeniería",
+    "Ciencias",
+    "Educación"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-08"
+   },
+   "notes": "SGAC is looking for 6 volunteers to join the ACHIEVED Orbital Program as Coordination Team Members under the Education & Professional Development (EPD) Platform.Deadline for applications: 8 January 2027About The PositionACHIEVED Orbital brings together ACHIEVED Competition and ACHIEVED Academy.",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-achieved-orbital-coordination-team-member",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-mentoring-program-coordination-team-member",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-mentoring-program-coordination-team-member",
+  "title": "SGAC is looking for a Mentoring Program – Coordination Team Member",
+  "publishedAt": "2026-11-11T12:03:24+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-mentoring-program-coordination-team-member",
+   "slug": "sgac-is-looking-for-a-mentoring-program-coordination-team-member",
+   "name": "SGAC is looking for a Mentoring Program – Coordination Team Member",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [],
+   "areas": [
+    "Periodismo",
+    "Espacio",
+    "Educación"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "latam",
+   "citizenshipRaw": "period of expansion: following the launch of the spanish mentoring program for latin america",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-08"
+   },
+   "notes": "SGAC is looking for a volunteer to join the Mentoring Program as a Coordination Team Member.Deadline for applications: 8 January 2027.About The PositionThe SGAC Mentoring Program connects students and young professionals in the space sector with experienced mentors worldwide, and works with a network of more than 400 a",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-mentoring-program-coordination-team-member",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-spacegen-academy-video-editor",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-spacegen-academy-video-editor",
+  "title": "SGAC is looking for a SpaceGen Academy — Video Editor",
+  "publishedAt": "2026-11-11T11:53:12+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-spacegen-academy-video-editor",
+   "slug": "sgac-is-looking-for-a-spacegen-academy-video-editor",
+   "name": "SGAC is looking for a SpaceGen Academy — Video Editor",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [],
+   "areas": [
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "SGAC is looking for one volunteer to join SpaceGen Academy as a Video Editor under the Education & Professional Development (EPD) Platform.Deadline for applications: 8 January 2027About The PositionSpaceGen Academy delivers online courses, webinars and lectures to SGAC’s global community of students and young professio",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-spacegen-academy-video-editor",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-spacegen-academy-partnerships-marketing-manager",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-spacegen-academy-partnerships-marketing-manager",
+  "title": "SGAC is looking for a SpaceGen Academy – Partnerships & Marketing Manager",
+  "publishedAt": "2026-11-11T11:28:16+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-spacegen-academy-partnerships-marketing-manager",
+   "slug": "sgac-is-looking-for-a-spacegen-academy-partnerships-marketing-manager",
+   "name": "SGAC is looking for a SpaceGen Academy – Partnerships & Marketing Manager",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [],
+   "areas": [
+    "Espacio",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-07"
+   },
+   "notes": "SGAC is seeking a committed volunteer to serve as the SpaceGen Academy Partnerships & Marketing Manager for the Education & Professional Development (EPD) Platform.",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-spacegen-academy-partnerships-marketing-manager",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-web-data-team-member",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-web-data-team-member",
+  "title": "SGAC is looking for a Web & Data Team Member",
+  "publishedAt": "2026-11-08T16:48:05+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-web-data-team-member",
+   "slug": "sgac-is-looking-for-a-web-data-team-member",
+   "name": "SGAC is looking for a Web & Data Team Member",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [],
+   "areas": [],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "ed to active volunteersmeeting and working with young space sector leaders from around the world, leveraging sgac space networkbuilding leadership skills and other skills that are directly transla",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "As the number of team positions, events, and activities of the Space Generation Advisory Council (SGAC) expands, the organisation is seeking ambitious and highly motivated volunteers to join the Web&Data Team!",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-web-data-team-member",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-organising-team",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-organising-team",
+  "title": "SGAC is looking for a SGx 2027 Organising Team",
+  "publishedAt": "2026-11-06T04:37:03+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-sgx-2027-organising-team",
+   "slug": "sgac-is-looking-for-a-sgx-2027-organising-team",
+   "name": "SGAC is looking for a SGx 2027 Organising Team",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [],
+   "areas": [
+    "Espacio",
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-29"
+   },
+   "notes": "Help build the room where it happens! Washington, D.C. is calling–join the 11th annual SGx Organizing Team!SGAC is looking for talented and passionate volunteers to support the organization of SGx2027, a 2-day event held in May 2027 in Washington D.C., United States.",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-organising-team",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-deputy-manager-2",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-deputy-manager-2",
+  "title": "SGAC is looking for a SGx 2027 Deputy Manager",
+  "publishedAt": "2026-11-06T04:11:17+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-sgx-2027-deputy-manager",
+   "slug": "sgac-is-looking-for-a-sgx-2027-deputy-manager",
+   "name": "SGAC is looking for a SGx 2027 Deputy Manager",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [],
+   "areas": [
+    "Software",
+    "Espacio",
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "The Space Generation Advisory Council (SGAC) is seeking a professionally qualified young space leader to join the SGAC as the SGx2027 Deputy Manager.",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-deputy-manager-2",
+   "updatedAt": "2026-11-14"
+  }
+ },
+ {
+  "guid": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-deputy-manager",
+  "feed": "Space Generation Advisory Council",
+  "link": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-deputy-manager",
+  "title": "SGAC is looking for a SGx 2027 Deputy Manager",
+  "publishedAt": "2026-11-06T04:10:07+00:00",
+  "fetchedAt": "2026-11-14T02:59:39+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-sgac-is-looking-for-a-sgx-2027-deputy-manager",
+   "slug": "sgac-is-looking-for-a-sgx-2027-deputy-manager",
+   "name": "SGAC is looking for a SGx 2027 Deputy Manager",
+   "source": "rss",
+   "sourceName": "Space Generation Advisory Council",
+   "types": [],
+   "areas": [
+    "Software",
+    "Espacio",
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-30"
+   },
+   "notes": "The Space Generation Advisory Council (SGAC) is seeking a professionally qualified young space leader to join the SGAC as the SGx2027 Deputy Manager.",
+   "url": "https://spacegeneration.org/sgac-is-looking-for-a-sgx-2027-deputy-manager",
+   "updatedAt": "2026-11-14"
+  }
  }
 ]
