@@ -25372,6 +25372,158 @@
   "updatedAt": "2026-11-13"
  },
  {
+  "id": "rss-afs-global-stem-academies-2027",
+  "slug": "afs-global-stem-academies-2027",
+  "name": "AFS Global STEM Academies 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Salud",
+   "Matemáticas",
+   "Ingeniería",
+   "Tecnología"
+  ],
+  "levels": [
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "global networking: participants will connect with international students, educators, researchers, and stem professionals",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-17"
+  },
+  "notes": "The AFS Global STEM Academies 2027 is an international, fully funded study abroad scholarship program offering young people an exceptional opportunity to develop their knowledge of Science, Technology, Engineering, and Mathematics (STEM), explore global sustainability challenges, and gain international learning experie",
+  "url": "https://opportunitiesforyouth.org/2026/11/14/afs-global-stem-academies-2027-fully-funded-international-study-abroad-scholarship-for-students-from-12-countries/",
+  "updatedAt": "2026-11-15"
+ },
+ {
+  "id": "rss-carleton-prestige-scholarships",
+  "slug": "carleton-prestige-scholarships",
+  "name": "Carleton Prestige Scholarships",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [],
+  "levels": [
+   "secundaria",
+   "pregrado"
+  ],
+  "destinations": [
+   "Canadá"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "number of awards: not specified target group: high school students from all countries, including international students scholarship value/inclusions: ca$5,000 to ca$14,178 a year",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-03-01"
+  },
+  "notes": "Carleton University Bachelors Degree Deadline: 1 Mar 2027 (annual) Study in: Canada Course starts September 2027 Brief description: Prestige Scholarships are Carleton University’s highest entrance awards.",
+  "url": "https://www.scholars4dev.com/carleton-prestige-scholarships/",
+  "updatedAt": "2026-11-15"
+ },
+ {
+  "id": "rss-nl-scholarship-formerly-holland-scholarship-at-erasmus-university-rotterdam",
+  "slug": "nl-scholarship-formerly-holland-scholarship-at-erasmus-university-rotterdam",
+  "name": "NL Scholarship (formerly Holland Scholarship) at Erasmus University Rotterdam",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Economía",
+   "Ciencias",
+   "Educación"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Países Bajos"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": ", which replaced the holland scholarship, is the dutch national scholarship for international students from outside the european economic area (eea) who want to do a bachelor’s or master’s in the nether",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-04-25"
+  },
+  "notes": "Dutch Government/Erasmus University Rotterdam Bachelors/Masters Degree Deadline: Varies by faculty (e.g.",
+  "url": "https://www.scholars4dev.com/erasmus-university-holland-scholarship/",
+  "updatedAt": "2026-11-15"
+ },
+ {
+  "id": "rss-padua-international-excellence-scholarships-at-university-of-padua",
+  "slug": "padua-international-excellence-scholarships-at-university-of-padua",
+  "name": "Padua International Excellence Scholarships at University of Padua",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [],
+  "levels": [
+   "secundaria",
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "adua (padova) awards padua international excellence scholarships to outstanding international students admitted to its degree programmes taught in english",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-15"
+  },
+  "notes": "University of Padua\nBachelors/Masters Degree\nDeadline: 15 Nov 2026/1 Mar 2027\nStudy in: Italy\nCourse starts academic year 2027/28\nBrief description:\nThe University of Padua (Padova) awards Padua International Excellence Scholarships to outstanding international students admitted to its degree programmes taught in Engli",
+  "url": "https://www.scholars4dev.com/university-of-padua-international-scholarships/",
+  "updatedAt": "2026-11-15"
+ },
+ {
+  "id": "rss-harry-frank-guggenheim-emerging-scholar-awards-for-phd-candidates",
+  "slug": "harry-frank-guggenheim-emerging-scholar-awards-for-phd-candidates",
+  "name": "Harry Frank Guggenheim Emerging Scholar Awards for PhD Candidates",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Fellowship",
+   "Premio"
+  ],
+  "areas": [
+   "Medio ambiente"
+  ],
+  "levels": [
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "number of awards: not specified target group: phd candidates of any nationality scholarship value/inclusions: us$25,000 for one year",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-31"
+  },
+  "notes": "Harry Frank Guggenheim Foundation PhD Degree Deadline: 31 Jan 2027 (annual) Study in: any Country Award starts 1 Sept 2027 Brief description: The Harry Frank Guggenheim Foundation (HFG) gives Emerging Scholar Awards to PhD candidates in their final year who are writing a dissertation on violence.",
+  "url": "https://www.scholars4dev.com/harry-frank-guggenheim-foundation-dissertation-fellowships/",
+  "updatedAt": "2026-11-15"
+ },
+ {
   "id": "poss-20-000-regenerative-agriculture-venture-competition",
   "slug": "20-000-regenerative-agriculture-venture-competition",
   "name": "$20,000 Regenerative Agriculture Venture Competition",
