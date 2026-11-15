@@ -26231,5 +26231,87 @@
    "url": "https://opportunitiescorners.com/summer-programs-in-europe-in-2027/",
    "updatedAt": "2026-11-14"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=96926",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/15/9-scholarship-opportunities-for-refugees-in-2026-2027-undergraduate-masters-and-phd-funding-in-africa-europe-north-america-and-latin-america/",
+  "title": "9 Scholarship Opportunities for Refugees in 2026–2027: Undergraduate, Master’s and PhD Funding in Africa, Europe, North America and Latin America",
+  "publishedAt": "2026-11-15T01:46:46+00:00",
+  "fetchedAt": "2026-11-15T02:29:58+00:00",
+  "estado": "descartada",
+  "motivo": "Es un boletín o una lista de varias oportunidades.",
+  "oportunidad": {
+   "id": "rss-9-scholarship-opportunities-for-refugees-in-2026-2027",
+   "slug": "9-scholarship-opportunities-for-refugees-in-2026-2027",
+   "name": "9 Scholarship Opportunities for Refugees in 2026–2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Educación",
+    "Migración"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "doctorado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "global",
+   "citizenshipRaw": "7: undergraduate, master’s and phd funding in africa, europe, north america and latin america",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-16"
+   },
+   "notes": "Refugee students seeking access to higher education have several scholarship opportunities to consider for the 2026–2027 academic period.",
+   "url": "https://opportunitiesforyouth.org/2026/11/15/9-scholarship-opportunities-for-refugees-in-2026-2027-undergraduate-masters-and-phd-funding-in-africa-europe-north-america-and-latin-america/",
+   "updatedAt": "2026-11-15"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=96965",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/14/unicef-usa-youth-council-learning-exchange-2027-six-month-virtual-programme-invites-u-s-city-and-county-leaders-to-strengthen-youth-participation-in-local-government/",
+  "title": "UNICEF USA Youth Council Learning Exchange 2027: Six-Month Virtual Programme Invites U.S. City and County Leaders to Strengthen Youth Participation in Local Government",
+  "publishedAt": "2026-11-14T18:47:13+00:00",
+  "fetchedAt": "2026-11-15T02:29:58+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-unicef-usa-youth-council-learning-exchange-2027",
+   "slug": "unicef-usa-youth-council-learning-exchange-2027",
+   "name": "UNICEF USA Youth Council Learning Exchange 2027",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Políticas públicas",
+    "Educación",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "En línea",
+    "Estados Unidos"
+   ],
+   "funding": "con-costo",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-14"
+   },
+   "notes": "Local governments play a critical role in shaping the lives, opportunities and experiences of children and young people. Decisions made at city and county levels influence access to education, healthcare, public spaces, safety, social services and other essential resources.",
+   "url": "https://opportunitiesforyouth.org/2026/11/14/unicef-usa-youth-council-learning-exchange-2027-six-month-virtual-programme-invites-u-s-city-and-county-leaders-to-strengthen-youth-participation-in-local-government/",
+   "updatedAt": "2026-11-15"
+  }
  }
 ]
