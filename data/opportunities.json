@@ -25460,38 +25460,69 @@
   "updatedAt": "2026-11-16"
  },
  {
-  "id": "poss-4-000-overseas-press-club-scholar-awards",
-  "slug": "4-000-overseas-press-club-scholar-awards",
-  "name": "$4,000 Overseas Press Club Scholar Awards",
-  "sponsor": "Overseas Press Club Foundation",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "id": "rss-politecnico-di-milano-merit-based-international-scholarships",
+  "slug": "politecnico-di-milano-merit-based-international-scholarships",
+  "name": "Politecnico di Milano Merit-Based International Scholarships",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
   "types": [
-   "Premio"
+   "Beca"
   ],
   "areas": [
-   "Clima",
-   "Salud"
+   "Ingeniería",
+   "Medio ambiente",
+   "Ciencias",
+   "Artes"
   ],
   "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
+   "maestria"
+  ],
+  "destinations": [
+   "Italia"
+  ],
+  "funding": "con-costo",
+  "citizenship": "global",
+  "citizenshipRaw": "ano (polimi) offers merit-based international scholarships to the most talented international students starting a master of science programme taught in english",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-15"
+  },
+  "notes": "Politecnico di Milano Masters Degree Deadline: 15 Dec 2026 (annual) Study in: Italy Course starts September 2027 Brief description: Politecnico di Milano (PoliMi) offers Merit-Based International Scholarships to the most talented international students starting a Master of Science programme taught in English.",
+  "url": "https://www.scholars4dev.com/politecnico-milano-merit-based-international-scholarships/",
+  "updatedAt": "2026-11-16"
+ },
+ {
+  "id": "rss-american-university-emerging-global-leader-scholarship",
+  "slug": "american-university-emerging-global-leader-scholarship",
+  "name": "American University Emerging Global Leader Scholarship",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Salud",
+   "Economía",
+   "Negocios",
+   "Educación"
+  ],
+  "levels": [
+   "secundaria",
+   "pregrado"
   ],
   "destinations": [
    "Estados Unidos"
   ],
   "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "citizenship": "global",
+  "citizenshipRaw": "on: the au emerging global leader scholarship (au egls) supports high-achieving international students who are dedicated to positive civic and social change and to improving under-resourced, underserved",
   "deadline": {
    "kind": "exacta",
-   "date": "2026-11-16"
+   "date": "2027-01-15"
   },
-  "notes": "Premio de Overseas Press Club Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.overseaspressclubfoundation.org/scholar-awards-program",
-  "applyUrl": "https://www.overseaspressclubfoundation.org/scholar-awards-program",
+  "notes": "American University\nBachelor’s Degree\nDeadline: 15 Jan 2027 (annual)\nStudy in: USA\nCourse starts Fall 2027\nBrief description:\nThe AU Emerging Global Leader Scholarship (AU EGLS) supports high-achieving international students who are dedicated to positive civic and social change and to improving under-resourced, underse",
+  "url": "https://www.scholars4dev.com/american-university-scholarships-for-international-students/",
+  "applyUrl": "https://www.american.edu/admissions/international/au-egls-apply.cfm",
   "updatedAt": "2026-11-16"
  },
  {
@@ -25528,245 +25559,6 @@
   "updatedAt": "2026-11-16"
  },
  {
-  "id": "poss-apfsd-youth-forum-in-bangkok",
-  "slug": "apfsd-youth-forum-in-bangkok",
-  "name": "APFSD Youth Forum in Bangkok",
-  "sponsor": "Asian-Pacific Resource and Research Centre for Women (ARROW), with co-convenors Youth LEAD, Y-PEER Asia-Pacific Center, Major Group for Children and Youth and Children and Youth Major Group to UNEP",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Conferencia"
-  ],
-  "areas": [
-   "Impacto social"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 13 a 30 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Conferencia de Asian-Pacific Resource and Research Centre for Women (ARROW), with co-convenors Youth LEAD, Y-PEER Asia-Pacific Center, Major Group for Children and Youth and Children and Youth Major Group to UNEP. Financiamiento parcial. La convocatoria cierra a las 23:59 (Asia/Bangkok); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://arrow.org.my/apfsd-youth-forum-2027-call-for-applications/",
-  "applyUrl": "https://arrow.org.my/apfsd-youth-forum-2027-call-for-applications/",
-  "updatedAt": "2026-11-16"
- },
- {
-  "id": "poss-east-west-center-advanced-leadership-fellowship",
-  "slug": "east-west-center-advanced-leadership-fellowship",
-  "name": "East-West Center Advanced Leadership Fellowship",
-  "sponsor": "East-West Center",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Salud",
-   "Liderazgo"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Fellowship de East-West Center. Financiamiento parcial. La convocatoria cierra a las 23:00 (Pacific/Honolulu); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.eastwestcenter.org/apply/advanced-leadership-program",
-  "applyUrl": "https://www.eastwestcenter.org/apply/advanced-leadership-program",
-  "updatedAt": "2026-11-16"
- },
- {
-  "id": "poss-global-solvers-accelerator-for-social-ventures",
-  "slug": "global-solvers-accelerator-for-social-ventures",
-  "name": "Global Solvers Accelerator for Social Ventures",
-  "sponsor": "Melton Foundation",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Emprendimiento"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 20 a 35 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Fellowship de Melton Foundation. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://meltonfoundation.org/global-solvers-accelerator/",
-  "applyUrl": "https://meltonfoundation.org/global-solvers-accelerator/",
-  "updatedAt": "2026-11-16"
- },
- {
-  "id": "poss-harvard-lead-women-in-global-health-fellowship",
-  "slug": "harvard-lead-women-in-global-health-fellowship",
-  "name": "Harvard LEAD Women in Global Health Fellowship",
-  "sponsor": "Harvard Global Health Institute",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Salud",
-   "Género"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Fellowship de Harvard Global Health Institute. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://globalhealth.harvard.edu/fellowships/harvard-lead-fellowship/",
-  "applyUrl": "https://globalhealth.harvard.edu/fellowships/harvard-lead-fellowship/",
-  "updatedAt": "2026-11-16"
- },
- {
-  "id": "poss-melton-global-citizenship-learning-fellowship",
-  "slug": "melton-global-citizenship-learning-fellowship",
-  "name": "Melton Global Citizenship Learning Fellowship",
-  "sponsor": "Melton Foundation",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Impacto social"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 18 a 25 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Fellowship de Melton Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://meltonfoundation.org/global-citizenship-learning-program/",
-  "applyUrl": "https://meltonfoundation.org/global-citizenship-learning-program/",
-  "updatedAt": "2026-11-16"
- },
- {
-  "id": "poss-princeton-climate-behavioral-science-winter-school",
-  "slug": "princeton-climate-behavioral-science-winter-school",
-  "name": "Princeton Climate Behavioral Science Winter School",
-  "sponsor": "Princeton University",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Taller"
-  ],
-  "areas": [
-   "Clima",
-   "Medio ambiente",
-   "Educación",
-   "Ciencia"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Taller de Princeton University. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.princetonclimateschool.com/apply",
-  "applyUrl": "https://www.princetonclimateschool.com/apply",
-  "updatedAt": "2026-11-16"
- },
- {
-  "id": "poss-up-to-100-000-undp-ocean-innovation-challenge",
-  "slug": "up-to-100-000-undp-ocean-innovation-challenge",
-  "name": "Up to $100,000 UNDP Ocean Innovation Challenge",
-  "sponsor": "United Nations Development Programme (UNDP)",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Competencia"
-  ],
-  "areas": [
-   "Medio ambiente"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Competencia de United Nations Development Programme (UNDP). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://dev.oceaninnovationchallenge.org/5th-call-marine-pollution-reduction-coastal-and-marine-ecosystem-restoration-and-sustainable-blue",
-  "applyUrl": "https://dev.oceaninnovationchallenge.org/5th-call-marine-pollution-reduction-coastal-and-marine-ecosystem-restoration-and-sustainable-blue",
-  "updatedAt": "2026-11-16"
- },
- {
   "id": "poss-up-to-500-000-ecosystem-adaptation-grant",
   "slug": "up-to-500-000-ecosystem-adaptation-grant",
   "name": "Up to $500,000 Ecosystem Adaptation Grant",
@@ -25799,40 +25591,6 @@
   "notes": "Fondos de Global EbA Fund (IUCN and UNEP). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://globalebafund.org/medium-size-grants/",
   "applyUrl": "https://globalebafund.org/medium-size-grants/",
-  "updatedAt": "2026-11-16"
- },
- {
-  "id": "poss-up-to-9-000-edf-women-with-disabilities-leading-the-change-grant",
-  "slug": "up-to-9-000-edf-women-with-disabilities-leading-the-change-grant",
-  "name": "Up to €9,000 EDF Women with Disabilities Leading the Change Grant",
-  "sponsor": "European Disability Forum (EDF)",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Género"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Fondos de European Disability Forum (EDF). Totalmente financiado. La convocatoria cierra a las 16:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.edf-feph.org/apply-for-our-sub-granting-women-with-disabilities-leading-the-change/",
-  "applyUrl": "https://www.edf-feph.org/apply-for-our-sub-granting-women-with-disabilities-leading-the-change/",
   "updatedAt": "2026-11-16"
  },
  {
