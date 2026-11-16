@@ -26975,5 +26975,256 @@
    "url": "https://opportunitiescorners.com/oist-internship-in-japan-fall-2027/",
    "updatedAt": "2026-11-15"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=97023",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/16/nigeria-sustainability-competition-2026-apply-for-%e2%82%a61-million-prize-in-national-student-essay-contest-and-lagos-green-innovation-awards/",
+  "title": "Nigeria Sustainability Competition 2026: Apply for ₦1 Million Prize in National Student Essay Contest and Lagos Green Innovation Awards",
+  "publishedAt": "2026-11-16T01:17:23+00:00",
+  "fetchedAt": "2026-11-16T02:39:35+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-nigeria-sustainability-competition-2026",
+   "slug": "nigeria-sustainability-competition-2026",
+   "name": "Nigeria Sustainability Competition 2026",
+   "sponsor": "Nigeria Sustainability Competition 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "secundaria"
+   ],
+   "destinations": [
+    "Nigeria"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-20"
+   },
+   "notes": "The Nigeria Sustainability Competition 2026 is inviting secondary school students and schools across Nigeria to develop innovative, practical and affordable solutions to environmental challenges affecting their communities.",
+   "url": "https://opportunitiesforyouth.org/2026/11/16/nigeria-sustainability-competition-2026-apply-for-%e2%82%a61-million-prize-in-national-student-essay-contest-and-lagos-green-innovation-awards/",
+   "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdMXUTH0A7H6Y8DJrP8J_17mvsqxFl5MtgTlJrq1P-kHJSvfg/viewform?usp=send_form",
+   "updatedAt": "2026-11-16"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=97019",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/15/2027-2028-cega-fellowship-program-at-uc-berkeley-research-fellowship-for-east-and-west-african-social-scientists/",
+  "title": "2027–2028 CEGA Fellowship Program at UC Berkeley: Research Fellowship for East and West African Social Scientists",
+  "publishedAt": "2026-11-15T21:38:27+00:00",
+  "fetchedAt": "2026-11-16T02:39:35+00:00",
+  "estado": "descartada",
+  "motivo": "No admite dominicanos (e university of california, berkeley, the programme provides an opportunity for african researchers to develop their research capabilities through specialised academic coursework, personalised mentor).",
+  "oportunidad": {
+   "id": "rss-2027-2028-cega-fellowship-program-at-uc-berkeley",
+   "slug": "2027-2028-cega-fellowship-program-at-uc-berkeley",
+   "name": "2027–2028 CEGA Fellowship Program at UC Berkeley",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship",
+    "Investigación"
+   ],
+   "areas": [
+    "Tecnología",
+    "Políticas públicas",
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "secundaria",
+    "pregrado",
+    "maestria",
+    "doctorado",
+    "recien-graduado",
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "completa",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "e university of california, berkeley, the programme provides an opportunity for african researchers to develop their research capabilities through specialised academic coursework, personalised mentor",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-17"
+   },
+   "notes": "The 2027–2028 Center for Effective Global Action (CEGA) Fellowship Program is inviting applications from qualified researchers and practitioners from East and West Africa who want to strengthen their expertise in impact evaluation, quantitative research and evidence-based policymaking.",
+   "url": "https://opportunitiesforyouth.org/2026/11/15/2027-2028-cega-fellowship-program-at-uc-berkeley-research-fellowship-for-east-and-west-african-social-scientists/",
+   "updatedAt": "2026-11-16"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=97012",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/15/humboldt-university-berlin-research-internship-2027-weather-index-insurance-and-climate-risk-research-in-west-africa-mali/",
+  "title": "Humboldt University Berlin Research Internship 2027: Weather-Index Insurance and Climate Risk Research in West Africa (Mali)",
+  "publishedAt": "2026-11-15T21:11:58+00:00",
+  "fetchedAt": "2026-11-16T02:39:35+00:00",
+  "estado": "aprobada",
+  "motivo": "Aprobada sola: internship abierta a dominicanos, cierra el 2026-12-05.",
+  "oportunidad": {
+   "id": "rss-humboldt-university-berlin-research-internship-2027",
+   "slug": "humboldt-university-berlin-research-internship-2027",
+   "name": "Humboldt University Berlin Research Internship 2027",
+   "sponsor": "Farm Management Group at Humboldt-Universität zu Berlin",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Internship"
+   ],
+   "areas": [
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "doctorado"
+   ],
+   "destinations": [
+    "Alemania"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "the opportunity is open to international students: applicants must be enrolled at a university outside germany",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-05"
+   },
+   "notes": "Students pursuing degrees in economics, agricultural economics and related disciplines have an opportunity to gain international research experience in Germany through the Humboldt Internship Program 2027 .",
+   "url": "https://opportunitiesforyouth.org/2026/11/15/humboldt-university-berlin-research-internship-2027-weather-index-insurance-and-climate-risk-research-in-west-africa-mali/",
+   "updatedAt": "2026-11-16"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=97008",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/15/oak-foundation-programme-officer-job-2026-earn-approximately-130000-to-advance-the-prevention-of-sexual-violence-against-adolescents/",
+  "title": "Oak Foundation Programme Officer Job 2026: Earn Approximately $130,000 to Advance the Prevention of Sexual Violence Against Adolescents",
+  "publishedAt": "2026-11-15T19:41:38+00:00",
+  "fetchedAt": "2026-11-16T02:39:35+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo; no admite dominicanos (applicants from african countries may apply if they satisfy the stated eligibility requirements, including the us citizenship or vali).",
+  "oportunidad": {
+   "id": "rss-oak-foundation-programme-officer-job-2026",
+   "slug": "oak-foundation-programme-officer-job-2026",
+   "name": "Oak Foundation Programme Officer Job 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "applicants from african countries may apply if they satisfy the stated eligibility requirements, including the us citizenship or vali",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-04"
+   },
+   "notes": "The Oak Foundation is seeking an experienced and passionate professional to join its Prevent Child Sexual Abuse Programme as a Programme Officer , with a particular focus on preventing sexual violence among adolescents.",
+   "url": "https://opportunitiesforyouth.org/2026/11/15/oak-foundation-programme-officer-job-2026-earn-approximately-130000-to-advance-the-prevention-of-sexual-violence-against-adolescents/",
+   "applyUrl": "https://www.goodcitizen.com/application/?jobOrder=1147&amp%3BjobTitle=Programme+Officer%2C+Prevent+Child+Sexual+Abuse&amp%3BclientName=Oak+Foundation&amp%3Bjob_cat=oak-foundation",
+   "updatedAt": "2026-11-16"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=97000",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/15/apply-for-the-2027-nature-culture-fellowship-global-fellowship-offering-1000-2000-micro-grants-and-professional-mentorship-for-social-and-environmental-change-makers/",
+  "title": "APPLY FOR THE 2027 NATURE CULTURE FELLOWSHIP: GLOBAL FELLOWSHIP OFFERING $1,000–$2,000 MICRO-GRANTS AND PROFESSIONAL MENTORSHIP FOR SOCIAL AND ENVIRONMENTAL CHANGE-MAKERS",
+  "publishedAt": "2026-11-15T18:28:33+00:00",
+  "fetchedAt": "2026-11-16T02:39:35+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-apply-for-the-2027-nature-culture-fellowship",
+   "slug": "apply-for-the-2027-nature-culture-fellowship",
+   "name": "APPLY FOR THE 2027 NATURE CULTURE FELLOWSHIP",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-01"
+   },
+   "notes": "Applications are now open for the 2027 Nature Culture Fellowship (NCF) , an international fellowship programme designed to bring together creative thinkers, community leaders, environmental advocates, artists, storytellers, cultural practitioners and other change-makers who are committed to building a more sustainable ",
+   "url": "https://opportunitiesforyouth.org/2026/11/15/apply-for-the-2027-nature-culture-fellowship-global-fellowship-offering-1000-2000-micro-grants-and-professional-mentorship-for-social-and-environmental-change-makers/",
+   "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf5se7fPK5R4cYPcvYyJF7Zds5TF_EAeIEjxP7L8yaSI_ZOSA/viewform",
+   "updatedAt": "2026-11-16"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=96996",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/15/caribbean-export-consultancy-2026-applications-reopened-for-social-innovation-capacity-building-experts-in-four-caribbean-countries/",
+  "title": "Caribbean Export Consultancy 2026: Applications Reopened for Social Innovation Capacity-Building Experts in Four Caribbean Countries",
+  "publishedAt": "2026-11-15T17:46:50+00:00",
+  "fetchedAt": "2026-11-16T02:39:35+00:00",
+  "estado": "descartada",
+  "motivo": "Es un empleo.",
+  "oportunidad": {
+   "id": "rss-caribbean-export-consultancy-2026",
+   "slug": "caribbean-export-consultancy-2026",
+   "name": "Caribbean Export Consultancy 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Políticas públicas",
+    "Economía",
+    "Negocios",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "República Dominicana"
+   ],
+   "funding": "varia",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "and deliver capacity-building workshops and policy roundtables in jamaica, the dominican republic",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-24"
+   },
+   "notes": "The Caribbean Export Development Agency (Caribbean Export) has reopened applications for an international consultancy opportunity focused on strengthening social innovation institutions and supporting the development of inclusive social entrepreneurship ecosystems across the Caribbean.",
+   "url": "https://opportunitiesforyouth.org/2026/11/15/caribbean-export-consultancy-2026-applications-reopened-for-social-innovation-capacity-building-experts-in-four-caribbean-countries/",
+   "applyUrl": "https://carib-export.com/en/opportunities/consultancy-capacity-building-events-and-policy-roundtables-on-social-innovation",
+   "updatedAt": "2026-11-16"
+  }
  }
 ]

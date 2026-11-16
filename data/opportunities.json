@@ -23667,7 +23667,7 @@
   "notes": "The Lab to Market Initiative seeks to bridge the gap between basic research and entrepreneurship by creating a structured initiative that equips students and researchers with the business skills, mentorship, and industry connections needed to turn their groundbreaking ideas into viable, scalable ventures. Why Join Lab to Market? Lab to Market is back for Cohort 2, bringing you a year of hands-on entrepreneurship training, expert mentorship, global networking, and the chance to turn your big…",
   "url": "https://apply.younoodle.com/showcase/competition/columbia_venture_competition_2027",
   "applyUrl": "https://apply.younoodle.com/showcase/competition/columbia_venture_competition_2027",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "yn-2026-2027-michigan-collegiate-startup-challenge",
@@ -23695,104 +23695,7 @@
   "notes": "2026/2027 Michigan Collegiate Startup Challenge - A Bi-National Event! Whether you're building a business, solving a problem, creating a product, or exploring a new innovation, the Michigan Collegiate Startup Challenge (MCSC) is your opportunity to share your vision and compete with some of the brightest student entrepreneurs from Michigan and Ontario. No startup required. No business degree required. Just bring your idea and your passion. Build It. Pitch It. Win It. Apply now © 2026 YouNoodle,…",
   "url": "https://apply.younoodle.com/showcase/competition/michigan_collegiate_startup_challenge",
   "applyUrl": "https://apply.younoodle.com/showcase/competition/michigan_collegiate_startup_challenge",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "cimpa-cimpa-from-statistical-inference-to-learning-methods",
-  "slug": "cimpa-from-statistical-inference-to-learning-methods",
-  "name": "Escuela CIMPA: From Statistical Inference to Learning Methods",
-  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
-  "source": "becas",
-  "sourceName": "CIMPA (cimpa.info)",
-  "types": [
-   "Escuela de investigación"
-  ],
-  "areas": [
-   "Matemáticas"
-  ],
-  "levels": [
-   "maestria",
-   "doctorado"
-  ],
-  "destinations": [
-   "Benín"
-  ],
-  "funding": "varia",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Fechas: 15 March, 2027. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "External organizer External organizer Christian PAROISSIN Affiliation external organizer Université de Pau et des Pays de l'Adour Country external organizer France Email external organizer christian.paroissin@univ-pau.fr Local Organizer Local organizer Mintodê Nicodème ATCHADE Affiliation local organizer National University of Sciences, Technologies, Engineering, and Mathematics (UNSTIM) Country local organizer Benin Email local organizer nickpowerabc@gmail.com The school focuses on the progression from classical statistical inference to modern learning methods, emphasizing their interplay…",
-  "url": "https://www.cimpa.info/en/ecoles/statistical-inference-learning-methods",
-  "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "cimpa-cimpa-symbolic-dynamics-in-connection-with-combinatorics-on-words-number-theory-",
-  "slug": "cimpa-symbolic-dynamics-in-connection-with-combinatorics-on-words-number-theory-",
-  "name": "Escuela CIMPA: Symbolic Dynamics in connection with combinatorics on words, number theory and geometry.",
-  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
-  "source": "becas",
-  "sourceName": "CIMPA (cimpa.info)",
-  "types": [
-   "Escuela de investigación"
-  ],
-  "areas": [
-   "Matemáticas"
-  ],
-  "levels": [
-   "maestria",
-   "doctorado"
-  ],
-  "destinations": [
-   "Pakistán"
-  ],
-  "funding": "varia",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Fechas: 15 March, 2027. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "External organizer External organizer Pierre ARNOUX Affiliation external organizer Université d'Aix-Marseille, Institut de Mathématiques de Marseille Country external organizer France Email external organizer pierre@pierrearnoux.fr Local Organizer Local organizer Shamsa ISHAQ Affiliation local organizer Lahore College for Women University, Lahore (LCWU, Lahore) Country local organizer Pakistan Email local organizer Shamsa.Ishaq@lcwu.edu.pk The school will present three active domains which are recent developments with origin in symbolic dynamics: progresses in the theory of tilings, questions…",
-  "url": "https://www.cimpa.info/en/ecoles/symbolic-dynamics-connection-combinatorics-words-number-theory-and-geometry",
-  "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "cimpa-cimpa-learning-over-structured-high-dimensional-objects-theory-and-complexity",
-  "slug": "cimpa-learning-over-structured-high-dimensional-objects-theory-and-complexity",
-  "name": "Learning over Structured High-Dimensional Objects: Theory and Complexity (CIMPA Fellowship)",
-  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
-  "source": "becas",
-  "sourceName": "CIMPA (cimpa.info)",
-  "types": [
-   "Fellowship de investigación"
-  ],
-  "areas": [
-   "Matemáticas"
-  ],
-  "levels": [
-   "maestria",
-   "doctorado"
-  ],
-  "destinations": [
-   "Suiza"
-  ],
-  "funding": "parcial",
-  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Nivel: Master or higher educational level. Fechas: 15 March, 2027, Lausanne. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "× Many modern, large-scale datasets are structured as graphs, matrices, tensors, and other combinatorial objects. A central challenge across mathematics, statistics, and theoretical computer science is to understand the limits of inference, when these limits can be achieved computationally, and where fundamental barriers arise. Recent progress has provided evidence of computational-statistical gaps in many such problems. Low-degree polynomials, Sum-of-Squares, the overlap gap property, and other signatures of hardness, together with average-case reductions, have emerged as powerful frameworks…",
-  "url": "https://www.cimpa.info/en/node/8256",
-  "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-arithmetic-geometry",
@@ -23824,7 +23727,7 @@
   "notes": "External organizer External organizer Jeroen SIJSLING Affiliation external organizer Ulm University Country external organizer Germany Email external organizer jeroen.sijsling@uni-ulm.de Local Organizer Local organizer Nithi RUNGTANAPIROM Affiliation local organizer Chulalongkorn University Country local organizer Thailand Email local organizer Nithi.R@chula.ac.th Arithmetic geometry lies in the intersection of number theory and algebraic geometry. It involves studying geometric objects such as curves or varieties through an arithmetic lens, e.g. via their rational points. As a research area,…",
   "url": "https://www.cimpa.info/en/ecoles/arithmetic-geometry",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-deterministic-mathematical-models-for-biological-processes",
@@ -23856,7 +23759,7 @@
   "notes": "External organizer External organizer Florence HUBERT Affiliation external organizer Aix-Marseille University Country external organizer France Email external organizer florence.hubert@univ-amu.fr Local Organizer Local organizer Umida BALTAEVA Affiliation local organizer Urgench State University and Khorezm Mamun Academy Country local organizer Uzbekistan Email local organizer umida_baltayeva@mail.ru The school aims to introduce students and young researchers to several important research directions in mathematical biology, with a focus on deterministic mathematical models used to describe…",
   "url": "https://www.cimpa.info/en/ecoles/deterministic-mathematical-models-biological-processes",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-geometry-and-dynamics",
@@ -23888,7 +23791,7 @@
   "notes": "External organizer External organizer Vincent PECASTAING Affiliation external organizer Laboratoire J.A. Dieudonné, UMR CNRS 7351 Université Côte d’Azur Country external organizer France Email external organizer vincent.pecastaing@univ-cotedazur.fr Local Organizer Local organizer Rezki CHEMLAL Affiliation local organizer National Higher School of Mathematics Country local organizer Algeria Email local organizer rezki.chemlal@nhsm.edu.dz The general theme of this school lies at the intersection of geometry and dynamics, focusing on the interactions between Riemannian and Lorentzian geometries…",
   "url": "https://www.cimpa.info/en/ecoles/geometry-and-dynamics",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-mathematical-modeling-and-machine-learning-for-biomedicine-and-public-heal",
@@ -23920,7 +23823,7 @@
   "notes": "External organizer External organizer Dr. Melanie PRAGUE Affiliation external organizer University of Bordeaux Country external organizer France Email external organizer melanie.prague@gmail.com Local Organizer Local organizer Dr. Ramesh GAUTAM Affiliation local organizer Ratna Rajyalaxmi Campus, Tribhuvan University Country local organizer Nepal Email local organizer rgnumberth79@gmail.com The CIMPA School on Mathematical Modeling and Machine Learning for Biomedicine and Public Health will take place from May 31 to June 9, 2027, at Tribhuvan University in Kathmandu, Nepal. This intensive…",
   "url": "https://www.cimpa.info/en/ecoles/mathematical-modeling-and-machine-learning-biomedicine-and-public-health",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-atelier-collaboratif-en-geometrie-algebre-theorie-des-nombres-et-applicati",
@@ -23952,7 +23855,7 @@
   "notes": "External organizer External organizer Marie Françoise ROY Affiliation external organizer IRMAR, Université de Rennes 1 Country external organizer France Email external organizer marie-francoise.roy@univ-rennes.fr Local Organizer Local organizer Daouda Niang DIATTA Affiliation local organizer Laboratoire de Mathématiques et Applications, Université Assane Seck de Ziguinchor Country local organizer Senegal Email local organizer dndiatta@unniv-zig.sn <div class=\"tex2jax_process\">Le but de l'atelier collaboratif est de permettre un travail de recherche, dans différents thèmes d'actualité en…",
   "url": "https://www.cimpa.info/en/ecoles/atelier-collaboratif-en-geometrie-algebre-theorie-des-nombres-et-applications",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-statistics-for-health",
@@ -23984,7 +23887,7 @@
   "notes": "External organizer External organizer Valérie GARES Affiliation external organizer INRIA Country external organizer France Email external organizer valerie.gares@inria.fr Local Organizer Local organizer Menedore Karimumuryango Affiliation local organizer University of Burundi Country local organizer Burundi Email local organizer kmenedore@gmail.com This school focuses on modern statistical and data science methods to analyze and understand diseases. Topics include the identification of risk factors for a disease, its prevalence and incidence, statistical analysis of historical data, and…",
   "url": "https://www.cimpa.info/en/ecoles/statistics-health",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-algebraic-geometry-vi-elga",
@@ -24016,7 +23919,7 @@
   "notes": "External organizer External organizer Ana BOTERO Affiliation external organizer University of Bielefeld Country external organizer Germany Email external organizer abotero@math.uni-bielefeld.de Local Organizer Local organizer Pedro RIZZO Affiliation local organizer University of Antioquia Country local organizer Colombia Email local organizer pedro.hernandez@udea.edu.co The VI Latin American School on Algebraic Geometry will take place at Universidad de Antioquia, Colombia from June 21st to July 2nd, 2027. This school aims to bring together graduate students, postdoctoral researchers, and…",
   "url": "https://www.cimpa.info/en/ecoles/algebraic-geometry-vi-elga",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-fondements-mathematiques-de-l-informatique",
@@ -24048,7 +23951,7 @@
   "notes": "External organizer External organizer Vlady RAVELOMANANA Affiliation external organizer Université Paris Cité Country external organizer France Email external organizer vlad@irif.fr Local Organizer Local organizer Lova ZAKARIASY Affiliation local organizer Institut Supérieur de Technologie d'Antsiranana Country local organizer Madagascar Email local organizer cimpa.antsiranana@gmail.com Cette école se situe à l'interface des mathématiques fondamentales et de l'informatique théorique. Elle explore comment les outils avancés d'analyse, d'algèbre, de combinatoire et de probabilités nourrissent…",
   "url": "https://www.cimpa.info/en/ecoles/fondements-mathematiques-de-linformatique",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-fundamentals-of-density-functional-theory",
@@ -24080,7 +23983,7 @@
   "notes": "External organizer External organizer Matteo GATTI Affiliation external organizer CNRS, ECOLE POLYTECHNIQUE, FRANCE Country external organizer France Email external organizer matteo.gatti@polytechnique.fr Local Organizer Local organizer Michael ATAMBO Affiliation local organizer Technical University of Kenya Country local organizer Kenya Email local organizer michael.atambo@tukenya.ac.ke Density Functional Theory (DFT) is a widely used computational method for addressing the quantum-mechanical many-body problem, with applications across fields such as quantum chemistry, materials science,…",
   "url": "https://www.cimpa.info/en/ecoles/fundamentals-density-functional-theory",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-modelisation-mathematiques-et-intelligence-artificielle-au-service-des-sci",
@@ -24112,7 +24015,7 @@
   "notes": "External organizer External organizer Mohamed BOUTAYEB Affiliation external organizer Université de Lorraine Country external organizer France Email external organizer mohamed.boutayeb@univ-lorraine.fr Local Organizer Local organizer El Mehdi LOTFI Affiliation local organizer Faculté des Sciences Ben M'Sick, Université Hassan II de Casablanca Email local organizer Lotfiimehdi@gmail.com Cette école vise à initier les doctorants et jeunes chercheurs aux méthodes modernes de modélisation mathématique et aux outils d’intelligence artificielle (IA), appliqués à des problématiques concrètes en…",
   "url": "https://www.cimpa.info/en/ecoles/modelisation-mathematiques-et-intelligence-artificielle-au-service-des-sciences-de-la-sante",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-modern-techniques-in-analysis-and-differential-geometry",
@@ -24144,7 +24047,7 @@
   "notes": "External organizer External organizer Luis J. ALÍAS LINARES Affiliation external organizer Universidad de Murcia Country external organizer Spain Email external organizer ljalias@um.es Local Organizer Local organizer Dimas TEJADA TEJADA Affiliation local organizer Universidad de El Salvador Country local organizer El Salvador Email local organizer dimas.tejada@ues.edu.sv El programa Modern Techniques in Analysis and Differential Geometry integra dos áreas centrales de las matemáticas modernas: el análisis matemático y la geometría diferencial, con una progresión académica que va desde nivel…",
   "url": "https://www.cimpa.info/en/ecoles/modern-techniques-analysis-and-differential-geometry",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-algebraic-and-enumerative-combinatorics",
@@ -24176,7 +24079,7 @@
   "notes": "External organizer External organizer Per ALEXANDERSSON Affiliation external organizer Stockholm University Country external organizer Sweden Email external organizer per.w.alexandersson@gmail.com Local Organizer Local organizer Olivia NABAWANDA Affiliation local organizer Makerere University Country local organizer Uganda Email local organizer nabawandaolivia100@gmail.com The CIMPA School on Algebraic and Enumerative Combinatorics will take place from July 19–30, 2027 at Makerere University in Kampala, Uganda. The school aims to introduce graduate students and early-career researchers to…",
   "url": "https://www.cimpa.info/en/ecoles/algebraic-and-enumerative-combinatorics",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-flavors-of-representation-theory",
@@ -24208,7 +24111,7 @@
   "notes": "External organizer External organizer Stéphane LAUNOIS Affiliation external organizer University of Caen Normandie Country external organizer France Email external organizer stephane.launois@unicaen.fr Local Organizer Local organizer Ardeline Mary BUHPHANG Affiliation local organizer North-Eastern Hill University Country local organizer India Email local organizer ardeline17@gmail.com Flavors of Representation Theory (FoRT) is a two-week workshop focused on contemporary developments in representation theory and its interactions with algebra, geometry, combinatorics, topology, and mathematical…",
   "url": "https://www.cimpa.info/en/ecoles/flavors-representation-theory",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-modern-perspectives-on-partial-differential-equations-theory-and-applicati",
@@ -24240,7 +24143,7 @@
   "notes": "External organizer External organizer Moritz KASSMAN Affiliation external organizer Faculty of Mathematics, Bielefeld University, Germany Country external organizer Germany Email external organizer moritz.kassmann@uni-bielefeld.de Local Organizer Local organizer Tsegaye AYELE Affiliation local organizer Department of Mathematics, Addis Ababa University Country local organizer Ethiopia Email local organizer tsegaye.ayele@aau.edu.et Partial Differential Equations (PDEs) are fundamental tools for modeling natural phenomena across the physical, biological, and social sciences, describing systems…",
   "url": "https://www.cimpa.info/en/ecoles/modern-perspectives-partial-differential-equations-theory-and-applications",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-advances-in-quantum-cryptography",
@@ -24273,7 +24176,7 @@
   "notes": "× This is a thematic trimester programme with short courses, seminars and workshops on mathematical developments in Advances in Quantum Cryptography (QCRYPTO). Timeline for the trimester: September 13 to 17 - Introductory school at IHP, Paris, amphitheater Hermite October 11 to 15 - Workshop 1 at IHP, Paris: Advances in Quantum Cryptography: Information-theoretic Foundations November 15 to 19 - Workshop 2 at IHP, Paris: Advances in Quantum Cryptography: Complexity-theoretic Foundations November 29 to December 3 - Workshop 3 at IHP, Paris: Advances in Quantum Cryptography: Computational and…",
   "url": "https://www.cimpa.info/en/node/8234",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "cimpa-cimpa-statistical-analysis-of-functional-data-modeling-and-applications-to-envir",
@@ -24305,7 +24208,7 @@
   "notes": "External organizer External organizer Jean-François DUPUY Affiliation external organizer INSA Rennes Country external organizer France Email external organizer Jean-Francois.Dupuy@insa-rennes.fr Local Organizer Local organizer Abderrazek KAROUI Affiliation local organizer Faculté des Sciences de Bizerte Email local organizer abderrazek.karoui@fsb.ucar.tn Functional Data Analysis (FDA) has become an important field in statistics, facilitating the study of data in the shape of functions, curves, and surfaces. With applications spanning biomedicine, neuroscience, climate science, and…",
   "url": "https://www.cimpa.info/en/ecoles/statistical-analysis-functional-data-modeling-and-applications-environment-and-health",
   "applyUrl": "https://applications.cimpa.info/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "btf-51",
@@ -24337,7 +24240,7 @@
   "notes": "Cumplir con los requisitos y el proceso de admisión vigentes de la UNPHU. Cumplir con el perfil de ingreso definido para la carrera solicitada. Formalizar satisfactoriamente el proceso de admisión. Formalizar la solicitud de beca mediante el formulario y la documentación correspondiente. Se postula en becas.gob.do con tu cédula.",
   "url": "https://becas.gob.do/convocatorias/51",
   "applyUrl": "https://becas.gob.do/convocatorias/51",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "btf-50",
@@ -24373,7 +24276,7 @@
   "notes": "Convocatoria de Becas Nacionales e Internacionales dedicada a las carreras STEAM. Se postula en becas.gob.do con tu cédula.",
   "url": "https://becas.gob.do/convocatorias/50",
   "applyUrl": "https://becas.gob.do/convocatorias/50",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "rss-the-open-notebook-early-career-fellowship-2027",
@@ -25524,344 +25427,37 @@
   "updatedAt": "2026-11-15"
  },
  {
-  "id": "poss-20-000-regenerative-agriculture-venture-competition",
-  "slug": "20-000-regenerative-agriculture-venture-competition",
-  "name": "$20,000 Regenerative Agriculture Venture Competition",
-  "sponsor": "Goumbook",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "id": "rss-humboldt-university-berlin-research-internship-2027",
+  "slug": "humboldt-university-berlin-research-internship-2027",
+  "name": "Humboldt University Berlin Research Internship 2027",
+  "sponsor": "Farm Management Group at Humboldt-Universität zu Berlin",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
   "types": [
-   "Competencia"
+   "Internship"
   ],
   "areas": [
-   "Agricultura",
-   "Salud",
-   "Emprendimiento"
+   "Economía",
+   "Medio ambiente"
   ],
   "levels": [
    "pregrado",
-   "recien-graduado",
-   "profesional"
+   "maestria",
+   "doctorado"
   ],
   "destinations": [
-   "Mundial"
+   "Alemania"
   ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "the opportunity is open to international students: applicants must be enrolled at a university outside germany",
   "deadline": {
    "kind": "exacta",
-   "date": "2026-11-15"
+   "date": "2026-12-05"
   },
-  "notes": "Competencia de Goumbook. Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Dubai); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://goumbook.com/regenerative-agriculture/venture-programme/",
-  "applyUrl": "https://goumbook.com/regenerative-agriculture/venture-programme/",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-free-carnegie-mellon-africa-ai-certificate",
-  "slug": "free-carnegie-mellon-africa-ai-certificate",
-  "name": "Free Carnegie Mellon Africa AI Certificate",
-  "sponsor": "Carnegie Mellon University Africa (CMU-Africa)",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Taller"
-  ],
-  "areas": [
-   "Inteligencia artificial"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "varia",
-  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Taller de Carnegie Mellon University Africa (CMU-Africa). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Africa/Kigali); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.africa.engineering.cmu.edu/academics/ai-certificate/index.html",
-  "applyUrl": "https://www.africa.engineering.cmu.edu/academics/ai-certificate/index.html",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-fully-funded-itu-gender-champions-trip-to-geneva",
-  "slug": "fully-funded-itu-gender-champions-trip-to-geneva",
-  "name": "Fully Funded ITU Gender Champions Trip to Geneva",
-  "sponsor": "International Telecommunication Union (ITU)",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Premio"
-  ],
-  "areas": [
-   "Género"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 18 a 25 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Premio de International Telecommunication Union (ITU). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.itu.int/initiatives/gender-equality/gender-champions/",
-  "applyUrl": "https://www.itu.int/initiatives/gender-equality/gender-champions/",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-funded-volunteer-service-placement-abroad",
-  "slug": "funded-volunteer-service-placement-abroad",
-  "name": "Funded Volunteer Service Placement Abroad",
-  "sponsor": "AllPeopleBeHappy",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Premio"
-  ],
-  "areas": [
-   "Medio ambiente",
-   "Género"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Premio de AllPeopleBeHappy. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://allpeoplebehappy.org/experiences/volunteer-service-award/",
-  "applyUrl": "https://allpeoplebehappy.org/experiences/volunteer-service-award/",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-livestock-start-up-investment-readiness-programme",
-  "slug": "livestock-start-up-investment-readiness-programme",
-  "name": "Livestock Start-up Investment Readiness Programme",
-  "sponsor": "SAIS (Scaling Agriculture Innovations through Start-ups), implemented by GIZ",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Programa"
-  ],
-  "areas": [
-   "Salud"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Programa de SAIS (Scaling Agriculture Innovations through Start-ups), implemented by GIZ. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://sais-accelerator.com/livestock-apply-now-for-2027/",
-  "applyUrl": "https://sais-accelerator.com/livestock-apply-now-for-2027/",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-nato-science-for-peace-research-grant",
-  "slug": "nato-science-for-peace-research-grant",
-  "name": "NATO Science for Peace Research Grant",
-  "sponsor": "NATO Science for Peace and Security (SPS) Programme",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Derechos humanos",
-   "Ciencia"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Fondos de NATO Science for Peace and Security (SPS) Programme. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.nato.int/en/about-us/organization/nato-structure/science-for-peace-and-security-hub",
-  "applyUrl": "https://www.nato.int/en/about-us/organization/nato-structure/science-for-peace-and-security-hub",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-undp-every-language-matters-open-call",
-  "slug": "undp-every-language-matters-open-call",
-  "name": "UNDP Every Language Matters Open Call",
-  "sponsor": "United Nations Development Programme (UNDP)",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Programa"
-  ],
-  "areas": [
-   "Impacto social"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "varia",
-  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Programa de United Nations Development Programme (UNDP). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.undp.org/digital-innovation/every-language-matters",
-  "applyUrl": "https://www.undp.org/digital-innovation/every-language-matters",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-50-a-session-library-youth-collective",
-  "slug": "50-a-session-library-youth-collective",
-  "name": "£50 a Session Library Youth Collective",
-  "sponsor": "British Library",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Programa"
-  ],
-  "areas": [
-   "Impacto social"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado"
-  ],
-  "destinations": [],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para . De 18 a 24 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Programa de British Library. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.bl.uk/about/projects/youth-programme",
-  "applyUrl": "https://www.bl.uk/about/projects/youth-programme",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-1-000-european-dream-democracy-residency",
-  "slug": "1-000-european-dream-democracy-residency",
-  "name": "€1,000 European Dream Democracy Residency",
-  "sponsor": "Democracy Foundation (Demokrātijas fonds)",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Derechos humanos",
-   "Género"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Fellowship de Democracy Foundation (Demokrātijas fonds). Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/Riga); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.demokratijasfonds.lv/post/applications-open-for-the-international-democracy-residency-european-dream",
-  "applyUrl": "https://www.demokratijasfonds.lv/post/applications-open-for-the-international-democracy-residency-european-dream",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-1-000-a-month-journalists-in-residence-fellowship",
-  "slug": "1-000-a-month-journalists-in-residence-fellowship",
-  "name": "€1,000 a Month Journalists-in-Residence Fellowship",
-  "sponsor": "European Centre for Press and Media Freedom (ECPMF), for the Media Freedom Rapid Response (MFRR)",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Salud",
-   "Periodismo"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-15"
-  },
-  "notes": "Fellowship de European Centre for Press and Media Freedom (ECPMF), for the Media Freedom Rapid Response (MFRR). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.mfrr.eu/open-call-apply-for-our-journalists-in-residence-programme/",
-  "applyUrl": "https://www.mfrr.eu/open-call-apply-for-our-journalists-in-residence-programme/",
-  "updatedAt": "2026-11-15"
+  "notes": "Students pursuing degrees in economics, agricultural economics and related disciplines have an opportunity to gain international research experience in Germany through the Humboldt Internship Program 2027 .",
+  "url": "https://opportunitiesforyouth.org/2026/11/15/humboldt-university-berlin-research-internship-2027-weather-index-insurance-and-climate-risk-research-in-west-africa-mali/",
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-4-000-overseas-press-club-scholar-awards",
@@ -25896,7 +25492,7 @@
   "notes": "Premio de Overseas Press Club Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.overseaspressclubfoundation.org/scholar-awards-program",
   "applyUrl": "https://www.overseaspressclubfoundation.org/scholar-awards-program",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-55-000-iapp-westin-ai-governance-fellowship",
@@ -25929,7 +25525,7 @@
   "notes": "Fellowship de IAPP (International Association of Privacy Professionals). Totalmente financiado. La convocatoria cierra a las 16:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://iapp.org/community/students-academia/westin-fellowship-program",
   "applyUrl": "https://iapp.org/community/students-academia/westin-fellowship-program",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-apfsd-youth-forum-in-bangkok",
@@ -25963,7 +25559,7 @@
   "notes": "Conferencia de Asian-Pacific Resource and Research Centre for Women (ARROW), with co-convenors Youth LEAD, Y-PEER Asia-Pacific Center, Major Group for Children and Youth and Children and Youth Major Group to UNEP. Financiamiento parcial. La convocatoria cierra a las 23:59 (Asia/Bangkok); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://arrow.org.my/apfsd-youth-forum-2027-call-for-applications/",
   "applyUrl": "https://arrow.org.my/apfsd-youth-forum-2027-call-for-applications/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-east-west-center-advanced-leadership-fellowship",
@@ -25997,7 +25593,7 @@
   "notes": "Fellowship de East-West Center. Financiamiento parcial. La convocatoria cierra a las 23:00 (Pacific/Honolulu); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.eastwestcenter.org/apply/advanced-leadership-program",
   "applyUrl": "https://www.eastwestcenter.org/apply/advanced-leadership-program",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-global-solvers-accelerator-for-social-ventures",
@@ -26030,7 +25626,7 @@
   "notes": "Fellowship de Melton Foundation. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://meltonfoundation.org/global-solvers-accelerator/",
   "applyUrl": "https://meltonfoundation.org/global-solvers-accelerator/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-harvard-lead-women-in-global-health-fellowship",
@@ -26064,7 +25660,7 @@
   "notes": "Fellowship de Harvard Global Health Institute. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://globalhealth.harvard.edu/fellowships/harvard-lead-fellowship/",
   "applyUrl": "https://globalhealth.harvard.edu/fellowships/harvard-lead-fellowship/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-melton-global-citizenship-learning-fellowship",
@@ -26097,7 +25693,7 @@
   "notes": "Fellowship de Melton Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://meltonfoundation.org/global-citizenship-learning-program/",
   "applyUrl": "https://meltonfoundation.org/global-citizenship-learning-program/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-princeton-climate-behavioral-science-winter-school",
@@ -26134,7 +25730,7 @@
   "notes": "Taller de Princeton University. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.princetonclimateschool.com/apply",
   "applyUrl": "https://www.princetonclimateschool.com/apply",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-100-000-undp-ocean-innovation-challenge",
@@ -26168,7 +25764,7 @@
   "notes": "Competencia de United Nations Development Programme (UNDP). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://dev.oceaninnovationchallenge.org/5th-call-marine-pollution-reduction-coastal-and-marine-ecosystem-restoration-and-sustainable-blue",
   "applyUrl": "https://dev.oceaninnovationchallenge.org/5th-call-marine-pollution-reduction-coastal-and-marine-ecosystem-restoration-and-sustainable-blue",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-000-ecosystem-adaptation-grant",
@@ -26203,7 +25799,7 @@
   "notes": "Fondos de Global EbA Fund (IUCN and UNEP). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://globalebafund.org/medium-size-grants/",
   "applyUrl": "https://globalebafund.org/medium-size-grants/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-9-000-edf-women-with-disabilities-leading-the-change-grant",
@@ -26237,7 +25833,7 @@
   "notes": "Fondos de European Disability Forum (EDF). Totalmente financiado. La convocatoria cierra a las 16:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.edf-feph.org/apply-for-our-sub-granting-women-with-disabilities-leading-the-change/",
   "applyUrl": "https://www.edf-feph.org/apply-for-our-sub-granting-women-with-disabilities-leading-the-change/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-world-bank-government-analytics-fellowship",
@@ -26270,43 +25866,7 @@
   "notes": "Fellowship de World Bank. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.worldbank.org/en/publication/government-analytics/brief/government-analytics-fellowship",
   "applyUrl": "https://www.worldbank.org/en/publication/government-analytics/brief/government-analytics-fellowship",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-20-000-planet-health-documentary-grant",
-  "slug": "20-000-planet-health-documentary-grant",
-  "name": "£20,000 Planet Health Documentary Grant",
-  "sponsor": "Earthrise Studio, with Bupa",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Medio ambiente",
-   "Salud",
-   "Periodismo"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-16"
-  },
-  "notes": "Fondos de Earthrise Studio, with Bupa. Totalmente financiado. La convocatoria cierra a las 18:00 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://planethealthfilmfund.com/",
-  "applyUrl": "https://planethealthfilmfund.com/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-driving-urban-transitions-innovation-grant",
@@ -26340,7 +25900,7 @@
   "notes": "Fondos de Driving Urban Transitions (DUT) Partnership. Totalmente financiado. La convocatoria cierra a las 13:00 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://dutpartnership.eu/index.php/calls/dut-call-2026",
   "applyUrl": "https://dutpartnership.eu/index.php/calls/dut-call-2026",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-corpsafrica-digital-communications-internship",
@@ -26373,42 +25933,7 @@
   "notes": "Pasantía de CorpsAfrica. Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Nairobi); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://corpsafrica.applytojob.com/apply/Kn57UcuPQ0/Digital-Communications-Intern",
   "applyUrl": "https://corpsafrica.applytojob.com/apply/Kn57UcuPQ0/Digital-Communications-Intern",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-up-to-2m-nexa-lighthouse-grant",
-  "slug": "up-to-2m-nexa-lighthouse-grant",
-  "name": "Up to $2M Nexa Lighthouse Grant",
-  "sponsor": "Grand Challenges Canada",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Clima",
-   "Salud"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-17"
-  },
-  "notes": "Fondos de Grand Challenges Canada. Totalmente financiado. La convocatoria cierra a las 14:00 (America/Toronto); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.grandchallenges.ca/funding-opportunity-nexa-lighthouse/",
-  "applyUrl": "https://www.grandchallenges.ca/funding-opportunity-nexa-lighthouse/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-150-000-green-digital-employability-grant",
@@ -26442,7 +25967,7 @@
   "notes": "Fondos de British Council. Totalmente financiado. La convocatoria cierra a las 10:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://opportunities-insight.britishcouncil.org/short-articles/opportunities/green-and-digital-employability-and-enterprise-programme",
   "applyUrl": "https://opportunities-insight.britishcouncil.org/short-articles/opportunities/green-and-digital-employability-and-enterprise-programme",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-400k-alliance-startup-accelerator-investment",
@@ -26476,7 +26001,7 @@
   "notes": "Programa de Alliance. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://alliance.xyz/",
   "applyUrl": "https://alliance.xyz/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-cymg-global-steering-committee-open-call",
@@ -26510,7 +26035,7 @@
   "notes": "Programa de Children and Youth Major Group to UNEP (CYMG). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.cymgenv.net/steering-committee",
   "applyUrl": "https://www.cymgenv.net/steering-committee",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-feminist-publishing-mentorship-programme",
@@ -26544,7 +26069,7 @@
   "notes": "Taller de Gender and Justice (Bristol University Press). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://bristoluniversitypressdigital.com/page/27377",
   "applyUrl": "https://bristoluniversitypressdigital.com/page/27377",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-remote-ocean-futures-fellowship",
@@ -26578,7 +26103,7 @@
   "notes": "Fellowship de OceanX. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.iie.org/programs/oceanfuturesfellowship/",
   "applyUrl": "https://www.iie.org/programs/oceanfuturesfellowship/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-techstars-london-accelerator-220k-investment",
@@ -26612,7 +26137,7 @@
   "notes": "Programa de Techstars. Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.techstars.com/accelerators/london",
   "applyUrl": "https://www.techstars.com/accelerators/london",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-25-000-audible-emerging-playwrights-commission",
@@ -26646,7 +26171,7 @@
   "notes": "Fondos de Audible. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.audible.com/blog/emerging-playwrights-fund-application",
   "applyUrl": "https://www.audible.com/blog/emerging-playwrights-fund-application",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-careers-in-your-community-school-challenge",
@@ -26680,7 +26205,7 @@
   "notes": "Competencia de U.S. Department of Education (CTE Momentum, managed by Luminary Labs). Totalmente financiado. La convocatoria cierra a las 18:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://careersinyourcommunity.ctemomentum.com/about-the-challenge/",
   "applyUrl": "https://careersinyourcommunity.ctemomentum.com/about-the-challenge/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-un-journalism-fellowship-in-doha",
@@ -26715,7 +26240,7 @@
   "notes": "Fellowship de United Nations (UN-OHRLLS). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.un.org/ohrlls/content/dpoa-mtr-journalism-fellowship",
   "applyUrl": "https://www.un.org/ohrlls/content/dpoa-mtr-journalism-fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-us-community-engagement-exchange",
@@ -26748,7 +26273,7 @@
   "notes": "Fellowship de IREX. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.irex.org/program/community-engagement-exchange-program-application-information",
   "applyUrl": "https://www.irex.org/program/community-engagement-exchange-program-application-information",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-young-african-leaders-fellowship",
@@ -26781,7 +26306,7 @@
   "notes": "Fellowship de AFS Youth Assembly (AFS Intercultural Programs). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
   "applyUrl": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-funded-energy-heroes-award-in-vienna",
@@ -26815,7 +26340,44 @@
   "notes": "Premio de Sustainable Energy for All (SEforALL). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.seforall.org/energyheroes",
   "applyUrl": "https://www.seforall.org/energyheroes",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
+ },
+ {
+  "id": "poss-20-000-planet-health-documentary-film-grant",
+  "slug": "20-000-planet-health-documentary-film-grant",
+  "name": "£20,000 Planet Health Documentary Film Grant",
+  "sponsor": "Earthrise",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Clima",
+   "Medio ambiente",
+   "Salud",
+   "Periodismo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-19"
+  },
+  "notes": "Fondos de Earthrise. Totalmente financiado. La convocatoria cierra a las 18:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://planethealthfilmfund.com/",
+  "applyUrl": "https://planethealthfilmfund.com/",
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-20-to-50-million-global-health-grants",
@@ -26849,7 +26411,7 @@
   "notes": "Fondos de The Rauch Family Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.therauchfamilyfoundation.org/rfp",
   "applyUrl": "https://www.therauchfamilyfoundation.org/rfp",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-africa-dyslexia-teacher-fellowship",
@@ -26882,7 +26444,7 @@
   "notes": "Fellowship de Africa Dyslexia Organisation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdakWdrYiUB14vvICyuzv620h7PvbZTnjT9BNSKFz4GpHqZlQ/viewform",
   "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdakWdrYiUB14vvICyuzv620h7PvbZTnjT9BNSKFz4GpHqZlQ/viewform",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-funded-menstrual-equity-youth-fellowship",
@@ -26915,7 +26477,7 @@
   "notes": "Fellowship de Operation Period. Totalmente financiado. La convocatoria cierra a las 17:00 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.operationperiod.org/yimf",
   "applyUrl": "https://www.operationperiod.org/yimf",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-undp-rome-climate-and-energy-internship",
@@ -26949,7 +26511,7 @@
   "notes": "Pasantía de United Nations Development Programme (UNDP), Rome Centre for Climate Action and Energy Transition. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37931",
   "applyUrl": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37931",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-130-000-healthy-food-policy-grant",
@@ -26984,7 +26546,7 @@
   "notes": "Fondos de Colansa (Comunidad de Práctica Latinoamérica y Caribe Nutrición y Salud). Totalmente financiado. La convocatoria cierra a las 12:00 (America/Sao_Paulo); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://colansa.org/es/fondo-colansa-2026/",
   "applyUrl": "https://colansa.org/es/fondo-colansa-2026/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-250-000-wilkes-climate-innovation-prize",
@@ -27018,7 +26580,7 @@
   "notes": "Competencia de Wilkes Center for Climate Science and Policy, University of Utah. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Denver); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://wilkescenter.utah.edu/prize/2027-climate-innovation-prize/",
   "applyUrl": "https://wilkescenter.utah.edu/prize/2027-climate-innovation-prize/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-5-000-a-month-italy-aosis-fellowship",
@@ -27053,7 +26615,7 @@
   "notes": "Fellowship de Alliance of Small Island States (AOSIS). Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.aosis.org/fellowship/",
   "applyUrl": "https://www.aosis.org/fellowship/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-160-000-grief-reach-grant",
@@ -27087,7 +26649,7 @@
   "notes": "Fondos de National Alliance for Children's Grief (NACG). Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://nacg.org/grants/grief-reach/",
   "applyUrl": "https://nacg.org/grants/grief-reach/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-000-human-scale-ai-grant",
@@ -27121,7 +26683,7 @@
   "notes": "Fondos de Mozilla Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/human-scale-ai/call-for-proposals/",
   "applyUrl": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/human-scale-ai/call-for-proposals/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-600-000-k-12-ai-infrastructure-grant",
@@ -27155,7 +26717,7 @@
   "notes": "Fondos de Digital Promise. Totalmente financiado. La convocatoria cierra a las 23:59 (Etc/GMT+12); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://k12-ai-infrastructure.org/harness-rfp/",
   "applyUrl": "https://k12-ai-infrastructure.org/harness-rfp/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-cannes-marketing-fellowship",
@@ -27188,7 +26750,7 @@
   "notes": "Fellowship de Effie LIONS Foundation. Totalmente financiado. La convocatoria cierra a las 18:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://effielions.org/votf/",
   "applyUrl": "https://effielions.org/votf/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-funded-antarctic-treaty-science-policy-fellowship",
@@ -27222,7 +26784,7 @@
   "notes": "Fellowship de Scientific Committee on Antarctic Research (SCAR). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://scar.org/fellowships-awards/ant-icon-scats-fellowships",
   "applyUrl": "https://scar.org/fellowships-awards/ant-icon-scats-fellowships",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-stanford-global-sustainability-student-competition",
@@ -27256,7 +26818,7 @@
   "notes": "Competencia de Stanford Doerr School of Sustainability, Stanford University. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.globalsustainabilitychallenge.org/challenge-details",
   "applyUrl": "https://www.globalsustainabilitychallenge.org/challenge-details",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-1-000-qs-impact-youth-innovation-challenge",
@@ -27289,7 +26851,7 @@
   "notes": "Competencia de QS ImpACT. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfH6CpKALSPP7omHLMiLp7gjxc3oo1fJ1c4H3_GK3DJ0C9ktw/viewform",
   "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfH6CpKALSPP7omHLMiLp7gjxc3oo1fJ1c4H3_GK3DJ0C9ktw/viewform",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-32-000-cop32-youth-coordination-grant",
@@ -27323,7 +26885,7 @@
   "notes": "Fondos de Generation Climate Europe. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://gceurope.org/funding-fairer-futures/youth-climate-changemakers-fund-for-youth-organisations/",
   "applyUrl": "https://gceurope.org/funding-fairer-futures/youth-climate-changemakers-fund-for-youth-organisations/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-100-environmental-writing-competition",
@@ -27356,7 +26918,7 @@
   "notes": "Competencia de Write the World. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 12:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://writetheworld.org/competition-page/5398",
   "applyUrl": "https://writetheworld.org/competition-page/5398",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-50-000-solve-for-tomorrow-stem-competition",
@@ -27391,7 +26953,7 @@
   "notes": "Competencia de Samsung Electronics America, with MIT Solve. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://solve.mit.edu/samsungsolvefortomorrow",
   "applyUrl": "https://solve.mit.edu/samsungsolvefortomorrow",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-60-000-ibci-blue-carbon-fellowship",
@@ -27425,7 +26987,7 @@
   "notes": "Fellowship de International Blue Carbon Institute (IBCI), Conservation International. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.conservation.org/ibci/fellowship",
   "applyUrl": "https://www.conservation.org/ibci/fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-chf-6-000-a-month-ip-and-women-fellowship",
@@ -27457,7 +27019,7 @@
   "notes": "Fellowship de World Intellectual Property Organization (WIPO). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Zurich); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://wipo.taleo.net/careersection/wp_2_fel/jobdetail.ftl?job=26331-FEL&lang=en",
   "applyUrl": "https://wipo.taleo.net/careersection/wp_2_fel/jobdetail.ftl?job=26331-FEL&lang=en",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-who-systems-thinking-summer-school",
@@ -27492,7 +27054,7 @@
   "notes": "Taller de WHO Regional Office for Europe. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Copenhagen); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.who.int/europe/news-room/articles/item/call-for-applications--2027-summer-school---systems-thinking-and-innovation-for-the-prevention-of-noncommunicable-diseases-and-a-healthy-ageing-population-in-the-who-european-region",
   "applyUrl": "https://www.who.int/europe/news-room/articles/item/call-for-applications--2027-summer-school---systems-thinking-and-innovation-for-the-prevention-of-noncommunicable-diseases-and-a-healthy-ageing-population-in-the-who-european-region",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-matter-digital-health-founder-accelerator",
@@ -27526,7 +27088,7 @@
   "notes": "Programa de MATTER. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://matter.health/challenges/groundwork-an-emerging-innovator-accelerator/",
   "applyUrl": "https://matter.health/challenges/groundwork-an-emerging-innovator-accelerator/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-anthropic-residency",
@@ -27559,7 +27121,7 @@
   "notes": "Fellowship de Anthropic. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://alignment.anthropic.com/2026/anthropic-residency/",
   "applyUrl": "https://alignment.anthropic.com/2026/anthropic-residency/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-telemachus-and-athena-global-mentoring-programme",
@@ -27593,7 +27155,7 @@
   "notes": "Taller de Global Thinkers Forum. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://globalthinkersmentors.org/mentees-application",
   "applyUrl": "https://globalthinkersmentors.org/mentees-application",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-un-ai-for-good-startup-pitch-competition",
@@ -27628,7 +27190,7 @@
   "notes": "Competencia de International Telecommunication Union (ITU), AI for Good. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Zurich); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://aiforgood.itu.int/event/ai-for-good-innovation-factory-2026-live-pitching-session/",
   "applyUrl": "https://aiforgood.itu.int/event/ai-for-good-innovation-factory-2026-live-pitching-session/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-eur-50-000-copower-gender-violence-grant",
@@ -27662,7 +27224,7 @@
   "notes": "Fondos de Asociación Bienestar y Desarrollo (ABD), for the Connecting Power (CoPower) project. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Madrid); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://abd.ong/convocatoria-copower/",
   "applyUrl": "https://abd.ong/convocatoria-copower/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-000-ai-economic-opportunity-grant",
@@ -27696,7 +27258,7 @@
   "notes": "Fondos de The Hg Foundation, supported by JPMorganChase. Totalmente financiado. La convocatoria cierra a las 09:00 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.thehgfoundation.com/ai-economic-opportunity-fund/programmes-fund",
   "applyUrl": "https://www.thehgfoundation.com/ai-economic-opportunity-fund/programmes-fund",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-50-000-copower-gbv-prevention-grant",
@@ -27730,7 +27292,7 @@
   "notes": "Fondos de Oxfam Italia. Totalmente financiado. La convocatoria cierra a las 15:00 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://copower.oxfam.it/",
   "applyUrl": "https://copower.oxfam.it/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-4-500-map-nonprofit-consulting-fellowship",
@@ -27763,7 +27325,7 @@
   "notes": "Fellowship de Morgridge Family Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Denver); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://morgridgefamilyfoundation.org/morgridge-acceleration-program",
   "applyUrl": "https://morgridgefamilyfoundation.org/morgridge-acceleration-program",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-500-000-td-housing-for-everyone-grant",
@@ -27797,7 +27359,7 @@
   "notes": "Fondos de TD Charitable Foundation. Totalmente financiado. La convocatoria cierra a las 16:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.td.com/us/en/about-us/communities/ready-commitment/funding-opportunities/housing-for-everyone",
   "applyUrl": "https://www.td.com/us/en/about-us/communities/ready-commitment/funding-opportunities/housing-for-everyone",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-6-000-idac-investment-fellowship",
@@ -27830,7 +27392,7 @@
   "notes": "Fellowship de iDAC Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://idacfellowship.org/",
   "applyUrl": "https://idacfellowship.org/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-african-cso-ai-governance-cohort",
@@ -27865,7 +27427,7 @@
   "notes": "Taller de i4Policy (Innovation for Policy Foundation). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 17:00 (Africa/Johannesburg); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://i4policy.org/opportunities/",
   "applyUrl": "https://i4policy.org/opportunities/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-shiraka-local-governance-training",
@@ -27899,7 +27461,7 @@
   "notes": "Taller de The Hague Academy for Local Governance. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Amsterdam); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://thehagueacademy.com/scholarship/shiraka/",
   "applyUrl": "https://thehagueacademy.com/scholarship/shiraka/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-ilo-safe-migration-journalism-competition",
@@ -27933,7 +27495,7 @@
   "notes": "Competencia de International Labour Organization (ILO). Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Nairobi); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.ilo.org/resource/news/ilo-launches-three-writing-competitions-safe-labour-migration-east-and-horn",
   "applyUrl": "https://www.ilo.org/resource/news/ilo-launches-three-writing-competitions-safe-labour-migration-east-and-horn",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-ilo-safe-migration-student-essay-competition",
@@ -27967,7 +27529,7 @@
   "notes": "Competencia de International Labour Organization (ILO). Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Nairobi); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.ilo.org/resource/news/ilo-launches-three-writing-competitions-safe-labour-migration-east-and-horn",
   "applyUrl": "https://www.ilo.org/resource/news/ilo-launches-three-writing-competitions-safe-labour-migration-east-and-horn",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-mountaintop-business-executive-fellowship",
@@ -28000,7 +27562,7 @@
   "notes": "Fellowship de Mountaintop International. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.mountaintop.international/business-executive-fellowship",
   "applyUrl": "https://www.mountaintop.international/business-executive-fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-5-750-ddi-south-asia-civic-grant",
@@ -28034,7 +27596,7 @@
   "notes": "Fondos de Accountability Lab (DDI South Asia). Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Dhaka); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://ddisouthasia.org/grants/",
   "applyUrl": "https://ddisouthasia.org/grants/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-epistemics-fund-grants-for-thinking-tools",
@@ -28068,7 +27630,7 @@
   "notes": "Fondos de Ought, via Lightcone Commons (organised by Nathan Young). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://epistemic.fund/",
   "applyUrl": "https://epistemic.fund/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-25-000-sustain-hta-fellowship",
@@ -28101,7 +27663,7 @@
   "notes": "Fellowship de SUSTAIN-HTA Consortium (EU Horizon Europe project coordinated by Utrecht University). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Amsterdam); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://sustain-hta.org/fellowship-programme/",
   "applyUrl": "https://sustain-hta.org/fellowship-programme/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-nylc-national-youth-advisory-council",
@@ -28135,7 +27697,7 @@
   "notes": "Programa de National Youth Leadership Council (nylc). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://nylc.org/youth-advisory-council/",
   "applyUrl": "https://nylc.org/youth-advisory-council/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-climate-democracy-accelerator-grant",
@@ -28171,7 +27733,7 @@
   "notes": "Fondos de People Powered. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.peoplepowered.org/climate-democracy-accelerator",
   "applyUrl": "https://www.peoplepowered.org/climate-democracy-accelerator",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-3-000-walk-of-water-photo-story-contest",
@@ -28206,7 +27768,7 @@
   "notes": "Competencia de Onewater. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Paris); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://onewater.blue/contest/walk-of-water-photostory-contest-out-of-sight-8c7e119f",
   "applyUrl": "https://onewater.blue/contest/walk-of-water-photostory-contest-out-of-sight-8c7e119f",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-gold-stack-shorts-film-grant",
@@ -28240,7 +27802,7 @@
   "notes": "Fondos de Gold House, with South Stack Studios. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://goldhouse.org/goldstack",
   "applyUrl": "https://goldhouse.org/goldstack",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-200-000-david-prize-for-new-yorkers",
@@ -28274,7 +27836,7 @@
   "notes": "Premio de The David Prize. Totalmente financiado. La convocatoria cierra a las 18:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://thedavidprize.org/steps/",
   "applyUrl": "https://thedavidprize.org/steps/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-ai-policy-research-externship-at-umea",
@@ -28309,7 +27871,7 @@
   "notes": "Programa de AI Policy Lab, Umeå University. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Stockholm); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://aipolicylab.se/opportunities/ai-policy-lab-externship-programme-2027/",
   "applyUrl": "https://aipolicylab.se/opportunities/ai-policy-lab-externship-programme-2027/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-an-taisce-climate-ambassador-programme",
@@ -28342,7 +27904,7 @@
   "notes": "Programa de An Taisce, The National Trust for Ireland. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Dublin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://climateambassador.ie/apply-climate-ambassador/",
   "applyUrl": "https://climateambassador.ie/apply-climate-ambassador/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-circl-january-leadership-coaching-programme",
@@ -28375,7 +27937,7 @@
   "notes": "Taller de Circl. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.tfaforms.com/4894592?tfa_850=001P20000060ZKA",
   "applyUrl": "https://www.tfaforms.com/4894592?tfa_850=001P20000060ZKA",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-edsafe-ai-fellowship-for-education-leaders",
@@ -28411,7 +27973,7 @@
   "notes": "Fellowship de EDSAFE AI Alliance. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 22:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.edsafeai.org/fellowship",
   "applyUrl": "https://www.edsafeai.org/fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fao-world-food-forum-youth-policy-board",
@@ -28448,7 +28010,7 @@
   "notes": "Programa de World Food Forum (FAO). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/en",
   "applyUrl": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/en",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-tv-production-training-london",
@@ -28482,7 +28044,7 @@
   "notes": "Taller de MAMA Youth Project. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.mamayouth.org.uk/training/digital-and-broadcast-media-training4-2027",
   "applyUrl": "https://www.mamayouth.org.uk/training/digital-and-broadcast-media-training4-2027",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-women-in-stem-mentoring-fellowship",
@@ -28516,7 +28078,7 @@
   "notes": "Fellowship de STEMi Makers of Africa. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Africa/Lagos); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://stemimakersafrica.org/women-in-africa-mena-nations/",
   "applyUrl": "https://stemimakersafrica.org/women-in-africa-mena-nations/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-hurford-youth-democracy-fellowship",
@@ -28550,7 +28112,7 @@
   "notes": "Fellowship de National Endowment for Democracy. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.ned.org/fellowships/hurford-youth-fellows-program/",
   "applyUrl": "https://www.ned.org/fellowships/hurford-youth-fellows-program/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-funded-council-of-europe-youth-delegate-call",
@@ -28584,7 +28146,7 @@
   "notes": "Conferencia de Congress of Local and Regional Authorities of the Council of Europe. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Paris); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.coe.int/en/web/congress/rejuvenating-politics-and-youth-delegates",
   "applyUrl": "https://www.coe.int/en/web/congress/rejuvenating-politics-and-youth-delegates",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-cispa-summer-research-internship",
@@ -28618,7 +28180,7 @@
   "notes": "Pasantía de CISPA Helmholtz Center for Information Security. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://career.cispa.de/internship",
   "applyUrl": "https://career.cispa.de/internship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-2-500-rural-oregon-grant",
@@ -28652,7 +28214,7 @@
   "notes": "Fondos de The Roundhouse Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://roundhousefoundation.org/how-to-apply-for-roundhouse-grants/#smallgrants",
   "applyUrl": "https://roundhousefoundation.org/how-to-apply-for-roundhouse-grants/#smallgrants",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-solve-for-change-microgrant",
@@ -28686,7 +28248,7 @@
   "notes": "Fondos de Solve Education!. Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Singapore); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://solveforchange.org/",
   "applyUrl": "https://solveforchange.org/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-5-000-ocean-culture-storytelling-grant",
@@ -28722,7 +28284,7 @@
   "notes": "Fondos de Ocean Culture Life. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://pagesoceanculturelife.com/storytelling-grants-programme",
   "applyUrl": "https://pagesoceanculturelife.com/storytelling-grants-programme",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-10-500-eu-lac-startup-pilot-accelerator",
@@ -28756,7 +28318,7 @@
   "notes": "Programa de EU-LAC Digital Accelerator (EU-funded consortium led by TECNALIA). Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://eulacdigitalaccelerator.com/open-call/",
   "applyUrl": "https://eulacdigitalaccelerator.com/open-call/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-a16z-new-media-fellowship",
@@ -28789,7 +28351,7 @@
   "notes": "Fellowship de Andreessen Horowitz (a16z). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://build.a16z.com/fellowships/new-media",
   "applyUrl": "https://build.a16z.com/fellowships/new-media",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-20-000-cleantech-challenge-student-competition",
@@ -28823,7 +28385,7 @@
   "notes": "Competencia de Cleantech Challenge, London Business School. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://thecleantechchallenge.uk/apply",
   "applyUrl": "https://thecleantechchallenge.uk/apply",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-terre-de-femmes-international-award",
@@ -28858,7 +28420,7 @@
   "notes": "Premio de Yves Rocher Foundation (Fondation Yves Rocher). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Paris); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.yves-rocher-fondation.org/en/how-to-apply-for-the-international-award/",
   "applyUrl": "https://www.yves-rocher-fondation.org/en/how-to-apply-for-the-international-award/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-100-personal-essay-call-write-or-die",
@@ -28892,7 +28454,7 @@
   "notes": "Competencia de Write or Die (a Chill Subs publication). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.writeordiemag.com/p/send-us-your-personal-essays-we-pay",
   "applyUrl": "https://www.writeordiemag.com/p/send-us-your-personal-essays-we-pay",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-2-500-asia-foundation-development-fellowship",
@@ -28925,7 +28487,7 @@
   "notes": "Fellowship de The Asia Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://asiafoundation.org/fellowship/asia-foundation-development-fellows/",
   "applyUrl": "https://asiafoundation.org/fellowship/asia-foundation-development-fellows/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-500-one-teen-story-writing-contest",
@@ -28957,7 +28519,7 @@
   "notes": "Competencia de One Story. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://one-story.com/write/one-teen-story-contest/",
   "applyUrl": "https://one-story.com/write/one-teen-story-contest/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-2-minutes-for-peace-video-open-call",
@@ -28991,7 +28553,7 @@
   "notes": "Competencia de Storytellers for Peace. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.storytellersforpeace.com/2-minutes-for-peace",
   "applyUrl": "https://www.storytellersforpeace.com/2-minutes-for-peace",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-global-impact-fellows-program-for-young-us-leaders",
@@ -29024,7 +28586,7 @@
   "notes": "Fellowship de The Memorial Foundation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.thememorialfoundation.org/mlk/global-impact-fellows-program",
   "applyUrl": "https://www.thememorialfoundation.org/mlk/global-impact-fellows-program",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-insead-ai-founder-sprint-accelerator",
@@ -29059,7 +28621,7 @@
   "notes": "Taller de INSEAD AI Venture Lab. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Asia/Singapore); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://venture-lab.ai/sprint2027",
   "applyUrl": "https://venture-lab.ai/sprint2027",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-jim-leech-mastercard-entrepreneurship-fellowship",
@@ -29092,7 +28654,7 @@
   "notes": "Fellowship de Dunin-Deshpande Innovation Centre at Queen's University (DDQIC). Totalmente financiado. La convocatoria cierra a las 12:59 (America/Toronto); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
   "applyUrl": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-millennium-fellowship-class-of-2027",
@@ -29125,7 +28687,7 @@
   "notes": "Fellowship de Millennium Campus Network (MCN) and United Nations Academic Impact (UNAI). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.millenniumfellows.org/apply",
   "applyUrl": "https://www.millenniumfellows.org/apply",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-national-geographic-human-thread-grant",
@@ -29159,7 +28721,7 @@
   "notes": "Fondos de National Geographic Society. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://funding.nationalgeographic.org/s/fundingopportunity/119Hr000000CohcIAC/rfp-the-human-thread",
   "applyUrl": "https://funding.nationalgeographic.org/s/fundingopportunity/119Hr000000CohcIAC/rfp-the-human-thread",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-2-000-nature-culture-fellowship",
@@ -29192,7 +28754,7 @@
   "notes": "Fellowship de Kinship. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.kinship.earth/nature-culture-fellowship",
   "applyUrl": "https://www.kinship.earth/nature-culture-fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-50-000-trans-led-group-grant",
@@ -29226,7 +28788,7 @@
   "notes": "Fondos de International Trans Fund (ITF). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.transfund.org/apply-for-a-grant/",
   "applyUrl": "https://www.transfund.org/apply-for-a-grant/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-50-000-a-year-women-led-grant",
@@ -29260,7 +28822,7 @@
   "notes": "Fondos de WomenStrong International. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.womenstrong.org/news-resources/funding-for-francophone-west-africa-call-for-expressions-of-interest-now-open/",
   "applyUrl": "https://www.womenstrong.org/news-resources/funding-for-francophone-west-africa-call-for-expressions-of-interest-now-open/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-100-000-women-innovators-prize",
@@ -29294,7 +28856,7 @@
   "notes": "Premio de European Innovation Council (EIC) and European Institute of Innovation and Technology (EIT). Totalmente financiado. La convocatoria cierra a las 17:00 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://eic.ec.europa.eu/eic-prizes/european-prize-women-innovators-powered-eic-eit_en",
   "applyUrl": "https://eic.ec.europa.eu/eic-prizes/european-prize-women-innovators-powered-eic-eit_en",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-1-500-a-month-euaa-traineeship",
@@ -29327,7 +28889,7 @@
   "notes": "Pasantía de European Union Agency for Asylum (EUAA). Totalmente financiado. La convocatoria cierra a las 12:00 (Europe/Malta); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.euaa.europa.eu/careers/traineeship",
   "applyUrl": "https://www.euaa.europa.eu/careers/traineeship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-100-000-mapfre-social-innovation-award",
@@ -29361,7 +28923,7 @@
   "notes": "Premio de Fundación Mapfre. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Madrid); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.fundacionmapfre.org/en/awards-aids/awards/awards-fundacion-mapfre-innovation-social/",
   "applyUrl": "https://www.fundacionmapfre.org/en/awards-aids/awards/awards-fundacion-mapfre-innovation-social/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-135-000-jsk-journalism-fellowship-at-stanford",
@@ -29395,7 +28957,7 @@
   "notes": "Fellowship de John S. Knight Journalism Fellowships at Stanford University. Totalmente financiado. La convocatoria cierra a las 13:00 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://jsk.stanford.edu/become-a-fellow",
   "applyUrl": "https://jsk.stanford.edu/become-a-fellow",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-26-500-echidna-global-scholars-fellowship",
@@ -29429,7 +28991,7 @@
   "notes": "Fellowship de Center for Universal Education at the Brookings Institution. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.brookings.edu/echidna-global-scholars-program/",
   "applyUrl": "https://www.brookings.edu/echidna-global-scholars-program/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-75-000-climate-intervention-impact-assessment-grant",
@@ -29464,7 +29026,7 @@
   "notes": "Fondos de Climate Intervention Environmental Impact Fund (CIEIF). Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://cieif.org/guidelines-for-grant-applicants/",
   "applyUrl": "https://cieif.org/guidelines-for-grant-applicants/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-85-000-knight-wallace-journalism-fellowship",
@@ -29498,7 +29060,7 @@
   "notes": "Fellowship de Wallace House Center for Journalists, University of Michigan. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://wallacehouse.umich.edu/knight-wallace/about/",
   "applyUrl": "https://wallacehouse.umich.edu/knight-wallace/about/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-87-500-nieman-journalism-fellowship-international",
@@ -29532,7 +29094,7 @@
   "notes": "Fellowship de Nieman Foundation for Journalism at Harvard. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://nieman.harvard.edu/fellowships/how-to-apply/",
   "applyUrl": "https://nieman.harvard.edu/fellowships/how-to-apply/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-eur-20-000-council-of-europe-civil-society-grant",
@@ -29566,7 +29128,7 @@
   "notes": "Fondos de Council of Europe. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Paris); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.coe.int/en/web/civil-society/-/council-of-europe-launches-grants-for-civil-society-organisations-1",
   "applyUrl": "https://www.coe.int/en/web/civil-society/-/council-of-europe-launches-grants-for-civil-society-organisations-1",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-gsv-cup-edtech-startup-competition",
@@ -29600,7 +29162,7 @@
   "notes": "Competencia de ASU+GSV Summit (GSV Ventures). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.asugsvsummit.com/gsv-cup",
   "applyUrl": "https://www.asugsvsummit.com/gsv-cup",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-60-000-london-nature-communities-grant",
@@ -29634,7 +29196,7 @@
   "notes": "Fondos de Afield Environmental. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://afield.org.uk/nature",
   "applyUrl": "https://afield.org.uk/nature",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-150-000-kirby-prize-for-scaling-impact",
@@ -29668,7 +29230,41 @@
   "notes": "Premio de CASE at Duke University's Fuqua School of Business. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://case.fuqua.duke.edu/kirby-impact-prize/",
   "applyUrl": "https://case.fuqua.duke.edu/kirby-impact-prize/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
+ },
+ {
+  "id": "poss-20-000-nyc-and-hudson-valley-organizing-grants",
+  "slug": "20-000-nyc-and-hudson-valley-organizing-grants",
+  "name": "$20,000 NYC and Hudson Valley Organizing Grants",
+  "sponsor": "North Star Fund",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-03"
+  },
+  "notes": "Fondos de North Star Fund. Totalmente financiado. La convocatoria cierra a las 20:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://northstarfund.org/apply/",
+  "applyUrl": "https://northstarfund.org/apply/",
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-survivor-advisory-panel-england-and-wales",
@@ -29702,7 +29298,7 @@
   "notes": "Programa de Office of the Victims' Commissioner for England and Wales. Totalmente financiado. La convocatoria cierra a las 09:00 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://victimscommissioner.org.uk/apply-to-join-the-child-sexual-abuse-and-exploitation-victim-and-survivor-advisory-panel/",
   "applyUrl": "https://victimscommissioner.org.uk/apply-to-join-the-child-sexual-abuse-and-exploitation-victim-and-survivor-advisory-panel/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-unesco-science-decade-one-health-call",
@@ -29739,7 +29335,7 @@
   "notes": "Programa de UNESCO (International Decade of Sciences for Sustainable Development). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Paris); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.un-sciences-decade.org/en/articles/one-health-thematic-call-international-decade-sciences-sustainable-development-2024-2033",
   "applyUrl": "https://www.un-sciences-decade.org/en/articles/one-health-thematic-call-international-decade-sciences-sustainable-development-2024-2033",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-young-wildlife-photographer-of-the-year",
@@ -29771,7 +29367,7 @@
   "notes": "Competencia de Natural History Museum, London. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 11:30 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.nhm.ac.uk/wildlife-photographer-of-the-year/competition.html",
   "applyUrl": "https://www.nhm.ac.uk/wildlife-photographer-of-the-year/competition.html",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-15-000-wildlife-photographer-of-the-year-ages-18-to-26",
@@ -29804,7 +29400,7 @@
   "notes": "Competencia de Natural History Museum, London. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 11:30 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.nhm.ac.uk/wildlife-photographer-of-the-year/competition.html",
   "applyUrl": "https://www.nhm.ac.uk/wildlife-photographer-of-the-year/competition.html",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-funded-mcw-young-leaders-fellowship",
@@ -29838,7 +29434,7 @@
   "notes": "Fellowship de MCW Global (Miracle Corners of the World). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://mcwglobal.org/young-leaders-fellowship-2027/",
   "applyUrl": "https://mcwglobal.org/young-leaders-fellowship-2027/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-obama-foundation-leaders-program",
@@ -29872,7 +29468,7 @@
   "notes": "Programa de The Obama Foundation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 12:00 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.obama.org/programs/leaders/",
   "applyUrl": "https://www.obama.org/programs/leaders/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-20-000-erase-indifference-award",
@@ -29906,7 +29502,7 @@
   "notes": "Premio de Auschwitz Pledge Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Warsaw); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.eraseindifference.org/challenge/",
   "applyUrl": "https://www.eraseindifference.org/challenge/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-20-000-climate-storytelling-screenwriting-fellowship",
@@ -29940,7 +29536,7 @@
   "notes": "Fellowship de NRDC (Natural Resources Defense Council), with The Black List. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://blcklst.com/programs/2027-nrdc-climate-storytelling-fellowship",
   "applyUrl": "https://blcklst.com/programs/2027-nrdc-climate-storytelling-fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-imf-internship-for-phd-economists",
@@ -29973,7 +29569,7 @@
   "notes": "Pasantía de International Monetary Fund (IMF). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.imf.org/en/about/careers/internship-program",
   "applyUrl": "https://www.imf.org/en/about/careers/internship-program",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-southeast-asia-acumen-fellowship",
@@ -30006,7 +29602,7 @@
   "notes": "Fellowship de Acumen Academy. Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Kuala_Lumpur); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://fellowship.acumenacademy.org/southeast-asia",
   "applyUrl": "https://fellowship.acumenacademy.org/southeast-asia",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-5-000-kim-wall-memorial-reporting-grant",
@@ -30041,7 +29637,7 @@
   "notes": "Fondos de International Women's Media Foundation (IWMF). Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.iwmf.org/programs/kim-wall-memorial-fund/",
   "applyUrl": "https://www.iwmf.org/programs/kim-wall-memorial-fund/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-young-security-leaders-lab-in-munich",
@@ -30075,7 +29671,7 @@
   "notes": "Taller de Aspen Institute Germany, with the Hertie-Stiftung. Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.aspeninstitute.de/transatlantic-program/call-for-participants-young-security-leaders-lab-2027/",
   "applyUrl": "https://www.aspeninstitute.de/transatlantic-program/call-for-participants-young-security-leaders-lab-2027/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-small-business-digital-ready-grant",
@@ -30110,7 +29706,7 @@
   "notes": "Fondos de Verizon. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://digitalready.verizonwireless.com/funding/details",
   "applyUrl": "https://digitalready.verizonwireless.com/funding/details",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-crossculture-fellowship-in-germany",
@@ -30143,7 +29739,42 @@
   "notes": "Fellowship de ifa (Institut für Auslandsbeziehungen). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.ifa.de/en/funding/ccp-fellowships/",
   "applyUrl": "https://www.ifa.de/en/funding/ccp-fellowships/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
+ },
+ {
+  "id": "poss-up-to-2m-nexa-lighthouse-climate-health-grant",
+  "slug": "up-to-2m-nexa-lighthouse-climate-health-grant",
+  "name": "Up to $2M Nexa Lighthouse Climate Health Grant",
+  "sponsor": "Grand Challenges Canada",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Clima",
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-08"
+  },
+  "notes": "Fondos de Grand Challenges Canada. Totalmente financiado. La convocatoria cierra a las 14:00 (America/Toronto); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.grandchallenges.ca/funding-opportunity-nexa-lighthouse/",
+  "applyUrl": "https://www.grandchallenges.ca/funding-opportunity-nexa-lighthouse/",
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-100-000-bestlife2030-biodiversity-grant",
@@ -30177,7 +29808,40 @@
   "notes": "Fondos de IUCN (International Union for Conservation of Nature), coordinator of BESTLIFE2030, co-funded by the European Union LIFE Programme. Totalmente financiado. La convocatoria cierra a las 14:00 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://bestlife2030.org/applicants/",
   "applyUrl": "https://bestlife2030.org/applicants/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
+ },
+ {
+  "id": "poss-1-000-rivet-youth-assembly-fellowship",
+  "slug": "1-000-rivet-youth-assembly-fellowship",
+  "name": "$1,000 RIVET Youth Assembly Fellowship",
+  "sponsor": "RIVET",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Hasta los 29 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-10"
+  },
+  "notes": "Fellowship de RIVET. Totalmente financiado. La convocatoria cierra a las 17:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://q02b7uzd31l.typeform.com/to/NEuaLx4P",
+  "applyUrl": "https://q02b7uzd31l.typeform.com/to/NEuaLx4P",
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-18-000-stipend-public-service-tech-fellowship",
@@ -30210,7 +29874,7 @@
   "notes": "Fellowship de NobleReach Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://noblereach.org/talent-opportunities/noblereach-scholars-program/",
   "applyUrl": "https://noblereach.org/talent-opportunities/noblereach-scholars-program/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-yseali-us-professional-exchange",
@@ -30243,7 +29907,7 @@
   "notes": "Fellowship de American Councils for International Education (U.S. Department of State). Totalmente financiado. La convocatoria cierra a las 10:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.ysealipfp.org/apply",
   "applyUrl": "https://www.ysealipfp.org/apply",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-000-employment-skills-grant",
@@ -30277,7 +29941,7 @@
   "notes": "Fondos de Nuffield Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.nuffieldfoundation.org/funding-for-research/essential-employment-skills-fund",
   "applyUrl": "https://www.nuffieldfoundation.org/funding-for-research/essential-employment-skills-fund",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-1-000-young-futures-award",
@@ -30311,7 +29975,7 @@
   "notes": "Premio de Young Futures. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://youngfutures.org/initiatives/yf-awards",
   "applyUrl": "https://youngfutures.org/initiatives/yf-awards",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-dobbs-foundation-georgia-nonprofit-grant",
@@ -30346,7 +30010,7 @@
   "notes": "Fondos de R. Howard Dobbs, Jr. Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "http://www.dobbsfoundation.org/winter-loi/",
   "applyUrl": "http://www.dobbsfoundation.org/winter-loi/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-stanford-casbs-practitioner-fellowship",
@@ -30379,7 +30043,7 @@
   "notes": "Fellowship de Center for Advanced Study in the Behavioral Sciences (CASBS) at Stanford University. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://casbs.stanford.edu/apply-casbs-fellowship/practitioner-fellowship",
   "applyUrl": "https://casbs.stanford.edu/apply-casbs-fellowship/practitioner-fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-50-000-blue-charter-ocean-grant",
@@ -30414,7 +30078,7 @@
   "notes": "Fondos de Commonwealth Secretariat. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://thecommonwealth.org/commonwealth-blue-charter-incubator-round-2",
   "applyUrl": "https://thecommonwealth.org/commonwealth-blue-charter-incubator-round-2",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-bloomberg-harvard-visiting-fellows-program",
@@ -30447,7 +30111,7 @@
   "notes": "Fellowship de Bloomberg Center for Cities at Harvard University. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.cities.harvard.edu/bloomberg-harvard-visiting-fellows-program/",
   "applyUrl": "https://www.cities.harvard.edu/bloomberg-harvard-visiting-fellows-program/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-museum-of-you-poetry-competition",
@@ -30480,7 +30144,7 @@
   "notes": "Competencia de The Poetry Society (Young Poets Network), with the National Museum of Scotland. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://ypn.poetrysociety.org.uk/workshop/the-museum-of-you-a-new-writing-challenge-with-the-national-museum-of-scotland/",
   "applyUrl": "https://ypn.poetrysociety.org.uk/workshop/the-museum-of-you-a-new-writing-challenge-with-the-national-museum-of-scotland/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-young-bird-photographer-of-the-year",
@@ -30512,7 +30176,7 @@
   "notes": "Competencia de Bird Photographer of the Year. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.birdpoty.com/categories",
   "applyUrl": "https://www.birdpoty.com/categories",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-1-500-world-series-of-innovation-prize",
@@ -30545,7 +30209,7 @@
   "notes": "Competencia de Network for Teaching Entrepreneurship (NFTE). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://innovation.nfte.com/impact-challenges/",
   "applyUrl": "https://innovation.nfte.com/impact-challenges/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-50-000-american-climate-leadership-award",
@@ -30580,7 +30244,7 @@
   "notes": "Premio de ecoAmerica. Totalmente financiado. La convocatoria cierra a las 17:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://ecoamerica.org/american-climate-leadership-awards/",
   "applyUrl": "https://ecoamerica.org/american-climate-leadership-awards/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-awf-geospatial-leaders-fellowship",
@@ -30614,7 +30278,7 @@
   "notes": "Fellowship de African Wildlife Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Nairobi); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://awfchuckwallprogram.submit.com/show/18",
   "applyUrl": "https://awfchuckwallprogram.submit.com/show/18",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-aspen-rising-leaders-national-security-fellowship",
@@ -30647,7 +30311,7 @@
   "notes": "Fellowship de Aspen Strategy Group, Aspen Institute. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.aspensecurityforum.org/asg-rising-leaders/apply/",
   "applyUrl": "https://www.aspensecurityforum.org/asg-rising-leaders/apply/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-csis-strategy-and-statecraft-fellowship",
@@ -30680,7 +30344,7 @@
   "notes": "Fellowship de Center for Strategic and International Studies (CSIS). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.csis.org/programs/strategy-and-statecraft/fellowship",
   "applyUrl": "https://www.csis.org/programs/strategy-and-statecraft/fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-funded-humboldt-residency-programme",
@@ -30714,7 +30378,7 @@
   "notes": "Fellowship de Alexander von Humboldt Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-residency-programme/humboldt-residency-programme-call-for-applications",
   "applyUrl": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-residency-programme/humboldt-residency-programme-call-for-applications",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-qnx-global-hackathon",
@@ -30748,7 +30412,7 @@
   "notes": "Competencia de QNX (BlackBerry Ltd). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 14:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://qnx.devpost.com/",
   "applyUrl": "https://qnx.devpost.com/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-18-000-switzer-environmental-fellowship",
@@ -30781,7 +30445,7 @@
   "notes": "Fellowship de Robert and Patricia Switzer Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.switzernetwork.org/fellowship/become-fellow",
   "applyUrl": "https://www.switzernetwork.org/fellowship/become-fellow",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-2-000-journalists-in-exile-fellowship",
@@ -30814,7 +30478,7 @@
   "notes": "Fellowship de Alfred Friendly Press Partners. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.presspartners.org/",
   "applyUrl": "https://www.presspartners.org/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-genesis-stem-prize-for-teens",
@@ -30846,7 +30510,7 @@
   "notes": "Competencia de Genesis Gazette. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Asia/Kolkata); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://docs.google.com/document/d/1JKMOVBVtQIsX7WEvrSUFtJGPSRy9JTYlQ-GcD62YSGs/edit?usp=sharing",
   "applyUrl": "https://docs.google.com/document/d/1JKMOVBVtQIsX7WEvrSUFtJGPSRy9JTYlQ-GcD62YSGs/edit?usp=sharing",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-mountaintop-social-impact-executive-fellowship",
@@ -30879,7 +30543,7 @@
   "notes": "Fellowship de Mountaintop International. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.mountaintop.international/socialimpactexecutivefellowship",
   "applyUrl": "https://www.mountaintop.international/socialimpactexecutivefellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-un-international-law-course-for-latin-america",
@@ -30914,7 +30578,7 @@
   "notes": "Taller de United Nations Office of Legal Affairs, Codification Division. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://legal.un.org/poa/rcil/laac/application.html",
   "applyUrl": "https://legal.un.org/poa/rcil/laac/application.html",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-undp-ai-for-farming-startup-accelerator",
@@ -30950,7 +30614,7 @@
   "notes": "Programa de AI Hub for Sustainable Development (Ministry of Enterprises and Made in Italy and UNDP), delivered with DeepLeaf. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://aihubfordevelopment.org/ai-diffusion-pathways-for-agriculture",
   "applyUrl": "https://aihubfordevelopment.org/ai-diffusion-pathways-for-agriculture",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-50-000-global-schools-prize",
@@ -30984,7 +30648,7 @@
   "notes": "Premio de Varkey Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://globalteacherprize.org/pages/global-schools-prize",
   "applyUrl": "https://globalteacherprize.org/pages/global-schools-prize",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fair-chance-ai-lab-career-fellowship",
@@ -31017,7 +30681,7 @@
   "notes": "Fellowship de Fair Chance Futures. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://apply.fairchancefutures.org/",
   "applyUrl": "https://apply.fairchancefutures.org/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-newlab-nyc-founder-fellowship-for-startups",
@@ -31050,7 +30714,7 @@
   "notes": "Fellowship de Newlab, with NYCEDC, Bank of America and Gunderson Dettmer. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.newlab.com/post/newlab-continues-founder-fellowship-to-expand-diverse-ecosystem-of-critical-technology-founders",
   "applyUrl": "https://www.newlab.com/post/newlab-continues-founder-fellowship-to-expand-diverse-ecosystem-of-critical-technology-founders",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-250-000-ai-financial-health-grant",
@@ -31086,7 +30750,7 @@
   "notes": "Fondos de GSMA. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/the-gsma-innovation-fund-for-ai-enabled-financial-health/",
   "applyUrl": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma-innovation-fund/the-gsma-innovation-fund-for-ai-enabled-financial-health/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-50-000-creative-intelligence-commission-grant",
@@ -31121,7 +30785,7 @@
   "notes": "Fondos de CoSTAR National Lab and Southbank Centre. Totalmente financiado. La convocatoria cierra a las 14:00 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.costarnetwork.co.uk/calls/the-creative-intelligence-award",
   "applyUrl": "https://www.costarnetwork.co.uk/calls/the-creative-intelligence-award",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-250-000-cisco-youth-leadership-award",
@@ -31155,7 +30819,7 @@
   "notes": "Premio de Global Citizen. Totalmente financiado. La convocatoria cierra a las 17:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.globalcitizen.org/en/prize/youth-leadership/",
   "applyUrl": "https://www.globalcitizen.org/en/prize/youth-leadership/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-44-400-apaics-congressional-fellowship",
@@ -31188,7 +30852,7 @@
   "notes": "Fellowship de Asian Pacific American Institute for Congressional Studies (APAICS). Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.apaics.org/congressional-fellowship",
   "applyUrl": "https://www.apaics.org/congressional-fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-500-kentucky-youth-advisory-board-fellowship",
@@ -31221,7 +30885,7 @@
   "notes": "Fellowship de Kentucky Historical Society. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://history.ky.gov/participate/youth-advisory-board",
   "applyUrl": "https://history.ky.gov/participate/youth-advisory-board",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-jpmorganchase-pro-bono-tech-for-nonprofits",
@@ -31255,7 +30919,7 @@
   "notes": "Programa de JPMorganChase. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.jpmorganchase.com/about/technology/blog/creating-capacity-social-impact",
   "applyUrl": "https://www.jpmorganchase.com/about/technology/blog/creating-capacity-social-impact",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-media-impact-academy-for-young-americans",
@@ -31288,7 +30952,7 @@
   "notes": "Taller de Global Changemakers. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.global-changemakers.net/media-impact-academy",
   "applyUrl": "https://www.global-changemakers.net/media-impact-academy",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-10-000-movenow-social-innovation-challenge",
@@ -31323,7 +30987,7 @@
   "notes": "Competencia de Social Shifters. Totalmente financiado. La convocatoria cierra a las 17:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/",
   "applyUrl": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-125-000-mozilla-fellowship",
@@ -31356,7 +31020,7 @@
   "notes": "Fellowship de Mozilla Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/2027-call-for-applications/",
   "applyUrl": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/2027-call-for-applications/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-yip-public-policy-fellowship-winter-2027",
@@ -31389,7 +31053,42 @@
   "notes": "Fellowship de Institute for Youth in Policy (YIP). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://yipinstitute.org/fellowship",
   "applyUrl": "https://yipinstitute.org/fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
+ },
+ {
+  "id": "poss-10-000-fao-award-for-innovation",
+  "slug": "10-000-fao-award-for-innovation",
+  "name": "$10,000 FAO Award for Innovation",
+  "sponsor": "Food and Agriculture Organization of the United Nations (FAO)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Agricultura",
+   "Género"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-31"
+  },
+  "notes": "Premio de Food and Agriculture Organization of the United Nations (FAO). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.fao.org/fao-awards/innovation/apply-now/en",
+  "applyUrl": "https://www.fao.org/fao-awards/innovation/apply-now/en",
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-100-000-khalifa-early-learning-award",
@@ -31423,7 +31122,7 @@
   "notes": "Premio de Khalifa Award for Education. Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Dubai); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://el.khaward.ae/",
   "applyUrl": "https://el.khaward.ae/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-50-000-fao-champion-award",
@@ -31457,7 +31156,7 @@
   "notes": "Premio de Food and Agriculture Organization of the United Nations (FAO). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.fao.org/fao-awards/champion/apply-now/en",
   "applyUrl": "https://www.fao.org/fao-awards/champion/apply-now/en",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-anima-mundi-ai-and-culture-art-call",
@@ -31493,7 +31192,7 @@
   "notes": "Programa de AI Hub for Sustainable Development (UNDP and Italy's Ministry of Enterprises and Made in Italy). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://aihubfordevelopment.org/anima-mundi-the-soul-of-the-world-meets-the-machine",
   "applyUrl": "https://aihubfordevelopment.org/anima-mundi-the-soul-of-the-world-meets-the-machine",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-bellevue-literary-review-editorial-fellowship",
@@ -31526,7 +31225,7 @@
   "notes": "Fellowship de Bellevue Literary Review. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://blreview.org/news/recent-news/applications-open-new-blr-editorial-fellowship/",
   "applyUrl": "https://blreview.org/news/recent-news/applications-open-new-blr-editorial-fellowship/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-business-acquisition-accelerator",
@@ -31560,7 +31259,7 @@
   "notes": "Programa de Community Development Investors (CDI). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.cdinvestors.org/ceta-accelerator",
   "applyUrl": "https://www.cdinvestors.org/ceta-accelerator",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-pacific-fund-regional-cooperation-grant",
@@ -31595,7 +31294,7 @@
   "notes": "Fondos de French Ministry for Europe and Foreign Affairs (MEAE), Permanent Secretariat for the Pacific (SPP). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://nz.diplomatie.gouv.fr/en/node/6/scientific-and-university-cooperation/pacific-fund",
   "applyUrl": "https://nz.diplomatie.gouv.fr/en/node/6/scientific-and-university-cooperation/pacific-fund",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-10-000-youth-ai4sdgs-challenge",
@@ -31629,7 +31328,7 @@
   "notes": "Competencia de United Nations Development Programme (UNDP). Financiamiento parcial. La convocatoria cierra a las 23:59 (Asia/Bangkok); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.undp.org/asia-pacific/news/undp-and-tencent-launch-youth-ai4sdgs-challenge-turn-young-innovators-ideas-real-world-solutions",
   "applyUrl": "https://www.undp.org/asia-pacific/news/undp-and-tencent-launch-youth-ai4sdgs-challenge-turn-young-innovators-ideas-real-world-solutions",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-2-500-karma-project-grant",
@@ -31663,7 +31362,7 @@
   "notes": "Fondos de United We Om. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.unitedweom.org/about-our-grants",
   "applyUrl": "https://www.unitedweom.org/about-our-grants",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-50-000-research-software-grant",
@@ -31698,7 +31397,7 @@
   "notes": "Fondos de Research Software Catalyst Fund. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://researchsoftwarecatalyst.fund/apply/",
   "applyUrl": "https://researchsoftwarecatalyst.fund/apply/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-50-000-sustainable-feed-research-grant",
@@ -31732,7 +31431,7 @@
   "notes": "Fondos de Victam Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Amsterdam); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://victamfoundation.com/funding-opportunities",
   "applyUrl": "https://victamfoundation.com/funding-opportunities",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-unfpa-global-internship-roster-2026",
@@ -31765,7 +31464,7 @@
   "notes": "Pasantía de United Nations Population Fund (UNFPA). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.unfpa.org/jobs/global-internship-roster-2026",
   "applyUrl": "https://www.unfpa.org/jobs/global-internship-roster-2026",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-1-000-mit-think-research-competition",
@@ -31799,7 +31498,7 @@
   "notes": "Competencia de MIT THINK (MIT TechX). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://think.mit.edu/",
   "applyUrl": "https://think.mit.edu/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-15-000-concern-global-citizenship-education-grant",
@@ -31833,7 +31532,41 @@
   "notes": "Fondos de Concern Worldwide. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Dublin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.concern.net/concern-global-citizenship-education-grants-scheme",
   "applyUrl": "https://www.concern.net/concern-global-citizenship-education-grants-scheme",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
+ },
+ {
+  "id": "poss-funded-genyouth-national-youth-council",
+  "slug": "funded-genyouth-national-youth-council",
+  "name": "Funded GENYOUth National Youth Council",
+  "sponsor": "GENYOUth",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Programa"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "parcial",
+  "amount": "Financiamiento parcial",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-03"
+  },
+  "notes": "Programa de GENYOUth. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://genyouthnow.org/about-us/national-youth-council/",
+  "applyUrl": "https://genyouthnow.org/about-us/national-youth-council/",
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-non-trivial-youth-research-fellowship",
@@ -31866,7 +31599,7 @@
   "notes": "Fellowship de Non-Trivial (Leaf Inc.). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.non-trivial.org/apply",
   "applyUrl": "https://www.non-trivial.org/apply",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-rockefeller-summer-science-research-program",
@@ -31899,7 +31632,7 @@
   "notes": "Programa de The Rockefeller University (RockEDU Science Outreach). Financiamiento parcial. La convocatoria cierra a las 17:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.rockefeller.edu/outreach/ssrp/",
   "applyUrl": "https://www.rockefeller.edu/outreach/ssrp/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-reagan-fascell-democracy-fellowship",
@@ -31933,7 +31666,7 @@
   "notes": "Fellowship de National Endowment for Democracy. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.ned.org/fellowships/reagan-fascell-democracy-fellows-program/applying-for-a-fellowship/",
   "applyUrl": "https://www.ned.org/fellowships/reagan-fascell-democracy-fellows-program/applying-for-a-fellowship/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-57-500-harvard-loeb-fellowship",
@@ -31966,7 +31699,7 @@
   "notes": "Fellowship de Harvard Graduate School of Design (Loeb Fellowship). Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://loebfellowship.gsd.harvard.edu/apply-nominate/",
   "applyUrl": "https://loebfellowship.gsd.harvard.edu/apply-nominate/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-diana-award-for-young-changemakers",
@@ -31999,7 +31732,7 @@
   "notes": "Premio de The Diana Award. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 17:00 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://diana-award.org.uk/our-programmes-and-initiatives/award-and-development/about-the-award/diana-award-nomination-centre",
   "applyUrl": "https://diana-award.org.uk/our-programmes-and-initiatives/award-and-development/about-the-award/diana-award-nomination-centre",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-earth-prize-youth-sustainability-competition",
@@ -32031,7 +31764,7 @@
   "notes": "Competencia de The Earth Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Zurich); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.theearthprize.org/competition",
   "applyUrl": "https://www.theearthprize.org/competition",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-5-000-hinman-policy-fellowship-summer-2027",
@@ -32064,7 +31797,7 @@
   "notes": "Fellowship de Silverado Policy Accelerator. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://silverado.org/hinmanfellowship/",
   "applyUrl": "https://silverado.org/hinmanfellowship/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fellowship-for-change-for-high-school-students",
@@ -32096,7 +31829,7 @@
   "notes": "Fellowship de Qi Social Innovation Center (启创中心), in partnership with Columbia Global Center Beijing. Financiamiento parcial. La convocatoria cierra a las 23:59 (Asia/Shanghai); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://qi-center.org/ffc",
   "applyUrl": "https://qi-center.org/ffc",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-37-355-nyc-urban-fellows-program",
@@ -32129,7 +31862,7 @@
   "notes": "Fellowship de NYC Department of Citywide Administrative Services (DCAS), City of New York. Totalmente financiado. La convocatoria cierra a las 18:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page",
   "applyUrl": "https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-wisconsin-population-health-fellowship",
@@ -32162,7 +31895,7 @@
   "notes": "Fellowship de University of Wisconsin Population Health Institute. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://uwphi.pophealth.wisc.edu/wfdp/wisconsin-population-health-service-fellowship/apply-to-be-a-fellow/",
   "applyUrl": "https://uwphi.pophealth.wisc.edu/wfdp/wisconsin-population-health-service-fellowship/apply-to-be-a-fellow/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-profile-in-courage-essay-contest",
@@ -32196,7 +31929,7 @@
   "notes": "Competencia de John F. Kennedy Library Foundation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest",
   "applyUrl": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-600-cooperative-leaders-fellowship",
@@ -32229,7 +31962,7 @@
   "notes": "Fellowship de Cooperative Development Foundation. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.cdf.coop/cls",
   "applyUrl": "https://www.cdf.coop/cls",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-800-000-iki-climate-grant",
@@ -32264,7 +31997,7 @@
   "notes": "Fondos de International Climate Initiative (IKI), German Federal Ministry for the Environment, Climate Protection, Nature Conservation and Nuclear Safety (BMUKN). Totalmente financiado. La convocatoria cierra a las 11:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.international-climate-initiative.com/en/find-funding/medium-grants/medium-grants-2026/",
   "applyUrl": "https://www.international-climate-initiative.com/en/find-funding/medium-grants/medium-grants-2026/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-stanford-fisher-family-summer-fellowship",
@@ -32297,7 +32030,41 @@
   "notes": "Fellowship de Center on Democracy, Development and the Rule of Law (CDDRL), Stanford University. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://cddrl.fsi.stanford.edu/summerfellows/apply",
   "applyUrl": "https://cddrl.fsi.stanford.edu/summerfellows/apply",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
+ },
+ {
+  "id": "poss-up-to-850-000-innovation-validation-grant",
+  "slug": "up-to-850-000-innovation-validation-grant",
+  "name": "Up to €850,000 Innovation Validation Grant",
+  "sponsor": "EIT Health",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-13"
+  },
+  "notes": "Fondos de EIT Health. Totalmente financiado. La convocatoria cierra a las 16:00 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://eithealth.eu/opportunity/innovation-validation/",
+  "applyUrl": "https://eithealth.eu/opportunity/innovation-validation/",
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-12-000-diamond-challenge-pitch-competition",
@@ -32329,7 +32096,7 @@
   "notes": "Competencia de Diamond Challenge, Horn Entrepreneurship, University of Delaware. Financiamiento parcial. La convocatoria cierra a las 17:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://diamondchallenge.org/competition/",
   "applyUrl": "https://diamondchallenge.org/competition/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-75-000-women-techeu-deep-tech-grant",
@@ -32364,7 +32131,7 @@
   "notes": "Fondos de Women TechEU 2 EIC consortium (led by Sploro), funded by the European Innovation Council. Totalmente financiado. La convocatoria cierra a las 17:00 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://womentecheurope.eu/active-calls/",
   "applyUrl": "https://womentecheurope.eu/active-calls/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-fxb-climate-advocates-training-program",
@@ -32398,7 +32165,7 @@
   "notes": "Taller de FXB (Francois-Xavier Bagnoud), FXB USA / FXB Global. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://fxb.org/en/climate-advocates/",
   "applyUrl": "https://fxb.org/en/climate-advocates/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-from-s-100-000-amplifier-impact-venture-programme",
@@ -32433,7 +32200,7 @@
   "notes": "Programa de Capital Innovation for Impact (CIIP) and Philanthropy Asia Alliance (PAA). Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Singapore); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://ciip.com.sg/programmes/all-programmes/detail/the-amplifier-2026",
   "applyUrl": "https://ciip.com.sg/programmes/all-programmes/detail/the-amplifier-2026",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-funded-african-women-s-leadership-course",
@@ -32469,7 +32236,7 @@
   "notes": "Taller de Coady Institute, St. Francis Xavier University. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://coady.stfx.ca/katherine-fleming-womens-leadership-course/",
   "applyUrl": "https://coady.stfx.ca/katherine-fleming-womens-leadership-course/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-20-000-youth-climate-action-grants",
@@ -32503,7 +32270,7 @@
   "notes": "Fondos de Africa Youth Climate Fund (AYCF), hosted by the Green Africa Youth Organization (GAYO). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.aycf.org/funding/6cf80744-a907-406f-92e3-5e94ba46d008",
   "applyUrl": "https://www.aycf.org/funding/6cf80744-a907-406f-92e3-5e94ba46d008",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-5-000-impact-ai-fellowship",
@@ -32537,7 +32304,7 @@
   "notes": "Fellowship de Alexander von Humboldt Institute for Internet and Society (HIIG). Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.hiig.de/en/impact-ai-call-for-fellows/",
   "applyUrl": "https://www.hiig.de/en/impact-ai-call-for-fellows/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-50-000-keeling-curve-climate-prize",
@@ -32571,7 +32338,7 @@
   "notes": "Premio de Climate Curve (formerly the Global Warming Mitigation Project). Totalmente financiado. La convocatoria cierra a las 23:59 (Etc/GMT+12); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.climatecurve.org/kcp",
   "applyUrl": "https://www.climatecurve.org/kcp",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-fully-funded-hansen-peace-leadership-fellowship",
@@ -32605,7 +32372,7 @@
   "notes": "Fellowship de Hansen Leadership Institute (University of San Diego, funded by the Fred J. Hansen Foundation). Totalmente financiado. La convocatoria cierra a las 23:55 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://hansenleadershipinstitute.org/apply-now/",
   "applyUrl": "https://hansenleadershipinstitute.org/apply-now/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-mentora-scholars-leadership-fellowship",
@@ -32638,7 +32405,7 @@
   "notes": "Fellowship de Mentora Foundation (Mentora Institute). Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://mentora.institute/mentora-scholars/",
   "applyUrl": "https://mentora.institute/mentora-scholars/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-truist-foundation-small-business-fellowship",
@@ -32671,7 +32438,7 @@
   "notes": "Fellowship de Watson Institute. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://watson.is/truist-foundation-fellowship/",
   "applyUrl": "https://watson.is/truist-foundation-fellowship/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-5-million-serving-neighbors-grant",
@@ -32705,7 +32472,7 @@
   "notes": "Fondos de Lilly Endowment Inc.. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://lillyendowment.org/serving-neighbors-initiative/",
   "applyUrl": "https://lillyendowment.org/serving-neighbors-initiative/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-000-eu-media-literacy-grant",
@@ -32740,7 +32507,7 @@
   "notes": "Fondos de European Education and Culture Executive Agency (EACEA), European Commission. Totalmente financiado. La convocatoria cierra a las 17:00 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-MEDIALITERACY",
   "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-MEDIALITERACY",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-3-500-journalists-fellowship-in-germany",
@@ -32773,7 +32540,7 @@
   "notes": "Fellowship de IJP Internationale Journalisten-Programme (International Journalists' Programmes). Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://ijp.org/en/programmes/southernafrica/",
   "applyUrl": "https://ijp.org/en/programmes/southernafrica/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-yale-young-african-scholars-programme",
@@ -32805,7 +32572,7 @@
   "notes": "Taller de Yale University. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://africanscholars.yale.edu/overview",
   "applyUrl": "https://africanscholars.yale.edu/overview",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-000-hcltech-climate-action-grant",
@@ -32840,7 +32607,7 @@
   "notes": "Fondos de HCLTech (HCL Technologies), Global CSR. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://globalgrant.hcltech.com/",
   "applyUrl": "https://globalgrant.hcltech.com/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-paid-nih-summer-research-internship",
@@ -32874,7 +32641,7 @@
   "notes": "Pasantía de National Institutes of Health (NIH), Office of Intramural Training and Education. Financiamiento parcial. La convocatoria cierra a las 12:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.training.nih.gov/research-training/pb/sip/",
   "applyUrl": "https://www.training.nih.gov/research-training/pb/sip/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-200-000-circular-economy-partnership-grant",
@@ -32908,7 +32675,7 @@
   "notes": "Fondos de Project SPARK and SWITCH-2-CE (GIZ and Expertise France, for the European Union). Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Nairobi); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://project-spark.africa/joint-innovation-facility-circularity-call/",
   "applyUrl": "https://project-spark.africa/joint-innovation-facility-circularity-call/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-world-food-forum-young-scientists-group",
@@ -32942,7 +32709,7 @@
   "notes": "Programa de World Food Forum (WFF) Global Youth Action Initiative, Food and Agriculture Organization of the United Nations (FAO). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://youth.world-food-forum.org/youth-advisory-bodies/young-scientists-group/en",
   "applyUrl": "https://youth.world-food-forum.org/youth-advisory-bodies/young-scientists-group/en",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-2-000-pan-african-insurance-journalism-award",
@@ -32978,7 +32745,7 @@
   "notes": "Premio de Continental Reinsurance. Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Gaborone); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.continental-re.com/2027-submissions-are-now-open/?lang=eng",
   "applyUrl": "https://www.continental-re.com/2027-submissions-are-now-open/?lang=eng",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-free-codepath-tech-courses",
@@ -33012,7 +32779,7 @@
   "notes": "Taller de CodePath. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:00 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.codepath.org/courses",
   "applyUrl": "https://www.codepath.org/courses",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-gijc27-investigative-journalism-fellowship",
@@ -33045,7 +32812,7 @@
   "notes": "Fellowship de Global Investigative Journalism Network (GIJN). Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://gijc2027.org/fellowships/",
   "applyUrl": "https://gijc2027.org/fellowships/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-mercedes-benz-bevisioneers-eco-innovation-fellowship",
@@ -33079,7 +32846,7 @@
   "notes": "Fellowship de The DO School Fellowships gGmbH (beVisioneers). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://bevisioneers.world/fellowship",
   "applyUrl": "https://bevisioneers.world/fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-5-000-land-and-soil-management-award",
@@ -33114,7 +32881,7 @@
   "notes": "Premio de European Landowners' Organization (ELO). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://europeanlandowners.org/awards/land-and-soil/",
   "applyUrl": "https://europeanlandowners.org/awards/land-and-soil/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-carnegie-civic-leadership-challenge",
@@ -33148,7 +32915,7 @@
   "notes": "Competencia de Ashoka. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.changemakers.com/en/carnegie-challenge-civic-leadership",
   "applyUrl": "https://www.changemakers.com/en/carnegie-challenge-civic-leadership",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-100-000-solo-founders-program",
@@ -33182,7 +32949,7 @@
   "notes": "Programa de Solo Founders. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://solofounders.com/program",
   "applyUrl": "https://solofounders.com/program",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-115-000-fao-schwarz-fellowship",
@@ -33215,7 +32982,7 @@
   "notes": "Fellowship de FAO Schwarz Family Foundation (FAO Schwarz Fellowship). Totalmente financiado. La convocatoria cierra a las 21:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.faoschwarzfellowship.org/how-to-apply/",
   "applyUrl": "https://www.faoschwarzfellowship.org/how-to-apply/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-4-000-ucla-public-health-scholars-internship",
@@ -33248,7 +33015,7 @@
   "notes": "Pasantía de UCLA Fielding School of Public Health (UCLA Public Health Scholars Training Program). Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.uclaphscholars.org/program-overview",
   "applyUrl": "https://www.uclaphscholars.org/program-overview",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-85-000-claude-corps-ai-fellowship",
@@ -33282,7 +33049,7 @@
   "notes": "Fellowship de Anthropic and CodePath. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.anthropic.com/claude-corps/fellow",
   "applyUrl": "https://www.anthropic.com/claude-corps/fellow",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-87-500-nieman-journalism-fellowship-u-s",
@@ -33316,7 +33083,7 @@
   "notes": "Fellowship de Nieman Foundation for Journalism at Harvard. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://nieman.harvard.edu/fellowships/how-to-apply/",
   "applyUrl": "https://nieman.harvard.edu/fellowships/how-to-apply/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-wef-technology-pioneers-award",
@@ -33350,7 +33117,7 @@
   "notes": "Premio de World Economic Forum. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://initiatives.weforum.org/technology-pioneers/criteria",
   "applyUrl": "https://initiatives.weforum.org/technology-pioneers/criteria",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-2-000-step-into-business-startup-programme",
@@ -33382,7 +33149,7 @@
   "notes": "Taller de EY Foundation. Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.eyfoundation.com/en_uk/apply/i-m-a-young-person/step-into-business",
   "applyUrl": "https://www.eyfoundation.com/en_uk/apply/i-m-a-young-person/step-into-business",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-400-holocaust-art-and-writing-contest",
@@ -33416,7 +33183,7 @@
   "notes": "Competencia de Rodgers Center for Holocaust Education, Chapman University. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.chapman.edu/research/institutes-and-centers/holocaust-education/holocaust-art-and-writing-contest/",
   "applyUrl": "https://www.chapman.edu/research/institutes-and-centers/holocaust-education/holocaust-art-and-writing-contest/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-85-000-spencer-education-journalism-fellowship",
@@ -33451,7 +33218,7 @@
   "notes": "Fellowship de Columbia Journalism School. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://spencerfellows.org/how-to-apply-2/",
   "applyUrl": "https://spencerfellows.org/how-to-apply-2/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-allstate-college-service-grant",
@@ -33485,7 +33252,7 @@
   "notes": "Fondos de The Allstate Foundation. Totalmente financiado. La convocatoria cierra a las 17:00 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://expandingleadership.org/tafcollegeservicegrants/",
   "applyUrl": "https://expandingleadership.org/tafcollegeservicegrants/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-5-000-weill-cornell-biostatistics-summer-internship",
@@ -33518,7 +33285,7 @@
   "notes": "Pasantía de Weill Cornell Medicine, Division of Biostatistics, Department of Population Health Sciences. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship",
   "applyUrl": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-1-000-student-entrepreneur-pitch-competition",
@@ -33551,7 +33318,7 @@
   "notes": "Competencia de Blue Ocean Student Entrepreneurs Corporation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://blueoceancompetition.org/compete/",
   "applyUrl": "https://blueoceancompetition.org/compete/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-astro-pi-space-station-coding-challenge",
@@ -33583,7 +33350,7 @@
   "notes": "Competencia de European Space Agency (ESA) and the Raspberry Pi Foundation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 12:00 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://astro-pi.org/mission-space-lab",
   "applyUrl": "https://astro-pi.org/mission-space-lab",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-250-oriel-colonialism-essay-prize",
@@ -33617,7 +33384,7 @@
   "notes": "Competencia de Oriel College, University of Oxford. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 12:00 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.oriel.ox.ac.uk/study-with-us/outreach-and-schools-liaison/what-we-do/events-and-prizes/rex-nettleford-prize-for-year-12-students/",
   "applyUrl": "https://www.oriel.ox.ac.uk/study-with-us/outreach-and-schools-liaison/what-we-do/events-and-prizes/rex-nettleford-prize-for-year-12-students/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-60-000-generation-regen-challenge-grant",
@@ -33651,7 +33418,7 @@
   "notes": "Fondos de One Young World. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.oneyoungworld.com/scholarship/generation-regen-challenge-2027-presented-bmo",
   "applyUrl": "https://www.oneyoungworld.com/scholarship/generation-regen-challenge-2027-presented-bmo",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-50-000-to-500-000-eu-remembrance-grants",
@@ -33685,7 +33452,7 @@
   "notes": "Fondos de European Commission (EACEA). Totalmente financiado. La convocatoria cierra a las 17:00 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=CERV-2026-CITIZENS-REM&isExactMatch=true",
   "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=CERV-2026-CITIZENS-REM&isExactMatch=true",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-75-000-esa-kick-start-grant",
@@ -33719,7 +33486,7 @@
   "notes": "Fondos de European Space Agency (ESA) Business Applications and Space Solutions (BASS). Totalmente financiado. La convocatoria cierra a las 13:00 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://business.esa.int/funding/open-call-for-proposals-kick-starts",
   "applyUrl": "https://business.esa.int/funding/open-call-for-proposals-kick-starts",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-1m-hult-prize-student-startup-competition",
@@ -33753,7 +33520,7 @@
   "notes": "Competencia de Hult Prize Foundation. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.hultprize.org/how-it-works",
   "applyUrl": "https://www.hultprize.org/how-it-works",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-2-500-sadc-media-award-for-journalists",
@@ -33788,7 +33555,7 @@
   "notes": "Premio de Southern African Development Community (SADC) Secretariat. Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Gaborone); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.sadc.int/node/6732",
   "applyUrl": "https://www.sadc.int/node/6732",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-250-000-microsoft-imagine-cup-startup-competition",
@@ -33822,7 +33589,7 @@
   "notes": "Competencia de Microsoft (Microsoft for Startups). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://imaginecup.microsoft.com/en-us",
   "applyUrl": "https://imaginecup.microsoft.com/en-us",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-52-600-anh-science-policy-fellowship",
@@ -33858,7 +33625,7 @@
   "notes": "Fellowship de Agriculture, Nutrition and Health (ANH) Academy. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.anh-academy.org/workstreams/fellowships/round3",
   "applyUrl": "https://www.anh-academy.org/workstreams/fellowships/round3",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-ocean-art-competition",
@@ -33891,7 +33658,7 @@
   "notes": "Competencia de Khaled bin Sultan Living Oceans Foundation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/",
   "applyUrl": "https://www.livingoceansfoundation.org/science-without-borders-challenge/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-technovation-girls-app-building-competition",
@@ -33925,7 +33692,7 @@
   "notes": "Competencia de Technovation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://technovationchallenge.org/competition/",
   "applyUrl": "https://technovationchallenge.org/competition/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-cern-beamline-for-schools-competition",
@@ -33957,7 +33724,7 @@
   "notes": "Competencia de CERN. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Zurich); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://beamlineforschools.cern/how-to-take-part",
   "applyUrl": "https://beamlineforschools.cern/how-to-take-part",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-6-000-arteffect-student-art-competition",
@@ -33991,7 +33758,7 @@
   "notes": "Competencia de ARTEFFECT, Lowell Milken Center for Unsung Heroes. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.arteffectlmc.org/competition/overview",
   "applyUrl": "https://www.arteffectlmc.org/competition/overview",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-100-orwell-youth-prize-writing-competition",
@@ -34023,7 +33790,7 @@
   "notes": "Competencia de The Orwell Foundation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.orwellfoundation.com/the-orwell-youth-prize/about/introduction/",
   "applyUrl": "https://www.orwellfoundation.com/the-orwell-youth-prize/about/introduction/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-100-000-paradigm-challenge-student-competition",
@@ -34056,7 +33823,7 @@
   "notes": "Competencia de Project Paradigm. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.projectparadigm.org/rules",
   "applyUrl": "https://www.projectparadigm.org/rules",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-50-000-sharjah-industrial-ai-accelerator",
@@ -34090,7 +33857,7 @@
   "notes": "Competencia de Sharjah Research Technology and Innovation Park (SPARK). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Asia/Dubai); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://srtip-25355024.hs-sites-eu1.com/2026-sharjah-advanced-industrial-ai-accelerator-html",
   "applyUrl": "https://srtip-25355024.hs-sites-eu1.com/2026-sharjah-advanced-industrial-ai-accelerator-html",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-1-000-ocean-awareness-contest",
@@ -34122,7 +33889,7 @@
   "notes": "Competencia de Bow Seat Creative Action for Conservation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://bowseat.org/programs/blue-planet-awareness-contest/contest-overview/",
   "applyUrl": "https://bowseat.org/programs/blue-planet-awareness-contest/contest-overview/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-cgbd-global-black-community-research-fellowship",
@@ -34155,7 +33922,7 @@
   "notes": "Fellowship de DIFFvelopment (Council on Global Black Development). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://diffvelopment.org/cgbd-application/",
   "applyUrl": "https://diffvelopment.org/cgbd-application/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-1-000-1517-medici-young-builders-grant",
@@ -34188,7 +33955,7 @@
   "notes": "Fondos de 1517 Fund. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.1517fund.com/medici",
   "applyUrl": "https://www.1517fund.com/medici",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-1-000-afore-young-innovators-grant",
@@ -34221,7 +33988,7 @@
   "notes": "Fondos de Afore Capital. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://grants.afore.vc/",
   "applyUrl": "https://grants.afore.vc/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-10-000-next-wave-fund-fellowship",
@@ -34253,7 +34020,7 @@
   "notes": "Fellowship de Kickstarter. Financiamiento parcial. Sin fecha de cierre: postulación continua.",
   "url": "https://start.kickstarter.com/next-wave-fund",
   "applyUrl": "https://start.kickstarter.com/next-wave-fund",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-200-000-madica-startup-program",
@@ -34287,7 +34054,7 @@
   "notes": "Programa de Madica (supported by Flourish Ventures). Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.madica.vc/program",
   "applyUrl": "https://www.madica.vc/program",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-300-000-drk-social-enterprise-grant",
@@ -34320,7 +34087,7 @@
   "notes": "Fondos de Draper Richards Kaplan Foundation. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.drkfoundation.org/apply/overview/",
   "applyUrl": "https://www.drkfoundation.org/apply/overview/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-50-000-basis-fellowship",
@@ -34352,7 +34119,7 @@
   "notes": "Fellowship de The Basis Fellowship (run by Mark Khrapko, Spencer Green and Steven Pang; funded personally and through Orbit). Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://basisfellowship.org/",
   "applyUrl": "https://basisfellowship.org/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-ashoka-fellowship",
@@ -34384,7 +34151,7 @@
   "notes": "Fellowship de Ashoka – Innovators for the Public. Financiamiento parcial. Sin fecha de cierre: postulación continua.",
   "url": "https://www.ashoka.org/en-us/recommend-ashoka-fellow",
   "applyUrl": "https://www.ashoka.org/en-us/recommend-ashoka-fellow",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-better-life-lab-care-reporting-grant",
@@ -34415,7 +34182,7 @@
   "notes": "Fondos de Better Life Lab at New America. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.newamerica.org/insights/care-journalists-apply-reporting-grants/",
   "applyUrl": "https://www.newamerica.org/insights/care-journalists-apply-reporting-grants/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-bridge-seed-global-accelerator-program",
@@ -34447,7 +34214,7 @@
   "notes": "Fellowship de Bridge Seed Global. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://bridgeseedglobal.org/accelerator-program/",
   "applyUrl": "https://bridgeseedglobal.org/accelerator-program/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-collaborative-learning-initiative-program",
@@ -34480,7 +34247,7 @@
   "notes": "Programa de Issroff Family Foundation. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.issroff.org/programs/collaborative-learning-initiative-cli",
   "applyUrl": "https://www.issroff.org/programs/collaborative-learning-initiative-cli",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-div-fund-grants",
@@ -34513,7 +34280,7 @@
   "notes": "Fondos de DIV Fund. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.div.fund/apply",
   "applyUrl": "https://www.div.fund/apply",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-ecw-youth-and-student-sub-group",
@@ -34546,7 +34313,7 @@
   "notes": "Programa de Education Cannot Wait. Sin dinero directo: el valor está en la formación, la red o la visibilidad. Sin fecha de cierre: postulación continua.",
   "url": "https://www.100million.org/eie",
   "applyUrl": "https://www.100million.org/eie",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-eu-youth-solidarity-initiative",
@@ -34580,39 +34347,7 @@
   "notes": "Programa de European Commission – European Youth Portal. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://youth.europa.eu/solidarity/young-people/about_en",
   "applyUrl": "https://youth.europa.eu/solidarity/young-people/about_en",
-  "updatedAt": "2026-11-15"
- },
- {
-  "id": "poss-echoing-green-fellowship",
-  "slug": "echoing-green-fellowship",
-  "name": "Echoing Green Fellowship",
-  "sponsor": "Echoing Green",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Impacto social"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "continua"
-  },
-  "notes": "Fellowship de Echoing Green. Totalmente financiado. Sin fecha de cierre: postulación continua.",
-  "url": "https://echoinggreen.org/fellowship/apply/",
-  "applyUrl": "https://echoinggreen.org/fellowship/apply/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-entrepreneurs-first-us-residency-10k-grant-or-up-to-250k-equity-investment",
@@ -34644,7 +34379,7 @@
   "notes": "Fellowship de Entrepreneurs First (EF). Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.joinef.com/apply-us-funding-fellowship/",
   "applyUrl": "https://www.joinef.com/apply-us-funding-fellowship/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-european-endowment-for-democracy-support-grants",
@@ -34679,7 +34414,7 @@
   "notes": "Fondos de European Endowment for Democracy (EED). Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://democracyendowment.eu/support",
   "applyUrl": "https://democracyendowment.eu/support",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-explorers-club-impact-grants",
@@ -34712,7 +34447,7 @@
   "notes": "Fondos de The Explorers Club. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.explorers.org/grants/explorers-club-impact-grants",
   "applyUrl": "https://www.explorers.org/grants/explorers-club-impact-grants",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-gensea-ocean-action-community",
@@ -34745,7 +34480,7 @@
   "notes": "Programa de EarthEcho International. Sin dinero directo: el valor está en la formación, la red o la visibilidad. Sin fecha de cierre: postulación continua.",
   "url": "https://joingensea.org/",
   "applyUrl": "https://joingensea.org/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-green-corps-campaigner-program",
@@ -34779,7 +34514,7 @@
   "notes": "Fellowship de The Public Interest Network – Green Corps. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://jobs.publicinterestnetwork.org/en/postings/a82bb889-81c8-494d-b690-72ecf1951ab1",
   "applyUrl": "https://jobs.publicinterestnetwork.org/en/postings/a82bb889-81c8-494d-b690-72ecf1951ab1",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-green-corps-organizer-program",
@@ -34813,7 +34548,7 @@
   "notes": "Fellowship de Green Corps (Public Interest Network). Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://jobs.publicinterestnetwork.org/en/postings/0de04af5-f34c-45ef-af92-2136747a4f1d",
   "applyUrl": "https://jobs.publicinterestnetwork.org/en/postings/0de04af5-f34c-45ef-af92-2136747a4f1d",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-humboldt-research-fellowship",
@@ -34845,7 +34580,7 @@
   "notes": "Fellowship de Alexander von Humboldt Foundation. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
   "applyUrl": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-lowcarbon-earth-accelerator-2025",
@@ -34878,7 +34613,7 @@
   "notes": "Programa de Massive Earth Foundation, UNEP, Go4SDGs. Sin dinero directo: el valor está en la formación, la red o la visibilidad. Sin fecha de cierre: postulación continua.",
   "url": "https://www.lowcarbon.earth/?mc_cid=2888ea8848&mc_eid=b2e563305b",
   "applyUrl": "https://www.lowcarbon.earth/?mc_cid=2888ea8848&mc_eid=b2e563305b",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-pulitzer-center-global-reporting-grants-2026",
@@ -34911,7 +34646,7 @@
   "notes": "Fondos de Pulitzer Center. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://pulitzercenter.org/grant-application",
   "applyUrl": "https://pulitzercenter.org/grant-application",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-rolling-ea-funds-project-grant",
@@ -34944,7 +34679,7 @@
   "notes": "Fondos de EA Funds (Effective Altruism Funds, an Effective Ventures project). Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://funds.effectivealtruism.org/apply-for-funding",
   "applyUrl": "https://funds.effectivealtruism.org/apply-for-funding",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-unicef-global-internships",
@@ -34976,7 +34711,7 @@
   "notes": "Pasantía de UNICEF. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.unicef.org/careers/internships",
   "applyUrl": "https://www.unicef.org/careers/internships",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-1-000-solo-builder-microgrant",
@@ -35009,7 +34744,7 @@
   "notes": "Fondos de Solo Grants (a Solo Founders program, nZero Labs, Inc.). Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://sologrants.com/",
   "applyUrl": "https://sologrants.com/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-10-000-digital-resiliency-grants",
@@ -35042,7 +34777,7 @@
   "notes": "Fondos de CIVICUS. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://civicus.org/index.php/what-we-do/enabling-and-resourcing/digital-democracy-initiative/digital-resiliency-grants",
   "applyUrl": "https://civicus.org/index.php/what-we-do/enabling-and-resourcing/digital-democracy-initiative/digital-resiliency-grants",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-250-000-nathan-cummings-justice-grant",
@@ -35076,7 +34811,7 @@
   "notes": "Fondos de Nathan Cummings Foundation. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://nathancummings.org/become-a-partner/",
   "applyUrl": "https://nathancummings.org/become-a-partner/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-500-daily-seed-grant",
@@ -35109,7 +34844,7 @@
   "notes": "Fondos de The Pollination Project. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://thepollinationproject.org/pre-screen-quiz/",
   "applyUrl": "https://thepollinationproject.org/pre-screen-quiz/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-900-000-internet-freedom-fund-grant",
@@ -35142,7 +34877,7 @@
   "notes": "Fondos de Open Technology Fund. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.opentech.fund/funds/internet-freedom-fund/",
   "applyUrl": "https://www.opentech.fund/funds/internet-freedom-fund/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-20-000-uk-community-project-grant",
@@ -35176,7 +34911,7 @@
   "notes": "Fondos de The National Lottery Community Fund. Totalmente financiado. Sin fecha de cierre: postulación continua.",
   "url": "https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england",
   "applyUrl": "https://www.tnlcommunityfund.org.uk/funding/funding-programmes/national-lottery-awards-for-all-england",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-up-to-1-200-monthly-erasmus-entrepreneur-exchange",
@@ -35208,7 +34943,7 @@
   "notes": "Fellowship de European Commission (Erasmus for Young Entrepreneurs Support Office). Financiamiento parcial. Sin fecha de cierre: postulación continua.",
   "url": "https://www.erasmus-entrepreneurs.eu/page.php?cid=20",
   "applyUrl": "https://www.erasmus-entrepreneurs.eu/page.php?cid=20",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-youth-community-conversation-host-programme",
@@ -35240,7 +34975,7 @@
   "notes": "Programa de National Conference on Citizenship (American Conversation Project, with Cortico). Sin dinero directo: el valor está en la formación, la red o la visibilidad. Sin fecha de cierre: postulación continua.",
   "url": "https://www.americanconversations.org/youth",
   "applyUrl": "https://www.americanconversations.org/youth",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  },
  {
   "id": "poss-500-van-doorn-youth-study-scholarship",
@@ -35273,6 +35008,6 @@
   "notes": "Beca de Van Doorn Foundation. Financiamiento parcial. Sin fecha de cierre: postulación continua.",
   "url": "https://vandoornfoundation.com/apply-study-funding/",
   "applyUrl": "https://vandoornfoundation.com/apply-study-funding/",
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
  }
 ]
