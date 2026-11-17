@@ -1,24 +1,34 @@
 "use client";
 
 import { OrbitControls, RoundedBox } from "@react-three/drei";
-import { Canvas, useFrame } from "@react-three/fiber";
-import { memo, useCallback, useRef, useState, useSyncExternalStore } from "react";
-import type * as THREE from "three";
-import { CubeController, FACES, type Axis, type Face, type Turn } from "./rubik-cube";
+import { Canvas, useFrame, useThree, type ThreeEvent } from "@react-three/fiber";
+import { memo, useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react";
+import * as THREE from "three";
+import { axisOf, CubeController, FACES, moveFromDrag, type Axis, type Face, type Turn } from "./rubik-cube";
 
 /**
  * A playable 3×3 Rubik's cube: 27 pieces whose transforms change inside useFrame (CubeController, in
  * ./rubik-cube.ts), so a turn never re-renders React.
  */
 
-const FACE_NAMES: Record<Face, string> = {
-  U: "de arriba",
-  D: "de abajo",
-  R: "derecha",
-  L: "izquierda",
-  F: "del frente",
-  B: "de atrás",
-};
+/** While a sticker is held the view must not orbit: switches the scene's default controls (OrbitControls) off/on. */
+function setControlsEnabled(controls: unknown, on: boolean) {
+  if (controls && typeof controls === "object" && "enabled" in controls) (controls as { enabled: boolean }).enabled = on;
+}
+
+/** Pixels the pointer must travel before a drag on the cube becomes a turn. */
+const DRAG_PX = 12;
+
+interface Grab {
+  pointerId: number;
+  x: number;
+  y: number;
+  /** Outward normal of the grabbed face and the grabbed point, in cube coordinates. */
+  normal: THREE.Vector3;
+  point: THREE.Vector3;
+  /** One turn per drag: once it fires, the rest of the drag is ignored until the button comes up. */
+  used: boolean;
+}
 
 // Memoised: the counter and messages re-render the parent, and the meshes must not be rebuilt then.
 const Cube = memo(function Cube({
@@ -28,13 +38,80 @@ const Cube = memo(function Cube({
   cube: CubeController;
   onTurnDone: (turn: Turn, idle: boolean) => void;
 }) {
+  const root = useRef<THREE.Group>(null);
+  const grab = useRef<Grab | null>(null);
+  const { camera, gl } = useThree();
+  const get = useThree((s) => s.get);
+
   useFrame(({ clock }) => {
     const done = cube.step(clock.elapsedTime * 1000);
     if (done) onTurnDone(done.turn, done.idle);
   });
 
+  useEffect(() => {
+    const setOrbit = (on: boolean) => setControlsEnabled(get().controls, on);
+    const el = gl.domElement;
+    const toScreen = (v: THREE.Vector3) => {
+      const p = v.clone().project(camera);
+      return new THREE.Vector2(p.x * el.clientWidth, -p.y * el.clientHeight);
+    };
+    const onMove = (e: PointerEvent) => {
+      const g = grab.current;
+      const r = root.current;
+      if (!g || !r || g.used || e.pointerId !== g.pointerId) return;
+      const drag = new THREE.Vector2(e.clientX - g.x, e.clientY - g.y);
+      if (drag.length() < DRAG_PX) return;
+      // The two directions a sticker can travel on the grabbed face, seen on screen; take the one the drag follows.
+      const start = r.localToWorld(g.point.clone());
+      let best: { along: THREE.Vector3; score: number } | null = null;
+      for (const axis of [new THREE.Vector3(1, 0, 0), new THREE.Vector3(0, 1, 0), new THREE.Vector3(0, 0, 1)]) {
+        if (Math.abs(axis.dot(g.normal)) > 0.5) continue;
+        const end = r.localToWorld(g.point.clone().add(axis));
+        const onScreen = toScreen(end).sub(toScreen(start)).normalize();
+        const score = drag.clone().normalize().dot(onScreen);
+        if (!best || Math.abs(score) > Math.abs(best.score)) best = { along: axis.multiplyScalar(Math.sign(score) || 1), score };
+      }
+      const move = best && moveFromDrag(g.normal, best.along, g.point);
+      if (move) cube.push({ move, ms: 200, counts: true });
+      g.used = true;
+    };
+    const onUp = (e: PointerEvent) => {
+      if (grab.current?.pointerId !== e.pointerId) return;
+      grab.current = null;
+      setOrbit(true);
+    };
+    window.addEventListener("pointermove", onMove);
+    window.addEventListener("pointerup", onUp);
+    window.addEventListener("pointercancel", onUp);
+    return () => {
+      window.removeEventListener("pointermove", onMove);
+      window.removeEventListener("pointerup", onUp);
+      window.removeEventListener("pointercancel", onUp);
+    };
+  }, [camera, gl, cube, get]);
+
+  const onDown = (e: ThreeEvent<PointerEvent>) => {
+    const r = root.current;
+    if (!r || !e.face) return;
+    e.stopPropagation();
+    const inverse = r.matrixWorld.clone().invert();
+    const worldNormal = e.face.normal.clone().transformDirection(e.object.matrixWorld);
+    const { axis, sign } = axisOf(worldNormal.transformDirection(inverse));
+    const normal = new THREE.Vector3();
+    normal[axis] = sign;
+    grab.current = {
+      pointerId: e.pointerId,
+      x: e.clientX,
+      y: e.clientY,
+      normal,
+      point: e.point.clone().applyMatrix4(inverse),
+      used: false,
+    };
+    setControlsEnabled(get().controls, false);
+  };
+
   return (
-    <group>
+    <group ref={root} onPointerDown={onDown}>
       {cube.pieces.map((p, i) => (
         <group
           key={i}
@@ -142,10 +219,10 @@ export default function RubikScene({ large = false }: { large?: boolean }) {
   return (
     <div className="flex w-full flex-col items-center gap-3">
       <div
-        className={`${large ? "aspect-square w-full max-w-[480px]" : "h-[200px] w-[200px]"} ${coarse ? "" : "cursor-grab active:cursor-grabbing"} rounded-2xl outline-none focus-visible:ring-2 focus-visible:ring-larimar`}
+        className={`${large ? "aspect-square w-full max-w-[480px]" : "h-[200px] w-[200px]"} ${coarse ? "touch-pan-y" : "cursor-grab active:cursor-grabbing"} rounded-2xl outline-none focus-visible:ring-2 focus-visible:ring-larimar`}
         tabIndex={0}
         role="application"
-        aria-label="Cubo de Rubik. Arrastra para girarlo; las letras U, D, R, L, F y B giran una cara y con Mayús al revés."
+        aria-label="Cubo de Rubik. Arrastra una cara del cubo para girar esa fila o columna; arrastra fuera del cubo para darle la vuelta. Con el teclado, U, D, R, L, F y B giran una cara y con Mayús al revés."
         onKeyDown={onKey}
       >
         <Canvas camera={{ position: [4.2, 3.6, 5.2], fov: 34 }} dpr={[1, 2]}>
@@ -159,26 +236,10 @@ export default function RubikScene({ large = false }: { large?: boolean }) {
           ) : (
             <>
               <Cube cube={cube} onTurnDone={onTurnDone} />
-              <OrbitControls enableZoom={false} enablePan={false} rotateSpeed={0.8} />
+              <OrbitControls makeDefault enableZoom={false} enablePan={false} rotateSpeed={0.8} />
             </>
           )}
         </Canvas>
-      </div>
-      <div className="grid grid-cols-6 gap-1" role="group" aria-label="Girar caras">
-        {(Object.keys(FACES) as Face[]).flatMap((f) =>
-          [false, true].map((prime) => (
-            <button
-              key={f + prime}
-              type="button"
-              onClick={() => turn(f, prime)}
-              aria-label={`Girar la cara ${FACE_NAMES[f]} ${prime ? "al revés" : "en sentido del reloj"}`}
-              className={`${large ? "h-9 w-11 text-sm" : "h-7 w-8 text-xs"} rounded-md border bg-card font-mono text-foreground hover:border-larimar hover:text-larimar`}
-            >
-              {f}
-              {prime ? "′" : ""}
-            </button>
-          )),
-        )}
       </div>
       <div className="flex items-center gap-2 text-xs">
         <button type="button" onClick={scramble} className="rounded-full bg-primary px-3 py-1 font-medium text-primary-foreground">
@@ -193,7 +254,9 @@ export default function RubikScene({ large = false }: { large?: boolean }) {
           ? `¡Resuelto en ${moves} ${moves === 1 ? "movimiento" : "movimientos"}!`
           : scrambled
             ? `${moves} ${moves === 1 ? "movimiento" : "movimientos"}`
-            : "Mézclalo y resuélvelo"}
+            : coarse
+              ? "Desliza una fila de lado a lado para girarla"
+              : "Arrastra una cara para girarla; fuera del cubo, para darle la vuelta"}
       </p>
     </div>
   );

@@ -9,7 +9,8 @@ import * as THREE from "three";
 export type Axis = "x" | "y" | "z";
 export interface Move {
   axis: Axis;
-  layer: -1 | 1;
+  /** Which slice along the axis: the two outer faces or, when turned by dragging, the middle one. */
+  layer: -1 | 0 | 1;
   /** Sign of the angle about the positive axis: -1 is clockwise seen from the + side. */
   dir: 1 | -1;
 }
@@ -23,6 +24,28 @@ export const FACES = {
   B: { axis: "z", layer: -1, dir: 1 },
 } as const satisfies Record<string, Move>;
 export type Face = keyof typeof FACES;
+
+const AXES: Axis[] = ["x", "y", "z"];
+
+/** The axis a unit vector (one of ±x, ±y, ±z) points along, and its sign. */
+export function axisOf(v: THREE.Vector3): { axis: Axis; sign: 1 | -1 } {
+  const parts = [v.x, v.y, v.z];
+  const i = parts.reduce((best, n, k) => (Math.abs(n) > Math.abs(parts[best]) ? k : best), 0);
+  return { axis: AXES[i], sign: parts[i] < 0 ? -1 : 1 };
+}
+
+/**
+ * The turn a drag asks for. `normal` is the outward face that was grabbed, `along` the direction on that face the
+ * pointer moved (both axis-aligned, in cube coordinates) and `point` where it was grabbed. The layer turns about
+ * normal × along, so the grabbed sticker travels the way the pointer went.
+ */
+export function moveFromDrag(normal: THREE.Vector3, along: THREE.Vector3, point: THREE.Vector3): Move | null {
+  const turnAxis = new THREE.Vector3().crossVectors(normal, along);
+  if (turnAxis.lengthSq() < 0.5) return null;
+  const { axis, sign } = axisOf(turnAxis);
+  const layer = Math.max(-1, Math.min(1, Math.round(point[axis]))) as -1 | 0 | 1;
+  return { axis, layer, dir: sign };
+}
 
 
 // ApliKo's palette on the six faces.
