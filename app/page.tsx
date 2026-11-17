@@ -3,19 +3,18 @@ import Link from "next/link";
 import { DeadlineMarquee } from "@/components/deadline-marquee";
 import { deadlineText } from "@/components/opportunity-bits";
 import { AreaExplorer, type AreaSummary } from "@/components/portada/area-explorer";
+import { LogoKey } from "@/components/logo-key";
 import { Keycaps } from "@/components/portada/keycaps";
 import { RegistroNavLink, RegistroSection } from "@/components/registro";
 import { SiteFooter } from "@/components/site-chrome";
-import { HeroRubik, LazyTileSphere } from "@/components/three/lazy-scenes";
+import { HeroRubik, LazyJengaTower } from "@/components/three/lazy-scenes";
 import { AREAS } from "@/lib/areas";
 import { ADVISORS } from "@/lib/asesores";
 import { SESSION, TEAM } from "@/lib/equipo";
-import { COORDS } from "@/lib/geo";
 import { LATER, TONES } from "@/lib/urgency";
 import {
   closingSoon,
   daysLeft,
-  destinationCounts,
   eligibilityFor,
   opportunities,
   PROFILE_LABEL,
@@ -89,20 +88,16 @@ export default function Home() {
     };
   });
 
-  // Every open opportunity with a closing date, soonest first: the front of the sphere.
-  const tiles = open
+  // The next deadlines, soonest first: the top of the Jenga tower (12 levels of 3 blocks).
+  const blocks = open
     .flatMap((o) => {
       const days = daysLeft(o);
       return days === null || days < 0 ? [] : [{ slug: o.slug, name: o.name, sponsor: o.sponsor, days, date: deadlineText(o) }];
     })
     .sort((a, b) => a.days - b.days)
-    .slice(0, 180);
-  const thisWeek = tiles.filter((t) => t.days <= 7).length;
-
-  const counts = [...destinationCounts().entries()]
-    .filter(([name]) => COORDS[name])
-    .map(([name, count]) => ({ name, count }))
-    .sort((a, b) => b.count - a.count);
+    .slice(0, 36);
+  const thisWeek = blocks.filter((b) => b.days <= 7).length;
+  const pulled = blocks.filter((b) => b.days <= 3).length;
 
   const perProfile = PROFILES.map((p) => ({
     profile: p,
@@ -114,8 +109,9 @@ export default function Home() {
     <>
       <main className="portfolio">
         <nav className="portfolio-nav" aria-label="Principal">
-          <a className="brand" href="#top">
-            ApliKo<span>.</span>
+          <a className="brand group" href="#top" aria-label="ApliKo, inicio">
+            <LogoKey size={46} />
+            <span>ApliKo</span>
           </a>
           <ul className="nav-links" role="list">
             <li>
@@ -197,20 +193,20 @@ export default function Home() {
           <DeadlineMarquee items={soon} />
         </section>
 
-        <section className="destinations" id="destinos" aria-labelledby="destinations-title">
+        <section className="destinations" id="cierres" aria-labelledby="destinations-title">
           <div
-            className="destinations-globe"
+            className="destinations-globe destinations-tower"
             role="img"
-            aria-label={`Esfera con ${tiles.length} oportunidades abiertas; ${thisWeek} cierran esta semana.`}
+            aria-label={`Torre de Jenga con las próximas ${blocks.length} oportunidades en cerrar; ${thisWeek} cierran esta semana.`}
           >
-            <LazyTileSphere tiles={tiles} />
+            <LazyJengaTower blocks={blocks} />
           </div>
           <div className="destinations-copy">
-            <h2 id="destinations-title">Lo que cierra pronto, en todo el mundo</h2>
+            <h2 id="destinations-title">La torre de los cierres</h2>
             <p>
-              Cada cuadro es una de las {tiles.length} oportunidades abiertas y dice cuántos días le quedan. Al frente están las
-              que cierran antes{thisWeek > 0 ? `: ${thisWeek} cierran esta semana` : ""}. Gira la esfera y toca un cuadro para
-              abrirla.
+              Cada bloque es una de las próximas {blocks.length} oportunidades en cerrar y dice cuántos días le quedan. Arriba
+              están las que cierran antes{pulled > 0 ? `, y las ${pulled} que cierran en 3 días o menos ya se están saliendo de la torre` : ""}.
+              Gírala y toca un bloque para abrirlo.
             </p>
             <ul className="urgency-legend" role="list">
               {[...TONES, LATER[0]].map((t) => (
@@ -220,13 +216,13 @@ export default function Home() {
                 </li>
               ))}
             </ul>
-            <h3 className="destinations-subtitle">Por destino</h3>
-            <ol className="destinations-list" role="list">
-              {counts.slice(0, 10).map((d) => (
-                <li key={d.name}>
-                  <Link href={`/becas?destino=${encodeURIComponent(d.name)}`}>
-                    <span>{d.name}</span>
-                    <span className="count">{d.count}</span>
+            <h3 className="destinations-subtitle">Cierran primero</h3>
+            <ol className="destinations-list destinations-list--single" role="list">
+              {blocks.slice(0, 8).map((b) => (
+                <li key={b.slug}>
+                  <Link href={`/becas/${b.slug}`}>
+                    <span className="line-clamp-1">{b.name}</span>
+                    <span className="count">{b.days === 0 ? "hoy" : `${b.days} d`}</span>
                   </Link>
                 </li>
               ))}

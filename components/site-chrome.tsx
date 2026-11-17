@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { AccountLink } from "./account-link";
+import { LogoKey } from "./logo-key";
 import { SavedCount } from "./save-button";
 import { LazySplineCubes } from "./three/lazy-scenes";
 
@@ -7,8 +8,9 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-30 border-b bg-[color-mix(in_srgb,var(--page-tint,#fff)_90%,transparent)] backdrop-blur">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
-        <Link href="/" className="font-display text-2xl leading-none tracking-tight sm:text-3xl">
-          ApliKo<span className="text-larimar">.</span>
+        <Link href="/" className="group inline-flex items-center gap-2.5" aria-label="ApliKo, inicio">
+          <LogoKey size={38} />
+          <span className="hidden font-display text-2xl leading-none tracking-tight sm:inline">ApliKo</span>
         </Link>
         <nav
           aria-label="Principal"

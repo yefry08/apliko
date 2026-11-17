@@ -6,11 +6,11 @@ import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { CubeLoader } from "@/components/cube-loader";
 import { DiceLoader } from "@/components/dice-loader";
-import type { SphereTile } from "./tile-sphere";
+import type { TowerBlock } from "./jenga-tower";
 
-const TileSphere = dynamic(() => import("./tile-sphere"), {
+const JengaTower = dynamic(() => import("./jenga-tower"), {
   ssr: false,
-  loading: () => <SpherePlaceholder />,
+  loading: () => <TowerPlaceholder />,
 });
 
 const RubikScene = dynamic(() => import("./rubik-scene"), {
@@ -35,10 +35,10 @@ function FooterPlaceholder() {
   );
 }
 
-function SpherePlaceholder() {
+function TowerPlaceholder() {
   return (
     <div className="flex h-full w-full items-center justify-center">
-      <DiceLoader size={150} label="Armando la esfera…" />
+      <DiceLoader size={150} label="Armando la torre…" />
     </div>
   );
 }
@@ -81,17 +81,17 @@ export function LazySplineCubes() {
   return <div ref={ref}>{near ? <SplineCubes /> : <FooterPlaceholder />}</div>;
 }
 
-/** The sphere of open opportunities, soonest to close in front; a tile opens its page. */
-export function LazyTileSphere({ tiles }: { tiles: SphereTile[] }) {
+/** The Jenga tower of the next deadlines, soonest at the top; a block opens its page. */
+export function LazyJengaTower({ blocks }: { blocks: TowerBlock[] }) {
   const router = useRouter();
   const reduce = useReducedMotion();
   const [ref, near] = useNearViewport<HTMLDivElement>();
   return (
     <div ref={ref} className="h-full w-full">
       {near ? (
-        <TileSphere tiles={tiles} animate={!reduce} onSelect={(slug) => router.push(`/becas/${slug}`)} />
+        <JengaTower blocks={blocks} animate={!reduce} onSelect={(slug) => router.push(`/becas/${slug}`)} />
       ) : (
-        <SpherePlaceholder />
+        <TowerPlaceholder />
       )}
     </div>
   );

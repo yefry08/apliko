@@ -3,11 +3,12 @@
 import { useEffect } from "react";
 
 /**
- * The page background drifts through soft tints of the palette as you scroll: white at the top, then lavender,
- * sky, mint and peach. It writes --page-tint on <html> at most once per frame; body, the home page and the
- * headers read it (app/globals.css, app/portada.css, components/site-chrome.tsx). No React re-renders.
+ * The page background drifts through soft pastel tints as you scroll: white at the top, then lavender, sky, mint,
+ * peach and blush, ending on lavender again. Light enough for text to keep its contrast, strong enough to notice.
+ * It writes --page-tint on <html> at most once per frame; body, the home page and the headers read it
+ * (app/globals.css, app/portada.css, components/site-chrome.tsx). No React re-renders.
  */
-const STOPS = ["#FFFFFF", "#F6F3FF", "#EEF6FF", "#EEFBF4", "#FFF6EC", "#F6F3FF"];
+const STOPS = ["#FFFFFF", "#F0EAFF", "#E3EFFF", "#E2F6EA", "#FFEEDB", "#FDE6F0", "#EEE9FF"];
 
 export function ScrollTint() {
   useEffect(() => {

@@ -60,8 +60,9 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
   con un PDF local: `npx tsx scripts/probar-cv.ts ruta/al/cv.pdf`.
 - `lib/areas.ts`: las 13 áreas (colores de carpeta y tarjeta, su representante del equipo y la regla que decide qué
   oportunidad entra en cada una). Las usan la portada y el filtro "Área" del catálogo (`/becas?area=clima`).
-- `components/portada/keycaps.tsx`: el logotipo ApliKo en teclas. Cada tecla es un área (las dos últimas toman
-  la forma de la tecla enter y la tecla lateral) y lleva al catálogo filtrado; las áreas que sobran van en una fila de
+- `components/logo-key.tsx`: el logo, una sola tecla con "A+". `components/portada/keycaps.tsx`: el teclado de la
+  portada: la tecla A+ (todo el catálogo) y una tecla por área con su nombre completo (las dos últimas toman la forma
+  de la tecla enter y la tecla lateral), cada una lleva al catálogo filtrado; las áreas que sobran van en una fila de
   teclas F.
 - `components/portada/area-explorer.tsx`: la lista de áreas, la caja con una carpeta por área (su posición se calcula
   con `folderSpot`) y el diálogo nativo, con el representante del área.
@@ -72,8 +73,8 @@ Las reglas tienen pruebas: `python -m unittest scripts/test_ingest_rss.py`.
 - `components/three/spline-cubes.tsx`: los cubos azules de Spline en el footer, que cargan al acercarse. En pantallas de
   1024 px o más, la escena de Spline con fondo transparente y escalada a la caja (`spline-canvas.tsx` fuerza WebGL); en
   móvil o con movimiento reducido, la escena 3D propia.
-- `components/cube-loader.tsx`: el cubo Rubik en CSS que gira mientras cargan las escenas 3D (el cubo de la portada y los del footer). Es una adaptación del loader de lukepadiachy en Uiverse.io (licencia MIT, aviso en `cube-loader.module.css`). `components/dice-loader.tsx`: el dado dentro de un círculo que cambia de color, para las páginas (`app/loading.tsx`) y la esfera; adaptado del loader de Subaashbala en Uiverse.io (MIT, aviso en `dice-loader.module.css`).
-- `components/three/`: esfera de oportunidades (`tile-sphere.tsx`: un cuadro por oportunidad abierta, las que cierran antes al frente y en rojo; colores en `lib/urgency.ts`), cubo Rubik y escena flotante (React Three Fiber, carga diferida).
+- `components/cube-loader.tsx`: el cubo Rubik en CSS que gira mientras cargan las escenas 3D (el cubo de la portada y los del footer). Es una adaptación del loader de lukepadiachy en Uiverse.io (licencia MIT, aviso en `cube-loader.module.css`). `components/dice-loader.tsx`: el dado dentro de un círculo que cambia de color, para las páginas (`app/loading.tsx`) y la torre de Jenga; adaptado del loader de Subaashbala en Uiverse.io (MIT, aviso en `dice-loader.module.css`).
+- `components/three/`: torre de Jenga de los próximos cierres (`jenga-tower.tsx`: un bloque por oportunidad, las que cierran antes arriba y las de 3 días o menos saliéndose de la torre; colores en `lib/urgency.ts`), cubo Rubik que se juega arrastrando las caras y escena flotante (React Three Fiber, carga diferida). `components/scroll-tint.tsx`: el fondo cambia de color pastel según el scroll.
 - `components/deadline-marquee.tsx`: carrusel continuo con las 5 oportunidades que cierran antes.
 - `lib/store.ts`: becas guardadas, etapa de cada postulación y perfil, en `localStorage` (clave `apliko:v1`).
 - `lib/ics.ts`: calendario `.ics` con alarmas 7 días y 1 día antes del cierre.

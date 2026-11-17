@@ -3,13 +3,13 @@ import type { CSSProperties } from "react";
 import { AREAS, type Area } from "@/lib/areas";
 
 /**
- * The wordmark as a keyboard: "ApliKo" spelled out, one key per area in catalogue order.
- * The two areas past the six letters take the shapes a real keyboard has to spare, the
- * enter key and the slim side key; any further areas sit on a function row above, like
- * F1, F2… Styles: app/portada.css.
+ * The home page's keyboard: the A+ logo key first (the whole catalogue), then one key per area with the area's
+ * name written out on the cap, in catalogue order. The two areas past the first six take the shapes a real
+ * keyboard has to spare, the enter key and the slim side key; any further areas sit on a function row above,
+ * like F1, F2… Styles: app/portada.css.
  */
-const WORD = ["A", "p", "l", "i", "K", "o"];
-const MAIN_KEYS = WORD.length + 2;
+const REGULAR_KEYS = 6;
+const MAIN_KEYS = REGULAR_KEYS + 2;
 
 const keyStyle = (area: Area) =>
   ({
@@ -34,10 +34,14 @@ export function Keycaps() {
           ))}
         </div>
       )}
+      <Link className="keycap keycap--logo" href="/becas" aria-label="ApliKo: todas las oportunidades">
+        <span className="keycap-logo" aria-hidden="true">
+          A<span>+</span>
+        </span>
+        <span className="keycap-label">Todas</span>
+      </Link>
       {main.map((area, i) => {
-        const glyph = WORD[i];
-        const shape = i === WORD.length ? "wide" : i > WORD.length ? "slim" : null;
-
+        const shape = i === REGULAR_KEYS ? "wide" : i > REGULAR_KEYS ? "slim" : null;
         return (
           <Link
             key={area.id}
@@ -45,12 +49,12 @@ export function Keycaps() {
             href={`/becas?area=${area.id}`}
             style={keyStyle(area)}
           >
-            {shape !== "slim" && (
-              <span className="keycap-glyph" aria-hidden="true">
-                {glyph ?? "↵"}
+            {shape === "wide" && (
+              <span className="keycap-corner" aria-hidden="true">
+                ↵
               </span>
             )}
-            <span className="keycap-label">{area.title}</span>
+            <span className="keycap-word">{area.title}</span>
           </Link>
         );
       })}

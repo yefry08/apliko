@@ -64,7 +64,11 @@ html:has(.case-overlay[open]) {
   border-bottom: 1px solid var(--line);
 }
 
+/* The logo: the A+ key (components/logo-key.tsx) next to the name. */
 .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
   font-family: var(--serif);
   font-size: 34px;
   font-weight: 400;
@@ -72,10 +76,6 @@ html:has(.case-overlay[open]) {
   letter-spacing: -1px;
   color: var(--navy);
   text-decoration: none;
-}
-
-.brand span {
-  color: var(--cobalt);
 }
 
 .nav-links {
@@ -209,8 +209,8 @@ html:has(.case-overlay[open]) {
 /* ------------------------------------------------------------------ keycaps */
 
 /*
- * "ApliKo" spelled in keycaps, opening the page: the wordmark doubles as the shortcut to
- * each area. It spans the hero's first row. Colours come from lib/areas.ts as --key.
+ * The keyboard opening the page: the A+ logo key, then one key per area with its name on the cap; each key is the
+ * shortcut to that area. It spans the hero's first row. Colours come from lib/areas.ts as --key.
  */
 .keycaps {
   grid-column: 1 / -1;
@@ -263,6 +263,57 @@ html:has(.case-overlay[open]) {
   color: var(--key-ink-soft, rgba(24, 32, 58, 0.64));
 }
 
+/* The area's whole name on the cap, where a letter would be on a real key. */
+.keycap-word {
+  margin-top: auto;
+  font-family: var(--sans);
+  font-size: clamp(0.92rem, 1.25vw, 1.18rem);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.2px;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+/* Enter key: the ↵ sits in the top corner, the name at the bottom. */
+.keycap-corner {
+  align-self: flex-end;
+  font-family: var(--sans);
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* The logo key: square, navy, with A+ instead of a name (same look as components/logo-key.tsx). */
+.keycap--logo {
+  flex: 0 0 auto;
+  min-width: 132px;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  background: var(--navy);
+  color: #fff;
+  box-shadow:
+    0 var(--edge) 0 #0b0f1c,
+    inset 0 4px 0 rgba(255, 255, 255, 0.12);
+}
+
+.keycap-logo {
+  font-family: var(--sans);
+  font-size: clamp(2.6rem, 4vw, 3.8rem);
+  font-weight: 800;
+  line-height: 0.9;
+  letter-spacing: -1.5px;
+}
+
+.keycap-logo span {
+  color: #c8ff48;
+}
+
+.keycap--logo .keycap-label {
+  color: rgba(255, 255, 255, 0.7);
+}
+
 /* Function row: the areas past the word, as small F-keys across the top of the keyboard. */
 .keycaps-fn {
   display: flex;
@@ -303,10 +354,6 @@ html:has(.case-overlay[open]) {
   max-width: 260px;
 }
 
-.keycap--wide .keycap-glyph {
-  align-self: flex-end;
-}
-
 /* Side key: narrow, so its label runs up the cap. */
 .keycap--slim {
   flex: 0 0 62px;
@@ -314,7 +361,9 @@ html:has(.case-overlay[open]) {
   justify-content: center;
 }
 
-.keycap--slim .keycap-label {
+.keycap--slim .keycap-word {
+  margin-top: 0;
+  font-size: 0.85rem;
   writing-mode: vertical-rl;
   rotate: 180deg;
 }
@@ -599,7 +648,8 @@ html:has(.case-overlay[open]) {
   margin-top: 96px;
   padding: 40px;
   border-radius: 24px;
-  background: #edf3ff;
+  /* Translucent, so the scroll tint (components/scroll-tint.tsx) shows through. */
+  background: rgb(255 255 255 / 0.55);
 }
 
 .destinations-globe {
@@ -608,6 +658,19 @@ html:has(.case-overlay[open]) {
   width: 100%;
   max-width: 560px;
   justify-self: center;
+}
+
+/* The Jenga tower is taller than it is wide. */
+.destinations-tower {
+  aspect-ratio: 4 / 5;
+}
+
+.destinations-list--single {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.destinations-list--single a > span:first-child {
+  min-width: 0;
 }
 
 .destinations-copy {
@@ -1182,6 +1245,10 @@ html:has(.case-overlay[open]) {
     min-height: 114px;
   }
 
+  .keycap--logo {
+    min-width: 114px;
+  }
+
   .keycap--fn {
     flex-basis: 140px;
     min-height: 0;
@@ -1230,6 +1297,18 @@ html:has(.case-overlay[open]) {
 
   .keycap--slim {
     flex: 0 0 50px;
+  }
+
+  .keycap--logo {
+    min-width: 94px;
+  }
+
+  .keycap-word {
+    font-size: 0.8rem;
+  }
+
+  .keycap--slim .keycap-word {
+    font-size: 0.72rem;
   }
 
   /* Two rows: brand and button, then the links. */
