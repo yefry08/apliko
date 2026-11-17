@@ -25592,40 +25592,6 @@
   "updatedAt": "2026-11-17"
  },
  {
-  "id": "poss-driving-urban-transitions-innovation-grant",
-  "slug": "driving-urban-transitions-innovation-grant",
-  "name": "Driving Urban Transitions Innovation Grant",
-  "sponsor": "Driving Urban Transitions (DUT) Partnership",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Clima"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-17"
-  },
-  "notes": "Fondos de Driving Urban Transitions (DUT) Partnership. Totalmente financiado. La convocatoria cierra a las 13:00 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://dutpartnership.eu/index.php/calls/dut-call-2026",
-  "applyUrl": "https://dutpartnership.eu/index.php/calls/dut-call-2026",
-  "updatedAt": "2026-11-17"
- },
- {
   "id": "poss-paid-corpsafrica-digital-communications-internship",
   "slug": "paid-corpsafrica-digital-communications-internship",
   "name": "Paid CorpsAfrica Digital Communications Internship",
@@ -25656,40 +25622,6 @@
   "notes": "Pasantía de CorpsAfrica. Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Nairobi); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://corpsafrica.applytojob.com/apply/Kn57UcuPQ0/Digital-Communications-Intern",
   "applyUrl": "https://corpsafrica.applytojob.com/apply/Kn57UcuPQ0/Digital-Communications-Intern",
-  "updatedAt": "2026-11-17"
- },
- {
-  "id": "poss-150-000-green-digital-employability-grant",
-  "slug": "150-000-green-digital-employability-grant",
-  "name": "£150,000 Green Digital Employability Grant",
-  "sponsor": "British Council",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Tecnología"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-17"
-  },
-  "notes": "Fondos de British Council. Totalmente financiado. La convocatoria cierra a las 10:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://opportunities-insight.britishcouncil.org/short-articles/opportunities/green-and-digital-employability-and-enterprise-programme",
-  "applyUrl": "https://opportunities-insight.britishcouncil.org/short-articles/opportunities/green-and-digital-employability-and-enterprise-programme",
   "updatedAt": "2026-11-17"
  },
  {

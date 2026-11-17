@@ -28603,5 +28603,428 @@
    "url": "https://opportunitydesk.org/2026/11/16/rlrh-east-africa-operations-manager/",
    "updatedAt": "2026-11-17"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/nominations-open-for-land-and-soil-management-award/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/nominations-open-for-land-and-soil-management-award/",
+  "title": "Nominations Open for Land and Soil Management Award",
+  "publishedAt": "2026-11-17T06:48:18+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "Es para organizaciones, no para personas.",
+  "oportunidad": {
+   "id": "rss-nominations-open-for-land-and-soil-management-award",
+   "slug": "nominations-open-for-land-and-soil-management-award",
+   "name": "Nominations Open for Land and Soil Management Award",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Land and Soil Management Award 2026/2027, offered by the European Landowners’ Organization (ELO), recognizes innovative practices in land use and soil management that mitigate soil threats.",
+   "url": "https://www.fundsforngos.org/how-to-apply/nominations-open-for-land-and-soil-management-award/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/submit-applications-for-ukraine-agricultural-support-program/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/submit-applications-for-ukraine-agricultural-support-program/",
+  "title": "Submit Applications for Ukraine Agricultural Support Program",
+  "publishedAt": "2026-11-17T06:46:44+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-submit-applications-for-ukraine-agricultural-support-program",
+   "slug": "submit-applications-for-ukraine-agricultural-support-program",
+   "name": "Submit Applications for Ukraine Agricultural Support Program",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Ukraine Agriculture Support Program (UASP) by Prosper Global, funded by the Howard G. Buffett Foundation, offers financial aid to Ukrainian agricultural producers affected by the war.",
+   "url": "https://www.fundsforngos.org/how-to-apply/submit-applications-for-ukraine-agricultural-support-program/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/broad-agency-announcement-for-oceanic-and-atmospheric-research-us/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/broad-agency-announcement-for-oceanic-and-atmospheric-research-us/",
+  "title": "Broad Agency Announcement for Oceanic and Atmospheric Research (US)",
+  "publishedAt": "2026-11-17T06:45:29+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-broad-agency-announcement-for-oceanic-and-atmospheric-research-us",
+   "slug": "broad-agency-announcement-for-oceanic-and-atmospheric-research-us",
+   "name": "Broad Agency Announcement for Oceanic and Atmospheric Research (US)",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente",
+    "Ciencias"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2029-09-30"
+   },
+   "notes": "The Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA) invites applications for the FY 2027 – 2029 Broad Agency Announcement (BAA) for Oceanic and Atmospheric Research (OAR).",
+   "url": "https://www.fundsforngos.org/how-to-apply/broad-agency-announcement-for-oceanic-and-atmospheric-research-us/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180300",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/17/idac-foundation-summer-fellowship-2027/",
+  "title": "iDAC Foundation Summer Fellowship 2027 ($6,000 stipend)",
+  "publishedAt": "2026-11-17T19:28:27+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-idac-foundation-summer-fellowship-2027-6-000-stipend",
+   "slug": "idac-foundation-summer-fellowship-2027-6-000-stipend",
+   "name": "iDAC Foundation Summer Fellowship 2027 ($6,000 stipend)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Economía"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Deadline: November 23, 206 Applications for the iDAC Foundation Summer Fellowship 2027 are now open.",
+   "url": "https://opportunitydesk.org/2026/11/17/idac-foundation-summer-fellowship-2027/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180299",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/17/daad-heilbronn-ai-fellowship-2027/",
+  "title": "DAAD Heilbronn AI Fellowship 2027 (Funded)",
+  "publishedAt": "2026-11-17T18:57:56+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-daad-heilbronn-ai-fellowship-2027-funded",
+   "slug": "daad-heilbronn-ai-fellowship-2027-funded",
+   "name": "DAAD Heilbronn AI Fellowship 2027 (Funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Inteligencia artificial",
+    "Medio ambiente"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Deadline: Unspecified Applications are open for the DAAD Heilbronn AI Fellowship 2027. The Heilbronn AI Fellowship attracts outstanding international postdoctoral researchers to Heilbronn’s rapidly growing AI ecosystem.",
+   "url": "https://opportunitydesk.org/2026/11/17/daad-heilbronn-ai-fellowship-2027/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180298",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/17/citizensnyc-neighborhood-business-grant-2027/",
+  "title": "CitizensNYC Neighborhood Business Grant 2027 (up to $5,000)",
+  "publishedAt": "2026-11-17T18:44:43+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-citizensnyc-neighborhood-business-grant-2027-up-to-5-000",
+   "slug": "citizensnyc-neighborhood-business-grant-2027-up-to-5-000",
+   "name": "CitizensNYC Neighborhood Business Grant 2027 (up to $5,000)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Negocios"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "parcial",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-01"
+   },
+   "notes": "Deadline: February 1, 2027 Are you a small business owner in NYC with a vision to uplift your community? Apply now for the CitizensNYC Neighborhood Business Grant 2027. The Neighborhood Business Grants offer up to $5,000 for initiatives your small business undertakes to positively impact your community.",
+   "url": "https://opportunitydesk.org/2026/11/17/citizensnyc-neighborhood-business-grant-2027/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180297",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/17/citizensnyc-community-leaders-grant-2027/",
+  "title": "CitizensNYC Community Leaders Grant 2027 (up to $5,000)",
+  "publishedAt": "2026-11-17T18:33:07+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-citizensnyc-community-leaders-grant-2027-up-to-5-000",
+   "slug": "citizensnyc-community-leaders-grant-2027-up-to-5-000",
+   "name": "CitizensNYC Community Leaders Grant 2027 (up to $5,000)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-01"
+   },
+   "notes": "Deadline: February 1, 2027 Applications are open for the CitizensNYC Community Leaders Grant 2027. Are you a New Yorker with a commitment to your community and a great idea? Apply to get funding for your idea.",
+   "url": "https://opportunitydesk.org/2026/11/17/citizensnyc-community-leaders-grant-2027/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180287",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/17/ejn-methane-reporting-workshop-2027-in-jakarta-indonesia/",
+  "title": "EJN Methane Reporting Workshop 2027 in Jakarta, Indonesia",
+  "publishedAt": "2026-11-17T14:15:19+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-ejn-methane-reporting-workshop-2027-in-jakarta-indonesia",
+   "slug": "ejn-methane-reporting-workshop-2027-in-jakarta-indonesia",
+   "name": "EJN Methane Reporting Workshop 2027 in Jakarta, Indonesia",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Periodismo"
+   ],
+   "levels": [],
+   "destinations": [
+    "Indonesia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-17"
+   },
+   "notes": "Deadline: December 17, 2026 Applications are invited for the EJN Methane Reporting Workshop 2027 in Jakarta, Indonesia. Control of methane emissions needs public discussion, support from industry and enabling policies, all of which can be catalyzed through media coverage.",
+   "url": "https://opportunitydesk.org/2026/11/17/ejn-methane-reporting-workshop-2027-in-jakarta-indonesia/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180286",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/17/ejn-story-grants-to-report-on-mining-environment-and-human-rights-in-africa-2027/",
+  "title": "EJN Story Grants to Report on Mining, Environment and Human Rights in Africa 2027 (up to $2,000)",
+  "publishedAt": "2026-11-17T13:55:58+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-ejn-story-grants-to-report-on-mining-environment-and-human-rights-in-africa-2027",
+   "slug": "ejn-story-grants-to-report-on-mining-environment-and-human-rights-in-africa-2027",
+   "name": "EJN Story Grants to Report on Mining, Environment and Human Rights in Africa 2027 (up to $2,000)",
+   "sponsor": "EJN",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Periodismo",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Ghana",
+    "Sudáfrica"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-01"
+   },
+   "notes": "Deadline: December 1, 2026 Applications are open for the EJN Story Grants to Report on Mining, Environment and Human Rights in Africa 2027.",
+   "url": "https://opportunitydesk.org/2026/11/17/ejn-story-grants-to-report-on-mining-environment-and-human-rights-in-africa-2027/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180284",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/17/fast-retailing-global-management-program-2027/",
+  "title": "Fast Retailing Global Management Program 2027",
+  "publishedAt": "2026-11-17T13:27:51+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-fast-retailing-global-management-program-2027",
+   "slug": "fast-retailing-global-management-program-2027",
+   "name": "Fast Retailing Global Management Program 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Negocios"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-28"
+   },
+   "notes": "Deadline: February 28, 2027 Applications are open for the Fast Retailing Global Management Program 2027.",
+   "url": "https://opportunitydesk.org/2026/11/17/fast-retailing-global-management-program-2027/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180285",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/17/nigeria-sustainability-competition-2026/",
+  "title": "Nigeria Sustainability Competition 2026 (₦1,000,000 prize)",
+  "publishedAt": "2026-11-17T13:18:23+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-nigeria-sustainability-competition-2026-1-000-000-prize",
+   "slug": "nigeria-sustainability-competition-2026-1-000-000-prize",
+   "name": "Nigeria Sustainability Competition 2026 (₦1,000,000 prize)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Premio"
+   ],
+   "areas": [
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Nigeria"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-11-20"
+   },
+   "notes": "Deadline: November 20, 2026 Applications are open for the Nigeria Sustainability Competition 2026.",
+   "url": "https://opportunitydesk.org/2026/11/17/nigeria-sustainability-competition-2026/",
+   "updatedAt": "2026-11-17"
+  }
+ },
+ {
+  "guid": "https://opportunitiescorners.com/?p=27868",
+  "feed": "Opportunities Corners",
+  "link": "https://opportunitiescorners.com/erasmus-mundus-emle-scholarship-2027/",
+  "title": "Erasmus Mundus EMLE Scholarship 2027/29 (Fully Funded)",
+  "publishedAt": "2026-11-17T07:38:42+00:00",
+  "fetchedAt": "2026-11-17T19:43:43+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-erasmus-mundus-emle-scholarship-2027-29-fully-funded",
+   "slug": "erasmus-mundus-emle-scholarship-2027-29-fully-funded",
+   "name": "Erasmus Mundus EMLE Scholarship 2027/29 (Fully Funded)",
+   "source": "rss",
+   "sourceName": "Opportunities Corners",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Derecho",
+    "Economía"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Erasmus Mundus EMLE Scholarship 2027 is one of the most popular Master’s Degree Programs offered by the Erasmus Commission. EMLE Stands for the European Master in Law and Economics, a One-Year Master’s degree scholarship to be completed at least at three Universities Located in Europe and non-European countries.",
+   "url": "https://opportunitiescorners.com/erasmus-mundus-emle-scholarship-2027/",
+   "updatedAt": "2026-11-17"
+  }
  }
 ]
