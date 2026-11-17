@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import type { CSSProperties } from "react";
 import { DeadlineMarquee } from "@/components/deadline-marquee";
 import { deadlineText } from "@/components/opportunity-bits";
 import { AreaExplorer, type AreaSummary } from "@/components/portada/area-explorer";
@@ -31,9 +30,6 @@ import "./portada.css";
 export const revalidate = 3600;
 
 const PROFILES: Profile[] = ["rd", "latam", "eeuu-ciudadano", "eeuu-residente", "daca"];
-
-/** Team cards are dealt like a color card game: red, yellow, green, blue, then a black "wild" card. */
-const CARD_COLORS = ["#E5382E", "#F5B700", "#22A55B", "#2F5BD8", "#1B2030"];
 
 const PROCESS = [
   {
@@ -289,28 +285,14 @@ export default function Home() {
             </p>
           </div>
           <ul className="team-grid" role="list">
-            {TEAM.map((m, i) => (
-              <li
-                key={m.name}
-                className="team-card"
-                style={{ "--card": CARD_COLORS[i % CARD_COLORS.length] } as CSSProperties}
-              >
-                <div className="team-playcard">
-                  <span className="team-corner team-corner--top" aria-hidden="true">
-                    {m.initials}
-                  </span>
-                  <div className="team-oval">
-                    <div className="team-photo">
-                      {m.photo ? (
-                        <Image src={m.photo} alt={`Foto de ${m.name}`} fill sizes="(max-width: 619px) 45vw, 18vw" />
-                      ) : (
-                        <span aria-hidden="true">{m.initials}</span>
-                      )}
-                    </div>
-                  </div>
-                  <span className="team-corner team-corner--bottom" aria-hidden="true">
-                    {m.initials}
-                  </span>
+            {TEAM.map((m) => (
+              <li key={m.name} className="team-card">
+                <div className="team-photo">
+                  {m.photo ? (
+                    <Image src={m.photo} alt={`Foto de ${m.name}`} fill sizes="(max-width: 619px) 50vw, 20vw" />
+                  ) : (
+                    <span aria-hidden="true">{m.initials}</span>
+                  )}
                 </div>
                 <h3>{m.name}</h3>
                 <p className="team-role">{m.role}</p>

@@ -857,95 +857,16 @@ html:has(.case-overlay[open]) {
   align-items: flex-start;
 }
 
-/* Each person is a playing card in the style of color card games: a solid card with a white rim, a tilted white
-   oval holding the photo, and the initials in two opposite corners. Dealt with a slight, uneven tilt. */
-.team-playcard {
-  --tilt: -3deg;
-  position: relative;
-  width: 100%;
-  aspect-ratio: 5 / 7;
-  margin-bottom: 18px;
-  border-radius: 18px;
-  background: var(--card);
-  box-shadow:
-    inset 0 0 0 7px #fff,
-    inset 0 0 0 8px rgb(0 0 0 / 0.12),
-    0 1px 0 1px rgb(24 32 58 / 0.18),
-    0 14px 26px -14px rgb(24 32 58 / 0.55);
-  transform: rotate(var(--tilt));
-  transition:
-    transform 0.25s ease,
-    box-shadow 0.25s ease;
-}
-
-.team-card:nth-child(2) .team-playcard {
-  --tilt: 2.5deg;
-}
-.team-card:nth-child(3) .team-playcard {
-  --tilt: -1.5deg;
-}
-.team-card:nth-child(4) .team-playcard {
-  --tilt: 3deg;
-}
-.team-card:nth-child(5) .team-playcard {
-  --tilt: -2.5deg;
-}
-
-.team-card:hover .team-playcard,
-.team-card:focus-within .team-playcard {
-  transform: translateY(-8px) rotate(0deg);
-  box-shadow:
-    inset 0 0 0 7px #fff,
-    inset 0 0 0 8px rgb(0 0 0 / 0.12),
-    0 1px 0 1px rgb(24 32 58 / 0.18),
-    0 22px 32px -14px rgb(24 32 58 / 0.6);
-}
-
-.team-corner {
-  position: absolute;
-  z-index: 1;
-  font-family: var(--sans);
-  font-size: clamp(0.95rem, 1.6vw, 1.3rem);
-  font-style: italic;
-  font-weight: 800;
-  line-height: 1;
-  color: #fff;
-  text-shadow:
-    1px 1px 0 rgb(0 0 0 / 0.55),
-    -1px -1px 0 rgb(0 0 0 / 0.25);
-}
-
-.team-corner--top {
-  top: 16px;
-  left: 16px;
-}
-
-.team-corner--bottom {
-  right: 16px;
-  bottom: 16px;
-  transform: rotate(180deg);
-}
-
-/* The tilted oval; the photo inside turns back the other way so faces stay upright. */
-.team-oval {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 78%;
-  height: 92%;
-  overflow: hidden;
-  border-radius: 50%;
-  background: #fff;
-  box-shadow: inset 0 0 0 3px #fff;
-  transform: translate(-50%, -50%) rotate(28deg) scale(0.86);
-}
-
 .team-photo {
-  position: absolute;
-  inset: -18%;
+  position: relative;
   display: grid;
   place-items: center;
-  transform: rotate(-28deg);
+  width: 100%;
+  aspect-ratio: 1;
+  margin-bottom: 16px;
+  overflow: hidden;
+  border-radius: 20px;
+  background: #f1edff;
 }
 
 .team-photo img {
@@ -953,20 +874,9 @@ html:has(.case-overlay[open]) {
 }
 
 .team-photo span {
-  font-family: var(--sans);
-  font-size: clamp(2.6rem, 5vw, 4rem);
-  font-style: italic;
-  font-weight: 800;
-  color: var(--card);
-  text-shadow:
-    2px 2px 0 #18203a,
-    -1px -1px 0 #18203a;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .team-playcard {
-    transition: none;
-  }
+  font-family: var(--serif);
+  font-size: 4rem;
+  color: var(--cobalt);
 }
 
 .team-card h3 {
