@@ -23698,6 +23698,39 @@
   "updatedAt": "2026-11-18"
  },
  {
+  "id": "cimpa-cimpa-learning-over-structured-high-dimensional-objects-theory-and-complexity",
+  "slug": "cimpa-learning-over-structured-high-dimensional-objects-theory-and-complexity",
+  "name": "Learning over Structured High-Dimensional Objects: Theory and Complexity (CIMPA Fellowship)",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Fellowship de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Suiza"
+  ],
+  "funding": "parcial",
+  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Nivel: Master or higher educational level. Fechas: 15 March, 2027, Lausanne. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-29"
+  },
+  "notes": "× Many modern, large-scale datasets are structured as graphs, matrices, tensors, and other combinatorial objects. A central challenge across mathematics, statistics, and theoretical computer science is to understand the limits of inference, when these limits can be achieved computationally, and where fundamental barriers arise. Recent progress has provided evidence of computational-statistical gaps in many such problems. Low-degree polynomials, Sum-of-Squares, the overlap gap property, and other signatures of hardness, together with average-case reductions, have emerged as powerful frameworks…",
+  "url": "https://www.cimpa.info/en/node/8256",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-18"
+ },
+ {
   "id": "cimpa-cimpa-arithmetic-geometry",
   "slug": "cimpa-arithmetic-geometry",
   "name": "Escuela CIMPA: Arithmetic geometry",
@@ -24268,7 +24301,7 @@
   "funding": "varia",
   "amount": "527 ofertas de beca en la convocatoria",
   "citizenship": "solo-rd",
-  "citizenshipRaw": "Dirigida a: Todos. Ser dominicano, con residencia permanente en República Dominicana. Ser joven con edad entre 15 a 35 años. Bachiller graduado con un índice académico mínimo de 80 en la escala de cero a 100 o de 3 en la escala de cero a cuatro. Record de calificaciones legalizado por el Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT). Copia de Título legalizada por el Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT). Certificación de carta de grado, emitida por el MESCyT. Una (1) foto 2×2. Fotocopia de la Cédula de Identidad y Electoral (ambos lados). Fotocopia del Pasaporte (primera página y visas, si tiene). Currículum Vitae. Carta de solicitud explicando las razones por las cuales entiende que debe ser beneficiado/a con una beca. Explique todas las razones que considere necesarias incluyendo méritos académicos, sociales, deportivos, de liderazgo, entre otros, además…",
+  "citizenshipRaw": "Dirigida a: Todos. Ser dominicano, con residencia permanente en República Dominicana. Ser joven con edad entre 15 a 35 años. Bachiller graduado con un índice académico mínimo de 80 en la escala de cero a 100 o de 3 en la escala de cero a cuatro. (Para los diplomados y cursos cortos se requiere haber aprobado el 8vo grado) Record de calificaciones legalizado por el Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT). (Para los estudios de grado se requiere el récord de notas de bachillerato) Copia de Título legalizada por el Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT). (Para los estudios de grado se requiere el certificado de bachillerato y para los diplomados y cursos cortos se requiere el certificado de 8vo grado) Certificación de carta de grado, emitida por el MESCyT. Una (1) foto 2×2. Fotocopia de la Cédula de Identidad y Electoral (ambos lados). Fotocopia del Pasaporte…",
   "deadline": {
    "kind": "exacta",
    "date": "2026-12-29"
@@ -25691,40 +25724,6 @@
   "notes": "Taller de Gender and Justice (Bristol University Press). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://bristoluniversitypressdigital.com/page/27377",
   "applyUrl": "https://bristoluniversitypressdigital.com/page/27377",
-  "updatedAt": "2026-11-18"
- },
- {
-  "id": "poss-paid-remote-ocean-futures-fellowship",
-  "slug": "paid-remote-ocean-futures-fellowship",
-  "name": "Paid Remote Ocean Futures Fellowship",
-  "sponsor": "OceanX",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Medio ambiente",
-   "Salud"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 21 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-18"
-  },
-  "notes": "Fellowship de OceanX. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.iie.org/programs/oceanfuturesfellowship/",
-  "applyUrl": "https://www.iie.org/programs/oceanfuturesfellowship/",
   "updatedAt": "2026-11-18"
  },
  {

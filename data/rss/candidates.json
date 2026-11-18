@@ -29440,5 +29440,544 @@
    "applyUrl": "https://app.beapplied.com/apply/ozkamij8t9",
    "updatedAt": "2026-11-18"
   }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/george-town-festival-call-for-program-proposals/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/george-town-festival-call-for-program-proposals/",
+  "title": "George Town Festival Call for Program Proposals",
+  "publishedAt": "2026-11-18T10:09:14+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-george-town-festival-call-for-program-proposals",
+   "slug": "george-town-festival-call-for-program-proposals",
+   "name": "George Town Festival Call for Program Proposals",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The George Town Festival (GTF) invites artists and creative practitioners worldwide to submit program proposals for its 2027 edition. Organized by George Town World Heritage Incorporated (GTWHI), this festival celebrates George Town’s designation as a UNESCO World Heritage Site by promoting arts, culture, and heritage.",
+   "url": "https://www.fundsforngos.org/how-to-apply/george-town-festival-call-for-program-proposals/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/open-call-knight-science-journalism-academic-year-fellowship-program/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/open-call-knight-science-journalism-academic-year-fellowship-program/",
+  "title": "Open Call: Knight Science Journalism Academic-Year Fellowship Program",
+  "publishedAt": "2026-11-18T09:59:47+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-open-call-knight-science-journalism-academic-year-fellowship-program",
+   "slug": "open-call-knight-science-journalism-academic-year-fellowship-program",
+   "name": "Open Call: Knight Science Journalism Academic-Year Fellowship Program",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Tecnología",
+    "Medio ambiente",
+    "Ciencias"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-01-09"
+   },
+   "notes": "The Knight Science Journalism Program at MIT offers a prestigious Academic-Year Fellowship for science journalists worldwide. This opportunity allows fellows to engage deeply with science, technology, and journalism at leading research institutions.",
+   "url": "https://www.fundsforngos.org/how-to-apply/open-call-knight-science-journalism-academic-year-fellowship-program/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/submit-applications-for-hong-kong-phd-fellowship-scheme/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/how-to-apply/submit-applications-for-hong-kong-phd-fellowship-scheme/",
+  "title": "Submit Applications for Hong Kong PhD Fellowship Scheme",
+  "publishedAt": "2026-11-18T09:54:06+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos; sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-submit-applications-for-hong-kong-phd-fellowship-scheme",
+   "slug": "submit-applications-for-hong-kong-phd-fellowship-scheme",
+   "name": "Submit Applications for Hong Kong PhD Fellowship Scheme",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Tecnología",
+    "Medio ambiente",
+    "Ciencias"
+   ],
+   "levels": [
+    "doctorado"
+   ],
+   "destinations": [
+    "Hong Kong"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "The Hong Kong PhD Fellowship Scheme (HKPFS), established by the Hong Kong Research Grants Council, offers outstanding students worldwide the opportunity to pursue their doctoral studies at the Hong Kong University of Science and Technology (HKUST).",
+   "url": "https://www.fundsforngos.org/how-to-apply/submit-applications-for-hong-kong-phd-fellowship-scheme/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-adolescent-health-matters-providing-youth-friendly-health-education-and-services/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-adolescent-health-matters-providing-youth-friendly-health-education-and-services/",
+  "title": "A Sample Grant Proposal on “Adolescent Health Matters: Providing Youth-Friendly Health Education and Services”",
+  "publishedAt": "2026-11-18T05:08:35+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-adolescent-health-matters",
+   "slug": "a-sample-grant-proposal-on-adolescent-health-matters",
+   "name": "A Sample Grant Proposal on “Adolescent Health Matters",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Adolescence is a critical period marked by significant physical, emotional, and social changes. During this time, young people face a myriad of health challenges that can have lasting effects on their well-being.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-adolescent-health-matters-providing-youth-friendly-health-education-and-services/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-reaching-every-child-increasing-routine-immunisation-through-community-outreach/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-reaching-every-child-increasing-routine-immunisation-through-community-outreach/",
+  "title": "A Sample Grant Proposal on “Reaching Every Child: Increasing Routine Immunisation Through Community Outreach”",
+  "publishedAt": "2026-11-18T05:08:31+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-reaching-every-child",
+   "slug": "a-sample-grant-proposal-on-reaching-every-child",
+   "name": "A Sample Grant Proposal on “Reaching Every Child",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Routine immunisation is a cornerstone of public health, playing a crucial role in preventing infectious diseases that can lead to severe illness or even death. Vaccines have been proven to be one of the most effective tools in reducing morbidity and mortality rates associated with various diseases.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-reaching-every-child-increasing-routine-immunisation-through-community-outreach/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-clean-water-healthier-communities-improving-safe-water-sanitation-and-hygiene-practices/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-clean-water-healthier-communities-improving-safe-water-sanitation-and-hygiene-practices/",
+  "title": "A Sample Grant Proposal on “Clean Water, Healthier Communities: Improving Safe Water, Sanitation, and Hygiene Practices”",
+  "publishedAt": "2026-11-18T05:08:21+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-clean-water-healthier-communities",
+   "slug": "a-sample-grant-proposal-on-clean-water-healthier-communities",
+   "name": "A Sample Grant Proposal on “Clean Water, Healthier Communities",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Access to clean water and proper hygiene practices is fundamental to human health and well-being. It’s not just about quenching thirst; it’s about preventing disease, promoting health, and ensuring a better quality of life.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-clean-water-healthier-communities-improving-safe-water-sanitation-and-hygiene-practices/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-healthy-ageing-at-home-supporting-older-adults-through-community-care-networks/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-healthy-ageing-at-home-supporting-older-adults-through-community-care-networks/",
+  "title": "A Sample Grant Proposal on “Healthy Ageing at Home: Supporting Older Adults Through Community Care Networks”",
+  "publishedAt": "2026-11-18T05:08:04+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-healthy-ageing-at-home",
+   "slug": "a-sample-grant-proposal-on-healthy-ageing-at-home",
+   "name": "A Sample Grant Proposal on “Healthy Ageing at Home",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Healthy ageing at home is a concept that emphasizes the importance of maintaining physical, mental, and emotional well-being as individuals grow older. It recognizes that many older adults prefer to remain in their own homes rather than move to assisted living facilities or nursing homes.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-healthy-ageing-at-home-supporting-older-adults-through-community-care-networks/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://www.fundsforngos.org/all-listings/a-sample-grant-proposal-on-womens-health-and-dignity-improving-menstrual-health-education-and-access-to-products-2/",
+  "feed": "fundsforNGOs",
+  "link": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-womens-health-and-dignity-improving-menstrual-health-education-and-access-to-product/",
+  "title": "A Sample Grant Proposal on “Women’s Health and Dignity: Improving Menstrual Health Education and Access to Product”",
+  "publishedAt": "2026-11-18T05:07:51+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-a-sample-grant-proposal-on-women-s-health-and-dignity",
+   "slug": "a-sample-grant-proposal-on-women-s-health-and-dignity",
+   "name": "A Sample Grant Proposal on “Women’s Health and Dignity",
+   "source": "rss",
+   "sourceName": "fundsforNGOs",
+   "types": [],
+   "areas": [
+    "Salud",
+    "Medio ambiente",
+    "Educación"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Women’s health is a critical aspect of overall community well-being, yet it often remains overlooked in discussions about healthcare. The dignity of women is intrinsically linked to their health, particularly in areas such as reproductive health and menstrual hygiene.",
+   "url": "https://www.fundsforngos.org/all-proposals/a-sample-grant-proposal-on-womens-health-and-dignity-improving-menstrual-health-education-and-access-to-product/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180322",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/18/nextgen-service-summer-policy-academy-2027/",
+  "title": "NextGen Service Summer Policy Academy (SPA) 2027 (Fully-funded)",
+  "publishedAt": "2026-11-18T17:49:22+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-nextgen-service-summer-policy-academy-spa-2027-fully-funded",
+   "slug": "nextgen-service-summer-policy-academy-spa-2027-fully-funded",
+   "name": "NextGen Service Summer Policy Academy (SPA) 2027 (Fully-funded)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [
+    "Políticas públicas",
+    "Artes"
+   ],
+   "levels": [
+    "pregrado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "completa",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-15"
+   },
+   "notes": "Deadline: December 15, 2026 Applications are open for the NextGen Service Summer Policy Academy (SPA) 2027.",
+   "url": "https://opportunitydesk.org/2026/11/18/nextgen-service-summer-policy-academy-2027/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180321",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/18/new-america-fellows-program-class-of-2028/",
+  "title": "New America Fellows Program Class of 2028 (up to $30,000)",
+  "publishedAt": "2026-11-18T13:36:21+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-new-america-fellows-program-class-of-2028-up-to-30-000",
+   "slug": "new-america-fellows-program-class-of-2028-up-to-30-000",
+   "name": "New America Fellows Program Class of 2028 (up to $30,000)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Artes"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-01"
+   },
+   "notes": "Deadline: February 1, 2027 Applications are open for the New America Fellows Program Class of 2028. The New America Fellows Program supports thinkers, creators, and storytellers whose work shapes public conversation on the defining issues of our time.",
+   "url": "https://opportunitydesk.org/2026/11/18/new-america-fellows-program-class-of-2028/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180320",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/18/digital-democracy-edinburgh-2027/",
+  "title": "Open Call: Travel Stipends for Digital Democracy Edinburgh 2027",
+  "publishedAt": "2026-11-18T12:59:31+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa.",
+  "oportunidad": {
+   "id": "rss-open-call-travel-stipends-for-digital-democracy-edinburgh-2027",
+   "slug": "open-call-travel-stipends-for-digital-democracy-edinburgh-2027",
+   "name": "Open Call: Travel Stipends for Digital Democracy Edinburgh 2027",
+   "sponsor": "Evens Foundation",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Reino Unido"
+   ],
+   "funding": "estipendio",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-03"
+   },
+   "notes": "Deadline: December 3, 2026 Applications for stipends to attend the Digital Democracy Edinburgh 2027 are open. The Evens Foundation is offering ten travel stipends of up to €300 each in direct expenses so that young people (age 29 or under by 11 March 2027) can attend Digital Democracy Edinburgh in person.",
+   "url": "https://opportunitydesk.org/2026/11/18/digital-democracy-edinburgh-2027/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180317",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/18/stanley-park-climate-finance-scholarships-2027/",
+  "title": "Stanley Park Climate Finance Scholarships 2027",
+  "publishedAt": "2026-11-18T11:33:57+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-stanley-park-climate-finance-scholarships-2027",
+   "slug": "stanley-park-climate-finance-scholarships-2027",
+   "name": "Stanley Park Climate Finance Scholarships 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Economía",
+    "Medio ambiente"
+   ],
+   "levels": [],
+   "destinations": [
+    "Francia"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-03-01"
+   },
+   "notes": "Deadline: March 1, 2027 Applications are open for the Stanley Park Climate Finance Scholarships 2027. Financial markets represent one of the most powerful ways to drive public and private action on climate.",
+   "url": "https://opportunitydesk.org/2026/11/18/stanley-park-climate-finance-scholarships-2027/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180314",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/18/jaws-health-journalism-fellowship-2027/",
+  "title": "Journalism & Women Symposium (JAWS) Health Journalism Fellowship 2027 ($4,000 stipend)",
+  "publishedAt": "2026-11-18T10:43:54+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-journalism-women-symposium-jaws-health-journalism-fellowship-2027-4-000-stipend",
+   "slug": "journalism-women-symposium-jaws-health-journalism-fellowship-2027-4-000-stipend",
+   "name": "Journalism & Women Symposium (JAWS) Health Journalism Fellowship 2027 ($4,000 stipend)",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Periodismo",
+    "Salud",
+    "Artes"
+   ],
+   "levels": [
+    "recien-graduado"
+   ],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-07"
+   },
+   "notes": "Deadline: December 7, 2026 Applications are open for the Journalism & Women Symposium (JAWS) Health Journalism Fellowship 2027.",
+   "url": "https://opportunitydesk.org/2026/11/18/jaws-health-journalism-fellowship-2027/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180309",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/18/healthy-futures-mastercard-scholarship-2027/",
+  "title": "Healthy Futures Mastercard Scholarship 2027",
+  "publishedAt": "2026-11-18T08:15:25+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "descartada",
+  "motivo": "No está dirigida a estudiantes ni recién graduados.",
+  "oportunidad": {
+   "id": "rss-healthy-futures-mastercard-scholarship-2027",
+   "slug": "healthy-futures-mastercard-scholarship-2027",
+   "name": "Healthy Futures Mastercard Scholarship 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Beca"
+   ],
+   "areas": [
+    "Salud",
+    "Negocios"
+   ],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-10"
+   },
+   "notes": "Deadline: December 10, 2026 Applications are open for the Healthy Futures Mastercard Scholarship 2027.",
+   "url": "https://opportunitydesk.org/2026/11/18/healthy-futures-mastercard-scholarship-2027/",
+   "updatedAt": "2026-11-18"
+  }
+ },
+ {
+  "guid": "https://opportunitydesk.org/?p=180308",
+  "feed": "Opportunity Desk",
+  "link": "https://opportunitydesk.org/2026/11/18/french-african-foundation-young-leaders-program-2027/",
+  "title": "French-African Foundation Young Leaders Program 2027",
+  "publishedAt": "2026-11-18T08:06:48+00:00",
+  "fetchedAt": "2026-11-18T19:19:40+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: confirmar si admite dominicanos.",
+  "oportunidad": {
+   "id": "rss-french-african-foundation-young-leaders-program-2027",
+   "slug": "french-african-foundation-young-leaders-program-2027",
+   "name": "French-African Foundation Young Leaders Program 2027",
+   "source": "rss",
+   "sourceName": "Opportunity Desk",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [],
+   "levels": [],
+   "destinations": [
+    "Mundial"
+   ],
+   "funding": "varia",
+   "citizenship": "ver-notas",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2026-12-16"
+   },
+   "notes": "Deadline: December 16, 2026 Applications are open for the French-African Foundation Young Leaders Program 2027. The Young Leaders program, an emblematic initiative of the French-African Foundation, offers an exceptional platform for networking, training, and mentoring young African and French talents.",
+   "url": "https://opportunitydesk.org/2026/11/18/french-african-foundation-young-leaders-program-2027/",
+   "updatedAt": "2026-11-18"
+  }
  }
 ]
