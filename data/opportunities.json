@@ -25657,37 +25657,65 @@
   "updatedAt": "2026-11-19"
  },
  {
-  "id": "poss-25-000-audible-emerging-playwrights-commission",
-  "slug": "25-000-audible-emerging-playwrights-commission",
-  "name": "$25,000 Audible Emerging Playwrights Commission",
-  "sponsor": "Audible",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "id": "rss-camp-rising-sun-2027",
+  "slug": "camp-rising-sun-2027",
+  "name": "Camp Rising Sun 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
   "types": [
-   "Fondos"
+   "Programa de verano"
   ],
   "areas": [
-   "Impacto social"
+   "Medio ambiente",
+   "Artes"
+  ],
+  "levels": [],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "uth africa, kenya, uzbekistan, kazakhstan, kyrgyzstan, tajikistan, ukraine, and all countries/regions not separately listed below",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-31"
+  },
+  "notes": "About Camp Rising Sun 2027 Camp Rising Sun (CRS) 2027, organized by the Louis August Jonas Foundation (LAJF), is an international summer leadership program designed to develop ethical, compassionate, thoughtful and engaged young leaders.",
+  "url": "https://opportunitiesforyouth.org/2026/11/19/camp-rising-sun-by-the-louis-august-jonas-foundation-fully-funded-summer-leadership-program-in-new-york/",
+  "updatedAt": "2026-11-19"
+ },
+ {
+  "id": "rss-charles-b-rangel-international-affairs-summer-enrichment-program-2027",
+  "slug": "charles-b-rangel-international-affairs-summer-enrichment-program-2027",
+  "name": "Charles B. Rangel International Affairs Summer Enrichment Program 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship",
+   "Programa de verano"
+  ],
+  "areas": [
+   "Políticas públicas",
+   "Artes"
   ],
   "levels": [
    "pregrado",
-   "recien-graduado",
+   "maestria",
    "profesional"
   ],
   "destinations": [
-   "Mundial"
+   "Estados Unidos"
   ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "entatives and policymakers work on issues that affect countries and communities around the world",
   "deadline": {
    "kind": "exacta",
-   "date": "2026-11-19"
+   "date": "2027-02-04"
   },
-  "notes": "Fondos de Audible. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.audible.com/blog/emerging-playwrights-fund-application",
-  "applyUrl": "https://www.audible.com/blog/emerging-playwrights-fund-application",
+  "notes": "The Charles B. Rangel International Affairs Summer Enrichment Program (SEP) 2027 is returning after a two-year hiatus, with applications now open for undergraduate students interested in international affairs, diplomacy, public service and global policy. Administered through a partnership between the U.S.",
+  "url": "https://opportunitiesforyouth.org/2026/11/19/the-charles-b-rangel-international-affairs-program/",
+  "applyUrl": "https://lnkd.in/gQWpF7S3",
   "updatedAt": "2026-11-19"
  },
  {
@@ -25760,39 +25788,6 @@
   "updatedAt": "2026-11-19"
  },
  {
-  "id": "poss-fully-funded-us-community-engagement-exchange",
-  "slug": "fully-funded-us-community-engagement-exchange",
-  "name": "Fully Funded US Community Engagement Exchange",
-  "sponsor": "IREX",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Salud"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 22 a 27 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-19"
-  },
-  "notes": "Fellowship de IREX. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.irex.org/program/community-engagement-exchange-program-application-information",
-  "applyUrl": "https://www.irex.org/program/community-engagement-exchange-program-application-information",
-  "updatedAt": "2026-11-19"
- },
- {
   "id": "poss-fully-funded-young-african-leaders-fellowship",
   "slug": "fully-funded-young-african-leaders-fellowship",
   "name": "Fully Funded Young African Leaders Fellowship",
@@ -25857,43 +25852,6 @@
   "notes": "Premio de Sustainable Energy for All (SEforALL). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.seforall.org/energyheroes",
   "applyUrl": "https://www.seforall.org/energyheroes",
-  "updatedAt": "2026-11-19"
- },
- {
-  "id": "poss-20-000-planet-health-documentary-film-grant",
-  "slug": "20-000-planet-health-documentary-film-grant",
-  "name": "£20,000 Planet Health Documentary Film Grant",
-  "sponsor": "Earthrise",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Clima",
-   "Medio ambiente",
-   "Salud",
-   "Periodismo"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-19"
-  },
-  "notes": "Fondos de Earthrise. Totalmente financiado. La convocatoria cierra a las 18:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://planethealthfilmfund.com/",
-  "applyUrl": "https://planethealthfilmfund.com/",
   "updatedAt": "2026-11-19"
  },
  {
