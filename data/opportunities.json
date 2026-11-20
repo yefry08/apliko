@@ -23827,6 +23827,39 @@
   "updatedAt": "2026-11-20"
  },
  {
+  "id": "cimpa-cimpa-an-introduction-to-partial-differential-equations-data-assimilation-and-hi",
+  "slug": "cimpa-an-introduction-to-partial-differential-equations-data-assimilation-and-hi",
+  "name": "Escuela CIMPA: An Introduction to Partial Differential Equations, Data Assimilation and High-Performance Computing: Theory and Hands-on Applications",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Jordan"
+  ],
+  "funding": "parcial",
+  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Nivel: End of undergraduate or beginning of master level. Fechas: 14 June, 2027, Amman. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-30"
+  },
+  "notes": "× Coordinator: Kamel Jebreen, Palestine Technical University–Kadoorie (PTUK) / MENA Institute for Research and Development (MENAIRD), Palestine - kamel.abed.jebreen@gmail.com",
+  "url": "https://www.cimpa.info/en/node/8300",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-20"
+ },
+ {
   "id": "cimpa-cimpa-mathematical-modeling-and-machine-learning-for-biomedicine-and-public-heal",
   "slug": "cimpa-mathematical-modeling-and-machine-learning-for-biomedicine-and-public-heal",
   "name": "Escuela CIMPA: Mathematical Modeling and Machine Learning for Biomedicine and Public Health",
@@ -23891,6 +23924,39 @@
   "updatedAt": "2026-11-20"
  },
  {
+  "id": "cimpa-cimpa-mathematical-foundations-for-post-quantum-cryptography",
+  "slug": "cimpa-mathematical-foundations-for-post-quantum-cryptography",
+  "name": "Escuela CIMPA: Mathematical Foundations for Post-Quantum Cryptography",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Tailandia"
+  ],
+  "funding": "parcial",
+  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Nivel: End of undergraduate or beginning of master level. Fechas: 1 June, 2027, Khon Kaen. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-12"
+  },
+  "notes": "× Coordinator: Sawian Jaidee, Khon Kaen University, Thailand - jsawia@kku.ac.th",
+  "url": "https://www.cimpa.info/en/node/8298",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-20"
+ },
+ {
   "id": "cimpa-cimpa-statistics-for-health",
   "slug": "cimpa-statistics-for-health",
   "name": "Escuela CIMPA: Statistics for health",
@@ -23951,6 +24017,39 @@
   },
   "notes": "External organizer External organizer Ana BOTERO Affiliation external organizer University of Bielefeld Country external organizer Germany Email external organizer abotero@math.uni-bielefeld.de Local Organizer Local organizer Pedro RIZZO Affiliation local organizer University of Antioquia Country local organizer Colombia Email local organizer pedro.hernandez@udea.edu.co The VI Latin American School on Algebraic Geometry will take place at Universidad de Antioquia, Colombia from June 21st to July 2nd, 2027. This school aims to bring together graduate students, postdoctoral researchers, and…",
   "url": "https://www.cimpa.info/en/ecoles/algebraic-geometry-vi-elga",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-20"
+ },
+ {
+  "id": "cimpa-cimpa-emalca-colombia",
+  "slug": "cimpa-emalca-colombia",
+  "name": "Escuela CIMPA: EMALCA Colombia",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Venezuela, RB"
+  ],
+  "funding": "parcial",
+  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Nivel: End of undergraduate or beginning of master level. Fechas: 14 June, 2027, Cali. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-23"
+  },
+  "notes": "× Coordinator: Diana Haidive Bueno Carreño (Pontificia Universidad Javeriana, Cali, Colombia) dhbueno@javerianacali.edu.co",
+  "url": "https://www.cimpa.info/index.php/en/node/8294",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-20"
  },
@@ -24208,6 +24307,105 @@
   },
   "notes": "× This is a thematic trimester programme with short courses, seminars and workshops on mathematical developments in Advances in Quantum Cryptography (QCRYPTO). Timeline for the trimester: September 13 to 17 - Introductory school at IHP, Paris, amphitheater Hermite October 11 to 15 - Workshop 1 at IHP, Paris: Advances in Quantum Cryptography: Information-theoretic Foundations November 15 to 19 - Workshop 2 at IHP, Paris: Advances in Quantum Cryptography: Complexity-theoretic Foundations November 29 to December 3 - Workshop 3 at IHP, Paris: Advances in Quantum Cryptography: Computational and…",
   "url": "https://www.cimpa.info/en/node/8234",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-20"
+ },
+ {
+  "id": "cimpa-cimpa-mathematical-modeling-and-scientific-machine-learning-for-biological-syste",
+  "slug": "cimpa-mathematical-modeling-and-scientific-machine-learning-for-biological-syste",
+  "name": "Escuela CIMPA: Mathematical Modeling and Scientific Machine Learning for Biological Systems",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "India"
+  ],
+  "funding": "parcial",
+  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Nivel: End of undergraduate or beginning of master level. Fechas: 13 July, 2027, Gwalior. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-04-30"
+  },
+  "notes": "× Coordinator: Anuraj Singh (Department of Engineering Sciences, ABV-IIITM Gwalior, India) - anuraj@iiiitm.ac.in",
+  "url": "https://www.cimpa.info/en/node/8299",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-20"
+ },
+ {
+  "id": "cimpa-cimpa-stochastic-modelling-machine-learning-and-quantitative-methods-for-finance",
+  "slug": "cimpa-stochastic-modelling-machine-learning-and-quantitative-methods-for-finance",
+  "name": "Escuela CIMPA: STOCHASTIC MODELLING, MACHINE LEARNING, AND QUANTITATIVE METHODS FOR FINANCE AND ACTUARIAL SCIENCE",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Philippines"
+  ],
+  "funding": "parcial",
+  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Nivel: End of undergraduate or beginning of master level. Fechas: 26 July, 2027, Laguna. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-05-12"
+  },
+  "notes": "× Coordinator: Jonathan B. Mamplata, Institute of Mathematical Sciences, University of the Philippines Los Baños - jbmamplata@up.edu.ph",
+  "url": "https://www.cimpa.info/en/node/8297",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-20"
+ },
+ {
+  "id": "cimpa-cimpa-modern-graph-theory-combinatorics-and-their-applications-to-data-science-a",
+  "slug": "cimpa-modern-graph-theory-combinatorics-and-their-applications-to-data-science-a",
+  "name": "Escuela CIMPA: Modern Graph Theory, Combinatorics, and Their Applications to Data Science and Machine Learning",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Pakistán"
+  ],
+  "funding": "parcial",
+  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Nivel: End of undergraduate or beginning of master level. Fechas: 6 September, 2027, Abbottabad. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-05-30"
+  },
+  "notes": "× Coordinator: Tariq Rahim, Department of Mathematics, AUST, Pakistan. Email: tariq@aust.edu.pk",
+  "url": "https://www.cimpa.info/en/node/8301",
   "applyUrl": "https://applications.cimpa.info/",
   "updatedAt": "2026-11-20"
  },
@@ -25719,20 +25917,23 @@
   "updatedAt": "2026-11-19"
  },
  {
-  "id": "poss-20-to-50-million-global-health-grants",
-  "slug": "20-to-50-million-global-health-grants",
-  "name": "$20 to $50 Million Global Health Grants",
-  "sponsor": "The Rauch Family Foundation",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "id": "rss-asia-house-fellowship-2027-2028",
+  "slug": "asia-house-fellowship-2027-2028",
+  "name": "Asia House Fellowship 2027/2028",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
   "types": [
-   "Fondos"
+   "Fellowship",
+   "Investigación"
   ],
   "areas": [
-   "Salud"
+   "Tecnología",
+   "Políticas públicas",
+   "Economía",
+   "Negocios"
   ],
   "levels": [
-   "pregrado",
+   "doctorado",
    "recien-graduado",
    "profesional"
   ],
@@ -25740,16 +25941,83 @@
    "Mundial"
   ],
   "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "citizenship": "global",
+  "citizenshipRaw": "importantly, the programme is open to applicants of all nationalities and from all geographical locations",
   "deadline": {
    "kind": "exacta",
-   "date": "2026-11-20"
+   "date": "2027-01-31"
   },
-  "notes": "Fondos de The Rauch Family Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.therauchfamilyfoundation.org/rfp",
-  "applyUrl": "https://www.therauchfamilyfoundation.org/rfp",
+  "notes": "Applications are now open for the Asia House Fellowship 2027/2028 , an exciting opportunity for early-career professionals and researchers interested in international affairs, geopolitics, economics, trade, technology, and policy developments across Asia and the Middle East.",
+  "url": "https://opportunitiesforyouth.org/2026/11/20/asia-house-fellowship-2027-2028-apply-for-a-fully-funded-12-month-research-fellowship-with-a-24000-stipend/",
+  "applyUrl": "https://apply.workable.com/asia-house/j/267FD33EF8",
+  "updatedAt": "2026-11-20"
+ },
+ {
+  "id": "rss-unitar-traineeships-2026",
+  "slug": "unitar-traineeships-2026",
+  "name": "UNITAR Traineeships 2026",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Internship"
+  ],
+  "areas": [
+   "Políticas públicas",
+   "Medio ambiente",
+   "Artes"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Estados Unidos",
+   "Suiza"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "eir programmes, training activities, initiatives, and achievements to audiences around the world",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-05"
+  },
+  "notes": "The United Nations Institute for Training and Research (UNITAR) has announced new traineeship opportunities for individuals interested in gaining professional experience in the United Nations system.",
+  "url": "https://opportunitiesforyouth.org/2026/11/20/unitar-traineeships-2026-apply-for-3-6-month-training-opportunities-in-new-york-and-geneva-switzerland/",
+  "applyUrl": "https://unitar.org/vacancy-announcements/traineeship-division-multilateral-diplomacynew-york-office-partnerships-and-training-design/440",
+  "updatedAt": "2026-11-20"
+ },
+ {
+  "id": "rss-vbc-summer-school-2027-in-vienna-austria",
+  "slug": "vbc-summer-school-2027-in-vienna-austria",
+  "name": "VBC Summer School 2027 in Vienna, Austria",
+  "sponsor": "Vienna BioCenter (VBC) Summer School 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Programa de verano"
+  ],
+  "areas": [
+   "Salud",
+   "Medio ambiente",
+   "Artes"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Austria"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "eks start date: 1 july 2027 end date: 31 august 2027 eligibility: students from all countries funding: monthly stipend, accommodation, return travel, visa costs, and medical insurance",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-11"
+  },
+  "notes": "The Vienna BioCenter (VBC) Summer School 2027 is now accepting applications from Bachelor’s and Master’s students interested in gaining hands-on research experience in a leading European life-sciences research environment.",
+  "url": "https://opportunitiesforyouth.org/2026/11/20/vbc-summer-school-2027-in-vienna-austria-fully-funded-9-week-and-3-month-research-programs-for-bachelors-and-masters-students/",
   "updatedAt": "2026-11-20"
  },
  {
@@ -25816,75 +26084,6 @@
   "notes": "Fellowship de Operation Period. Totalmente financiado. La convocatoria cierra a las 17:00 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.operationperiod.org/yimf",
   "applyUrl": "https://www.operationperiod.org/yimf",
-  "updatedAt": "2026-11-20"
- },
- {
-  "id": "poss-paid-undp-rome-climate-and-energy-internship",
-  "slug": "paid-undp-rome-climate-and-energy-internship",
-  "name": "Paid UNDP Rome Climate and Energy Internship",
-  "sponsor": "United Nations Development Programme (UNDP), Rome Centre for Climate Action and Energy Transition",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Pasantía"
-  ],
-  "areas": [
-   "Clima",
-   "Salud"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-20"
-  },
-  "notes": "Pasantía de United Nations Development Programme (UNDP), Rome Centre for Climate Action and Energy Transition. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37931",
-  "applyUrl": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37931",
-  "updatedAt": "2026-11-20"
- },
- {
-  "id": "poss-up-to-130-000-healthy-food-policy-grant",
-  "slug": "up-to-130-000-healthy-food-policy-grant",
-  "name": "Up to $130,000 Healthy Food Policy Grant",
-  "sponsor": "Colansa (Comunidad de Práctica Latinoamérica y Caribe Nutrición y Salud)",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Medio ambiente",
-   "Salud"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-20"
-  },
-  "notes": "Fondos de Colansa (Comunidad de Práctica Latinoamérica y Caribe Nutrición y Salud). Totalmente financiado. La convocatoria cierra a las 12:00 (America/Sao_Paulo); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://colansa.org/es/fondo-colansa-2026/",
-  "applyUrl": "https://colansa.org/es/fondo-colansa-2026/",
   "updatedAt": "2026-11-20"
  },
  {
