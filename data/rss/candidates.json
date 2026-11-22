@@ -32683,5 +32683,91 @@
    "url": "https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027/",
    "updatedAt": "2026-11-21"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=97468",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/22/amnesty-international-usa-international-rule-of-law-and-human-rights-fellowship-2026-apply-for-the-75000-policy-advocacy-opportunity-in-washington-d-c/",
+  "title": "Amnesty International USA International Rule of Law and Human Rights Fellowship 2026: Apply for the $75,000 Policy Advocacy Opportunity in Washington, D.C.",
+  "publishedAt": "2026-11-22T16:53:02+00:00",
+  "fetchedAt": "2026-11-22T18:23:02+00:00",
+  "estado": "pendiente",
+  "motivo": "Revisar: sin fecha de cierre exacta.",
+  "oportunidad": {
+   "id": "rss-amnesty-international-usa-international-rule-of-law-and-human-rights-fellowship-",
+   "slug": "amnesty-international-usa-international-rule-of-law-and-human-rights-fellowship-",
+   "name": "Amnesty International USA International Rule of Law and Human Rights Fellowship 2026",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship"
+   ],
+   "areas": [
+    "Derecho",
+    "Políticas públicas"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "ate, advise and lobby united states government officials on human rights issues around the world",
+   "deadline": {
+    "kind": "por-confirmar"
+   },
+   "notes": "Are you a human rights professional, policy researcher, law graduate or public affairs specialist interested in defending international law, strengthening democratic institutions and challenging authoritarian practices?",
+   "url": "https://opportunitiesforyouth.org/2026/11/22/amnesty-international-usa-international-rule-of-law-and-human-rights-fellowship-2026-apply-for-the-75000-policy-advocacy-opportunity-in-washington-d-c/",
+   "updatedAt": "2026-11-22"
+  }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=97471",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/22/aapm-dream-fellowship-2027-in-the-usa-and-canada-6000-stipend-10-week-medical-physics-research-programme-and-mentorship-for-undergraduate-students/",
+  "title": "AAPM DREAM Fellowship 2027 in the USA and Canada: $6,000 Stipend, 10-Week Medical Physics Research Programme and Mentorship for Undergraduate Students",
+  "publishedAt": "2026-11-22T14:10:18+00:00",
+  "fetchedAt": "2026-11-22T18:23:02+00:00",
+  "estado": "aprobada",
+  "motivo": "Aprobada sola: fellowship, investigación abierta a dominicanos, cierra el 2027-02-09.",
+  "oportunidad": {
+   "id": "rss-aapm-dream-fellowship-2027-in-the-usa-and-canada",
+   "slug": "aapm-dream-fellowship-2027-in-the-usa-and-canada",
+   "name": "AAPM DREAM Fellowship 2027 in the USA and Canada",
+   "sponsor": "American Association of Physicists in Medicine (AAPM)",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [
+    "Fellowship",
+    "Investigación"
+   ],
+   "areas": [
+    "Salud",
+    "Ingeniería",
+    "Tecnología",
+    "Negocios"
+   ],
+   "levels": [
+    "pregrado",
+    "maestria",
+    "profesional"
+   ],
+   "destinations": [
+    "Estados Unidos",
+    "Canadá"
+   ],
+   "funding": "estipendio",
+   "citizenship": "global",
+   "citizenshipRaw": "international students should pay particular attention to this requirement before investing time in preparing their applic",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-09"
+   },
+   "notes": "The American Association of Physicists in Medicine (AAPM) is inviting applications for its 2027 Driving Recruitment through Education and Mentoring (DREAM) Fellowship Programme , a competitive 10-week summer research and mentorship opportunity designed to encourage undergraduate students to pursue advanced education an",
+   "url": "https://opportunitiesforyouth.org/2026/11/22/aapm-dream-fellowship-2027-in-the-usa-and-canada-6000-stipend-10-week-medical-physics-research-programme-and-mentorship-for-undergraduate-students/",
+   "updatedAt": "2026-11-22"
+  }
  }
 ]

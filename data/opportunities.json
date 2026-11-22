@@ -26021,6 +26021,43 @@
   "updatedAt": "2026-11-20"
  },
  {
+  "id": "rss-aapm-dream-fellowship-2027-in-the-usa-and-canada",
+  "slug": "aapm-dream-fellowship-2027-in-the-usa-and-canada",
+  "name": "AAPM DREAM Fellowship 2027 in the USA and Canada",
+  "sponsor": "American Association of Physicists in Medicine (AAPM)",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Fellowship",
+   "Investigación"
+  ],
+  "areas": [
+   "Salud",
+   "Ingeniería",
+   "Tecnología",
+   "Negocios"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos",
+   "Canadá"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "international students should pay particular attention to this requirement before investing time in preparing their applic",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-09"
+  },
+  "notes": "The American Association of Physicists in Medicine (AAPM) is inviting applications for its 2027 Driving Recruitment through Education and Mentoring (DREAM) Fellowship Programme , a competitive 10-week summer research and mentorship opportunity designed to encourage undergraduate students to pursue advanced education an",
+  "url": "https://opportunitiesforyouth.org/2026/11/22/aapm-dream-fellowship-2027-in-the-usa-and-canada-6000-stipend-10-week-medical-physics-research-programme-and-mentorship-for-undergraduate-students/",
+  "updatedAt": "2026-11-22"
+ },
+ {
   "id": "poss-arctic-youth-conference-in-nuuk-greenland",
   "slug": "arctic-youth-conference-in-nuuk-greenland",
   "name": "Arctic Youth Conference in Nuuk, Greenland",
