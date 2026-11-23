@@ -23698,6 +23698,34 @@
   "updatedAt": "2026-11-23"
  },
  {
+  "id": "yn-acc-capital-governor-s-cup-2026-2027",
+  "slug": "acc-capital-governor-s-cup-2026-2027",
+  "name": "ACC Capital Governor's Cup 2026-2027",
+  "source": "financiamiento",
+  "sourceName": "YouNoodle (apply.younoodle.com)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Emprendimiento"
+  ],
+  "levels": [],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Revisa en la convocatoria quién puede postular: muchas son solo para un país o una universidad.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-29"
+  },
+  "notes": "The Governor’s Cup is a real-world entrepreneur education opportunity for college and university students hosted by the ACC Capital Foundation, the 501c3 affiliate of ACC Capital. The competition includes a 10-page written business plan, a virtual 15-minute oral pitch presentation, an in-person 15-minute oral pitch presentation and a 90-second elevator pitch event. Competitors will gain a greater appreciation of the challenges and opportunities of starting a viable business, and have access to…",
+  "url": "https://apply.younoodle.com/showcase/competition/acc_capital_governors_cup_2026_2027",
+  "applyUrl": "https://apply.younoodle.com/showcase/competition/acc_capital_governors_cup_2026_2027",
+  "updatedAt": "2026-11-23"
+ },
+ {
   "id": "cimpa-cimpa-learning-over-structured-high-dimensional-objects-theory-and-complexity",
   "slug": "cimpa-learning-over-structured-high-dimensional-objects-theory-and-complexity",
   "name": "Learning over Structured High-Dimensional Objects: Theory and Complexity (CIMPA Fellowship)",
@@ -26058,36 +26086,154 @@
   "updatedAt": "2026-11-22"
  },
  {
-  "id": "poss-100-environmental-writing-competition",
-  "slug": "100-environmental-writing-competition",
-  "name": "$100 Environmental Writing Competition",
-  "sponsor": "Write the World",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "id": "rss-new-scholarships-at-oxford-ntu-stockholm-and-geneva",
+  "slug": "new-scholarships-at-oxford-ntu-stockholm-and-geneva",
+  "name": "New Scholarships at Oxford, NTU, Stockholm and Geneva",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
   "types": [
-   "Competencia"
+   "Beca"
   ],
   "areas": [
-   "Medio ambiente",
-   "Arte y cultura"
+   "Derecho"
   ],
   "levels": [
-   "secundaria"
+   "pregrado",
+   "maestria",
+   "doctorado"
   ],
   "destinations": [
-   "Mundial"
+   "Reino Unido",
+   "Suiza"
   ],
   "funding": "varia",
-  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 13 a 19 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "citizenship": "global",
+  "citizenshipRaw": "sponsored start dates several each year top 20+ scholarships in sweden for international students scholarship list 20 scholarships from the swedish institute and swedish universities, many covering",
   "deadline": {
    "kind": "exacta",
-   "date": "2026-11-23"
+   "date": "2027-01-15"
   },
-  "notes": "Competencia de Write the World. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 12:00 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://writetheworld.org/competition-page/5398",
-  "applyUrl": "https://writetheworld.org/competition-page/5398",
+  "notes": "The latest scholarships added or updated on Scholars4Dev, soonest deadline first. UNICAF Scholarships for Online Degrees at UK Universities UNICAF Bachelors/Masters/PhD Degree. Study online with UK university partners. Several start dates each year.",
+  "url": "https://www.scholars4dev.com/new-scholarships-23-november-2026/",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "rss-geneva-academy-scholarships-for-llm-programmes-in-international-humanitarian-law",
+  "slug": "geneva-academy-scholarships-for-llm-programmes-in-international-humanitarian-law",
+  "name": "Geneva Academy Scholarships for LLM Programmes in International Humanitarian Law and Human Rights",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Derecho"
+  ],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Suiza"
+  ],
+  "funding": "completa",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "ica, cote d’ivoire, cuba, democratic republic of the congo, djibouti, dominica, dominican republic",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-17"
+  },
+  "notes": "Geneva Academy\nMasters (LLM-MAS)\nDeadline: 17 Jan 2027 (annual)\nStudy in: Geneva, Switzerland\nCourse starts September 2027\nBrief description:\nThe Geneva Academy of International Humanitarian Law and Human Rights, set up in 2007 as a joint centre of the University of Geneva’s Faculty of Law and the Geneva Graduate Insti",
+  "url": "https://www.scholars4dev.com/geneva-academy-of-international-humanitarian-law-and-human-rights-scholarships/",
+  "applyUrl": "https://geneva-academy.ch/masters-of-advanced-studies/how-to-apply/",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "rss-stockholm-university-scholarships-for-international-students",
+  "slug": "stockholm-university-scholarships-for-international-students",
+  "name": "Stockholm University Scholarships for International Students",
+  "sponsor": "Stockholm University",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [],
+  "levels": [
+   "maestria"
+  ],
+  "destinations": [
+   "Suecia",
+   "Suiza"
+  ],
+  "funding": "con-costo",
+  "citizenship": "global",
+  "citizenshipRaw": "stockholm university scholarships for international students",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-01"
+  },
+  "notes": "Stockholm University Masters Degree Deadline: 15 Jan/Apr 2027 (annual) Study in: Sweden Course starts August 2027 Brief description: The Stockholm University Scholarship Scheme is for especially qualified students from outside the EU/EEA and Switzerland who have to pay tuition fees.",
+  "url": "https://www.scholars4dev.com/stockholm-university-scholarships/",
+  "applyUrl": "https://www.su.se/english/education/how-to-apply/costs-fees-and-scholarships/scholarships",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "rss-ertegun-graduate-scholarships-in-the-humanities-at-university-of-oxford",
+  "slug": "ertegun-graduate-scholarships-in-the-humanities-at-university-of-oxford",
+  "name": "Ertegun Graduate Scholarships in the Humanities at University of Oxford",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Artes"
+  ],
+  "levels": [
+   "maestria",
+   "doctorado"
+  ],
+  "destinations": [
+   "Reino Unido"
+  ],
+  "funding": "varia",
+  "citizenship": "global",
+  "citizenshipRaw": "number of awards: around 15 a year target group: students from all countries and all backgrounds, including uk students scholarship value/inclusions/duration: the scholarship c",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-05"
+  },
+  "notes": "University of Oxford Masters/PhD Degree Deadline: 5 Jan 2027 (most courses) Study in: UK Course starts October 2027 Brief description: The Mica and Ahmet Ertegun Graduate Scholarship Programme funds full-time graduate study in the humanities at the University of Oxford.",
+  "url": "https://www.scholars4dev.com/ertegun-graduate-scholarships-oxford/",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "rss-nanyang-president-s-graduate-scholarship-npgs-at-ntu-singapore",
+  "slug": "nanyang-president-s-graduate-scholarship-npgs-at-ntu-singapore",
+  "name": "Nanyang President’s Graduate Scholarship (NPGS) at NTU Singapore",
+  "source": "rss",
+  "sourceName": "Scholars4Dev",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Educación"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Singapur"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "students of all nationalities can apply",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-31"
+  },
+  "notes": "Nanyang Technological University (NTU)\nPhD Degree\nDeadline: 31 Dec 2026 (annual)\nStudy in: Singapore\nCourse starts Academic Year 2027-28\nBrief description:\nThe Nanyang President’s Graduate Scholarship (NPGS) is a competitive and prestigious scholarship for outstanding graduates and final-year students who want to start",
+  "url": "https://www.scholars4dev.com/nanyang-presidents-graduate-scholarship-ntu-singapore/",
   "updatedAt": "2026-11-23"
  },
  {
@@ -26227,73 +26373,6 @@
   "updatedAt": "2026-11-23"
  },
  {
-  "id": "poss-matter-digital-health-founder-accelerator",
-  "slug": "matter-digital-health-founder-accelerator",
-  "name": "MATTER Digital Health Founder Accelerator",
-  "sponsor": "MATTER",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Programa"
-  ],
-  "areas": [
-   "Tecnología",
-   "Salud",
-   "Emprendimiento"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [],
-  "funding": "varia",
-  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para . Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-23"
-  },
-  "notes": "Programa de MATTER. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://matter.health/challenges/groundwork-an-emerging-innovator-accelerator/",
-  "applyUrl": "https://matter.health/challenges/groundwork-an-emerging-innovator-accelerator/",
-  "updatedAt": "2026-11-23"
- },
- {
-  "id": "poss-paid-anthropic-residency",
-  "slug": "paid-anthropic-residency",
-  "name": "Paid Anthropic Residency",
-  "sponsor": "Anthropic",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Impacto social"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-23"
-  },
-  "notes": "Fellowship de Anthropic. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://alignment.anthropic.com/2026/anthropic-residency/",
-  "applyUrl": "https://alignment.anthropic.com/2026/anthropic-residency/",
-  "updatedAt": "2026-11-23"
- },
- {
   "id": "poss-telemachus-and-athena-global-mentoring-programme",
   "slug": "telemachus-and-athena-global-mentoring-programme",
   "name": "Telemachus and Athena Global Mentoring Programme",
@@ -26394,74 +26473,6 @@
   "notes": "Fondos de Asociación Bienestar y Desarrollo (ABD), for the Connecting Power (CoPower) project. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Madrid); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://abd.ong/convocatoria-copower/",
   "applyUrl": "https://abd.ong/convocatoria-copower/",
-  "updatedAt": "2026-11-23"
- },
- {
-  "id": "poss-up-to-500-000-ai-economic-opportunity-grant",
-  "slug": "up-to-500-000-ai-economic-opportunity-grant",
-  "name": "Up to £500,000 AI Economic Opportunity Grant",
-  "sponsor": "The Hg Foundation, supported by JPMorganChase",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Inteligencia artificial"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Reino Unido"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para Reino Unido. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-23"
-  },
-  "notes": "Fondos de The Hg Foundation, supported by JPMorganChase. Totalmente financiado. La convocatoria cierra a las 09:00 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.thehgfoundation.com/ai-economic-opportunity-fund/programmes-fund",
-  "applyUrl": "https://www.thehgfoundation.com/ai-economic-opportunity-fund/programmes-fund",
-  "updatedAt": "2026-11-23"
- },
- {
-  "id": "poss-up-to-50-000-copower-gbv-prevention-grant",
-  "slug": "up-to-50-000-copower-gbv-prevention-grant",
-  "name": "Up to €50,000 CoPower GBV Prevention Grant",
-  "sponsor": "Oxfam Italia",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Género"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-23"
-  },
-  "notes": "Fondos de Oxfam Italia. Totalmente financiado. La convocatoria cierra a las 15:00 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://copower.oxfam.it/",
-  "applyUrl": "https://copower.oxfam.it/",
   "updatedAt": "2026-11-23"
  },
  {
@@ -27588,6 +27599,39 @@
   "updatedAt": "2026-11-23"
  },
  {
+  "id": "poss-public-policy-new-voices-fellowship",
+  "slug": "public-policy-new-voices-fellowship",
+  "name": "Public Policy New Voices Fellowship",
+  "sponsor": "Globally",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Fellowship de Globally. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://globally.org/ppnv",
+  "applyUrl": "https://globally.org/ppnv",
+  "updatedAt": "2026-11-23"
+ },
+ {
   "id": "poss-up-to-2-500-rural-oregon-grant",
   "slug": "up-to-2-500-rural-oregon-grant",
   "name": "Up to $2,500 Rural Oregon Grant",
@@ -27756,40 +27800,6 @@
   "notes": "Fellowship de Andreessen Horowitz (a16z). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://build.a16z.com/fellowships/new-media",
   "applyUrl": "https://build.a16z.com/fellowships/new-media",
-  "updatedAt": "2026-11-23"
- },
- {
-  "id": "poss-20-000-cleantech-challenge-student-competition",
-  "slug": "20-000-cleantech-challenge-student-competition",
-  "name": "£20,000 Cleantech Challenge Student Competition",
-  "sponsor": "Cleantech Challenge, London Business School",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Competencia"
-  ],
-  "areas": [
-   "Medio ambiente"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-30"
-  },
-  "notes": "Competencia de Cleantech Challenge, London Business School. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://thecleantechchallenge.uk/apply",
-  "applyUrl": "https://thecleantechchallenge.uk/apply",
   "updatedAt": "2026-11-23"
  },
  {
@@ -29792,6 +29802,41 @@
   "updatedAt": "2026-11-23"
  },
  {
+  "id": "poss-up-to-100-000-sanofi-foundation-climate-health-grant",
+  "slug": "up-to-100-000-sanofi-foundation-climate-health-grant",
+  "name": "Up to €100,000 Sanofi Foundation Climate Health Grant",
+  "sponsor": "Sanofi Foundation",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Clima",
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-11"
+  },
+  "notes": "Fondos de Sanofi Foundation. Totalmente financiado. La convocatoria cierra a las 23:00 (Europe/Paris); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.foundation-sanofi.com/assets/dot-fs/pages/docs/2026-call-for-proposals-en.pdf",
+  "applyUrl": "https://www.foundation-sanofi.com/assets/dot-fs/pages/docs/2026-call-for-proposals-en.pdf",
+  "updatedAt": "2026-11-23"
+ },
+ {
   "id": "poss-bloomberg-harvard-visiting-fellows-program",
   "slug": "bloomberg-harvard-visiting-fellows-program",
   "name": "Bloomberg Harvard Visiting Fellows Program",
@@ -30323,6 +30368,40 @@
   "updatedAt": "2026-11-23"
  },
  {
+  "id": "poss-500-young-china-watchers-essay-competition",
+  "slug": "500-young-china-watchers-essay-competition",
+  "name": "$500 Young China Watchers Essay Competition",
+  "sponsor": "Young China Watchers (YCW London)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Hasta los 35 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-15"
+  },
+  "notes": "Competencia de Young China Watchers (YCW London). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.youngchinawatchers.com/project/the-7th-annual-young-china-watchers-essay-compeition-is-open-for-sumbissions/",
+  "applyUrl": "https://www.youngchinawatchers.com/project/the-7th-annual-young-china-watchers-essay-compeition-is-open-for-sumbissions/",
+  "updatedAt": "2026-11-23"
+ },
+ {
   "id": "poss-genesis-stem-prize-for-teens",
   "slug": "genesis-stem-prize-for-teens",
   "name": "Genesis STEM Prize for Teens",
@@ -30656,6 +30735,72 @@
   "notes": "Fondos de Project Evident. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://projectevident.org/career-exploration-evidence-fund/",
   "applyUrl": "https://projectevident.org/career-exploration-evidence-fund/",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "poss-500-a-month-tor-community-fellowship",
+  "slug": "500-a-month-tor-community-fellowship",
+  "name": "$500 a Month Tor Community Fellowship",
+  "sponsor": "The Tor Project",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-17"
+  },
+  "notes": "Fellowship de The Tor Project. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://forum.torproject.org/t/call-for-applications-tor-community-fellowship/22490",
+  "applyUrl": "https://forum.torproject.org/t/call-for-applications-tor-community-fellowship/22490",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "poss-paid-u-s-exchange-alumni-fellowship",
+  "slug": "paid-u-s-exchange-alumni-fellowship",
+  "name": "Paid U.S. Exchange Alumni Fellowship",
+  "sponsor": "IREX",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-17"
+  },
+  "notes": "Fellowship de IREX. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.irex.org/program/us-exchange-alumni-fellowship",
+  "applyUrl": "https://www.irex.org/program/us-exchange-alumni-fellowship",
   "updatedAt": "2026-11-23"
  },
  {
@@ -31028,6 +31173,39 @@
   "notes": "Pasantía de Future of Privacy Forum. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://fpf.org/us-policy-internships/",
   "applyUrl": "https://fpf.org/us-policy-internships/",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "poss-20-an-hour-youth-climate-ambassador-fellowship",
+  "slug": "20-an-hour-youth-climate-ambassador-fellowship",
+  "name": "$20 an Hour Youth Climate Ambassador Fellowship",
+  "sponsor": "California Environmental Voters Education Fund (EnviroVoters Ed Fund)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Clima"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. De 18 a 30 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-23"
+  },
+  "notes": "Fellowship de California Environmental Voters Education Fund (EnviroVoters Ed Fund). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://envirovotersedfund.org/ambassadors/",
+  "applyUrl": "https://envirovotersedfund.org/ambassadors/",
   "updatedAt": "2026-11-23"
  },
  {
@@ -31777,6 +31955,75 @@
   "notes": "Fellowship de National Endowment for Democracy. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.ned.org/fellowships/reagan-fascell-democracy-fellows-program/applying-for-a-fellowship/",
   "applyUrl": "https://www.ned.org/fellowships/reagan-fascell-democracy-fellows-program/applying-for-a-fellowship/",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "poss-up-to-5-million-california-behavioral-health-grant",
+  "slug": "up-to-5-million-california-behavioral-health-grant",
+  "name": "Up to $5 Million California Behavioral Health Grant",
+  "sponsor": "California Commission for Behavioral Health (Behavioral Health Services Oversight and Accountability Commission)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-05"
+  },
+  "notes": "Fondos de California Commission for Behavioral Health (Behavioral Health Services Oversight and Accountability Commission). Totalmente financiado. La convocatoria cierra a las 12:00 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://bhsoac.ca.gov/connect/grant-funding-opportunities/request-for-application-rfa-for-innovation-partnership-fund-ipf-002/",
+  "applyUrl": "https://bhsoac.ca.gov/connect/grant-funding-opportunities/request-for-application-rfa-for-innovation-partnership-fund-ipf-002/",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "poss-up-to-750-youth-digital-changemaker-fellowship",
+  "slug": "up-to-750-youth-digital-changemaker-fellowship",
+  "name": "Up to $750 Youth Digital Changemaker Fellowship",
+  "sponsor": "ReThink Citizens",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Tecnología",
+   "Género",
+   "Liderazgo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. De 13 a 25 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-05"
+  },
+  "notes": "Fellowship de ReThink Citizens. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://rethinkcitizens.org/youth-coalition/",
+  "applyUrl": "https://rethinkcitizens.org/youth-coalition/",
   "updatedAt": "2026-11-23"
  },
  {
@@ -32549,6 +32796,40 @@
   "notes": "Fondos de Africa Youth Climate Fund (AYCF), hosted by the Green Africa Youth Organization (GAYO). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.aycf.org/funding/6cf80744-a907-406f-92e3-5e94ba46d008",
   "applyUrl": "https://www.aycf.org/funding/6cf80744-a907-406f-92e3-5e94ba46d008",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "poss-20-000-cleantech-challenge-student-competition",
+  "slug": "20-000-cleantech-challenge-student-competition",
+  "name": "£20,000 Cleantech Challenge Student Competition",
+  "sponsor": "Cleantech Challenge, London Business School",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Medio ambiente"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "parcial",
+  "amount": "Financiamiento parcial",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-15"
+  },
+  "notes": "Competencia de Cleantech Challenge, London Business School. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://thecleantechchallenge.uk/apply",
+  "applyUrl": "https://thecleantechchallenge.uk/apply",
   "updatedAt": "2026-11-23"
  },
  {
@@ -34006,6 +34287,40 @@
   "updatedAt": "2026-11-23"
  },
  {
+  "id": "poss-up-to-7-million-build-to-scale-grant",
+  "slug": "up-to-7-million-build-to-scale-grant",
+  "name": "Up to $7 Million Build to Scale Grant",
+  "sponsor": "U.S. Economic Development Administration (EDA), U.S. Department of Commerce",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-26"
+  },
+  "notes": "Fondos de U.S. Economic Development Administration (EDA), U.S. Department of Commerce. Totalmente financiado. La convocatoria cierra a las 16:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.eda.gov/funding/programs/build-to-scale",
+  "applyUrl": "https://www.eda.gov/funding/programs/build-to-scale",
+  "updatedAt": "2026-11-23"
+ },
+ {
   "id": "poss-up-to-75-000-esa-kick-start-grant",
   "slug": "up-to-75-000-esa-kick-start-grant",
   "name": "Up to €75,000 ESA Kick-start Grant",
@@ -34037,6 +34352,41 @@
   "notes": "Fondos de European Space Agency (ESA) Business Applications and Space Solutions (BASS). Totalmente financiado. La convocatoria cierra a las 13:00 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://business.esa.int/funding/open-call-for-proposals-kick-starts",
   "applyUrl": "https://business.esa.int/funding/open-call-for-proposals-kick-starts",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "poss-100-000-wilmers-integrity-prize",
+  "slug": "100-000-wilmers-integrity-prize",
+  "name": "$100,000 Wilmers Integrity Prize",
+  "sponsor": "Robert G. Wilmers Integrity Prize",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Medio ambiente",
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-28"
+  },
+  "notes": "Premio de Robert G. Wilmers Integrity Prize. Totalmente financiado. La convocatoria cierra a las 17:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.wilmersintegrityprize.org/application",
+  "applyUrl": "https://www.wilmersintegrityprize.org/application",
   "updatedAt": "2026-11-23"
  },
  {
@@ -34275,6 +34625,40 @@
   "notes": "Competencia de CERN. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Zurich); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://beamlineforschools.cern/how-to-take-part",
   "applyUrl": "https://beamlineforschools.cern/how-to-take-part",
+  "updatedAt": "2026-11-23"
+ },
+ {
+  "id": "poss-up-to-1-500-sadc-student-essay-competition",
+  "slug": "up-to-1-500-sadc-student-essay-competition",
+  "name": "Up to $1,500 SADC Student Essay Competition",
+  "sponsor": "Southern African Development Community (SADC) Secretariat",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Agricultura"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-03-31"
+  },
+  "notes": "Competencia de Southern African Development Community (SADC) Secretariat. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Africa/Gaborone); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.sadc.int/latest-news/call-entries-2027-sadc-secondary-school-essay-competition",
+  "applyUrl": "https://www.sadc.int/latest-news/call-entries-2027-sadc-secondary-school-essay-competition",
   "updatedAt": "2026-11-23"
  },
  {
