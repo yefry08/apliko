@@ -32769,5 +32769,45 @@
    "url": "https://opportunitiesforyouth.org/2026/11/22/aapm-dream-fellowship-2027-in-the-usa-and-canada-6000-stipend-10-week-medical-physics-research-programme-and-mentorship-for-undergraduate-students/",
    "updatedAt": "2026-11-22"
   }
+ },
+ {
+  "guid": "https://opportunitiesforyouth.org/?p=97481",
+  "feed": "Opportunities for Youth",
+  "link": "https://opportunitiesforyouth.org/2026/11/22/university-of-toronto-india-foundation-research-catalyst-grants-2027-2028-apply-for-up-to-inr-15-lakhs-to-advance-urban-sustainability-and-climate-resilience-in-indian-cities/",
+  "title": "University of Toronto India Foundation Research Catalyst Grants 2027–2028: Apply for Up to INR 15 Lakhs to Advance Urban Sustainability and Climate Resilience in Indian Cities",
+  "publishedAt": "2026-11-22T22:41:12+00:00",
+  "fetchedAt": "2026-11-23T03:38:41+00:00",
+  "estado": "descartada",
+  "motivo": "No parece una beca, fellowship ni programa; no admite dominicanos (port collaborative research between the university of toronto and organisations based in india).",
+  "oportunidad": {
+   "id": "rss-university-of-toronto-india-foundation-research-catalyst-grants-2027-2028",
+   "slug": "university-of-toronto-india-foundation-research-catalyst-grants-2027-2028",
+   "name": "University of Toronto India Foundation Research Catalyst Grants 2027–2028",
+   "source": "rss",
+   "sourceName": "Opportunities for Youth",
+   "types": [],
+   "areas": [
+    "Medio ambiente",
+    "Artes"
+   ],
+   "levels": [
+    "profesional"
+   ],
+   "destinations": [
+    "Canadá",
+    "India"
+   ],
+   "funding": "estipendio",
+   "citizenship": "paises-elegibles",
+   "citizenshipRaw": "port collaborative research between the university of toronto and organisations based in india",
+   "deadline": {
+    "kind": "exacta",
+    "date": "2027-02-15"
+   },
+   "notes": "Are you a researcher, academic, non-profit organisation, civil society organisation or government institution working to address urban development challenges in India?",
+   "url": "https://opportunitiesforyouth.org/2026/11/22/university-of-toronto-india-foundation-research-catalyst-grants-2027-2028-apply-for-up-to-inr-15-lakhs-to-advance-urban-sustainability-and-climate-resilience-in-indian-cities/",
+   "applyUrl": "https://schoolofcities.utoronto.ca/about-us/school-of-cities-india/utif-research-catalyst-grants-2027-28/",
+   "updatedAt": "2026-11-23"
+  }
  }
 ]
