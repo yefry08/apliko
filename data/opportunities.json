@@ -23985,6 +23985,39 @@
   "updatedAt": "2026-11-24"
  },
  {
+  "id": "cimpa-cimpa-seeing-the-unseen-mathematics-of-inverse-problems-and-ai-driven-imaging",
+  "slug": "cimpa-seeing-the-unseen-mathematics-of-inverse-problems-and-ai-driven-imaging",
+  "name": "Escuela CIMPA: Seeing the Unseen: Mathematics of Inverse Problems and AI-Driven Imaging",
+  "sponsor": "CIMPA (Centre International de Mathématiques Pures et Appliquées)",
+  "source": "becas",
+  "sourceName": "CIMPA (cimpa.info)",
+  "types": [
+   "Escuela de investigación"
+  ],
+  "areas": [
+   "Matemáticas"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria"
+  ],
+  "destinations": [
+   "Indonesia"
+  ],
+  "funding": "parcial",
+  "amount": "Inscripción gratis. CIMPA da ayudas de viaje y estadía, sobre todo a participantes de países en desarrollo; se piden al postular.",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Nivel: End of undergraduate or beginning of master level. Fechas: 3 August, 2027, Yogyakarta. CIMPA prioriza a estudiantes e investigadores de países en desarrollo; se postula en applications.cimpa.info.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-12"
+  },
+  "notes": "× Coordinator: Zenith Purisha, Universitas Gadjah Mada (UGM), Indonesia - zenith.purisha@ugm.ac.id",
+  "url": "https://www.cimpa.info/en/node/8302",
+  "applyUrl": "https://applications.cimpa.info/",
+  "updatedAt": "2026-11-24"
+ },
+ {
   "id": "cimpa-cimpa-statistics-for-health",
   "slug": "cimpa-statistics-for-health",
   "name": "Escuela CIMPA: Statistics for health",
@@ -26272,73 +26305,6 @@
   "updatedAt": "2026-11-24"
  },
  {
-  "id": "poss-4-500-map-nonprofit-consulting-fellowship",
-  "slug": "4-500-map-nonprofit-consulting-fellowship",
-  "name": "$4,500 MAP Nonprofit Consulting Fellowship",
-  "sponsor": "Morgridge Family Foundation",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fellowship"
-  ],
-  "areas": [
-   "Clima"
-  ],
-  "levels": [
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-24"
-  },
-  "notes": "Fellowship de Morgridge Family Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Denver); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://morgridgefamilyfoundation.org/morgridge-acceleration-program",
-  "applyUrl": "https://morgridgefamilyfoundation.org/morgridge-acceleration-program",
-  "updatedAt": "2026-11-24"
- },
- {
-  "id": "poss-500-000-td-housing-for-everyone-grant",
-  "slug": "500-000-td-housing-for-everyone-grant",
-  "name": "$500,000 TD Housing for Everyone Grant",
-  "sponsor": "TD Charitable Foundation",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Impacto social"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-24"
-  },
-  "notes": "Fondos de TD Charitable Foundation. Totalmente financiado. La convocatoria cierra a las 16:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.td.com/us/en/about-us/communities/ready-commitment/funding-opportunities/housing-for-everyone",
-  "applyUrl": "https://www.td.com/us/en/about-us/communities/ready-commitment/funding-opportunities/housing-for-everyone",
-  "updatedAt": "2026-11-24"
- },
- {
   "id": "poss-african-cso-ai-governance-cohort",
   "slug": "african-cso-ai-governance-cohort",
   "name": "African CSO AI Governance Cohort",
@@ -26371,6 +26337,40 @@
   "notes": "Taller de i4Policy (Innovation for Policy Foundation). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 17:00 (Africa/Johannesburg); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://i4policy.org/opportunities/",
   "applyUrl": "https://i4policy.org/opportunities/",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-fao-world-soil-day-student-collage-contest",
+  "slug": "fao-world-soil-day-student-collage-contest",
+  "name": "FAO World Soil Day Student Collage Contest",
+  "sponsor": "Food and Agriculture Organization of the United Nations (FAO), Global Soil Partnership",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-25"
+  },
+  "notes": "Competencia de Food and Agriculture Organization of the United Nations (FAO), Global Soil Partnership. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.fao.org/world-soil-day/contests/soil-collage/en",
+  "applyUrl": "https://www.fao.org/world-soil-day/contests/soil-collage/en",
   "updatedAt": "2026-11-24"
  },
  {
@@ -26680,6 +26680,40 @@
   "updatedAt": "2026-11-24"
  },
  {
+  "id": "poss-ca-17-000-greenshields-grant-for-figurative-artists",
+  "slug": "ca-17-000-greenshields-grant-for-figurative-artists",
+  "name": "CA$17,000 Greenshields Grant for Figurative Artists",
+  "sponsor": "The Elizabeth Greenshields Foundation",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Arte y cultura"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 18 a 41 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-27"
+  },
+  "notes": "Fondos de The Elizabeth Greenshields Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.elizabethgreenshieldsfoundation.ca/en/apply",
+  "applyUrl": "https://www.elizabethgreenshieldsfoundation.ca/en/apply",
+  "updatedAt": "2026-11-24"
+ },
+ {
   "id": "poss-democratic-innovations-accelerator-for-youth-participation",
   "slug": "democratic-innovations-accelerator-for-youth-participation",
   "name": "Democratic Innovations Accelerator for Youth Participation",
@@ -26880,6 +26914,40 @@
   "notes": "Premio de The David Prize. Totalmente financiado. La convocatoria cierra a las 18:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://thedavidprize.org/steps/",
   "applyUrl": "https://thedavidprize.org/steps/",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-25-000-box-impact-fund-nonprofit-grant",
+  "slug": "25-000-box-impact-fund-nonprofit-grant",
+  "name": "$25,000 Box Impact Fund Nonprofit Grant",
+  "sponsor": "Box",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Medio ambiente"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Fondos de Box. Totalmente financiado. La convocatoria cierra a las 17:00 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.box.org/impact-fund",
+  "applyUrl": "https://www.box.org/impact-fund",
   "updatedAt": "2026-11-24"
  },
  {
@@ -27155,6 +27223,40 @@
   "notes": "Programa de World Food Forum (FAO). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/en",
   "applyUrl": "https://youth.world-food-forum.org/youth-assembly/youth-policy-board/en",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-free-rise-program-for-early-career-nonprofit-leaders",
+  "slug": "free-rise-program-for-early-career-nonprofit-leaders",
+  "name": "Free RISE Program for Early Career Nonprofit Leaders",
+  "sponsor": "Institute for Nonprofit Practice",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Taller"
+  ],
+  "areas": [
+   "Liderazgo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Taller de Institute for Nonprofit Practice. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.nonprofitpractice.org/programs/rise-program/",
+  "applyUrl": "https://www.nonprofitpractice.org/programs/rise-program/",
   "updatedAt": "2026-11-24"
  },
  {
@@ -27702,6 +27804,40 @@
   "updatedAt": "2026-11-24"
  },
  {
+  "id": "poss-50-000-america250-community-futures-grant",
+  "slug": "50-000-america250-community-futures-grant",
+  "name": "$50,000 America250 Community Futures Grant",
+  "sponsor": "PMI U.S. (Philip Morris International's U.S. businesses), operated by Pacheco Ventures with Arizona State University as judging partner",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. Desde los 21 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-01"
+  },
+  "notes": "Fondos de PMI U.S. (Philip Morris International's U.S. businesses), operated by Pacheco Ventures with Arizona State University as judging partner. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://america250cfc.org/",
+  "applyUrl": "https://america250cfc.org/",
+  "updatedAt": "2026-11-24"
+ },
+ {
   "id": "poss-500-one-teen-story-writing-contest",
   "slug": "500-one-teen-story-writing-contest",
   "name": "$500 One Teen Story Writing Contest",
@@ -28136,6 +28272,39 @@
   "notes": "Premio de Fundación Mapfre. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Madrid); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.fundacionmapfre.org/en/awards-aids/awards/awards-fundacion-mapfre-innovation-social/",
   "applyUrl": "https://www.fundacionmapfre.org/en/awards-aids/awards/awards-fundacion-mapfre-innovation-social/",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-20-000-mensch-maschine-artist-fellowship",
+  "slug": "20-000-mensch-maschine-artist-fellowship",
+  "name": "€20,000 Mensch Maschine Artist Fellowship",
+  "sponsor": "JUNGE AKADEMIE, Akademie der Künste (with E-WERK Luckenwalde, the E.ON Foundation's VISIT programme and Ujazdowski Castle CCA)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Arte y cultura"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-01"
+  },
+  "notes": "Fellowship de JUNGE AKADEMIE, Akademie der Künste (with E-WERK Luckenwalde, the E.ON Foundation's VISIT programme and Ujazdowski Castle CCA). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://adk.de/en/news/2026/10/open-call-human-machine-fellowship",
+  "applyUrl": "https://adk.de/en/news/2026/10/open-call-human-machine-fellowship",
   "updatedAt": "2026-11-24"
  },
  {
@@ -29121,6 +29290,38 @@
   "notes": "Fellowship de PBS (Public Broadcasting Service), Dr. Sylvia M. Bugg Creative Voices Initiative. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.pbs.org/about/producing-pbs/accelerator-fellowship/",
   "applyUrl": "https://www.pbs.org/about/producing-pbs/accelerator-fellowship/",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-funded-salto-inclusive-volunteering-training-in-norway",
+  "slug": "funded-salto-inclusive-volunteering-training-in-norway",
+  "name": "Funded SALTO Inclusive Volunteering Training in Norway",
+  "sponsor": "SALTO Inclusion & Diversity Resource Centre",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Taller"
+  ],
+  "areas": [
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [],
+  "funding": "parcial",
+  "amount": "Financiamiento parcial",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para . Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-07"
+  },
+  "notes": "Taller de SALTO Inclusion & Diversity Resource Centre. Financiamiento parcial. La convocatoria cierra a las 23:59 (Europe/Brussels); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.salto-youth.net/rc/inclusion/inclusiontraining/volunteeringforall/",
+  "applyUrl": "https://www.salto-youth.net/rc/inclusion/inclusiontraining/volunteeringforall/",
   "updatedAt": "2026-11-24"
  },
  {
@@ -31621,21 +31822,21 @@
   "updatedAt": "2026-11-24"
  },
  {
-  "id": "poss-free-non-trivial-youth-research-fellowship",
-  "slug": "free-non-trivial-youth-research-fellowship",
-  "name": "Free Non-Trivial Youth Research Fellowship",
-  "sponsor": "Non-Trivial (Leaf Inc.)",
+  "id": "poss-300-a-week-ox-bow-summer-art-fellowship",
+  "slug": "300-a-week-ox-bow-summer-art-fellowship",
+  "name": "$300 a Week Ox-Bow Summer Art Fellowship",
+  "sponsor": "Ox-Bow School of Art & Artists' Residency",
   "source": "becas",
   "sourceName": "The Possibilists (thepossibilists.org/directory)",
   "types": [
    "Fellowship"
   ],
   "areas": [
-   "Ciencia"
+   "Arte y cultura"
   ],
   "levels": [
-   "pregrado",
-   "recien-graduado"
+   "recien-graduado",
+   "profesional"
   ],
   "destinations": [
    "Mundial"
@@ -31643,14 +31844,14 @@
   "funding": "completa",
   "amount": "Totalmente financiado",
   "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 14 a 20 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
   "deadline": {
    "kind": "exacta",
    "date": "2027-01-04"
   },
-  "notes": "Fellowship de Non-Trivial (Leaf Inc.). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://www.non-trivial.org/apply",
-  "applyUrl": "https://www.non-trivial.org/apply",
+  "notes": "Fellowship de Ox-Bow School of Art & Artists' Residency. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Detroit); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.ox-bow.org/fellowship-program",
+  "applyUrl": "https://www.ox-bow.org/fellowship-program",
   "updatedAt": "2026-11-24"
  },
  {
@@ -31684,6 +31885,39 @@
   "notes": "Programa de The Rockefeller University (RockEDU Science Outreach). Financiamiento parcial. La convocatoria cierra a las 17:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.rockefeller.edu/outreach/ssrp/",
   "applyUrl": "https://www.rockefeller.edu/outreach/ssrp/",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-free-non-trivial-youth-research-fellowship",
+  "slug": "free-non-trivial-youth-research-fellowship",
+  "name": "Free Non-Trivial Youth Research Fellowship",
+  "sponsor": "Non-Trivial (Leaf Inc.)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Ciencia"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 14 a 20 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-05"
+  },
+  "notes": "Fellowship de Non-Trivial (Leaf Inc.). Totalmente financiado. La convocatoria cierra a las 23:59 (Etc/GMT+12); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.non-trivial.org/apply",
+  "applyUrl": "https://www.non-trivial.org/apply",
   "updatedAt": "2026-11-24"
  },
  {
@@ -32183,6 +32417,74 @@
   "notes": "Fellowship de Cooperative Development Foundation. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.cdf.coop/cls",
   "applyUrl": "https://www.cdf.coop/cls",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-teach-for-all-dei-advocates-online-fellowship",
+  "slug": "teach-for-all-dei-advocates-online-fellowship",
+  "name": "Teach For All DEI Advocates Online Fellowship",
+  "sponsor": "Teach For All",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-12"
+  },
+  "notes": "Fellowship de Teach For All. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.tfaforms.com/5238543",
+  "applyUrl": "https://www.tfaforms.com/5238543",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-up-to-3-500-alicia-shepard-journalism-fellowship",
+  "slug": "up-to-3-500-alicia-shepard-journalism-fellowship",
+  "name": "Up to $3,500 Alicia Shepard Journalism Fellowship",
+  "sponsor": "International Women's Media Foundation (IWMF)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Periodismo",
+   "Género"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-12"
+  },
+  "notes": "Fondos de International Women's Media Foundation (IWMF). Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.iwmf.org/programs/alicia-c-shepard-legacy-fellowship/",
+  "applyUrl": "https://www.iwmf.org/programs/alicia-c-shepard-legacy-fellowship/",
   "updatedAt": "2026-11-24"
  },
  {
@@ -33816,6 +34118,41 @@
   "updatedAt": "2026-11-24"
  },
  {
+  "id": "poss-s-1-million-liveability-challenge-climate-competition",
+  "slug": "s-1-million-liveability-challenge-climate-competition",
+  "name": "S$1 Million Liveability Challenge Climate Competition",
+  "sponsor": "Temasek Foundation and Eco-Business",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Clima",
+   "Medio ambiente"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-12"
+  },
+  "notes": "Competencia de Temasek Foundation and Eco-Business. Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Singapore); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.theliveabilitychallenge.org/participate",
+  "applyUrl": "https://www.theliveabilitychallenge.org/participate",
+  "updatedAt": "2026-11-24"
+ },
+ {
   "id": "poss-10-000-allstate-college-service-grant",
   "slug": "10-000-allstate-college-service-grant",
   "name": "$10,000 Allstate College Service Grant",
@@ -34422,6 +34759,40 @@
   "notes": "Competencia de Southern African Development Community (SADC) Secretariat. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Africa/Gaborone); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.sadc.int/latest-news/call-entries-2027-sadc-secondary-school-essay-competition",
   "applyUrl": "https://www.sadc.int/latest-news/call-entries-2027-sadc-secondary-school-essay-competition",
+  "updatedAt": "2026-11-24"
+ },
+ {
+  "id": "poss-up-to-20-000-vilcek-foundation-nonprofit-grant",
+  "slug": "up-to-20-000-vilcek-foundation-nonprofit-grant",
+  "name": "Up to $20,000 Vilcek Foundation Nonprofit Grant",
+  "sponsor": "Vilcek Foundation",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-03-31"
+  },
+  "notes": "Fondos de Vilcek Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://vilcek.org/grants/application-guidelines/",
+  "applyUrl": "https://vilcek.org/grants/application-guidelines/",
   "updatedAt": "2026-11-24"
  },
  {
