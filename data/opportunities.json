@@ -23662,7 +23662,7 @@
   "citizenshipRaw": "Revisa en la convocatoria quién puede postular: muchas son solo para un país o una universidad.",
   "deadline": {
    "kind": "exacta",
-   "date": "2026-11-25"
+   "date": "2026-11-26"
   },
   "notes": "The Lab to Market Initiative seeks to bridge the gap between basic research and entrepreneurship by creating a structured initiative that equips students and researchers with the business skills, mentorship, and industry connections needed to turn their groundbreaking ideas into viable, scalable ventures. Why Join Lab to Market? Lab to Market is back for Cohort 2, bringing you a year of hands-on entrepreneurship training, expert mentorship, global networking, and the chance to turn your big…",
   "url": "https://apply.younoodle.com/showcase/competition/columbia_venture_competition_2027",
@@ -26340,38 +26340,35 @@
   "updatedAt": "2026-11-25"
  },
  {
-  "id": "poss-african-cso-ai-governance-cohort",
-  "slug": "african-cso-ai-governance-cohort",
-  "name": "African CSO AI Governance Cohort",
-  "sponsor": "i4Policy (Innovation for Policy Foundation)",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "id": "rss-fully-funded-phd-at-stockholm-school-of-economics-2027",
+  "slug": "fully-funded-phd-at-stockholm-school-of-economics-2027",
+  "name": "Fully Funded PhD at Stockholm School of Economics 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
   "types": [
-   "Taller"
+   "Beca"
   ],
   "areas": [
    "Inteligencia artificial",
-   "Medio ambiente"
+   "Tecnología",
+   "Políticas públicas",
+   "Economía"
   ],
   "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
+   "doctorado"
   ],
   "destinations": [
-   "Mundial"
+   "Suecia"
   ],
-  "funding": "varia",
-  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "these requirements include: applicants may be of any nationality",
   "deadline": {
    "kind": "exacta",
-   "date": "2026-11-25"
+   "date": "2027-01-15"
   },
-  "notes": "Taller de i4Policy (Innovation for Policy Foundation). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 17:00 (Africa/Johannesburg); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://i4policy.org/opportunities/",
-  "applyUrl": "https://i4policy.org/opportunities/",
+  "notes": "Are you an aspiring researcher interested in artificial intelligence, entrepreneurship, innovation, technology, sustainability, business transformation, or family enterprises?",
+  "url": "https://opportunitiesforyouth.org/2026/11/25/fully-funded-phd-at-stockholm-school-of-economics-2027-study-business-administration-in-sweden-with-research-opportunities-in-ai-innovation-entrepreneurship-and-sustainability/",
   "updatedAt": "2026-11-25"
  },
  {
@@ -26544,40 +26541,6 @@
   "updatedAt": "2026-11-25"
  },
  {
-  "id": "poss-up-to-5-750-ddi-south-asia-civic-grant",
-  "slug": "up-to-5-750-ddi-south-asia-civic-grant",
-  "name": "Up to $5,750 DDI South Asia Civic Grant",
-  "sponsor": "Accountability Lab (DDI South Asia)",
-  "source": "financiamiento",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Fondos"
-  ],
-  "areas": [
-   "Derechos humanos"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "completa",
-  "amount": "Totalmente financiado",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-25"
-  },
-  "notes": "Fondos de Accountability Lab (DDI South Asia). Totalmente financiado. La convocatoria cierra a las 23:59 (Asia/Dhaka); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://ddisouthasia.org/grants/",
-  "applyUrl": "https://ddisouthasia.org/grants/",
-  "updatedAt": "2026-11-25"
- },
- {
   "id": "poss-epistemics-fund-grants-for-thinking-tools",
   "slug": "epistemics-fund-grants-for-thinking-tools",
   "name": "Epistemics Fund Grants for Thinking Tools",
@@ -26712,6 +26675,38 @@
   "notes": "Fondos de People Powered. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.peoplepowered.org/climate-democracy-accelerator",
   "applyUrl": "https://www.peoplepowered.org/climate-democracy-accelerator",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-27-200-au-energize-africa-health-fellowship",
+  "slug": "27-200-au-energize-africa-health-fellowship",
+  "name": "$27,200 AU Energize Africa Health Fellowship",
+  "sponsor": "African Union Development Agency (AUDA-NEPAD)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Salud",
+   "Género"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para . La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-27"
+  },
+  "notes": "Fellowship de African Union Development Agency (AUDA-NEPAD). Totalmente financiado. La convocatoria cierra a las 23:59 (Africa/Johannesburg); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.nepad.org/work-with-us/careers/energize-africa-health-fellows-15-positions",
+  "applyUrl": "https://www.nepad.org/work-with-us/careers/energize-africa-health-fellows-15-positions",
   "updatedAt": "2026-11-25"
  },
  {
@@ -27118,6 +27113,40 @@
   "notes": "Taller de Circl. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.tfaforms.com/4894592?tfa_850=001P20000060ZKA",
   "applyUrl": "https://www.tfaforms.com/4894592?tfa_850=001P20000060ZKA",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-commonwealth-youth-council-executive-seats",
+  "slug": "commonwealth-youth-council-executive-seats",
+  "name": "Commonwealth Youth Council Executive Seats",
+  "sponsor": "Commonwealth Youth Council (with the Commonwealth Secretariat)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Programa"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. De 15 a 29 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Programa de Commonwealth Youth Council (with the Commonwealth Secretariat). Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.mi-nomination.com/cyc",
+  "applyUrl": "https://www.mi-nomination.com/cyc",
   "updatedAt": "2026-11-25"
  },
  {
@@ -27563,6 +27592,40 @@
   "notes": "Fondos de The Roundhouse Foundation. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://roundhousefoundation.org/how-to-apply-for-roundhouse-grants/#smallgrants",
   "applyUrl": "https://roundhousefoundation.org/how-to-apply-for-roundhouse-grants/#smallgrants",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-up-to-25-000-cogir-foundation-grant",
+  "slug": "up-to-25-000-cogir-foundation-grant",
+  "name": "Up to $25,000 Cogir Foundation Grant",
+  "sponsor": "Cogir Foundation (Cogir USA)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Salud"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-11-30"
+  },
+  "notes": "Fondos de Cogir Foundation (Cogir USA). Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://cogirusa.com/about-us/cogir-foundation/",
+  "applyUrl": "https://cogirusa.com/about-us/cogir-foundation/",
   "updatedAt": "2026-11-25"
  },
  {
@@ -29161,6 +29224,39 @@
   "updatedAt": "2026-11-25"
  },
  {
+  "id": "poss-better-futures-ai-safety-fellowship",
+  "slug": "better-futures-ai-safety-fellowship",
+  "name": "Better Futures AI Safety Fellowship",
+  "sponsor": "European Network for AI Safety (ENAIS), AI Safety Collab",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. Desde los 18 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-06"
+  },
+  "notes": "Fellowship de European Network for AI Safety (ENAIS), AI Safety Collab. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://enais.notion.site/AI-Safety-Collab-9defec1840f783549cdc818f3863ea0f",
+  "applyUrl": "https://enais.notion.site/AI-Safety-Collab-9defec1840f783549cdc818f3863ea0f",
+  "updatedAt": "2026-11-25"
+ },
+ {
   "id": "poss-chf-900-a-month-unitar-design-traineeship",
   "slug": "chf-900-a-month-unitar-design-traineeship",
   "name": "CHF 900 a Month UNITAR Design Traineeship",
@@ -30367,6 +30463,40 @@
   "updatedAt": "2026-11-25"
  },
  {
+  "id": "poss-5-000-sony-future-filmmaker-awards",
+  "slug": "5-000-sony-future-filmmaker-awards",
+  "name": "$5,000 Sony Future Filmmaker Awards",
+  "sponsor": "Creo (Creo Arts Group Limited), sponsored by Sony",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Competencia"
+  ],
+  "areas": [
+   "Periodismo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-15"
+  },
+  "notes": "Competencia de Creo (Creo Arts Group Limited), sponsored by Sony. Totalmente financiado. La convocatoria cierra a las 07:00 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.sonyfuturefilmmakerawards.com/",
+  "applyUrl": "https://www.sonyfuturefilmmakerawards.com/",
+  "updatedAt": "2026-11-25"
+ },
+ {
   "id": "poss-500-young-china-watchers-essay-competition",
   "slug": "500-young-china-watchers-essay-competition",
   "name": "$500 Young China Watchers Essay Competition",
@@ -30770,6 +30900,39 @@
   "updatedAt": "2026-11-25"
  },
  {
+  "id": "poss-paid-dc-emergency-management-internship-spring-2027",
+  "slug": "paid-dc-emergency-management-internship-spring-2027",
+  "name": "Paid DC Emergency Management Internship (Spring 2027)",
+  "sponsor": "DC Homeland Security and Emergency Management Agency (HSEMA)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Pasantía"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "parcial",
+  "amount": "Financiamiento parcial",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-17"
+  },
+  "notes": "Pasantía de DC Homeland Security and Emergency Management Agency (HSEMA). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://hsema.dc.gov/page/internship-program-0",
+  "applyUrl": "https://hsema.dc.gov/page/internship-program-0",
+  "updatedAt": "2026-11-25"
+ },
+ {
   "id": "poss-paid-u-s-exchange-alumni-fellowship",
   "slug": "paid-u-s-exchange-alumni-fellowship",
   "name": "Paid U.S. Exchange Alumni Fellowship",
@@ -31109,6 +31272,39 @@
   "updatedAt": "2026-11-25"
  },
  {
+  "id": "poss-free-fundraising-fellowship-for-women-led-ngos",
+  "slug": "free-fundraising-fellowship-for-women-led-ngos",
+  "name": "Free Fundraising Fellowship for Women-Led NGOs",
+  "sponsor": "SparkUp Initiative",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fellowship"
+  ],
+  "areas": [
+   "Género"
+  ],
+  "levels": [
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-20"
+  },
+  "notes": "Fellowship de SparkUp Initiative. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://sparkupinitiative.org/sparkup-initiative-fellowship/",
+  "applyUrl": "https://sparkupinitiative.org/sparkup-initiative-fellowship/",
+  "updatedAt": "2026-11-25"
+ },
+ {
   "id": "poss-paid-mccain-institute-junior-fellowship-spring-2027",
   "slug": "paid-mccain-institute-junior-fellowship-spring-2027",
   "name": "Paid McCain Institute Junior Fellowship (Spring 2027)",
@@ -31172,6 +31368,40 @@
   "notes": "Pasantía de Future of Privacy Forum. Financiamiento parcial. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://fpf.org/us-policy-internships/",
   "applyUrl": "https://fpf.org/us-policy-internships/",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-free-expert-support-for-women-s-ngos",
+  "slug": "free-expert-support-for-women-s-ngos",
+  "name": "Free Expert Support for Women's NGOs",
+  "sponsor": "Giving Women",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Programa"
+  ],
+  "areas": [
+   "Género"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-22"
+  },
+  "notes": "Programa de Giving Women. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/Zurich); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://givingwomen.org/become-a-project-circle/",
+  "applyUrl": "https://givingwomen.org/become-a-project-circle/",
   "updatedAt": "2026-11-25"
  },
  {
@@ -31377,6 +31607,38 @@
   "notes": "Premio de Food and Agriculture Organization of the United Nations (FAO). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Rome); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.fao.org/fao-awards/champion/apply-now/en",
   "applyUrl": "https://www.fao.org/fao-awards/champion/apply-now/en",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-25-girls-to-know-award",
+  "slug": "25-girls-to-know-award",
+  "name": "25 Girls to KNOW Award",
+  "sponsor": "Être, with The KNOW Women",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Género"
+  ],
+  "levels": [
+   "secundaria"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "varia",
+  "amount": "Sin dinero directo: el valor está en la formación, la red o la visibilidad",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. De 13 a 19 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2026-12-31"
+  },
+  "notes": "Premio de Être, with The KNOW Women. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.etregirls.com/25-girls-to-know",
+  "applyUrl": "https://www.etregirls.com/25-girls-to-know",
   "updatedAt": "2026-11-25"
  },
  {
@@ -31890,6 +32152,40 @@
   "updatedAt": "2026-11-25"
  },
  {
+  "id": "poss-eur-20-000-africa-eu-space-innovation-grant",
+  "slug": "eur-20-000-africa-eu-space-innovation-grant",
+  "name": "EUR 20,000 Africa-EU Space Innovation Grant",
+  "sponsor": "Africa-EU Space Partnership Programme (AESPP), Continental Innovation",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Impacto social"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-04"
+  },
+  "notes": "Fondos de Africa-EU Space Partnership Programme (AESPP), Continental Innovation. Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Paris); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://aespp.awardsplatform.com/",
+  "applyUrl": "https://aespp.awardsplatform.com/",
+  "updatedAt": "2026-11-25"
+ },
+ {
   "id": "poss-free-rockefeller-summer-science-research-program",
   "slug": "free-rockefeller-summer-science-research-program",
   "name": "Free Rockefeller Summer Science Research Program",
@@ -32190,6 +32486,40 @@
   "updatedAt": "2026-11-25"
  },
  {
+  "id": "poss-fully-funded-global-governance-leadership-lab",
+  "slug": "fully-funded-global-governance-leadership-lab",
+  "name": "Fully Funded Global Governance Leadership Lab",
+  "sponsor": "Cultural Vistas",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Taller"
+  ],
+  "areas": [
+   "Liderazgo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-08"
+  },
+  "notes": "Taller de Cultural Vistas. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://culturalvistas.org/our-programs/internships-fellowships/robertson-foundation-global-governance-leadership-lab",
+  "applyUrl": "https://culturalvistas.org/our-programs/internships-fellowships/robertson-foundation-global-governance-leadership-lab",
+  "updatedAt": "2026-11-25"
+ },
+ {
   "id": "poss-up-to-200-000-iki-small-climate-grants",
   "slug": "up-to-200-000-iki-small-climate-grants",
   "name": "Up to €200,000 IKI Small Climate Grants",
@@ -32222,6 +32552,40 @@
   "notes": "Fondos de IKI Small Grants (International Climate Initiative, German Federal Ministry BMUKN, implemented by GIZ). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Berlin); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://iki-small-grants.de/funding/",
   "applyUrl": "https://iki-small-grants.de/funding/",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-up-to-300-000-ai-math-efficacy-grant",
+  "slug": "up-to-300-000-ai-math-efficacy-grant",
+  "name": "Up to $300,000 AI Math Efficacy Grant",
+  "sponsor": "Digital Promise",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Fondos"
+  ],
+  "areas": [
+   "Inteligencia artificial"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-09"
+  },
+  "notes": "Fondos de Digital Promise. Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://digitalpromise.org/programs/encore/funding-opportunity/",
+  "applyUrl": "https://digitalpromise.org/programs/encore/funding-opportunity/",
   "updatedAt": "2026-11-25"
  },
  {
@@ -32352,6 +32716,40 @@
   "notes": "Fellowship de NYC Department of Citywide Administrative Services (DCAS), City of New York. Totalmente financiado. La convocatoria cierra a las 18:00 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page",
   "applyUrl": "https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-free-aaja-jcamp-journalism-workshop",
+  "slug": "free-aaja-jcamp-journalism-workshop",
+  "name": "Free AAJA JCamp Journalism Workshop",
+  "sponsor": "Asian American Journalists Association (AAJA)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Taller"
+  ],
+  "areas": [
+   "Periodismo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-11"
+  },
+  "notes": "Taller de Asian American Journalists Association (AAJA). Totalmente financiado. La convocatoria cierra a las 23:59 (America/Los_Angeles); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.aaja.org/programs-and-initiatives/jcamp/",
+  "applyUrl": "https://www.aaja.org/programs-and-initiatives/jcamp/",
   "updatedAt": "2026-11-25"
  },
  {
@@ -33300,6 +33698,76 @@
   "notes": "Taller de Yale University. Financiamiento parcial. La convocatoria cierra a las 23:59 (America/New_York); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://africanscholars.yale.edu/overview",
   "applyUrl": "https://africanscholars.yale.edu/overview",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-eur-25-000-women-entrepreneurs-award",
+  "slug": "eur-25-000-women-entrepreneurs-award",
+  "name": "EUR 25,000 Women Entrepreneurs Award",
+  "sponsor": "Bayer Foundation (powered by Impact Hub)",
+  "source": "financiamiento",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Premio"
+  ],
+  "areas": [
+   "Salud",
+   "Género",
+   "Emprendimiento"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-25"
+  },
+  "notes": "Premio de Bayer Foundation (powered by Impact Hub). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Vienna); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://bayerfoundation-grants.impactintel.com/calls/f5e110bf-9afd-42e3-aa8d-7b85a1de6f92",
+  "applyUrl": "https://bayerfoundation-grants.impactintel.com/calls/f5e110bf-9afd-42e3-aa8d-7b85a1de6f92",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-free-princeton-summer-journalism-program",
+  "slug": "free-princeton-summer-journalism-program",
+  "name": "Free Princeton Summer Journalism Program",
+  "sponsor": "Princeton University, Emma Bloomberg Center for Access and Opportunity",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Programa"
+  ],
+  "areas": [
+   "Periodismo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-01-25"
+  },
+  "notes": "Programa de Princeton University, Emma Bloomberg Center for Access and Opportunity. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://psjp.princeton.edu/apply/application-process",
+  "applyUrl": "https://psjp.princeton.edu/apply/application-process",
   "updatedAt": "2026-11-25"
  },
  {
@@ -34594,6 +35062,42 @@
   "updatedAt": "2026-11-25"
  },
  {
+  "id": "poss-funded-commonwealth-study-conference-for-leaders",
+  "slug": "funded-commonwealth-study-conference-for-leaders",
+  "name": "Funded Commonwealth Study Conference for Leaders",
+  "sponsor": "Commonwealth Study Conferences (Australia) Inc. (CSC Australia)",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Conferencia"
+  ],
+  "areas": [
+   "Medio ambiente",
+   "Género",
+   "Liderazgo"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Mundial"
+  ],
+  "funding": "parcial",
+  "amount": "Financiamiento parcial",
+  "citizenship": "ver-notas",
+  "citizenshipRaw": "Abierta a participantes de todo el mundo, salvo lo que diga la convocatoria. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-28"
+  },
+  "notes": "Conferencia de Commonwealth Study Conferences (Australia) Inc. (CSC Australia). Financiamiento parcial. La convocatoria cierra a las 23:59 (Australia/Sydney); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://cscaustralia.org/csc-2027/",
+  "applyUrl": "https://cscaustralia.org/csc-2027/",
+  "updatedAt": "2026-11-25"
+ },
+ {
   "id": "poss-250-000-microsoft-imagine-cup-startup-competition",
   "slug": "250-000-microsoft-imagine-cup-startup-competition",
   "name": "$250,000 Microsoft Imagine Cup Startup Competition",
@@ -34894,6 +35398,40 @@
   "notes": "Competencia de The Orwell Foundation. Sin dinero directo: el valor está en la formación, la red o la visibilidad. La convocatoria cierra a las 23:59 (Europe/London); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://www.orwellfoundation.com/the-orwell-youth-prize/about/introduction/",
   "applyUrl": "https://www.orwellfoundation.com/the-orwell-youth-prize/about/introduction/",
+  "updatedAt": "2026-11-25"
+ },
+ {
+  "id": "poss-free-carleton-liberal-arts-summer-programme",
+  "slug": "free-carleton-liberal-arts-summer-programme",
+  "name": "Free Carleton Liberal Arts Summer Programme",
+  "sponsor": "Carleton College",
+  "source": "becas",
+  "sourceName": "The Possibilists (thepossibilists.org/directory)",
+  "types": [
+   "Taller"
+  ],
+  "areas": [
+   "Arte y cultura"
+  ],
+  "levels": [
+   "pregrado",
+   "recien-graduado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "completa",
+  "amount": "Totalmente financiado",
+  "citizenship": "paises-elegibles",
+  "citizenshipRaw": "Solo para Estados Unidos. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-05-01"
+  },
+  "notes": "Taller de Carleton College. Totalmente financiado. La convocatoria cierra a las 23:59 (UTC); la fecha de esta ficha ya está en hora de RD.",
+  "url": "https://www.carleton.edu/admissions/visit/clae/",
+  "applyUrl": "https://www.carleton.edu/admissions/visit/clae/",
   "updatedAt": "2026-11-25"
  },
  {
