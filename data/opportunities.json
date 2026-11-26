@@ -23642,34 +23642,6 @@
   "updatedAt": "2026-10-01"
  },
  {
-  "id": "yn-lab-to-market-bridging-innovation-and-entrepreneurship",
-  "slug": "lab-to-market-bridging-innovation-and-entrepreneurship",
-  "name": "Lab to Market: Bridging Innovation and Entrepreneurship",
-  "source": "financiamiento",
-  "sourceName": "YouNoodle (apply.younoodle.com)",
-  "types": [
-   "Competencia"
-  ],
-  "areas": [
-   "Emprendimiento"
-  ],
-  "levels": [],
-  "destinations": [
-   "Mundial"
-  ],
-  "funding": "varia",
-  "citizenship": "ver-notas",
-  "citizenshipRaw": "Revisa en la convocatoria quién puede postular: muchas son solo para un país o una universidad.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-26"
-  },
-  "notes": "The Lab to Market Initiative seeks to bridge the gap between basic research and entrepreneurship by creating a structured initiative that equips students and researchers with the business skills, mentorship, and industry connections needed to turn their groundbreaking ideas into viable, scalable ventures. Why Join Lab to Market? Lab to Market is back for Cohort 2, bringing you a year of hands-on entrepreneurship training, expert mentorship, global networking, and the chance to turn your big…",
-  "url": "https://apply.younoodle.com/showcase/competition/columbia_venture_competition_2027",
-  "applyUrl": "https://apply.younoodle.com/showcase/competition/columbia_venture_competition_2027",
-  "updatedAt": "2026-11-26"
- },
- {
   "id": "yn-2026-2027-michigan-collegiate-startup-challenge",
   "slug": "2026-2027-michigan-collegiate-startup-challenge",
   "name": "2026/2027 Michigan Collegiate Startup Challenge",
@@ -26372,6 +26344,40 @@
   "updatedAt": "2026-11-25"
  },
  {
+  "id": "rss-university-of-gothenburg-opens-applications-for-up-to-six-fully-funded-phd-posit",
+  "slug": "university-of-gothenburg-opens-applications-for-up-to-six-fully-funded-phd-posit",
+  "name": "University of Gothenburg Opens Applications for Up to Six Fully Funded PhD Positions in Economics in Sweden for 2027",
+  "sponsor": "University of Gothenburg in Sweden",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Beca"
+  ],
+  "areas": [
+   "Derecho",
+   "Economía",
+   "Negocios",
+   "Medio ambiente"
+  ],
+  "levels": [
+   "doctorado"
+  ],
+  "destinations": [
+   "Suecia"
+  ],
+  "funding": "completa",
+  "citizenship": "global",
+  "citizenshipRaw": "international applicants who require a residence permit for higher education in sweden must ensure that they can present a v",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-01"
+  },
+  "notes": "The University of Gothenburg in Sweden is inviting applications for up to six fully funded PhD positions in Economics, with successful candidates expected to commence their doctoral studies on 1 September 2027.",
+  "url": "https://opportunitiesforyouth.org/2026/11/26/university-of-gothenburg-opens-applications-for-up-to-six-fully-funded-phd-positions-in-economics-in-sweden-for-2027/",
+  "applyUrl": "https://www.gu.se/en/work-at-the-university-of-gothenburg/how-to-apply-for-a-position",
+  "updatedAt": "2026-11-26"
+ },
+ {
   "id": "poss-epistemics-fund-grants-for-thinking-tools",
   "slug": "epistemics-fund-grants-for-thinking-tools",
   "name": "Epistemics Fund Grants for Thinking Tools",
@@ -26436,40 +26442,6 @@
   "notes": "Fellowship de SUSTAIN-HTA Consortium (EU Horizon Europe project coordinated by Utrecht University). Totalmente financiado. La convocatoria cierra a las 23:59 (Europe/Amsterdam); la fecha de esta ficha ya está en hora de RD.",
   "url": "https://sustain-hta.org/fellowship-programme/",
   "applyUrl": "https://sustain-hta.org/fellowship-programme/",
-  "updatedAt": "2026-11-26"
- },
- {
-  "id": "poss-nylc-national-youth-advisory-council",
-  "slug": "nylc-national-youth-advisory-council",
-  "name": "nylc National Youth Advisory Council",
-  "sponsor": "National Youth Leadership Council (nylc)",
-  "source": "becas",
-  "sourceName": "The Possibilists (thepossibilists.org/directory)",
-  "types": [
-   "Programa"
-  ],
-  "areas": [
-   "Impacto social"
-  ],
-  "levels": [
-   "pregrado",
-   "recien-graduado",
-   "profesional"
-  ],
-  "destinations": [
-   "Estados Unidos"
-  ],
-  "funding": "parcial",
-  "amount": "Financiamiento parcial",
-  "citizenship": "paises-elegibles",
-  "citizenshipRaw": "Solo para Estados Unidos. Desde los 15 años. La convocatoria está en inglés; confirma los requisitos en el enlace oficial.",
-  "deadline": {
-   "kind": "exacta",
-   "date": "2026-11-26"
-  },
-  "notes": "Programa de National Youth Leadership Council (nylc). Financiamiento parcial. La convocatoria cierra a las 23:59 (America/Chicago); la fecha de esta ficha ya está en hora de RD.",
-  "url": "https://nylc.org/youth-advisory-council/",
-  "applyUrl": "https://nylc.org/youth-advisory-council/",
   "updatedAt": "2026-11-26"
  },
  {
