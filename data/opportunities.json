@@ -26438,6 +26438,40 @@
   "updatedAt": "2026-11-27"
  },
  {
+  "id": "rss-ohio-state-university-summer-research-opportunities-program-srop-2027",
+  "slug": "ohio-state-university-summer-research-opportunities-program-srop-2027",
+  "name": "Ohio State University Summer Research Opportunities Program (SROP) 2027",
+  "source": "rss",
+  "sourceName": "Opportunities for Youth",
+  "types": [
+   "Internship"
+  ],
+  "areas": [
+   "Medio ambiente",
+   "Educación",
+   "Artes"
+  ],
+  "levels": [
+   "pregrado",
+   "maestria",
+   "doctorado",
+   "profesional"
+  ],
+  "destinations": [
+   "Estados Unidos"
+  ],
+  "funding": "estipendio",
+  "citizenship": "global",
+  "citizenshipRaw": "therefore, international students who do not meet either of these citizenship or residency requirements are not eligible under the pu",
+  "deadline": {
+   "kind": "exacta",
+   "date": "2027-02-10"
+  },
+  "notes": "The Ohio State University (OSU) Summer Research Opportunities Program (SROP) 2027 presents an exciting opportunity for undergraduate students across the United States to gain valuable research experience, work alongside experienced faculty mentors, develop professional and academic skills, and prepare for future gradua",
+  "url": "https://opportunitiesforyouth.org/2026/11/27/ohio-state-university-summer-research-opportunities-program-srop-2027-6000-stipend-free-on-campus-housing-travel-support-and-graduate-research-opportunities-for-undergraduate-students/",
+  "updatedAt": "2026-11-27"
+ },
+ {
   "id": "poss-10-000-climate-democracy-accelerator-grant",
   "slug": "10-000-climate-democracy-accelerator-grant",
   "name": "$10,000 Climate Democracy Accelerator Grant",
